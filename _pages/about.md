@@ -6,14 +6,16 @@ comments: false
 image: false
 ---
 
-Design In Singapore (DIS) is an exploration of local design targetted at from  a branding, architecture, . Since 2017 via Branding Singapore. DIS is a continuation of this 
+Design In Singapore (DIS) is an exploration of local culture through the lens of design. Since 2017 via <a href="www.brandingsingapore.blogspot.sg">Branding Singapore</a>, notable local brand identities were reviewed to inspire and educate 
 
-<h1>Promote the appreciation of good design</h1>
+DIS is a continuation of this mission, with a inclusion of other design fields including architecture and advertising. 
+
+<h3>Promote the appreciation of good design</h3>
 
 DIS hopes top empower 
 DIS also wishes to inspire creative thinking,
 
-<h2>Demystify the design process</h2>
+<h3>Demystify the design process</h3>
 
 As mentioned, DIS is for all who want to want to be inspired, regardless of prior design knowledge. It is meant to ease nerves, empower and change perspectives
 
