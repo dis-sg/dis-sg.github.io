@@ -16,7 +16,7 @@ Like good design, good journalism does not discriminate; all are welcomed on thi
 
 
 <h3>Promote the appreciation of good design</h3>
-Bad design is almost always noticable while good design is often taken for granted. DIS would uncover hidden design gems which can change your perspective on the importance of design and give credit where it is due. 
+It is a joy to uncover the hidden design gems, some of which are shockingly commonplace. All it takes is a change in perspective, and good design becomes visibly evident. 
 
 
 <h3>Document Singapore's design journey</h3>
