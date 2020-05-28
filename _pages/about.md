@@ -10,16 +10,19 @@ Design In Singapore (DIS) is an exploration of local culture through the lens of
 
 DIS has 3 goals:
 
+
 <h3>Demystify the design process</h3>
-DIS is for all who want to want to be inspired, regardless of prior design knowledge. Like good design, good journalism does not discriminate; all are welcomed on this journey of discovery. Understanding design as a process and not just as a final product for a greater sense of appreciation.
+Like good design, good journalism does not discriminate; all are welcomed on this journey of discovery, regardless of prior design knowledge. DIS emphasises on using easy-to-understand design vocabulary to ensure as many readers understand the creative process.
+
 
 <h3>Promote the appreciation of good design</h3>
 Bad design is almost always noticable while good design is often taken for granted. DIS would uncover hidden design gems which can change your perspective on the importance of design and give credit where it is due. 
 
+
 <h3>Document Singapore's design journey</h3>
 Singapore has come a long way in its design journey, and DIS stands ready to facilatate and document the next chapter of Singaporean creativity through collaboration. 
 
-By acheving these goals, we hope to elevate the quality of design knowledge and discussion among Singaporeans. 
 
+By acheving these goals, we hope to elevate the quality of design knowledge and discussion among Singaporeans. 
 
 Take a break from the hectic Singapore lifestyle. Welcome to your creative escape. 
