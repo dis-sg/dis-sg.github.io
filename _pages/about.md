@@ -21,9 +21,11 @@ DIS hopes top empower
 DIS also wishes to inspire creative thinking,
 
 
-<h3>Document the Singapore design story</h3>
-Singapore has come a long way in its design journey, and DIS is ready to document the future successes of Singaporean creativity.  archive 
-
 elevate the quality of design knowledge and discussion among Singaporeans. 
+
+
+<h3>Document Singapore's design journey</h3>
+Singapore has come a long way in its design journey, and DIS stands ready to facilatate and document the next chapter of Singaporean creativity through collaboration.
+
 
 Take a break from the hectic Singapore lifestyle. Welcome to your creative escape. 
