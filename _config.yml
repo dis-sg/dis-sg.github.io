@@ -2,7 +2,7 @@
 name: "Design In Singapore"
 title: "Design In Singapore"
 description: "Your Creative Escape"
-logo: 'assets/images/DIS-logomark-blue.svg'
+logo: 'assets/images/DIS-logomark-blue.png'
 favicon: 'assets/images/logo.png'
 baseurl: /sg
 google_analytics: 'UA-xxxxxxxx-1'
