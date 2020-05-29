@@ -3,7 +3,7 @@ name: "Design In Singapore"
 title: "Design In Singapore"
 description: "Your Creative Escape"
 logo: 'assets/images/DIS-wordmark-blue.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon-32x32.png'
 baseurl: /sg
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
