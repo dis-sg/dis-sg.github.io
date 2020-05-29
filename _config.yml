@@ -10,7 +10,7 @@ disqus: 'demowebsite'
 mailchimp-list: false
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: designinsingapore65@gmail.com
 
 # Authors
 authors:
@@ -19,9 +19,9 @@ authors:
     display_name: Darryl
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: 1123@gmail.com
-    web: https://www.google.com
-    twitter: https://twitter.com/
-    description: Discover design together
+    web: false
+    twitter: false
+    description: false
 
 # Plugins
 plugins:
