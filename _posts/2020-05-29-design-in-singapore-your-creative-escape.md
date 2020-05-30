@@ -4,7 +4,12 @@ title: "Design In Singapore: Your Creative Escape"
 author: d
 categories: [DIS Updates]
 description: We're back.
-image: assets/images/2.jpg
+image: https://imgur.com/7pg0W0u
 ---
 
-Hello
+Hello Singapore!
+
+Welcome to Design In Singapore (DIS), an exploration of local culture through the lens of design. 
+
+
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
