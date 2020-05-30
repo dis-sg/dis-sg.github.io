@@ -4,6 +4,7 @@ title:  "Tekka Online Market: Futuristic Nostalgia"
 author: d
 comments: false
 categories: [Branding Singapore]
+description: Uncertain times bring about business opportunities for those who dare to seize them.
 image: https://i.imgur.com/8XhmpaI.png
 ---
 Uncertain times bring about business opportunities for those who dare to seize them. Due to the coronavirus, many traditional shops are going online to remain accessible to customers. Tekka Online Market, an initiative by the IMDA, is leading this pivot to digitisation. 
