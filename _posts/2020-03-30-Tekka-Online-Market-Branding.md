@@ -7,7 +7,7 @@ image: https://i.imgur.com/8XhmpaI.png
 ---
 Uncertain times bring about business opportunities for those who dare to seize them. Due to the coronavirus, many traditional shops are going online to remain accessible to customers. Tekka Online Market, an initiative by the IMDA, is leading this pivot to digitisation. 
 
-Led by fellow Tekka Market vendor and Facebook Live veteran Max Kee, six vendors started selling goods ranging from poultry to dried foods on 5th May. Since then, Tekka Online Market’s <a href="https://www.facebook.com/pg/TekkaOnlineMarket/>Facebook</a> page, where the action happens, has grown to over 17,000 followers. Its visual identity was created by <a href="https://www.blkj.agency/>BLKJ</a>. 
+Led by fellow Tekka Market vendor and Facebook Live veteran Max Kee, six vendors started selling goods ranging from poultry to dried foods on 5th May. Since then, Tekka Online Market’s <a href="https://www.facebook.com/pg/TekkaOnlineMarket/">Facebook</a> page, where the action happens, has grown to over 17,000 followers. Its visual identity was created by <a href="https://www.blkj.agency/">BLKJ</a>. 
 
 <h2>Lelong Lelong</h2>
 Tekka Online Market’s branding is a joy to see. The colours command your attention, and cheeky copy (siam the crowds) calms the nerves of customers who are trying “online marketing” for the first time. Overall, the branding is inviting and familiar, thanks to its use of retro-inspired brutalism. 
@@ -83,3 +83,7 @@ Nonetheless, an identity which is too polished might come off as overly corporat
 Seeing the Tekka vendors fumble before commanding the livestream speaks to the resilience of our small business owners. In one take, their personalities shone and they truly deserve all the success they get, including a fantastic visual identity.
 
 Tekka Online Market gives us a glimpse of the potential we can achieve when rebranding our heritage businesses for the digital age. I cannot wait to see more.
+
+_>>‾
+
+Branding Singapore is a series which explores notable local brand identities. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
