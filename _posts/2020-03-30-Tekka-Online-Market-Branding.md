@@ -47,7 +47,7 @@ Even the live videos are branded - the backdrop provides instructions on how to 
 
 For vendors who are inspired to sell their goods through livestreams, Max Kee also gave tips for streaming “swakus”. Don’t play play.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTekkaOnlineMarket%2Fvideos%2F3286061001412688%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTekkaOnlineMarket%2Fvideos%2F3286061001412688%2F&show_text=0&width=357" width="357" height="357" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 To encourage senior customers to shop online, vendors would likely have to tell them in-person about the Tekka Online Market. Posters were created and hung at the participating stalls to draw attention to the initiative, which pack the same punch as they do online.
 
@@ -84,6 +84,6 @@ Seeing the Tekka vendors fumble before commanding the livestream speaks to the r
 
 Tekka Online Market gives us a glimpse of the potential we can achieve when rebranding our heritage businesses for the digital age. I cannot wait to see more.
 
-_>>‾
+_> >‾
 
 Branding Singapore is a series which explores notable local brand identities. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
