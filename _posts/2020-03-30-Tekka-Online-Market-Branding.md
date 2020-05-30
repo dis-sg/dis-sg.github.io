@@ -85,6 +85,6 @@ Seeing the Tekka vendors fumble before commanding the livestream speaks to the r
 
 Tekka Online Market gives us a glimpse of the potential we can achieve when rebranding our heritage businesses for the digital age. I cannot wait to see more.
 
-_> >‾
+> >
 
 Branding Singapore is a series which explores notable local brand identities. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
