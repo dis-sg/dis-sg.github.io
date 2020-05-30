@@ -51,8 +51,11 @@ With anxious customers wanting their orders confirmed as soon as possible, it pr
 
 Nonetheless, an identity which is too polished might come off as overly corporate. This newest poster from 81 Sheng Yu lies in the middle of the spectrum design-wise, but it screams authenticity.
 
+<figure>
 <a href="https://imgur.com/rc1dpDC"><img src="https://i.imgur.com/rc1dpDC.jpg" title="source: imgur.com" /></a>
+<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
 
 Seeing the Tekka vendors fumble before commanding the livestream speaks to the resilience of our small business owners. In one take, their personalities shone and they truly deserve all the success they get, including a fantastic visual identity.
 
-Tekka Online Market is an example of the potential we can achieve to rebrand our cultural heritage businesses for the future, and I cannot wait to see more.
+Tekka Online Market gives us a glimpse of the potential we can achieve when rebranding our heritage businesses for the digital age. I cannot wait to see more.
