@@ -52,8 +52,8 @@ With anxious customers wanting their orders confirmed as soon as possible, it pr
 Nonetheless, an identity which is too polished might come off as overly corporate. This newest poster from 81 Sheng Yu lies in the middle of the spectrum design-wise, but it screams authenticity.
 
 <figure>
-<a href="https://imgur.com/rc1dpDC"><img src="https://i.imgur.com/rc1dpDC.jpg" title="source: imgur.com" /></a>
-<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+<img src="https://i.imgur.com/rc1dpDC.jpg" alt="81 sheng yu facebook tekka online market" />
+<figcaption>This lies in between the glossy identity and the no frills facebook screenshots <a href="https://www.facebook.com/81ShengYu/photos/a.123445462689219/127165412317224/">Source</a></figcaption>
 </figure>
 
 Seeing the Tekka vendors fumble before commanding the livestream speaks to the resilience of our small business owners. In one take, their personalities shone and they truly deserve all the success they get, including a fantastic visual identity.
