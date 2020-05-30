@@ -25,7 +25,7 @@ body {
     background: #f4f4f4;
 }
 a {
-    color: darken($primary, 24%);
+    color: darken($primary, 5%);
 }
 img {
     max-width:100%;
@@ -303,7 +303,7 @@ img, img:hover {
         grid-row-end: 3;
         flex-direction: column;  
         align-items: flex-start;
-        font-size: 1em;
+        font-size: 17px;
         padding:0;
         .card-title {
             font-size:28px;
@@ -424,7 +424,7 @@ img, img:hover {
         width:50px;
         border-radius:50%;
         margin-right:10px;
-        border:2px solid darken($primary,20%);
+        border:2px solid darken($primary,5%);
         padding:2px;
     }
 }
@@ -437,7 +437,7 @@ img, img:hover {
     .author-thumb {
         width:70px;
         border-radius:50%;
-        border:2px solid darken($primary,20%);
+        border:2px solid darken($primary,5%);
         padding:2px;
     }
 }
@@ -452,7 +452,7 @@ img, img:hover {
         color: #94918d;
     }
     code[class*="language-"], pre[class*="language-"] {
-        font-size:1em;
+        font-size:17px;
         margin-bottom:30px;
         background: #fff;
         color:inherit;
@@ -719,7 +719,7 @@ body.active-side {
         font-size:18px;
     }
     .article-post {
-        font-size:1em;
+        font-size:17px;
     }
     .wrap-search {
         .fa-search {
