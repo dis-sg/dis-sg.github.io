@@ -2,6 +2,7 @@
 layout: post
 title:  "Tekka Online Market: Futuristic Nostalgia"
 author: d
+comments: false
 categories: [Branding Singapore]
 image: https://i.imgur.com/8XhmpaI.png
 ---
