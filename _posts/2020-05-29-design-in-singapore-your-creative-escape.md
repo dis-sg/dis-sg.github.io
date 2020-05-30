@@ -4,6 +4,7 @@ title: "Design In Singapore: Your Creative Escape"
 author: d
 categories: [DIS Updates]
 description: We're back.
+comments: false
 image: https://i.imgur.com/7pg0W0u.png
 ---
 
