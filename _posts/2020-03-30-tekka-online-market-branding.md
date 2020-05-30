@@ -19,8 +19,6 @@ Tekka Online Market’s branding is a joy to see. The colours command your atten
 <figcaption><a href="https://www.facebook.com/pg/TekkaOnlineMarket/photos">(Source)</a></figcaption>
 </figure>
 
-<a href="https://imgur.com/XguM5pq"><img src="https://i.imgur.com/XguM5pq.png" title="source: imgur.com" /></a>
-
 Just because this initiative was likely created in light of slower business does not mean it should be all doom and gloom. The colours are bright and cheerful, fitting for the equally cheerful vendors who are new to the online scene. 
 
 Most impressive are the posters and videos which introduce the different Tekka vendors. The playful GIF posters add to the fun of buying market produce online, while clever and localised copy hits all the sweet spots of branding.
