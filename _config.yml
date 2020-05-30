@@ -5,7 +5,7 @@ description: "Your Creative Escape"
 logo: 'assets/images/DIS-wordmark-blue.png'
 favicon: 'assets/images/favicon-32x32.png'
 baseurl: /sg
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-168039047-1'
 disqus: 'https://dis-sg.github.io/sg/'
 mailchimp-list: false
 include: ["_pages"]
