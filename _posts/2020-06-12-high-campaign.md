@@ -21,7 +21,7 @@ While the film is undoubtedly the star of the show, its website is full of cleve
 The <a href="https://high.sg/testimonials">testimonial</a> section, best viewed on mobile, asks users to swipe left or right on the cards to explore the highs and lows of consuming drugs. 
 
 <figure>
-<img src="https://i.imgur.com/Tg44skT.mp4" alt="royston tan high film" />
+<img src="https://i.imgur.com/NfIg0tf.gif" alt="royston tan high film" />
 <figcaption><a href="https://high.sg/testimonials">(Source)</a></figcaption>
 </figure>
 
