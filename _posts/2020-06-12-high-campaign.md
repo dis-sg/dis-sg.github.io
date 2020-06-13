@@ -74,4 +74,4 @@ High is proof that creativity and unconventionalism can breathe new life into a 
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Explore Singapore's design scene with us on Facebook and Instagram.
+Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>.
