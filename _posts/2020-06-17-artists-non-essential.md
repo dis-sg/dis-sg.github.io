@@ -31,7 +31,7 @@ Maslow’s Hierarchy of Needs ranks basic needs such as food, water and safety a
 
 This is not why artists are upset at the article. 
 
-<h2>Artists were never seen as people with real jobs</h2>
+<h2>Artists were never seen as People with Real Jobs</h2>
 
 Posting the infographic is rubbing salt in the wound. Think about the artist who lost his gig because of the coronavirus. Think about the other ‘unessential’ workers who were deemed redundant and laid off. Then they read about how unessential they are.
 
