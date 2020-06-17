@@ -57,10 +57,7 @@ These days, the news we consume is already so depressing. There is no need for m
 
 I make unessential art <a href="https://www.instagram.com/FLYRLCE/">here</a>.
 
-<figure>
 <img src="https://i.imgur.com/sqfFJ8U.png" alt="artist non-essential" />
-<figcaption><a href="https://www.instagram.com/FLYRLCE/">(Source)</a></figcaption>
-</figure>
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
