@@ -57,6 +57,11 @@ These days, the news we consume is already so depressing. There is no need for m
 
 I make unessential art <a href="https://www.instagram.com/FLYRLCE/">here</a>.
 
+<figure>
+<img src="https://i.imgur.com/sqfFJ8U.png" alt="artist non-essential" />
+<figcaption><a href="https://www.instagram.com/FLYRLCE/">(Source)</a></figcaption>
+</figure>
+
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
 Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>.
