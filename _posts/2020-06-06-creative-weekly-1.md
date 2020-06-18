@@ -68,15 +68,18 @@ NEA is <a href="https://www.todayonline.com/singapore/dengue-infections-set-soar
 
 Here are some of this year’s dengue campaign advertisements, which teaches and reminds audiences how to do the 5-Step Mozzie Wipeout. 
 
-<iframe width="1269" height="480" src="https://www.youtube.com/embed/2KL2roQ5A_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-responsive">
+<iframe width="1269" height="480" src="https://www.youtube.com/embed/2KL2roQ5A_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<iframe width="1269" height="480" src="https://www.youtube.com/embed/SRWSm7yEoXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-responsive">
+<iframe width="1269" height="480" src="https://www.youtube.com/embed/SRWSm7yEoXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Unfortunately, they seem to get lost in the already crowded field of celebrities-talking-to-the-camera videos. Perhaps a more forceful jolt is needed to better inform us of the urgency to fight against dengue.
 
 In 2013, when Singapore had the highest number of dengue cases, this was the TV ad:
 
-<iframe width="1269" height="480" src="https://www.youtube.com/embed/q1C1Zmrz3z0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-responsive">
+<iframe width="1269" height="480" src="https://www.youtube.com/embed/q1C1Zmrz3z0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 It scared me into constantly inspecting my home for potential breeding spots. Even now, I squirm at the scene where squishy sounds are dubbed over mosquito larvae. 
 
