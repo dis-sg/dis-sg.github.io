@@ -6,7 +6,7 @@ logo: 'assets/images/DIS-wordmark-blue.png'
 favicon: 'assets/images/favicon-32x32.png'
 baseurl: dis-sg.github.io
 google_analytics: 'UA-168039047-1'
-disqus: 'https://dis-sg.github.io/sg/'
+disqus: false
 mailchimp-list: false
 include: ["_pages"]
 permalink: /:title/
