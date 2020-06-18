@@ -38,6 +38,8 @@ There is much potential for this project to beautify our neighbourhoods. At the 
 
 Over 12 posters by 9 artists have been <a href="https://www.projectqrart.com/">uploaded</a> to #QRart, and the collection continues to grow each day. If you would like to contribute your art, email lionelrichie@gof---y.com.
 
+Let this project be a testament to local creativity in adversity.
+
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
 Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
