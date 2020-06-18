@@ -34,7 +34,7 @@ The posters range from cute to inspiring, lifting our spirits as we adjust to th
 
 There is much potential for this project to beautify our neighbourhoods. At the same printing cost, businesses can transform a mundane task into a fun and memorable one. It is one of those little things which make businesses stand out, which could go a long way in building brand equity. Artists also benefit, as each poster contains a short artist introduction and a link to their portfolio. 
 
-So far, 12 available posters by 8 artists have been <a href="https://www.projectqrart.com/">uploaded</a>. Simply download a poster and insert the QR code into the template before printing. 
+So far, 12 posters by 8 artists have been <a href="https://www.projectqrart.com/">uploaded</a> on #QRart. Simply download a poster and insert your QR code before printing it. 
 
 If you would like to contribute to the collection, email lionelrichie@gof---y.com.
 
