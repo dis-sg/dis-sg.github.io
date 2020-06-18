@@ -20,6 +20,25 @@ This is how most SafeEntry QR code posters look like. Many are loud and fierce, 
 
 <a href="https://www.instagram.com/gof_y/">GOFY</a> is a home-grown creative community which celebrates Southeast Asian art. Their latest project, <a href="https://www.instagram.com/gof_y/">#QRart</a>, seeks to make QR scanning less of a chore and more of a visually delightful experience through illustrated posters.
 
+<figure>
+<img src="https://i.imgur.com/oTlywx4.png" alt="Project QRart" />
+<figcaption>A Reminder from Our Merlion by <a href="https://www.instagram.com/slemyquek/">Quek Yu Qing</a>, Our Animal Neighbours by <a href="https://www.instagram.com/playgroundinspace/">Sandy Ang</a></figcaption>
+</figure>
+
+The posters range from cute to inspiring, lifting our spirits as we adjust to the ‘new normal’. 
+
+<figure>
+<img src="https://i.imgur.com/9BlbQXE.jpg" alt="Project QRart" />
+<figcaption>Tapao by <a href="https://www.proudesigner.com/">Patchaya Proud Khomna</a></figcaption>
+</figure>
+
+All posters feature a short artist introduction and links to their portfolio.
+
+There is much potential for this project to beautify our neighbourhoods. At the same printing cost, businesses can transform a mundane experience into a fun and memorable one. These are the little things which make businesses stand out, while simultaneously supporting the arts scene.  
+
+Currently, there are 12 available posters created by 8 artists. Simply download a poster and insert the QR code into the template before printing. 
+
+GOFY is also accepting more artwork. If you would like to contribute to the collection, email lionelrichie@gof---y.com
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
