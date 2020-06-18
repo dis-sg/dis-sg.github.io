@@ -5,7 +5,7 @@ author: d
 categories: [Art]
 description: You can contribute your art too.
 comments: false
-image: 
+image: https://i.imgur.com/h0Uu0Uz.png
 published: false
 ---
 
@@ -42,5 +42,4 @@ Let this project be a testament to local creativity in adversity.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
-
+Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>.
