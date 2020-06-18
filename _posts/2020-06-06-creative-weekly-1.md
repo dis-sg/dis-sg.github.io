@@ -4,6 +4,7 @@ title:  "Creative Weekly 1: Stickers, Dormitories and Mosquitoes"
 author: d
 comments: false
 categories: [Creative Weekly]
+tags: Stories
 description: Creative Weekly puts a design spin on recent local news stories
 image: https://i.imgur.com/f5oiXri.png
 ---
