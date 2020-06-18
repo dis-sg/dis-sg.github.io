@@ -4,7 +4,7 @@ title: "Design In Singapore"
 description: "Your Creative Escape"
 logo: 'assets/images/DIS-wordmark-blue.png'
 favicon: 'assets/images/favicon-32x32.png'
-baseurl: dis-sg.github.io
+baseurl: 
 google_analytics: 'UA-168039047-1'
 disqus: false
 mailchimp-list: false
