@@ -35,7 +35,7 @@ Customising your poster is fairly simple: just download a template and insert yo
 
 There is much potential for this project to beautify our neighbourhoods. At the same printing cost, businesses can transform a mundane task into a fun and memorable one. It is one of those little things which make businesses stand out, which could go a long way in building brand equity. Artists also benefit, as each poster contains a short artist introduction and a link to their portfolio. 
 
-Over 12 posters by 9 artists have been <a href="https://www.projectqrart.com/">uploaded</a> to #QRart, and the collection continues to grow each day. If you would like to contribute your art, email lionelrichie@gof---y.com.
+Over 12 posters by 9 artists have been <a href="https://www.projectqrart.com/">uploaded</a> to #QRart, and the collection continues to grow each day. If you would like to contribute your art, email <a href="mail:lionelrichie@gof---y.com">lionelrichie@gof---y.com</a>.
 
 Let this project be a testament to local creativity in adversity.
 
