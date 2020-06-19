@@ -6,7 +6,6 @@ categories: [Art]
 description: You can contribute your art too.
 comments: false
 image: https://i.imgur.com/h0Uu0Uz.png
-published: false
 ---
 
 Scanning QR codes have become part and parcel of daily life. Even as restrictions ease, visitors to public places are still expected to check in and out via the SafeEntry web app. As queues start to return in Phase 2, there is an incentive for businesses to replace low fidelity QR code posters with more interesting ones. 
@@ -32,7 +31,7 @@ The posters range from cute to inspiring, lifting our spirits as we adjust to th
 <figcaption>Tapao by <a href="https://www.proudesigner.com/">Patchaya Proud Khomna</a></figcaption>
 </figure>
 
-The process is fairly simple: just download a poster and insert your QR code before printing it. 
+Customising your poster is fairly simple: just download a template and insert your QR code before printing it. 
 
 There is much potential for this project to beautify our neighbourhoods. At the same printing cost, businesses can transform a mundane task into a fun and memorable one. It is one of those little things which make businesses stand out, which could go a long way in building brand equity. Artists also benefit, as each poster contains a short artist introduction and a link to their portfolio. 
 
