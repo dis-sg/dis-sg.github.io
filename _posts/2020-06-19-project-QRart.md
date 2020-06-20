@@ -3,6 +3,7 @@ layout: post
 title: "Beautify SafeEntry Posters with Project #QRArt"
 author: d
 categories: [Art]
+tags: Stories
 description: You can contribute your art too.
 comments: false
 image: https://i.imgur.com/h0Uu0Uz.png
