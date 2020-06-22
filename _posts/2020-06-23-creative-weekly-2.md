@@ -12,7 +12,7 @@ published: false
 
 Note: Coronavirus stories still dominate the news cycle, which leaves little room for design-related ones. Until the situation returns to normal (or the 'new normal'), Creative Weekly would be published fortnightly.
 
-<h2>Artists are ‘non-essential’</h2>
+<h2>Artists are ‘Non-Essential’</h2>
 
 <figure>
 <img src="https://i.imgur.com/LhXHtJr.jpg" alt="artists non essential" />
@@ -87,7 +87,7 @@ The planned space boosts influential local and international tenants, including 
 
 As we enter into the era of experiential shopping, this space looks poised for the future.
 
-<h2>Bonus: The Story behind Tanglin Gin’s limited batch Cranberry Gin Packaging</h2> 
+<h2>Bonus: The Story behind Tanglin Gin’s Cranberry Gin Packaging</h2> 
 
 <figure>
 <img src="https://i.imgur.com/HY60uGy.jpg" alt="Tanglin Cranberry Gin packaging" />
