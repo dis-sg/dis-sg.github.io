@@ -9,7 +9,9 @@ image:
 published: false
 ---
 
-<h2> <h/2>
+Note: Coronavirus stories still dominate the news cycle, which leaves little room for design-related ones. Until the situation returns to normal (or the 'new normal'), Creative Weekly would be published fortnightly.  
+
+<h2>Non-essential Artists<h/2>
 
 
 
