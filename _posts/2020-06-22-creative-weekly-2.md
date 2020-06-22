@@ -5,7 +5,7 @@ author: d
 comments: false
 categories: [Creative Weekly]
 tags: Stories
-description: Bonus - How Tanglin Gin’s Festive Gin Packaging 
+description: Bonus - How Tanglin Gin’s Festive Cranberry Gin got its look
 image:
 published: false
 ---
@@ -46,6 +46,19 @@ Anyway, this is what would happen if all ST artists were retrenched for being no
 
 <h2>Making a Moove</h2>
 
+When Phase 2 of Singapore’s economic reopening came into effect on 19th June, the dining-in ban was lifted and people could gather in groups of up to 5 people. As such, food establishments needed to reconfigure their safe distancing signs according to these new rules. 
+
+<figure>
+<img src="" alt="Lau Pa Sat masking tape removal" />
+<figcaption>Tape removal at Lau Pa Sat <a href="https://www.straitstimes.com/singapore/coronavirus-spore-to-start-phase-2-reopening-on-june-19-dining-in-public-social-gatherings">(Source)</a></figcaption>
+</figure>
+
+While some dining places are removing their masking tape signs up to the fifth seat on the table (yikes at the stains), others are investing in plastic shields which should be . Thompson Plaza's Koufu is testing Moove Media's as part of a month-long trial to test its effectiveness.
+
+<figure>
+<img src="" alt="moove media koufu plastic shields" />
+<figcaption><a href="https://www.lendleaseglobalcommercialreit.com/-/media/asia/lendlease-global-commercial-reit/investor-relations/sgx-announcements/2020/20200613/20200613--lendlease-global-commercial-reit-wins-tender-to-redevelop-grange-road-car-park.pdf">(Source)</a></figcaption>
+</figure>
 
 
 <h2>Somerset Carpark to Transform into a ‘Rojak’ Events Space</h2>
