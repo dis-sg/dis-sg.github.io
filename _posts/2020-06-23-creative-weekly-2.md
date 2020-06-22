@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Creative Weekly: Non-Essential Artists, "
+title:  "Creative Weekly: Non-Essential Artists, Plastic Shields, Somerset Carpark Development"
 author: d
 comments: false
 categories: [Creative Weekly]
 tags: Stories
 description: Bonus - How Tanglin Gin’s Festive Cranberry Gin got its look
-image:
+image: https://i.imgur.com/AXrVcIu.png
 published: false
 ---
 
