@@ -5,8 +5,9 @@ author: d
 comments: false
 categories: [Creative Weekly]
 tags: Stories
-description: Bonus: A video on Tanglin Gin’s Festive Gin Packaging
-image: https://i.imgur.com/f5oiXri.png
+description: Bonus - How Tanglin Gin’s Festive Gin Packaging 
+image:
+published: false
 ---
 
 Note: Coronavirus stories still dominate the news cycle, which leaves little room for design-related ones. Until the situation returns to normal (or the 'new normal'), Creative Weekly would be published fortnightly.
