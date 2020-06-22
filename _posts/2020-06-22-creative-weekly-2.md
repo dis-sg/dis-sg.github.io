@@ -96,6 +96,8 @@ As we enter into the era of experiential shopping, this space looks poised for t
 
 <a href="https://www.kiilatcreative.com/">Kiilat Creative</a> recently launched a design channel to give viewers a behind-the-scenes look at their design process. Their first <a href="https://www.youtube.com/watch?v=29dcbeK_UQ8">video</a> explores how they created the packaging design for the limited batch Cranberry Tanglin Gin, from brief to finish. Alcohol tastes much better when it comes in a delightful package. 
 
+<div class="video-responsive"><iframe width="1269" height="480" src="https://www.youtube.com/embed/29dcbeK_UQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
 Creative Weekly is a roundup of local news stories from a design angle. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
