@@ -53,13 +53,19 @@ When Phase 2 of Singapore’s economic reopening came into effect on 19th June, 
 <figcaption>Tape removal at Lau Pa Sat <a href="https://www.straitstimes.com/singapore/coronavirus-spore-to-start-phase-2-reopening-on-june-19-dining-in-public-social-gatherings">(Source)</a></figcaption>
 </figure>
 
-While some dining places are removing their masking tape signs up to the fifth seat on the table (yikes at the stains), others are investing in plastic shields which should be . Thompson Plaza's Koufu is testing Moove Media's as part of a month-long trial to test its effectiveness.
+While some dining places are removing their masking tape signs up to the fifth seat on the table (yikes at the stains), others are investing in plastic shields which could make the dining-in experience safer. 50 tables of Thompson Plaza's Koufu currently feature plastic shields sponsored by Moove Media as part of a month-long trial to test its effectiveness.
 
 <figure>
 <img src="" alt="moove media koufu plastic shields" />
-<figcaption><a href="https://www.lendleaseglobalcommercialreit.com/-/media/asia/lendlease-global-commercial-reit/investor-relations/sgx-announcements/2020/20200613/20200613--lendlease-global-commercial-reit-wins-tender-to-redevelop-grange-road-car-park.pdf">(Source)</a></figcaption>
+<figcaption><a href="https://www.todayonline.com/singapore/covid-19-koufu-trials-plastic-table-shields-protect-diners-foodcourts">(Source)</a></figcaption>
 </figure>
 
+Eateries are not the only places walling up - Moove Media's trial is also taking place on ComfortDelgro taxis. The plastic shield fitted in the taxis are softer than the ones in Koufu, and they feature a slot to facilitate transactions between the driver and passenger.  
+
+<figure>
+<img src="" alt="moove media ComfortDelgro taxis plastic shields" />
+<figcaption><a href="https://www.straitstimes.com/singapore/transport/comfortdelgro-to-trial-plastic-shields-in-cabs">(Source)</a></figcaption>
+</figure>
 
 <h2>Somerset Carpark to Transform into a ‘Rojak’ Events Space</h2>
 
