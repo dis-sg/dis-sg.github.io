@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Creative Weekly: Non-Essential Artists, "
+title:  "Creative Weekly: Non-Essential Artists"
 author: d
-categories: Creative Weekly
-description: Bonus: A video on Tanglin Gin’s Festive Gin Packaging
 comments: false
-image: 
-published: false
+categories: [Creative Weekly]
+tags: Stories
+description: Bonus: A video on Tanglin Gin’s Festive Gin Packaging
+image: https://i.imgur.com/f5oiXri.png
 ---
 
 Note: Coronavirus stories still dominate the news cycle, which leaves little room for design-related ones. Until the situation returns to normal (or the 'new normal'), Creative Weekly would be published fortnightly.
 
-<h2>Artists are ‘non-essential’<h/2>
+<h2>Artists are ‘non-essential’</h2>
 
 <figure>
 <img src="" alt="Non-Essential Highnunchicken" />
@@ -37,6 +37,18 @@ Artists reacted in the best way they know: through art.
 I have strong opinions about the infographic which I saved for an opinion piece <a href="https://dis-sg.github.io/artists-non-essential/">here</a>. 
 
 Anyway, this is what would happen if all ST artists were retrenched for being non-essential, brought to you by Microsoft Word: 
+
+<figure>
+<img src="" alt="Non-Essential merch singplex" />
+<figcaption><a href="https://www.instagram.com/flyrlce">(Source)</a></figcaption>
+</figure>
+
+<h2>Artists are ‘non-essential’</h2>
+
+
+
+<h2>Artists are ‘non-essential’</h2>
+
 
 <figure>
 <img src="" alt="microsoft word non essential" />
