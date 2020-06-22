@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creative Weekly 1: Stickers, Dormitories and Mosquitoes"
+title:  "Creative Weekly: Stickers, Dormitories and Mosquitoes"
 author: d
 comments: false
 categories: [Creative Weekly]
