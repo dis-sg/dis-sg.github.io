@@ -53,7 +53,7 @@ When Phase 2 of Singapore’s economic reopening came into effect on 19th June, 
 <figcaption>Tape removal at Lau Pa Sat <a href="https://www.straitstimes.com/singapore/coronavirus-spore-to-start-phase-2-reopening-on-june-19-dining-in-public-social-gatherings">(Source)</a></figcaption>
 </figure>
 
-While some dining places are removing their masking tape signs up to the fifth seat on the table (yikes at the stains), others are investing in plastic shields which could make the dining-in experience safer. 50 tables of Thompson Plaza's Koufu currently feature plastic shields sponsored by Moove Media as part of a month-long trial to test its effectiveness.
+While some dining places are removed their masking tape signs up to the fifth seat on the table (yikes at the stains), others invested in plastic shields which could make the dining-in experience safer. 50 tables of Thompson Plaza's Koufu currently feature plastic shields sponsored by Moove Media as part of a month-long trial to test its effectiveness.
 
 <figure>
 <img src="" alt="moove media koufu plastic shields" />
