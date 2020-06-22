@@ -2,7 +2,7 @@
 layout: post
 title: "Creative Weekly: "
 author: d
-categories: 
+categories: Creative Weekly
 description: Bonus: A video on Tanglin Gin’s Festive Gin Packaging
 comments: false
 image: 
