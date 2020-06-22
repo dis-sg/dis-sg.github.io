@@ -23,7 +23,7 @@ In a viral infographic circulated on social media, artists were found to have th
 
 The Straits Times <a href="https://www.straitstimes.com/singapore/manpower/8-in-10-singaporeans-willing-to-pay-more-for-essential-services">article</a> which carried this infographic was actually reporting on a totally different topic: that a majority of Singaporeans are willing to pay workers in essential services more. Nowhere in the written article did the journalist elaborate on the 5 non-essential jobs listed. 
 
-Artists reacted in the best way they know: through art.
+Artists reacted in the way they know best: through art.
 
 <figure>
 <img src="" alt="Non-Essential Highnunchicken" />
@@ -40,12 +40,11 @@ I have strong opinions about the infographic which I saved for an opinion piece 
 Anyway, this is what would happen if all ST artists were retrenched for being non-essential, brought to you by Microsoft Word: 
 
 <figure>
-<img src="" alt="Non-Essential merch singplex" />
+<img src="" alt="flyrlce non essential" />
 <figcaption>I make non-essential art <a href="https://www.instagram.com/flyrlce">here</a>.</figcaption>
 </figure>
 
 <h2>Making a Moove</h2>
-
 
 
 
