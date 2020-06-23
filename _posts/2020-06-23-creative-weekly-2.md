@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creative Weekly: Non-Essential Artists, Plastic Shields, Somerset Carpark Development"
+title:  "Creative Weekly: Non-Essential Artists, Plastic Shields, Somerset Carpark Redevelopment"
 author: d
 comments: false
 categories: [Creative Weekly]
@@ -53,14 +53,14 @@ When Phase 2 of Singapore’s economic reopening came into effect on 19th June, 
 <figcaption>Tape removal at Lau Pa Sat <a href="https://www.straitstimes.com/singapore/coronavirus-spore-to-start-phase-2-reopening-on-june-19-dining-in-public-social-gatherings">(Source)</a></figcaption>
 </figure>
 
-While some dining places are removed their masking tape signs up to the fifth seat on the table (yikes at the stains), others invested in plastic shields which could make the dining-in experience safer. 50 tables of Thompson Plaza's Koufu currently feature plastic shields sponsored by Moove Media as part of a month-long trial to test its effectiveness.
+While some dining places removed their masking tape signs up to the fifth seat on the table (yikes at the stains), others invested in plastic shields which could make the dine-in experience safer. 50 tables of Thompson Plaza's Koufu currently feature plastic shields sponsored by Moove Media as part of a month-long trial to test its effectiveness.
 
 <figure>
 <img src="https://i.imgur.com/sesNv4b.jpg" alt="moove media koufu plastic shields" />
 <figcaption><a href="https://www.todayonline.com/singapore/covid-19-koufu-trials-plastic-table-shields-protect-diners-foodcourts">(Source)</a></figcaption>
 </figure>
 
-Eateries are not the only places walling up - Moove Media's trial is also taking place on ComfortDelgro taxis. The plastic shield fitted in the taxis are softer than the ones in Koufu, and they feature a slot to facilitate transactions between the driver and passenger.  
+Eateries are not the only places walling up - Moove Media's trial is also taking place on ComfortDelgro taxis. The plastic shield fitted in taxis are softer than the ones in Koufu, and they feature a slot to facilitate transactions between the driver and passenger.  
 
 <figure>
 <img src="https://i.imgur.com/W6zAsYz.jpg" alt="moove media ComfortDelgro taxis plastic shields" />
@@ -97,7 +97,7 @@ As we enter into the era of experiential shopping, this space looks poised for t
 <a href="https://www.kiilatcreative.com/">Kiilat Creative</a> recently launched a design channel to give viewers a behind-the-scenes look at their design process. Their first <a href="https://www.youtube.com/watch?v=29dcbeK_UQ8">video</a> explores how they created the packaging design for the limited batch Cranberry Tanglin Gin, from brief to finish. Alcohol tastes much better when it comes in a delightful package. 
 
 <div class="video-responsive"><iframe width="1269" height="480" src="https://www.youtube.com/embed/29dcbeK_UQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
+<br>
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
 Creative Weekly is a roundup of local news stories from a design angle. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
