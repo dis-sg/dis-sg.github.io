@@ -11,6 +11,7 @@ image: https://i.imgur.com/AXrVcIu.png
 
 Note: Coronavirus stories still dominate the news cycle, which leaves little room for design-related ones. Until the situation returns to normal (or the 'new normal'), Creative Weekly would be published fortnightly.
 
+<br>
 <h2>Artists are ‘Non-Essential’</h2>
 
 <figure>
@@ -42,6 +43,7 @@ Anyway, this is what would happen if all ST artists were retrenched for being no
 <img src="https://i.imgur.com/sqfFJ8U.png" alt="flyrlce non essential" />
 <figcaption>I make non-essential art <a href="https://www.instagram.com/flyrlce">here</a>.</figcaption>
 </figure>
+
 <br>
 <h2>Making a Moove</h2>
 
@@ -88,6 +90,7 @@ The planned space boosts influential local and international tenants, including 
 </figure>
 
 As we enter into the era of experiential shopping, this space looks poised for the future.
+
 <br>
 <h2>Bonus: The Story behind Tanglin Gin’s Cranberry Gin Packaging</h2> 
 
