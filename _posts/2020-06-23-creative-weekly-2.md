@@ -42,7 +42,7 @@ Anyway, this is what would happen if all ST artists were retrenched for being no
 <img src="https://i.imgur.com/sqfFJ8U.png" alt="flyrlce non essential" />
 <figcaption>I make non-essential art <a href="https://www.instagram.com/flyrlce">here</a>.</figcaption>
 </figure>
-
+<br>
 <h2>Making a Moove</h2>
 
 When Phase 2 of Singapore’s economic reopening came into effect on 19th June, the dining-in ban was lifted and people could gather in groups of up to 5 people. As such, food establishments needed to reconfigure their safe distancing signs according to these new rules. 
@@ -67,7 +67,7 @@ Eateries are not the only places walling up - Moove Media's trial is also taking
 </figure>
 
 Looks like plastic is set to become the new tape.
-
+<br>
 <h2>Somerset Carpark to Transform into a ‘Rojak’ Events Space</h2>
 
 <figure>
@@ -87,7 +87,7 @@ The planned space boosts influential local and international tenants, including 
 </figure>
 
 As we enter into the era of experiential shopping, this space looks poised for the future.
-
+<br>
 <h2>Bonus: The Story behind Tanglin Gin’s Cranberry Gin Packaging</h2> 
 
 <figure>
