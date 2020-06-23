@@ -67,6 +67,7 @@ Eateries are not the only places walling up - Moove Media's trial is also taking
 </figure>
 
 Looks like plastic is set to become the new tape.
+
 <br>
 <h2>Somerset Carpark to Transform into a ‘Rojak’ Events Space</h2>
 
