@@ -7,7 +7,6 @@ categories: [Creative Weekly]
 tags: Stories
 description: Bonus - How Tanglin Gin’s Festive Cranberry Gin got its look
 image: https://i.imgur.com/AXrVcIu.png
-published: false
 ---
 
 Note: Coronavirus stories still dominate the news cycle, which leaves little room for design-related ones. Until the situation returns to normal (or the 'new normal'), Creative Weekly would be published fortnightly.
@@ -66,6 +65,8 @@ Eateries are not the only places walling up - Moove Media's trial is also taking
 <img src="https://i.imgur.com/W6zAsYz.jpg" alt="moove media ComfortDelgro taxis plastic shields" />
 <figcaption><a href="https://www.straitstimes.com/singapore/transport/comfortdelgro-to-trial-plastic-shields-in-cabs">(Source)</a></figcaption>
 </figure>
+
+Looks like plastic is set to become the new tape.
 
 <h2>Somerset Carpark to Transform into a ‘Rojak’ Events Space</h2>
 
