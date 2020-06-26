@@ -14,3 +14,8 @@ The <a href="https://www.heritagefestival.sg/">Singapore Heritage Festival</a> (
 <h2>Visual Identity</h2>
 
 SHF has always excelled in presenting eye-catching identities. Nostalgia sells by itself, but putting a contemporary spin on visuals separates SHF from the pack of heritage fan pages. 
+
+<figure>
+<img src="https://i.imgur.com/AM1WlwP.jpg" alt="Singapore Heritage Festival banner">
+<figcaption><a href="https://www.heritagefestival.sg/">(Source)</a></figcaption>
+</figure>
