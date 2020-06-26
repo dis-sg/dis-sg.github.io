@@ -9,7 +9,7 @@ image:
 published: false
 ---
 
-The <a href="https://www.heritagefestival.sg/">Singapore Heritage Festival</a> (SHF) is one of the key events organised by the National Heritage Board annually. This year’s digital edition is a first in its 17 year history, and is set to run from June 19 to July 5. Each week, SHF would dedicate programmes to a heritage-rich neighbourhood - Tanjong Pagar, Pasir Ris, and Kallang.
+The <a href="https://www.heritagefestival.sg/">Singapore Heritage Festival</a> (SHF) is one of the key events organised by the National Heritage Board annually. This year’s digital edition is a first in its 17 year history, and is set to run from June 19 to July 5. Each week, SHF would dedicate programmes to a heritage-rich neighbourhood: Tanjong Pagar, Pasir Ris, and Kallang.
 
 <h2>Visual Identity</h2>
 
@@ -113,8 +113,15 @@ One could only imagine the baity Instagram sets planned for this colonial buildi
 
 <h2>Smart (Festival) Nation?</h2>
 
+<figure>
+<img src="https://i.imgur.com/ffi61qb.png" alt="Singapore Heritage Festival digital edition">
+<figcaption><a href="https://www.heritagefestival.sg">(Source)</a></figcaption>
+</figure>
+
 Like it or not, the coronavirus has forced many events to go online, bringing us closer to Singapore’s Smart Nation ambitions. I am eager to see how this evolves into a hybrid in-person and virtual festival in the future.
 
 Perhaps the best part of this is that the festival content would remain up even after it ends. Heritage is by definition of historical significance, and deserves to be accessible to the next generation of Singaporeans through the medium they are most familiar with. 
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+
+Branding Singapore is a series which explores notable local brand identities. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
