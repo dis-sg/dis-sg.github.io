@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Singapore Heritage Festival 2020:"
+title: "Singapore Heritage Festival 2020: A Festival for the Future "
 author: d
-categories: Branding Singapore
-description: 
+categories: Branding Singapore, Event
+description: SHF's first digital edition could be a model for events of the future.
 comments: false
-image: 
+image: https://i.imgur.com/hko7Mnu.jpg
 published: false
 ---
 
