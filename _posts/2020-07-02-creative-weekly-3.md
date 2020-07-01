@@ -44,6 +44,7 @@ RDU’s logo may be bland, but its <a href="https://www.facebook.com/reddotunite
 <img src="https://i.imgur.com/DBpKHjX.png" alt="red dot united facebook">
 <figcaption><a href="https://www.facebook.com/reddotunitedsg/photos/a.100134941732967/120843749662086" target="_blank”>(Source)</a></figcaption>
 </figure>
+
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
 Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
