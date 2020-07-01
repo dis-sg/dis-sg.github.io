@@ -24,7 +24,7 @@ Animal Crossing, the unofficial coronavirus quarantine game, has a feature which
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D10213941018318784%26set%3Da.1349110907041%26type%3D3&width=500" width="500" height="286" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-The truth is WP is simply embracing fan-made content by sharing them, including reposting fancams typically made for K-pop idols. For now, it would be sticking to online rallies on social media. 
+The truth is WP is simply embracing fan-made content by sharing them, including reposting fancams typically made for K-pop idols. For now, WP is sticking to online rallies on social media. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let’s get in formation. <a href="https://t.co/K5L55uSuzS">https://t.co/K5L55uSuzS</a></p>&mdash; The Workers&#39; Party (@wpsg) <a href="https://twitter.com/wpsg/status/1275603663696715778?ref_src=twsrc%5Etfw">June 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -56,7 +56,7 @@ RDU’s hashtag for its Jurong GRC campaign, #JurongOrNothing, sounds a bit too 
 
 In a bid to present a more united opposition front, Singaporeans First’s founder Tan Jee Say announced on 25th June that he has dissolved the party. 
 
-SingFirst, which only contested in the 2015 election without winning any seats, was perhaps best known for its Walls-lookalike logo and ‘iconic’ cheer. 
+SingFirst, which only contested in the 2015 election without winning any seats, was perhaps best known for its Walls lookalike logo and ‘iconic’ cheer. 
 
 <figure>
 <img src="https://i.imgur.com/lcuAAue.png" alt="SingFirst flag">
