@@ -6,7 +6,6 @@ categories: Creative Weekly, Politics, Stories
 description: No, Red Dot United is not a football club.
 comments: false
 image: https://i.imgur.com/If0zdGr.png
-published: false
 ---
 
 Former UK Prime Minister Harold Wilson famously said “a week is a long time in politics”. The stories in this creative weekly are barely 2 weeks old but seem like they happened ages ago. 
