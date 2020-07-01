@@ -9,9 +9,9 @@ image:
 published: false
 ---
 
-Former UK Prime Minister Harold Wilson famously said “a week is a long time in politics”. The stories in this creative weekly are barely 2 weeks old, but seem like they happened ages ago. 
+Former UK Prime Minister Harold Wilson famously said “a week is a long time in politics”. The stories in this creative weekly are barely 2 weeks old but seem like they happened ages ago. 
 
-Media outlets have been diligently pumping out election news that I already have enough stories to write the following creative weekly post. Till then, enjoy this recap of what happened in the past 2 weeks.
+Media outlets have been diligently pumping out design-related election news that I already have enough stories for the following creative weekly post. Till then, enjoy this recap of what happened these past 2 weeks.
 
 <h2>Animal Crossing Rallies?</h2>
 
@@ -62,6 +62,8 @@ SingFirst, which only contested in the 2015 election without winning any seats, 
 <img src="https://i.imgur.com/lcuAAue.png" alt="SingFirst flag">
 <figcaption>SingFirst vs Walls</figcaption>
 </figure>
+
+<div class="video-responsive"><iframe width="1269" height="480" src="https://www.youtube.com/embed/MJexAAwE_-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 In an unfortunate case of boomers using the technology, they also struggled to get their messages across on social media. 
 
