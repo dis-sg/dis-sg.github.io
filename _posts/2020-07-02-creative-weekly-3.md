@@ -5,7 +5,7 @@ author: d
 categories: Creative Weekly, Politics, Stories
 description: No, Red Dot United is not a football club.
 comments: false
-image: 
+image: https://i.imgur.com/If0zdGr.png
 published: false
 ---
 
