@@ -17,7 +17,7 @@ Media outlets have been diligently pumping out election news that I already have
 
 <figure>
 <img src="https://i.imgur.com/piHGVfp.jpg" alt="animal crossing workers party">
-<figcaption><a href="https://www.facebook.com/photo.php?fbid=10213941023758920" target="_blank”>(Source)</a></figcaption>
+<figcaption><a href="https://www.facebook.com/photo.php?fbid=10213941023758920" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Animal Crossing, the unofficial coronavirus quarantine game, has a feature which allows you to import images as prints on in-game clothing, tiles and more. Since physical rallies are not allowed this GE, Facebook user <a href="https://www.facebook.com/photo.php?fbid=10213941018318784&set=a.1349110907041" target="_blank">Ng Yi Shu</a> created an island full of political party-branded items to hold Animal Crossing rallies. When the Workers’ Party (WP) shared his post, some speculated if it was going to be a reality.
@@ -33,7 +33,7 @@ After Red Dot United (RDU) officially became Singapore’s 13th political party 
 
 <figure>
 <img src="https://i.imgur.com/Se98SbX.jpg" alt="red dot united logo">
-<figcaption><a href="https://www.facebook.com/reddotunitedsg/photos/a.100134941732967/120843749662086" target="_blank”>(Source)</a></figcaption>
+<figcaption><a href="https://www.facebook.com/reddotunitedsg/photos/a.100134941732967/120843749662086" target="_blank">(Source)</a></figcaption>
 </figure>
 
 While visually memorable, the logo lacks a distinguishing detail which separates it from any random compass graphic on a free icon site. It is simple to a fault. 
@@ -42,8 +42,11 @@ RDU’s logo may be bland, but its <a href="https://www.facebook.com/reddotunite
 
 <figure>
 <img src="https://i.imgur.com/DBpKHjX.png" alt="red dot united facebook">
-<figcaption><a href="https://www.facebook.com/reddotunitedsg/photos/a.100134941732967/120843749662086" target="_blank”>(Source)</a></figcaption>
+<figcaption><a href="https://www.facebook.com/reddotunitedsg/photos/a.100134941732967/120843749662086" target="_blank">(Source)</a></figcaption>
 </figure>
+
+RDU’s hashtag for its Jurong GRC campaign, #JurongOrNothing, sounds a bit too aggressive for locals to chew on. I wonder if this hashtag is a subtle nod to its sports club-sounding name.
+
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
