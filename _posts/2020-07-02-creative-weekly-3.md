@@ -2,7 +2,7 @@
 layout: post
 title: "Creative Weekly: Animal Crossing Rallies, Red Dot United's Logo, SingFirst's Dissolution, Ivan Lim's Consolation Prize"
 author: d
-categories: Creative Weekly, Politics, Stories
+categories: [Creative Weekly, Politics, Stories]
 description: No, Red Dot United is not a football club.
 comments: false
 image: https://i.imgur.com/If0zdGr.png
@@ -31,7 +31,7 @@ The truth is WP is simply embracing fan-made content by sharing them, including 
 After Red Dot United (RDU) officially became Singapore’s 13th political party (12th after the dissolution of SingFirst), it swiftly unveiled its new logo - a red compass. 
 
 <figure>
-<img src="https://i.imgur.com/Se98SbX.jpg" alt="red dot united logo">
+<img src="https://i.imgur.com/JdNR3D8.png" alt="red dot united logo">
 <figcaption><a href="https://www.facebook.com/reddotunitedsg/photos/a.100134941732967/120843749662086" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ SingFirst, which only contested in the 2015 election without winning any seats, 
 
 <figure>
 <img src="https://i.imgur.com/lcuAAue.png" alt="SingFirst flag">
-<figcaption>SingFirst vs Walls</figcaption>
+<figcaption>SingFirst logo vs Walls logo</figcaption>
 </figure>
 
 <div class="video-responsive"><iframe width="1269" height="480" src="https://www.youtube.com/embed/MJexAAwE_-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
