@@ -3,7 +3,7 @@ layout: post
 title: "Creative Weekly: Animal Crossing Rallies, Red Dot United's Logo, SingFirst's Dissolution, Ivan Lim's Consolation Prize"
 author: d
 categories: [Creative Weekly, Politics]
-Tags: Stories
+tags: Stories
 description: No, Red Dot United is not a football club.
 comments: false
 image: https://i.imgur.com/If0zdGr.png
