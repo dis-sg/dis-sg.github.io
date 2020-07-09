@@ -76,7 +76,7 @@ In a rage against the political machine, independent candidate for Pioneer SMC C
 <figcaption>Practising his oath-taking <a href="https://www.youtube.com/watch?v=91YywaRwiVo" target="_blank">(Source)</a></figcaption>
 </figure>
 
-In an interview with <a href="https://www.todayonline.com/singapore/ge2020-independent-candidate-cheang-visits-residents-picks-horse-logo-show-hes-workhorse" target="_blank">Today</a>, Cheang said he chose a horse symbol to represent how hard he would work for the residents of Pioneer SMC, like a workhorse. According to him, his monochromatic campaign attire ‘mirrors that of the Japanese Cabinet’, which might be a stretch - just because one wears yellow does not mean one is dressed like an emperor.
+In an interview with <a href="https://www.todayonline.com/singapore/ge2020-independent-candidate-cheang-visits-residents-picks-horse-logo-show-hes-workhorse" target="_blank">Today</a>, Cheang said he chose a horse symbol to represent how hard he would work for the residents of Pioneer SMC, like a workhorse. According to him, his monochromatic campaign attire ‘mirrors that of the Japanese Cabinet’, which is a stretch - just because one wears yellow does not mean one is dressed like an emperor.
 
 <figure>
 <img src="https://i.imgur.com/ogi0lfQ.jpg" alt="Cheang Peng Wah campaigning ge2020">
@@ -94,7 +94,7 @@ Cheang selected the horse symbol from a list provided by the Elections Departmen
 <figcaption><a href="https://www.eld.gov.sg/gazettes/2020/Symbols_Approved_by_the_Returning_Officer.pdf" target="_blank">(Source)</a></figcaption>
 </figure>
 
-ELD should seriously consider using icons from the same icon family, where stroke thickness and art style are the same. Now this just looks like a cheap page of a colouring book.
+ELD should seriously consider using icons from the same icon family which share the same stroke thickness and art style. Now, this just looks like a page off a cheap colouring book.
 
 <h2>Bonus: Political Mortal Kombat</h2>
 Amid the election chaos on the Internet comes a definitive battle for Singapore’s favourite political avatar. <a href="https://www.facebook.com/AGoodCitizen/" target="_blank">A Good Citizen’s</a> Parliament Deathmatch sees a colourful cast of politicians battling each other, irrespective of electoral boundaries and party affiliations. 
