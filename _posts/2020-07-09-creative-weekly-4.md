@@ -3,7 +3,7 @@ layout: post
 title: "Creative Weekly: SDA Posters, Chee's Campaign Tees, Independent Horse"
 author: d
 categories: [Creative Weekly, Politics]
-description: [Bonus: Poltical Mortal Kombat]
+description: "Bonus: Political Mortal Kombat"
 comments: false
 image: 
 published: false
