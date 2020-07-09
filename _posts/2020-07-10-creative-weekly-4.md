@@ -6,7 +6,6 @@ categories: [Creative Weekly, Politics]
 description: "Bonus: Political Mortal Kombat"
 comments: false
 image: https://i.imgur.com/q1R7JPQ.png
-published: false
 ---
 
 Time to vote! This GE has been far from civil, but hopefully this creative weekly would help you take your mind off politics for a while and appreciate the creativity which goes into making campaigns work (or not). Try to savour the moment, this only happens twice a decade. 
