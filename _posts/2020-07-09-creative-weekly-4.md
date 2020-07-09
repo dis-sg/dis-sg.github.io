@@ -111,3 +111,6 @@ The avatars make references to some noteworthy quotes this season - Heng Swee Ke
 
 Now these avatars are what I would consider wearing on a tee. 
 
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+
+Creative Weekly is a roundup of local news stories from a design angle. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
