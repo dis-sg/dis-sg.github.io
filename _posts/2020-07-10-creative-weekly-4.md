@@ -14,7 +14,7 @@ Time to vote! This GE has been far from civil, but hopefully this creative weekl
 <i>This is the second GE2020 edition of creative weekly. The first one can be found <a href="https://dis-sg.github.io/creative-weekly-3/" target="_blank">here</a>.</i>
 
 <h2>Singapore Democratic Alliance’s Posters</h2>
-The SDA used to be a formidable opposition party, but support for them has been muted in the past 2 GEs. In fact, SDA chief Desmond Lim holds the record for the lowest vote share in an election (0.57% or 168 votes during the 2013 Punggol-East by-election) since Singapore’s independence. 
+The SDA used to be a formidable opposition party, but support for them has been muted in the past 2 GEs. In fact, SDA chief Desmond Lim holds the record for the lowest vote share in an election (0.57% or 168 votes during the 2013 Punggol-East by-election) since Singapore’s independence.
 
 Nonetheless, their posters have always been different from standard candidate portraits, breaking the monotony of election poster designs.
 
@@ -23,7 +23,7 @@ Nonetheless, their posters have always been different from standard candidate po
 <figcaption><a href="https://www.facebook.com/pkms.org.sg/photos/a.697198667018149/4137335129671135" target="_blank">(Source)</a></figcaption>
 </figure>
 
-These posters may have broken a design rule or two, but they would make you stop to take a second look. The copy is hard-hitting but rather off-brand for candidates who are gentler in their approach to politics compared to their contemporaries. Pairing “you make them pay” with a smiley, two thumbs up Desmond Lim reminds me of Michael Scott from The Office - well-meaning but toothless. 
+These posters may have broken a design rule or two, but they would make you stop to take a second look. The copy is hard-hitting but rather off-brand for candidates who are gentler in their approach to politics compared to their contemporaries. Pairing “you make them pay” with a smiley, thumbs-up Desmond Lim reminds me of Michael Scott from The Office - well-meaning but toothless. 
 
 When West Coast GRC candidate Tan Cheng Bock visited Desmond Lim on the campaign trail to promote opposition solidarity, a special poster was added to the collection. Just imagine how vibrant campaign aesthetics would be if all parties used bold colour palettes.
 
