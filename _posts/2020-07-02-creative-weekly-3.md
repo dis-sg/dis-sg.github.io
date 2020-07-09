@@ -96,4 +96,4 @@ Weirdness and harmless political satire is their game now, and fans cannot seem 
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
+Creative Weekly is a roundup of local news stories from a design angle. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
