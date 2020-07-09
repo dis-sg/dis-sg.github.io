@@ -5,7 +5,7 @@ author: d
 categories: [Creative Weekly, Politics]
 description: "Bonus: Political Mortal Kombat"
 comments: false
-image: 
+image: https://i.imgur.com/q1R7JPQ.png
 published: false
 ---
 
