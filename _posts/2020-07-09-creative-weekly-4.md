@@ -72,9 +72,42 @@ Please stick to the party shirt, doctor...
 In a rage against the political machine, independent candidate for Pioneer SMC Cheang Peng Wah believes he is <a href="https://www.youtube.com/watch?v=91YywaRwiVo" target="_blank">answering the call</a> by Lee Kuan Yew when he said he would “get up when things go astray”. 
 
 <figure>
-<img src="" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/YYD3EaU.png" alt="Cheang Peng Wah political broadcast">
+<figcaption>Practising his oath-taking <a href="https://www.youtube.com/watch?v=91YywaRwiVo" target="_blank">(Source)</a></figcaption>
 </figure>
 
 In an interview with <a href="https://www.todayonline.com/singapore/ge2020-independent-candidate-cheang-visits-residents-picks-horse-logo-show-hes-workhorse" target="_blank">Today</a>, Cheang said he chose a horse symbol to represent how hard he would work for the residents of Pioneer SMC, like a workhorse. According to him, his monochromatic campaign attire ‘mirrors that of the Japanese Cabinet’, which might be a stretch - just because one wears yellow does not mean one is dressed like an emperor.
+
+<figure>
+<img src="https://i.imgur.com/ogi0lfQ.jpg" alt="Cheang Peng Wah campaigning ge2020">
+<figcaption><a href="https://www.todayonline.com/singapore/ge2020-independent-candidate-cheang-visits-residents-picks-horse-logo-show-hes-workhorse" target="_blank">(Source)</a></figcaption>
+</figure>
+
+Printed on the back of his campaign shirt appears to be the same graphic as his Facebook account’s cover photo. The right side shows the chinese character 爱, meaning love, while some random icons of nature adorn the left. Unfortunately, I could not find any reference to what this symbol means. 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D10153505951756182%26set%3Da.10153111776256182%26type%3D3&width=500" width="500" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+Cheang selected the horse symbol from a list provided by the Elections Department (ELD), which included a rhinoceros and a torchlight. 
+
+<figure>
+<img src="https://i.imgur.com/dtQ7cxj.png" alt="pre-approved list of independent candidate symbols">
+<figcaption><a href="https://www.eld.gov.sg/gazettes/2020/Symbols_Approved_by_the_Returning_Officer.pdf" target="_blank">(Source)</a></figcaption>
+</figure>
+
+ELD should seriously consider using icons from the same icon family, where stroke thickness and art style are the same. Now this just looks like a cheap page of a colouring book.
+
+<h2>Bonus: Political Mortal Kombat</h2>
+Amid the election chaos on the Internet comes a definitive battle for Singapore’s favourite political avatar. <a href="https://www.facebook.com/AGoodCitizen/" target="_blank">A Good Citizen’s</a> Parliament Deathmatch sees a colourful cast of politicians battling each other, irrespective of electoral boundaries and party affiliations. 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAGoodCitizen%2Fphotos%2Fa.469368279789268%2F3203634396362629%2F%3Ftype%3D3&width=500" width="500" height="688" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+Wins are determined by the number of Facebook reactions per fighter, and the fatalities are brutal.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAGoodCitizen%2Fphotos%2Fa.469368279789268%2F3225662664159802%2F%3Ftype%3D3&width=500" width="500" height="638" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAGoodCitizen%2Fphotos%2Fa.469368279789268%2F3222634234462645%2F%3Ftype%3D3&width=500" width="500" height="638" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+The avatars make references to some noteworthy quotes this season - Heng Swee Keat’s <a href="https://youtu.be/KT4GMDRZkaE?t=134" target="_blank">East Coast Plan</a> and Chan Chung Sing’s <a href="https://www.scmp.com/news/asia/southeast-asia/article/3087040/singapore-minister-chan-chun-sing-mocked-saying-cotton" target="_blank">‘cotton sheep’</a>. Oh, and Yam Ah Mee makes a comeback as the battle commentator. What more could one ask for this season?
+
+Now these avatars are what I would consider wearing on a tee. 
 
