@@ -15,14 +15,14 @@ GE2020 saw the Progress Singapore Party (PSP) fielding the most candidates as an
 PSP’s branding seems to give us some clues.
 
 <h2>Logo</h2>
-Whether Dr Tan likes it or not, the PSP logo has made clear references to him. Dr Tan’s 2011 Presidential bid was represented by a palm symbol, visually similar to the standard postage stamp by SingPost. He said in a <a href="https://www.facebook.com/TanChengBock/posts/163031897104687" target="_blank">Facebook post</a> that “leaves of the palm represent our multiracial society, the trunk represents them coming together, and the roots represent us taking root in Singapore”. It was an unpolished symbol but good enough for a presidential election, where faces tend to take centre-stage. 
+Whether Dr Tan likes it or not, the PSP logo has made clear references to him. Dr Tan’s 2011 Presidential bid was represented by a palm symbol, visually similar to the standard postage stamp by SingPost. He said in a <a href="https://www.facebook.com/TanChengBock/posts/163031897104687" target="_blank">Facebook post</a> that the “leaves of the palm represent our multiracial society, the trunk represents them coming together, and the roots represent us taking root in Singapore”. It was an unpolished symbol but good enough for a presidential election, where faces tend to take centre stage. 
 
 <figure>
 <img src="https://i.imgur.com/jo6IDZm.jpg" alt="PSP logo evolution">
 <figcaption>(<a href="https://www.singpost.com/sites/default/files/PPI%20T%26Cs.pdf" target="_blank">Source 1</a>, <a href="https://en.wikipedia.org/wiki/2011_Singaporean_presidential_election" target="_blank">Source 2</a>, <a href="https://psp.org.sg" target="_blank">Source 3</a>)</figcaption>
 </figure>
 
-The latest iteration of the palm for the PSP is most refined. The almost-symmetrical logo (check the leaf cuts) is simple but unique enough to be recognised as a logo, something with other new parties such as <a href="https://dis-sg.github.io/creative-weekly-3/" target="_blank">Red Dot United</a> struggled with. 
+The latest iteration of the palm for the PSP is most refined. The almost-symmetrical logo (check the leaf cuts) is simple but unique enough to be recognised as a logo, something which new parties such as <a href="https://dis-sg.github.io/creative-weekly-3/" target="_blank">Red Dot United</a> struggled with. 
 
 While PSP’s logo does not pack the same punch as PAP’s lightning, it already has an unofficial decade-long history of representing one of Singapore’s most popular politicians. With a few electoral wins, the logo has the potential to dominate the public consciousness of local politics.
 
