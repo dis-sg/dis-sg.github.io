@@ -4,10 +4,9 @@ title: "Progress Singapore Party: Forget Me Not"
 author: d
 categories: [branding singapore, politics]
 tags: [stories]
-description: ""
+description: "With a few electoral wins, PSP's logo has the potential to rival the iconic lightning."
 comments: false
 image: https://i.imgur.com/01CW7E0.png
-published: false
 ---
 
 GE2020 saw the Progress Singapore Party (PSP) fielding the most candidates as an opposition party, but its closest fight came just 2% shy of beating the incumbent People’s Action Party (PAP). It was an impressive result for a new party, but it leaves PSP in an awkward situation: with founder and Secretary-General Dr Tan Cheng Bock’s eventual retirement, can this party continue to grow from strength to strength? 
@@ -30,7 +29,7 @@ As for the meaning behind the logo, the first 15 seconds of this video sums it u
 
 <div class="video-responsive"><iframe width="1269" height="480" src="https://www.youtube.com/embed/XP4YnvLLGDY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<br>
 The logo’s ‘person-shaped trunk’ represents that people are the PSP’s core interest and source of strength. The party’s <a href="https://psp.org.sg/vision/" target="_blank">website</a> explains its brand identity in greater detail.
 
 <h2>Mascot</h2>
@@ -41,13 +40,13 @@ Singapore’s otter craze never really went away since we began spotting them in
 <figcaption><a href="https://www.facebook.com/progresssingaporepartyofficial/photos/a.1104456406417938/1353890374807872" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Otica, PSP’s mascot, leverages the local popularity of the animal and makes a cute election souvenir. The ‘pretty please’ pose is disarming, fitting for its role as PSP’s <a href="https://www.facebook.com/progresssingaporepartyofficial/photos/a.1104456406417938/1353890374807872" target="_blank">Chief Compassion Officer</a>. is If the logo was smaller, Otica could even become a trendy gift for kids. 
+Otica, PSP’s mascot, rides on the local popularity of the animal and makes a cute election souvenir. The ‘pretty please’ pose is disarming, fitting for its role as PSP’s <a href="https://www.facebook.com/progresssingaporepartyofficial/photos/a.1104456406417938/1353890374807872" target="_blank">Chief Compassion Officer</a>. If the logo was smaller, Otica could even become a trendy gift for kids. 
 
-While other local political parties have their own mascots (Singapore Democratic Party’s Danny the Democracy Bear, Singapore Democratic Alliance’s Sinpo), their absence in GE2020 was a missed opportunity to connect with younger voters. Conversely, look at how the Otica has become part and parcel of PSP’s campaign.
+While other local political parties have their own mascots (Singapore Democratic Party’s Danny the Democracy Bear, Singapore Democratic Alliance’s Sinpo), their absence in GE2020 was a missed opportunity to connect with younger voters. Conversely, look at how Otica become part and parcel of PSP’s campaign.
 
 <figure>
 <img src="https://i.imgur.com/3XsTiu0.png" alt="Up Close and Personal series psp">
-<figcaption>Up Close and Personal series <a href="https://www.youtube.com/watch?v=2j-6-L9XC2c" target="_blank">(Source)</a></figcaption>
+<figcaption>Up Close and Personal Youtube series <a href="https://www.youtube.com/watch?v=2j-6-L9XC2c" target="_blank">(Source)</a></figcaption>
 </figure>
 
 When Lee Hsien Yang announced that he was joining the PSP, Otica was there to cushion any negative reaction to his membership. 
@@ -64,7 +63,7 @@ When the coronavirus crisis hit Singapore, Otica even wore a mask.
 <figcaption><a href="https://www.facebook.com/progresssingaporepartyofficial/photos/a.1104456406417938/1315498191980424/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Otica’s strength lies in subtle promotion; its presence on social media helps to sell the party as a dynamic one, as opposed to blasting the candidates’ faces at you at every opportunity.  
+Otica’s strength lies in subtle promotion; its presence on social media helps to sell the party as a dynamic one, as opposed to blasting the candidates’ faces at you opportunistically.  
 
 <h2>Brand Applications</h2>
 The <a href="https://psp.org.sg/psps-souvenirs-for-sale-now-come-show-your-support/" target="_blank">$30 Otica soft toy</a> leads PSP’s fundraising effort from a slew of party merchandise. They all feature the party logo, with no references to the slogan “For Country, For People” or the catchy phrase “You Deserve Better”. 
@@ -96,7 +95,7 @@ When I first came across a PSP election banner, I was surprised at how polished 
 <figcaption><a href="https://www.facebook.com/kaylalowsy/photos/a.102568991401397/150365096621786" target="_blank">(Source)</a></figcaption>
 </figure>
 
-PSP’s election posters also took a page out of PAP’s election playbook - apart from the usual candidate posters, PSP also put up logo posters, and some with Dr Tan’s face in constituencies where he was not contesting in. 
+PSP’s election posters also took a page out of PAP’s election playbook - apart from the usual candidate posters, PSP also put up logo posters and some with Dr Tan’s face in constituencies where he was not contesting in. 
 
 <figure>
 <img src="https://i.imgur.com/AtihDjI.jpg" alt="psp election poster west coast">
