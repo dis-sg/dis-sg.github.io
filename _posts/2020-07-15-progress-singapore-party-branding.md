@@ -6,7 +6,7 @@ categories: [branding singapore, politics]
 tags: [stories]
 description: ""
 comments: false
-image: 
+image: https://i.imgur.com/01CW7E0.png
 published: false
 ---
 
@@ -120,5 +120,11 @@ While Dr Tan said he was careful not to overshadow the PSP candidates so they co
 <figcaption>A clearer look at Dr Tan's election poster <a href="https://www.todayonline.com/singapore/police-investigate-62-year-old-man-over-alleged-damage-psp-election-posters-jurong-west" target="_blank">(Source)</a></figcaption>
 </figure>
 
+<h2>What’s Next?</h2>
+PSP might not have won a seat this election, but the party has presented itself as a credible and eye-opening alternative to the PAP on the visual front. Whether Singaporeans are more willing to vote for them or even care about the aesthetics of political design remains to be seen. 
 
+Nonetheless, PSP's visual identity has given the party a huge boost of legitimacy. While its political fate without Dr Tan remains a mystery, his personal touch can be found all over the brand, unforgettable at least for this generation. 
 
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+
+Branding Singapore is a series which explores notable local brand identities. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
