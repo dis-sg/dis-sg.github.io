@@ -95,7 +95,7 @@ NDP 2007’s logo celebrated the first NDP at the Floating Platform - the water 
 
 By sorting the logos into these three broad categories, NDP 2003’s logo has all three elements - crescent moon and five stars, human-like figures and the Singapore silhouette. This is proof that cliché designs do not automatically mean good designs. 
 
-In summary, this chart shows an majority of logos with five stars in their designs, followed by hearts:
+In summary, this chart shows a majority of logos with five stars in their designs, followed by hearts:
 
 <figure>
 <img src="https://i.imgur.com/UXZIxRu.png" alt="ndp logos graphical elements chart">
@@ -105,4 +105,4 @@ In the next part of this series, we would look at NDP logos sorted by their colo
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Deep Dives uncovers the hidden patterns of local culture in the name of design. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
+Deep Dives uncovers the hidden patterns of local culture through design. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
