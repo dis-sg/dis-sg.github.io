@@ -60,8 +60,7 @@ The second most popular logo element after the five stars is the heart. For NDP 
 
 <h3>Logos with Human-like Figures</h3>
 <figure>
-<img src="
-https://i.imgur.com/8Rz8ZtK.png" alt="ndp logos with Human-like Figures">
+<img src="https://i.imgur.com/8Rz8ZtK.png" alt="ndp logos with Human-like Figures">
 </figure>
 Early NDP logos seemed to highlight the country-wide celebrations, evidenced by human-like figures with lifted hands. The figures range from realistic (2008) to abstract (2000). 
 
@@ -72,15 +71,13 @@ The smallest category consists of logos with the silhouette of Singapore and wat
 
 <h3>Logos with the Silhouette of Singapore</h3>
 <figure>
-<img src="
-https://i.imgur.com/gibxhNL.png" alt="ndp logos with Silhouette of Singapore">
+<img src="https://i.imgur.com/gibxhNL.png" alt="ndp logos with Silhouette of Singapore">
 </figure>
 The silhouette of Singapore is prominently shown in most logos in this subcategory. You would think that a country this small would be self-conscious about its size, but the NDP 2006 logo actually highlighted this fact. The silhouette is dwarfed by the gradient-filled globe in reference to the slogan “Our Global City, Our Home”. 
 
 <h3>Logos with Water Bodies</h3>
 <figure>
-<img src="
-https://i.imgur.com/QDc3P6D.png" alt="ndp logos with Water Bodies">
+<img src="https://i.imgur.com/QDc3P6D.png" alt="ndp logos with Water Bodies">
 </figure>
 Singapore’s water bodies have brought much financial success to the country as a port city, but have only made appearances in two NDP logos.
 
@@ -88,8 +85,7 @@ NDP 2007’s logo celebrated the first NDP at the Floating Platform - the water 
 
 <h2>Most cliché logo award goes to...</h2>
 <figure>
-<img src="
-https://i.imgur.com/1fUvF9M.png" alt="most cliche logo">
+<img src="https://i.imgur.com/1fUvF9M.png" alt="most cliche logo">
 </figure>
 
 By sorting the logos into these three broad categories, NDP 2003’s logo has all three elements - crescent moon and five stars, human-like figures and the Singapore silhouette. This is proof that cliché designs do not automatically mean good designs. 
@@ -97,8 +93,7 @@ By sorting the logos into these three broad categories, NDP 2003’s logo has al
 This chart summarises NDP logos sorted by graphical elements:
 
 <figure>
-<img src="
-https://i.imgur.com/UXZIxRu.png" alt="ndp logos graphical elements chart">
+<img src="https://i.imgur.com/UXZIxRu.png" alt="ndp logos graphical elements chart">
 </figure>
 
 In the next part of this series, we'll look at NDP logos by their colour schemes. 
