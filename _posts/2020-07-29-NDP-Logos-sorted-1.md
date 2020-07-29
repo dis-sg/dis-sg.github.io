@@ -7,7 +7,6 @@ tags: []
 description: "Your mind isn't playing games with you - you've seen a similar NDP logo years ago."
 comments: false
 image: https://i.imgur.com/QnoOvXd.png
-published: false
 ---
 
 The tradition of having a logo represent a National Day Parade (NDP) first began in 1998. Each logo has a complementary identity system which helps to brand parade paraphernalia and props. 
