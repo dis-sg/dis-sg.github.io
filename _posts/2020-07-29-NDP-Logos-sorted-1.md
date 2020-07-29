@@ -2,9 +2,9 @@
 layout: post
 title: "How many NDP Logos feature a heart? NDP Logos sorted by Graphical Elements"
 author: d
-categories: []
+categories: [Deep Dives, NDP]
 tags: []
-description: "Seeing 5 stars in the NDP logos is déjà vu"
+description: "Your mind isn't playing games with you - you've seen a similar NDP logo years ago."
 comments: false
 image: https://i.imgur.com/QnoOvXd.png
 published: false
@@ -39,7 +39,7 @@ Unsurprisingly, five stars appear in many NDP logos as they are easy to incorpor
 
 Without counting the logos which feature the canton, close to half of the 23 logos have five stars in their designs. 
 
-The NDP 2003 logo is an interesting case as star-shaped figures emulate the canton design. However, according to the strict definitions of flag designs, it would not be considered a canton. Using ‘stars’ to form a crescent shape would make vexillologists riot in anger. Hence, the logo is classified under this subcategory.
+The NDP 2003 logo is an interesting case as star-shaped figures were used to emulate the canton design. However, according to the strict definitions of flag designs, it would not be considered a canton; using ‘stars’ to form a crescent shape would make vexillologists riot in anger. Hence, the logo is classified under this subcategory.
 
 <h3>Logos with Crescent Moon and Five Stars</h3>
 <figure>
@@ -56,7 +56,13 @@ Lee Kuan Yew once famously said that Singapore’s only natural resource is its 
 <figure>
 <img src="https://i.imgur.com/Q4YDzXl.png" alt="ndp logos with Hearts">
 </figure>
-The second most popular logo element after the five stars is the heart. For NDP 2012’s logo, the heart doubles as orchid petals, and remains the only logo to reference the national flower so far. 
+The second most popular logo element after the five stars is the heart. In NDP 2012’s logo, the heart doubled as orchid petals, and remains the only logo to reference the national flower so far. 
+
+<h3>Logos with Hands</h3>
+<figure>
+<img src="https://i.imgur.com/TrukzET.png" alt="ndp logos with hands">
+</figure>
+Three logos prominently feature hands in their logos, with NDP 2017’s logo taking inspiration from racial harmony designs.
 
 <h3>Logos with Human-like Figures</h3>
 <figure>
@@ -73,7 +79,7 @@ The smallest category consists of logos with the silhouette of Singapore and wat
 <figure>
 <img src="https://i.imgur.com/gibxhNL.png" alt="ndp logos with Silhouette of Singapore">
 </figure>
-The silhouette of Singapore is prominently shown in most logos in this subcategory. You would think that a country this small would be self-conscious about its size, but the NDP 2006 logo actually highlighted this fact. The silhouette is dwarfed by the gradient-filled globe in reference to the slogan “Our Global City, Our Home”. 
+The silhouette of Singapore is prominently shown in most logos in this subcategory. You would think that a country this small would be self-conscious about its size, but the NDP 2006 logo actually highlighted this fact. The silhouette was dwarfed by the gradient-filled globe in reference to the slogan “Our Global City, Our Home”. 
 
 <h3>Logos with Water Bodies</h3>
 <figure>
@@ -81,9 +87,9 @@ The silhouette of Singapore is prominently shown in most logos in this subcatego
 </figure>
 Singapore’s water bodies have brought much financial success to the country as a port city, but have only made appearances in two NDP logos.
 
-NDP 2007’s logo celebrated the first NDP at the Floating Platform - the water body in the logo was Marina Bay. NDP 1998’s logo has a more ambiguous water body, but a clever guess would be the Singapore River. I cannot unsee the diamond-shaped Age of Empires minimap in the logo though.
+NDP 2007’s logo celebrated the first NDP at the Floating Platform - the water body in the logo was Marina Bay. NDP 1998’s logo had a more ambiguous water body, but a clever guess would be the Singapore River. I cannot unsee the diamond-shaped Age of Empires minimap in the logo though.
 
-<h2>Most cliché logo award goes to...</h2>
+<h2>The most cliché logo award goes to...</h2>
 <figure>
 <img src="https://i.imgur.com/1fUvF9M.png" alt="most cliche logo">
 </figure>
@@ -96,8 +102,9 @@ This chart summarises NDP logos sorted by graphical elements:
 <img src="https://i.imgur.com/UXZIxRu.png" alt="ndp logos graphical elements chart">
 </figure>
 
-In the next part of this series, we'll look at NDP logos by their colour schemes. 
+In the next part of this series, we'll look at NDP logos sorted by their colour schemes. 
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
+Deep Dives explores 
 Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
