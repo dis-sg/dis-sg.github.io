@@ -106,5 +106,4 @@ In the next part of this series, we'll look at NDP logos sorted by their colour 
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Deep Dives explores 
-Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
+Deep Dives uncovers the hidden patterns of local culture in the name of design. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
