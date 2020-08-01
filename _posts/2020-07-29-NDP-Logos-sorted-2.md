@@ -14,14 +14,13 @@ The tradition of having a logo represent a National Day Parade (NDP) first began
 
 With NDP 2020, 23 logos have been created to celebrate Singapore's birthday. In the previous post, these 23 logos were <a href="https://dis-sg.github.io/NDP-Logos-sorted-1/" target="_blank">sorted by graphical elements</a>. This time, the logos would be sorted according to colour schemes. 
 
+<figure>
+<img src="https://i.imgur.com/Gpv6fGy.png" alt="ndp logos colour schemes summary">
+</figure>
+
 Sorting the logos by colour is tricky as words in logos (often in black or grey) could give a false impression of the overall logo colour scheme. Thus, the colour of words were not considered during the sorting process. 
 
 There are six distinct colour schemes, with red being used in all logos except NDP 2007’s.
-
-<figure>
-<img src="" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
-</figure>
 
 <h3>Red and White</h3>
 <figure>
