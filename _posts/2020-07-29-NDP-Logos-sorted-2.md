@@ -4,7 +4,7 @@ title: "NDP Logos sorted by Colour Schemes"
 author: d
 categories: [Deep Dives, NDP]
 tags: []
-description: ""
+description: "All NDP logos use red...except one."
 comments: false
 image: https://i.imgur.com/lsGepHG.png
 published: false
