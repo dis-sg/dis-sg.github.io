@@ -38,3 +38,33 @@ Significant observations could be made for the logos in this category. All three
 <img src="https://i.imgur.com/VxTTDKC.png" alt="ndp logos red and yellow">
 </figure>
 Only NDP 2002’s logo is in this category, which consists of a shining red heart. It is worth noting that this was the only time when the slogan was in baby blue instead of the usual black or grey. The prominence of the slogan provided an opportunity to contrast the red heart and flag graphic. 
+
+<h3>Red and Blue</h3>
+<figure>
+<img src="https://i.imgur.com/nR9lOnW.png" alt="ndp logos red and blue">
+</figure>
+Red and blue was a common colour scheme in early NDP logos, with blue representing human-like figures against a red backdrop in 1999 and 2000. The scheme most recently appeared in NDP 2014’s logo, which used cyan instead of the traditional dark blue. 
+
+<h3>Red and Purple</h3>
+<figure>
+<img src="https://i.imgur.com/C9eXOVc.png" alt="ndp logos red and Purple">
+</figure>
+This category includes this year’s logo which features an Instagram-inspired palette. 
+
+<h3>Multicolour</h3>
+<figure>
+<img src="https://i.imgur.com/jtg9Wtg.png" alt="ndp logos multicolour">
+</figure>
+All logos in this category have at least four different colours. Five colours were used to complement the five stars in the logos for NDP 2004 and 2009, while multicolour gradients were used for the NDP 2001 and 2006 logos. 
+
+In summary, this chart shows a majority of logos with a red-white colour scheme, followed by a multicolour scheme with four or more colours:
+
+<figure>
+<img src="https://i.imgur.com/KG61n5P.png" alt="ndp logos colour schemes">
+</figure>
+
+In the next part of this series, we would look at NDP logos sorted by their typefaces.
+
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+
+Deep Dives uncovers the hidden patterns of local culture through design. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
