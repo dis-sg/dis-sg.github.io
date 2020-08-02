@@ -101,7 +101,7 @@ In summary, this chart shows a majority of logos with five stars in their design
 <img src="https://i.imgur.com/UXZIxRu.png" alt="ndp logos graphical elements chart">
 </figure>
 
-In the next part of this series, we would look at NDP logos sorted by their colour schemes. 
+In the next part of this series, we would look at NDP logos sorted by their <a href="https://dis-sg.github.io/NDP-Logos-sorted-2/" target="_blank">colour schemes</a>.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
