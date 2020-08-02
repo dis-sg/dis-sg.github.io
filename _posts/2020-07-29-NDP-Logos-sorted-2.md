@@ -12,7 +12,7 @@ published: false
 
 The tradition of having a logo represent a National Day Parade (NDP) first began in 1998. Each logo has a complementary identity system which helps to brand parade paraphernalia and props. 
 
-With NDP 2020, 23 logos have been created to celebrate Singapore's birthday. In the previous post, these 23 logos were <a href="https://dis-sg.github.io/NDP-Logos-sorted-1/" target="_blank">sorted by graphical elements</a>. This time, the logos would be sorted according to colour schemes. 
+With NDP 2020, 23 logos have been created to celebrate Singapore's birthday. Previously, we sorted these 23 logos by <a href="https://dis-sg.github.io/NDP-Logos-sorted-1/" target="_blank">graphical elements</a>. This time, the logos would be sorted according to colour schemes. 
 
 <figure>
 <img src="https://i.imgur.com/Gpv6fGy.png" alt="ndp logos colour schemes summary">
