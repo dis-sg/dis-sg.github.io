@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "NDP Logos sorted by Colour Schemes"
+title: "Are all NDP logos Red and White? NDP Logos sorted by Colour Schemes"
 author: d
 categories: [Deep Dives, NDP]
 tags: []
 description: "All NDP logos use red...except one."
 comments: false
 image: https://i.imgur.com/lsGepHG.png
-published: false
 ---
 
 The tradition of having a logo represent a National Day Parade (NDP) first began in 1998. Each logo has a complementary identity system which helps to brand parade paraphernalia and props. 
