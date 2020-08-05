@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NDP Logos sorted by Typography"
+title: "Serifs vs Sans-serifs: NDP Logos sorted by Typography"
 author: d
 categories: [Deep Dives, NDP]
 tags: []
