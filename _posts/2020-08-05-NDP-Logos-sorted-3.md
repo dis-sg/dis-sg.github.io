@@ -58,7 +58,7 @@ In the NDP 2000 logo, the human-like figure formed a “35”, but was difficult
 <img src="https://i.imgur.com/hSmf4i6.png" alt="ndp logos no sg"></figure>
 <figure>
 <img src="https://i.imgur.com/NVoYn2K.png" alt="ndp logos no ndp"></figure>
-Next three subcategories highlight logos which do not mention the year, “NDP” or “Singapore”. “Singapore” appears least frequently in NDP logos, as most of these logos mention “NDP” already. 
+The next three subcategories highlight logos which do not mention the year, “NDP” or “Singapore”. “Singapore” appears least frequently in NDP logos, as most of these logos mention “NDP” already. 
 
 NDP 2005’s logo did not mention any of the three terms, but a Singaporean could roughly guess that this logo was for a government initiative, or the 40th anniversary of something Singapore-related just by looking at the moon and five stars. 
 
