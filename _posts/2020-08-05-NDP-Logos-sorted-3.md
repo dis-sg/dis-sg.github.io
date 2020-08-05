@@ -69,7 +69,7 @@ This chart summaries the logos sorted according to typography:
 <figure>
 <img src="https://i.imgur.com/h6ockBo.png" alt="ndp logos no ndp"></figure>
 
-I hope this series 
+This year has been a rough one so far, 
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
