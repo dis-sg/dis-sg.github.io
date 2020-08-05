@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "NDP Logos sorted by Typography"
 author: d
 categories: [Deep Dives, NDP]
 tags: []
