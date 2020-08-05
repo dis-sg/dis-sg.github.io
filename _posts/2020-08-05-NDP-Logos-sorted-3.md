@@ -6,12 +6,15 @@ categories: [Deep Dives, NDP]
 tags: []
 description: "Serifs, sans-serifs and more"
 comments: false
-image: https://i.imgur.com/klpTFeX.png
+image: https://i.imgur.com/9nuE3ul.png
 ---
 
 The tradition of having a logo represent a National Day Parade (NDP) first began in 1998. Each logo has a complementary identity system which helps to brand parade paraphernalia and props. 
 
 With NDP 2020, 23 logos have been created to celebrate Singapore's birthday. Earlier in this series, the logos were sorted according to <a href="https://dis-sg.github.io/NDP-Logos-sorted-1/" target="_blank">graphical elements</a> and <a href="https://dis-sg.github.io/NDP-Logos-sorted-2/" target="_blank">colour schemes</a>. This post would focus on sorting them by typography. The two broad categories are: typeface and written content.
+
+<figure>
+<img src="https://i.imgur.com/0Txmu99.png" alt="ndp logos"></figure>
 
 <h2>Typeface Category</h2>
 While typefaces have many classifications, the most basic distinction is whether the typeface is serif or sans-serif. Serif typefaces generally convey a more formal tone compared to their san-serif counterparts. This category sorts the logos according to serifs, sans-serifs and handwriting, which is a subcategory of sans-serifs. 
