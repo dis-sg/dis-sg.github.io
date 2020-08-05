@@ -4,10 +4,9 @@ title: ""
 author: d
 categories: [Deep Dives, NDP]
 tags: []
-description: ""
+description: "Serifs, sans-serifs and more"
 comments: false
-image: 
-published: false
+image: https://i.imgur.com/klpTFeX.png
 ---
 
 The tradition of having a logo represent a National Day Parade (NDP) first began in 1998. Each logo has a complementary identity system which helps to brand parade paraphernalia and props. 
@@ -47,7 +46,7 @@ A general rule designers follow is not to crowd a logo with too many words, leas
 
 <h3>Logos which mention Age</h3>
 <figure>
-<img src="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" alt="ndp logos Handwriting"></figure>
+<img src="https://i.imgur.com/gRcYU1v.png" alt="ndp logos Handwriting"></figure>
 Seven logos mentioned Singapore’s age in their designs, some more subtly than others. The river in 1998’s NDP logo was shaped like the number 3 to reference Singapore’s 33rd birthday. If one did not get the reference, the “33 years of independence” under the river graphic should nudge the brain to make the connection. 
 
 In the NDP 2000 logo, the human-like figure formed a “35”, but was difficult to make out. A more successful example would be NDP 2012’s logo, which hid “47” on the lip of the orchid graphic. 
@@ -63,13 +62,13 @@ Next three subcategories highlight logos which do not mention the year, “NDP�
 
 NDP 2005’s logo did not mention any of the three terms, but a Singaporean could roughly guess that this logo was for a government initiative, or the 40th anniversary of something Singapore-related just by looking at the moon and five stars. 
 
-Ultimately, an NDP logo does not need to fulfill checklist requirements of words to include in the design; locals generally get the gist when they see a logo on neighbourhood banners every July. My hope is for an official NDP symbol (think the Olympic rings) to be used in conjunction with each year’s logo, so designers have more leeway to push the envelope.
+Ultimately, an NDP logo does not need to fulfill checklist requirements of words to include in the design; locals generally get the gist when they see a new logo on neighbourhood banners every July. My hope is for an official NDP symbol (think the Olympic rings) to be used in conjunction with each year’s logo, so designers have more leeway to push the envelope.
 
 This chart summaries the logos sorted according to typography:
 <figure>
 <img src="https://i.imgur.com/h6ockBo.png" alt="ndp logos no ndp"></figure>
 
-This year has been a rough one so far, 
+This concludes this series of sorting NDP logos! It would be nice to try this again in another 10 years to see if new patterns emerge.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
