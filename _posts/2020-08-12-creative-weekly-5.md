@@ -129,7 +129,7 @@ On the flip side, trying too hard would incur the wrath of the online mob. Memes
 <figcaption><a href="https://www.facebook.com/myfirstskool.nfc/photos/a.1539494292753837/3285221791514403/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Reactions to memes posted by businesses could either elevate brand status or have disastrous PR effects. Thread carefully.
+Reactions to memes posted by businesses could either elevate brand status or have disastrous PR effects. Tread carefully.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
