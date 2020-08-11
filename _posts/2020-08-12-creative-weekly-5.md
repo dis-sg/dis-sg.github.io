@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Creative Weekly: NS 'Square', Gallery and CO(ld), Singapore Graphic Archives, National Heritage Board"
+title: "Creative Weekly: NS 'Square', Gallery and Co, Singapore Graphic Archives, National Heritage Board"
 author: d
 categories: [Creative Weekly]
 tags: [Stories]
 description: "Plus: Beatty Oh's BTO"
 comments: false
-image: 
+image: https://i.imgur.com/CLitI91.png
 published: false
 ---
 
