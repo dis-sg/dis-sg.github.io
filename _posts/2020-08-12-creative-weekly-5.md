@@ -81,20 +81,49 @@ The <a href="https://graphic.sg/" target="_blank">Singapore Graphic Archives</a>
 The archive was founded in 2011 by design writer and researcher Justin Zhuang. Graphic design artefacts date back to the 1950s and spread across different industries, from education to entertainment. 
 
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/ZliEMhy.png" alt="ndp logos archive">
 <figcaption><a href="https://graphic.sg/gallery/industry:Military" target="_blank">(Source)</a></figcaption>
 </figure>
 
+In the spirit of patriotism, visit the archive and be inspired at how far we have come as a city of design. 
 
+<h2>National Heritage Board x Not Safe For Work</h2>
+<figure>
+<img src="https://i.imgur.com/Pkmyx2A.png" alt="National Heritage Board x Not Safe For Work video">
+<figcaption><a href="https://galleryand.co/" target="_blank">(Source)</a></figcaption>
+</figure>
 
-<a href="" target="_blank"></a>
+National Heritage Board’s (NHB) National Day tribute was made in collaboration with media outlet Not Safe For TV. The video, titled For Your 55th, explores the growing acceptance of interracial relationships over the years.
 
+<div class="video-responsive"><iframe width="1263" height="480" src="https://www.youtube.com/embed/3zcqgkTFbdE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+The video was tastefully done and highlighted superimposed reenacted scenes of the past on current day building canvases. 
+
+In the accompanying <a href="https://www.roots.sg/learn/stories/conversion-circumcision-and-an-angry-mum/conversion-circumcision-and-an-angry-mum-the-journey-of-one-couples-interracial-marriage" target="_blank">article</a>, a Chinese-Malay couple shared about the struggles faced during their courtship days of the 1990s. interracial marriages have since become more common, accounting for close to one-fourth of marriages as of 2018. 
+
+On a creative note, it is encouraging that government agencies are increasingly willing to partner with independent media outlets and giving them full credit for work done.
+
+<h2>Bonus: Beatty Oh’s BTO</h2>
+As millennials enter adult life, businesses have to adapt their communication practices to connect with them. Local government agencies think they have found a winning formula: memes.
 
 <figure>
-<img src="" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/lWthkKC.png" alt="Beatty Oh HDB meme">
+<figcaption><a href="https://www.facebook.com/SingaporeHDB/photos/a.966983546661865/3868711893155668" target="_blank">(Source)</a></figcaption>
 </figure>
+
+This play on words is one of the newest meme trends. It originated from meme creators taking screenshots of lyric-sounding names of Facebook profiles and messaging them lyrics.
+
+HDB’s joke landed well because it came from a traditionally stiff government agency. It signals that it wants to be seen as approachable and keeping up with the times.  
+
+On the flip side, try too hard and watch . Memes do not work when they are too forceful in promotion. 
+
+<figure>
+<img src="https://i.imgur.com/yoHuCyR.jpg" alt="my first school meme">
+<figcaption><a href="https://www.facebook.com/myfirstskool.nfc/photos/a.1539494292753837/3285221791514403/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+Reactions to memes posted by businesses could either elevate brand status or have disastrous PR effects. Thread carefully.
+
 
 
 
