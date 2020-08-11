@@ -28,8 +28,13 @@ The most striking feature of NS Square is the circular stage design, in defiance
 
 PM Lee said it would be aligned on a central axis, which is “cheem” designer talk that its presence in Marina Bay would be balanced by The Promontory on the opposite side of the bay.
 
+<figure>
+<img src="https://i.imgur.com/c7OMKIV.png" alt="">
+<figcaption>Marina Bay as of 2020 - The Floating Plaform does not directly face The Promontory</figcaption>
+</figure>
+
 <img src="https://i.imgur.com/UQYNV7E.jpg" alt="NS square The Promontory">
-<figcaption><a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2020/August/09aug20_fs" target="_blank">(Source)</a></figcaption>
+<figcaption>NS Square's location relative to The Promontory <a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2020/August/09aug20_fs" target="_blank">(Source)</a></figcaption>
 </figure>
 
 NS Square would not just be an events location. Behind the curved seating gallery is a water sports facility for canoeists and kayakers, plus a swimming pool to boot. 
@@ -45,7 +50,7 @@ At least rename ‘Square’ to something which reflects its curvy appearance.
 Construction work is slated to begin in early 2022. In the meantime, should we give the underutilised Singapore Sports Hub another shot at hosting the NDP?
 
 <img src="https://i.imgur.com/PHToJ8G.jpg" alt="NS square ndp">
-<figcaption><a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2020/August/09aug20_fs" target="_blank">(Source)</a></figcaption>
+<figcaption>NDP at NS Square <a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2020/August/09aug20_fs" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <h2>Gallery and Co leaves a trail of debt to small businesses</h2>
@@ -62,15 +67,15 @@ The Little Dröm Store said in a statement on <a href="https://www.facebook.com/
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthelittledromstore%2Fposts%2F4134952633212549&width=500" width="500" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-If the accusations are true, one should rightfully be enraged at this situation. Middlemen-type retailers like these have an obligation to be accountable to small business owners, regardless of the economic situation. “Covid does not cause a deficit in integrity” as pointed out in The Little Dröm Store’s statement. 
+If the accusations are true, one should rightfully be enraged at this situation. Middlemen-type retailers like these have an obligation to be accountable to small business owners, regardless of the economic situation. “Covid does not cause a deficit in integrity”, as pointed out in The Little Dröm Store’s statement. 
 
-A silver lining to this situation came when The Little Dröm Store noticed a surge in orders after posting its statement, as supporters offered words of encouragement.
+A silver lining emerged when The Little Dröm Store noticed a surge in orders after posting its statement, as supporters offered words of encouragement.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fthelittledromstore%2Fphotos%2Fa.199956706712181%2F4144383742269438%2F%3Ftype%3D3&width=500" width="500" height="657" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 Post-pandemic, National Gallery Singapore would appoint a new operator to helm the Gallery and Co brand. 
 
-NationalFuture-Proofing Singapore Graphic Archives
+Future-Proofing Singapore Graphic Archives
 <figure>
 <img src="https://i.imgur.com/GC12xhK.png" alt="Singapore Graphic Archives">
 <figcaption><a href="https://graphic.sg/" target="_blank">(Source)</a></figcaption>
@@ -84,7 +89,7 @@ The archive was founded in 2011 by design writer and researcher Justin Zhuang. G
 
 <figure>
 <img src="https://i.imgur.com/ZliEMhy.png" alt="ndp logos archive">
-<figcaption><a href="https://graphic.sg/gallery/industry:Military" target="_blank">(Source)</a></figcaption>
+<figcaption>High-resolution NDP logos! <a href="https://graphic.sg/gallery/industry:Military" target="_blank">(Source)</a></figcaption>
 </figure>
 
 In the spirit of patriotism, visit the archive and be inspired at how far we have come as a city of design. 
@@ -95,15 +100,15 @@ In the spirit of patriotism, visit the archive and be inspired at how far we hav
 <figcaption><a href="https://galleryand.co/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-National Heritage Board’s (NHB) National Day tribute was made in collaboration with media outlet Not Safe For TV. The video, titled For Your 55th, explores the growing acceptance of interracial relationships over the years.
+National Heritage Board’s National Day tribute was made in collaboration with video production house Not Safe For TV. The video, titled For Your 55th, explores the growing acceptance of interracial relationships over the years.
 
 <div class="video-responsive"><iframe width="1263" height="480" src="https://www.youtube.com/embed/3zcqgkTFbdE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-The video was tastefully done and highlighted superimposed reenacted scenes of the past on current day building canvases. 
+The video which superimposed reenacted scenes of the past on current day building canvases, as tastefully done. 
 
-In the accompanying <a href="https://www.roots.sg/learn/stories/conversion-circumcision-and-an-angry-mum/conversion-circumcision-and-an-angry-mum-the-journey-of-one-couples-interracial-marriage" target="_blank">article</a>, a Chinese-Malay couple shared about the struggles faced during their courtship days of the 1990s. interracial marriages have since become more common, accounting for close to one-fourth of marriages as of 2018. 
+In the accompanying <a href="https://www.roots.sg/learn/stories/conversion-circumcision-and-an-angry-mum/conversion-circumcision-and-an-angry-mum-the-journey-of-one-couples-interracial-marriage" target="_blank">article</a>, a Chinese-Malay couple shared about the struggles faced during their courtship days of the 1990s. Interracial marriages have since become more common, accounting for close to one-fourth of marriages as of 2018. 
 
-On a creative note, it is encouraging that government agencies are increasingly willing to partner with independent media outlets and giving them full credit for work done.
+On a creative note, it is encouraging that government agencies are increasingly willing to partner with independent media outlets and give them full credit for their work.
 
 <h2>Bonus: Beatty Oh’s BTO</h2>
 As millennials enter adult life, businesses have to adapt their communication practices to connect with them. Local government agencies think they have found a winning formula: memes.
@@ -113,11 +118,11 @@ As millennials enter adult life, businesses have to adapt their communication pr
 <figcaption><a href="https://www.facebook.com/SingaporeHDB/photos/a.966983546661865/3868711893155668" target="_blank">(Source)</a></figcaption>
 </figure>
 
-This play on words is one of the newest meme trends. It originated from meme creators taking screenshots of lyric-sounding names of Facebook profiles and messaging them lyrics.
+This play on words is one of the newest meme trends, which involes messaging lyric-sounding Facebook profiles to complete a song verse. Thankfully, Beatty Oh does not exist on Facebook.
 
 HDB’s joke landed well because it came from a traditionally stiff government agency. It signals that it wants to be seen as approachable and keeping up with the times.  
 
-On the flip side, try too hard and watch . Memes do not work when they are too forceful in promotion. 
+On the flip side, trying too hard would incur the wrath of the online mob. Memes do not work when they are too forceful in promotion. 
 
 <figure>
 <img src="https://i.imgur.com/yoHuCyR.jpg" alt="my first school meme">
