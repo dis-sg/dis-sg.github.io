@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creative Weekly: NS 'Square', Gallery and Co, Singapore Graphic Archives, National Heritage Board"
+title: "Creative Weekly: NS 'Square', Gallery and CO(ld), Singapore Graphic Archives, National Heritage Board"
 author: d
 categories: [Creative Weekly]
 tags: [Stories]
@@ -9,6 +9,8 @@ comments: false
 image: 
 published: false
 ---
+
+National Day news was a welcome distraction from the overdose of coronavirus coverage. For the first time, we have a creative weekly with only one coronavirus story!
 
 <h2>NS ‘Square’</h2>
 <figure>
@@ -123,6 +125,10 @@ On the flip side, try too hard and watch . Memes do not work when they are too f
 </figure>
 
 Reactions to memes posted by businesses could either elevate brand status or have disastrous PR effects. Thread carefully.
+
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+
+Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
 
 
 
