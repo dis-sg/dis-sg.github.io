@@ -128,13 +128,4 @@ Reactions to memes posted by businesses could either elevate brand status or hav
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
-
-
-
-
-
-
-
-
-
+Creative Weekly is a roundup of local news stories from a design angle. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
