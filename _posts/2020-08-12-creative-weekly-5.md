@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creative Weekly: NS 'Square', Gallery and Co, Singapore Graphic Archives, National Heritage Board"
+title: "Creative Weekly: NS 'Square', Gallery and Co folds, Graphic Design Archive, An Evolution of Interracial Love"
 author: d
 categories: [Creative Weekly]
 tags: [Stories]
