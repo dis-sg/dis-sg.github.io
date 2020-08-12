@@ -19,6 +19,7 @@ National Day news was a welcome distraction from the overdose of coronavirus cov
 
 PM Lee unveiled the design of NS Square during his annual <a href="https://www.youtube.com/watch?v=tK_S3qmvhcE" target="_blank">National Day Message</a>. The development, which would replace the existing Marina Bay Floating Platform, was designed by architectural firm WOHA, of Parkroyal at Pickering fame.
 
+<figure>
 <img src="https://i.imgur.com/LTprQ5j.jpg" alt="NS square stage">
 <figcaption><a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2020/August/09aug20_fs" target="_blank">(Source)</a></figcaption>
 </figure>
@@ -32,12 +33,14 @@ PM Lee said it would be aligned on a central axis, which is “cheem” designer
 <figcaption>Marina Bay as of 2020 - The Floating Plaform does not directly face The Promontory</figcaption>
 </figure>
 
+<figure>
 <img src="https://i.imgur.com/UQYNV7E.jpg" alt="NS square The Promontory">
 <figcaption>NS Square's location relative to The Promontory <a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2020/August/09aug20_fs" target="_blank">(Source)</a></figcaption>
 </figure>
 
 NS Square would not just be an events location. Behind the curved seating gallery is a water sports facility for canoeists and kayakers, plus a swimming pool to boot. 
 
+<figure>
 <img src="https://i.imgur.com/V7ru2qY.jpg" alt="NS square water sports facility">
 <figcaption><a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2020/August/09aug20_fs" target="_blank">(Source)</a></figcaption>
 </figure>
@@ -48,6 +51,7 @@ At least rename ‘Square’ to something which reflects its curvy appearance.
 
 Construction work is slated to begin in early 2022. In the meantime, should we give the underutilised Singapore Sports Hub another shot at hosting the NDP?
 
+<figure>
 <img src="https://i.imgur.com/PHToJ8G.jpg" alt="NS square ndp">
 <figcaption>NDP at NS Square <a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2020/August/09aug20_fs" target="_blank">(Source)</a></figcaption>
 </figure>
