@@ -121,7 +121,7 @@ As millennials enter adult life, businesses have to adapt their communication pr
 <figcaption><a href="https://www.facebook.com/SingaporeHDB/photos/a.966983546661865/3868711893155668" target="_blank">(Source)</a></figcaption>
 </figure>
 
-This play on words is one of the newest meme trends, which involves messaging lyric-sounding Facebook profiles to complete a song verse. Thankfully, Beatty Oh does not exist on Facebook.
+This play on words is one of the newest meme trends, which involves messaging lyric-sounding Facebook profiles to complete a song verse. Thankfully, Beatty Oh does not exist on Facebook - HDB posted a fake screenshot (remember PDPA).
 
 HDB’s joke landed well because it came from a traditionally stiff government agency. It signals that it wants to be seen as approachable and keeping up with the times.  
 
