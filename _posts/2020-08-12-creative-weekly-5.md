@@ -7,7 +7,6 @@ tags: [Stories]
 description: "Plus: Beatty Oh's BTO"
 comments: false
 image: https://i.imgur.com/CLitI91.png
-published: false
 ---
 
 National Day news was a welcome distraction from the overdose of coronavirus coverage. For the first time, we have a creative weekly with only one coronavirus story!
@@ -75,7 +74,7 @@ A silver lining emerged when The Little Dröm Store noticed a surge in orders af
 
 Post-pandemic, National Gallery Singapore would appoint a new operator to helm the Gallery and Co brand. 
 
-Future-Proofing Singapore Graphic Archives
+<h2>Future-Proofing Singapore Graphic Archives</h2>
 <figure>
 <img src="https://i.imgur.com/GC12xhK.png" alt="Singapore Graphic Archives">
 <figcaption><a href="https://graphic.sg/" target="_blank">(Source)</a></figcaption>
