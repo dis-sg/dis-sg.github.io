@@ -2,8 +2,8 @@
 layout: post
 title: "Progress Singapore Party: Forget Me Not"
 author: d
-categories: [branding singapore, politics]
-tags: [stories]
+categories: [Branding Singapore, Politics]
+tags: [Stories]
 description: "With a few electoral wins, PSP's logo has the potential to rival the iconic lightning."
 comments: false
 image: https://i.imgur.com/01CW7E0.png
