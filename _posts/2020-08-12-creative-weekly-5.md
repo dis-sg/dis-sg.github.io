@@ -96,7 +96,7 @@ In the spirit of patriotism, visit the archive and be inspired at how far we hav
 
 <h2>National Heritage Board x Not Safe For Work</h2>
 <figure>
-<img src="https://i.imgur.com/Pkmyx2A.png" alt="National Heritage Board x Not Safe For Work video">
+<img src="https://i.imgur.com/wuE2wFz.png" alt="National Heritage Board x Not Safe For Work video">
 <figcaption><a href="https://galleryand.co/" target="_blank">(Source)</a></figcaption>
 </figure>
 
