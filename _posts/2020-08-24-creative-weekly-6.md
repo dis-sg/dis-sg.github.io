@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creative Weekly:BTO Launch, EcoTOTES, SingLit art"
+title: "Creative Weekly: BTO Launch, EcoTOTES, SingLit art"
 author: d
 categories: [Creative Weekly]
 tags: [Stories]
@@ -56,19 +56,58 @@ Meanwhile, UrbanVille @ Woodlands’ design more closely resembles a condominium
 
 Proof & Company might just have created a solution to ending single-use glass in the bar industry. Under their <a href="https://ecospirits.global/" target="_blank">ecoSPIRITS</a> distribution system, bars have the opportunity to reduce packaging and transport costs, thereby reducing their carbon footprint.
 
+<figure>
 <img src="https://i.imgur.com/Q4NkvST.jpg" alt="EcoTOTE brands">
 <figcaption><a href="https://www.drinkmagazine.asia/2020/02/19/proof-company-saving-planet-with-ecospirits-new-spirits-distribution-technology/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 At the centre of ecoSPIRITS is the ecoTOTE, a reusable glass vessel which can be refilled up to 40 times before being sent for sanitisation. The lime-green vessels look like mini-fridges and the matte finish makes them look sophisticated. Vessels can also be labelled, ensuring a consistent brand experience as much as possible for spirit makers.
 
+<figure>
 <img src="https://i.imgur.com/Q4NkvST.jpg" alt="EcoTOTE Brass Lion Distillery">
 <figcaption><a href="https://www.straitstimes.com/lifestyle/food/brass-lion-goes-greener-for-its-gins/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <h2>IllustrateLit</h2>
+<figure>
+<img src="https://i.imgur.com/WmrSiTD.png" alt="Illustrate Our World SingLit">
+<figcaption><a href="https://buysinglit.sg/illustrate-our-world/" target="_blank">(Source)</a></figcaption>
+</figure>
 
+Singapore’s lockdown may be over but many are still working from home. If you have been using the same virtual background in Zoom calls and want to switch things up, consider choosing from this series of <a href="https://buysinglit.sg/illustrate-our-world/" target="_blank">SingLit-inspired illustrations</a>.
 
+<figure>
+<img src="https://i.imgur.com/LtclMhj.jpg" alt="Illustrate Our World SingLit backgrounds 1">
+<figcaption>Artists (clockwise from top left): David “Wolfe” Liew, J.H. Low, Zaki Ragman, Mike Foo <a href="https://buysinglit.sg/illustrate-our-world/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+Eight backgrounds which range from natural sceneries to heritage architecture were created by local artists as part of BuySingLit’s National Day celebrations. The backgrounds do not scream “Majulah Singapura” like in NDP graphics, but are nuanced in celebrating Singapore’s creative side - perfectly fine to use even after August. 
+
+<figure>
+<img src="https://i.imgur.com/xgKs2ei.jpg" alt="Illustrate Our World SingLit backgrounds 2">
+<figcaption>Artists (clockwise from top left): Anngee Neo, Marie Toh, Koh Hong Teng, 虎威 <a href="https://buysinglit.sg/illustrate-our-world/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+Anngee Neo’s minimalist crane and crab illustration would bring zen to your meetings, while cat lovers would love Marie Toh’s illustration of an old lady feeding a stray cat at a HDB void deck - it is wholesome and uniquely Singaporean. Visit SingLit’s <a href="https://www.facebook.com/buysinglit/posts/1929968707169487" target="_blank">Facebook</a> page to find out more about each illustrator’s process in creating their virtual backgrounds.
+
+<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbuysinglit%2Fposts%2F1929968707169487&width=500" width="500" height="455" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></div>
+
+The microsite also gives ample recognition to both the artists and the local book authors which inspired them, with links to their respective portfolios. Come for the art, stay for the book recommendations. 
+
+Bonus: Food Styling takes “attention to detail” to new heights
+
+<div class="video-responsive"><iframe width="764" height="430" src="https://www.youtube.com/embed/8ZNOJ1kmvP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+As part of a video series on unconventional jobs, Channel 8 featured Almanda Haley Teo of <a href="https://www.alineacollective.sg/" target="_blank">Alinea Collective</a>, a self-taught food stylist of five years. You have probably seen her food art before on advertisements of food industry heavyweights Pizza Hut and Din Tai Fung.
+
+<figure>
+<img src="https://i.imgur.com/nt4oBfF.png" alt="Alinea Collective work">
+<figcaption>Work for The Modern Nonya, Wan Tea <a href="https://www.alineacollective.sg/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+The Channel 8 feature dives deep into her repurposed equipment used to beautify food, which include cotton buds to soak up oil and irons to create water droplets on steamboat pots. Tweezers are perhaps her most important tool, which she uses to meticulously hand place pizza toppings for it to appear natural. Even if you do not understand the Mandrain, just by watching the ‘surgery’ it takes to get a professional food shot would make you appreciate food advertisements more. 
+
+Teo says it takes at least 10 hours to wrap up a shoot. With this level to detail, I am not surprised. I just hope she does not style while on an empty stomach!
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
