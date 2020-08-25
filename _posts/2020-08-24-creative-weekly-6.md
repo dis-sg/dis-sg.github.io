@@ -94,7 +94,7 @@ Anngee Neo’s minimalist crane and crab illustration would bring zen to your me
 
 The microsite also gives ample recognition to both the artists and the local book authors which inspired them, with links to their respective portfolios. Come for the art, stay for the book recommendations. 
 
-Bonus: Food Styling takes “attention to detail” to new heights
+<h2>Bonus: Food Styling takes “attention to detail” to new heights</h2>
 
 <div class="video-responsive"><iframe width="764" height="430" src="https://www.youtube.com/embed/8ZNOJ1kmvP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
