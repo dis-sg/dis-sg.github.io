@@ -7,7 +7,6 @@ tags: [Stories]
 description: "Plus: food styling in Singapore"
 comments: false
 image: https://i.imgur.com/Vi8DQNq.png
-published: false
 ---
 
 In this creative weekly, we cover HDB's August BTO launch, an eco-friendly way to store spirits and an arts campaign inspired by Singapore literature. 
