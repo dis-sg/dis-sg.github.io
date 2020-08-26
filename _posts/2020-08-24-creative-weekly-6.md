@@ -6,7 +6,7 @@ categories: [Creative Weekly]
 tags: [Stories]
 description: "Plus: food styling in Singapore"
 comments: false
-image: 
+image: https://i.imgur.com/Vi8DQNq.png
 published: false
 ---
 
