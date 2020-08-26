@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creative Weekly: August BTO Launch, EcoTOTES, SingLit art"
+title: "Creative Weekly: August BTO projects, Game-changing Spirit Storage, Art Inspired by Local Stories"
 author: d
 categories: [Creative Weekly]
 tags: [Stories]
@@ -27,7 +27,7 @@ Close to 8,000 BTO units across eight estates were put on sale this month. Despi
 
 Some BTO project logos highlight features which make each of them unique - Parc Residences @ Tengah’s curved rooflines, Bishan Towers’ sky terraces and UrbanVille @ Woodlands’ skybridge. 
 
-Others just take cues from the project’s name, resulting in fairly uninspiring logos. Cliche word-graphic pairings made some logos worse than just a wordmark - Tampines GreenGlade’s logo would look less amateurish without the leaf.
+Others just take cues from the project’s name, resulting in fairly uninspiring logos. Cliche word-graphic pairings made some logos worse than if they were just wordmarks - Tampines GreenGlade’s logo would look less amateurish without the leaf.
 
 <figure>
 <img src="https://i.imgur.com/FnvQiyD.jpg" alt="hdb august bto logos 3">
@@ -48,27 +48,29 @@ Meanwhile, UrbanVille @ Woodlands’ design more closely resembles a condominium
 <figcaption><a href="https://esales.hdb.gov.sg/bp25/launch/20aug/bto/20AUGBTO_page_2756/about0.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<h2>EcoTOTE </h2>
+<h2>EcoTOTEs Elimitate Waste while Preserving Branding elements</h2>
 <figure>
 <img src="https://i.imgur.com/Q4NkvST.jpg" alt="EcoTOTE">
 <figcaption><a href="https://ecospirits.global/three-leading-craft-spirits-producers-join-the-ecospirits-platform/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Proof & Company might just have created a solution to ending single-use glass in the bar industry. Under their <a href="https://ecospirits.global/" target="_blank">ecoSPIRITS</a> distribution system, bars have the opportunity to reduce packaging and transport costs, thereby reducing their carbon footprint.
+Proof & Company might just have created groundbreaking solution to ending single-use glass in the bar industry. Under their <a href="https://ecospirits.global/" target="_blank">ecoSPIRITS</a> distribution system, bars have the opportunity to reduce packaging and transport costs, thereby reducing their carbon footprint.
 
 <figure>
 <img src="https://i.imgur.com/qNdwmdf.jpg" alt="EcoTOTE brands">
 <figcaption><a href="https://www.drinkmagazine.asia/2020/02/19/proof-company-saving-planet-with-ecospirits-new-spirits-distribution-technology/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-At the centre of ecoSPIRITS is the ecoTOTE, a reusable glass vessel which can be refilled up to 40 times before being sent for sanitisation. The lime-green vessels look like mini-fridges and the matte finish makes them look sophisticated. Vessels can also be labelled, ensuring a consistent brand experience as much as possible for spirit makers.
+At the centre of ecoSPIRITS is the ecoTOTE, a reusable glass vessel which can be refilled up to 40 times before being sent for sanitisation. The lime-green vessels look like mini-fridges and the matte finish makes them look sophisticated. Vessels can also be labelled, ensuring as consistent a brand experience as possible for spirit makers.
 
 <figure>
 <img src="https://i.imgur.com/MzUVlkM.jpg" alt="EcoTOTE Brass Lion Distillery">
 <figcaption><a href="https://www.straitstimes.com/lifestyle/food/brass-lion-goes-greener-for-its-gins/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<h2>IllustrateLit</h2>
+To date, several well-known homegrown brands have already joined the ecoSPIRITS, including The Long Bar of Raffles Hotel and Brass Lion Distillery. If it is good enough for the Singapore Sling, quality is surely preserved in these ecoTOTEs. 
+
+<h2>Illustrate Local Lit</h2>
 <figure>
 <img src="https://i.imgur.com/WmrSiTD.png" alt="Illustrate Our World SingLit">
 <figcaption><a href="https://buysinglit.sg/illustrate-our-world/" target="_blank">(Source)</a></figcaption>
@@ -94,7 +96,7 @@ Anngee Neo’s minimalist crane and crab illustration would bring zen to your me
 
 The microsite also gives ample recognition to both the artists and the local book authors which inspired them, with links to their respective portfolios. Come for the art, stay for the book recommendations. 
 
-<h2>Bonus: Food Styling takes “attention to detail” to new heights</h2>
+<h2>Bonus: Food Styling takes Meticulousness to New Heights</h2>
 
 <div class="video-responsive"><iframe width="764" height="430" src="https://www.youtube.com/embed/8ZNOJ1kmvP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -105,9 +107,9 @@ As part of a video series on unconventional jobs, Channel 8 featured Almanda Hal
 <figcaption>Work for The Modern Nonya, Wan Tea <a href="https://www.alineacollective.sg/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-The Channel 8 feature dives deep into her repurposed equipment used to beautify food, which include cotton buds to soak up oil and irons to create water droplets on steamboat pots. Tweezers are perhaps her most important tool, which she uses to meticulously hand place pizza toppings for it to appear natural. Even if you do not understand the Mandrain, just by watching the ‘surgery’ it takes to get a professional food shot would make you appreciate food advertisements more. 
+The Channel 8 feature dives deep into her repurposed equipment used to beautify food, which include cotton buds to soak up oil and irons to create water droplets on steamboat pots. Tweezers are perhaps her most important tool, which she uses to painstakingly place each pizza topping for it to appear natural (the irony). Even if you do not understand the Mandrain, watching the ‘surgery’ it takes to get a professional food shot would make you appreciate food advertisements more. 
 
-Teo says it takes at least 10 hours to wrap up a shoot. With this level to detail, I am not surprised. I just hope she does not style while on an empty stomach!
+Teo says it takes at least 10 hours to wrap up a shoot. With this level of detail, I am not surprised - I just hope she does not style while on an empty stomach!
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
