@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creative Weekly: BTO Launch, EcoTOTES, SingLit art"
+title: "Creative Weekly: August BTO Launch, EcoTOTES, SingLit art"
 author: d
 categories: [Creative Weekly]
 tags: [Stories]
@@ -10,9 +10,9 @@ image:
 published: false
 ---
 
-In this creative weekly, we cover HDB's August BTO launch, 
+In this creative weekly, we cover HDB's August BTO launch, an eco-friendly way to store spirits and an arts campaign inspired by Singapore literature. 
 
-<h2>BTO Sales Launch</h2>
+<h2>August BTO Sales Launch</h2>
 <figure>
 <img src="https://i.imgur.com/bxcq6wQ.jpg" alt="hdb august bto logos">
 <figcaption><a href="https://esales.hdb.gov.sg/bp25/launch/20aug/bto/20AUGBTO_page_2756/about0.html" target="_blank">(Source)</a></figcaption>
