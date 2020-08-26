@@ -48,7 +48,7 @@ Meanwhile, UrbanVille @ Woodlands’ design more closely resembles a condominium
 <figcaption><a href="https://esales.hdb.gov.sg/bp25/launch/20aug/bto/20AUGBTO_page_2756/about0.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<h2>EcoTOTEs Elimitate Waste while Preserving Branding elements</h2>
+<h2>EcoTOTEs Elimitate Waste while Preserving Brand Elements</h2>
 <figure>
 <img src="https://i.imgur.com/Q4NkvST.jpg" alt="EcoTOTE">
 <figcaption><a href="https://ecospirits.global/three-leading-craft-spirits-producers-join-the-ecospirits-platform/" target="_blank">(Source)</a></figcaption>
