@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creative Weekly: August BTO projects, Game-changing Spirit Storage, Art Inspired by Local Stories"
+title: "Creative Weekly: August BTO Projects, Game-changing Spirit Storage, Art Inspired by Local Stories"
 author: d
 categories: [Creative Weekly]
 tags: [Stories]
