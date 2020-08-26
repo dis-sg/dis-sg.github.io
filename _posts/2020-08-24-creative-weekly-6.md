@@ -15,7 +15,7 @@ In this creative weekly, we cover HDB's August BTO launch, an eco-friendly way t
 <h2>August BTO Sales Launch</h2>
 <figure>
 <img src="https://i.imgur.com/bxcq6wQ.jpg" alt="hdb august bto logos">
-<figcaption><a href="https://esales.hdb.gov.sg/bp25/launch/20aug/bto/20AUGBTO_page_2756/about0.html" target="_blank">(Source)</a></figcaption>
+<figcaption>The logo brief probably made the inclusion of nature-related graphics compulsory to hammer home the City in a Garden concept <a href="https://esales.hdb.gov.sg/bp25/launch/20aug/bto/20AUGBTO_page_2756/about0.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Close to 8,000 BTO units across eight estates were put on sale this month. Despite the large number of units available compared to previous exercises, the flats were oversubscribed just one day into the sale period. 
@@ -31,7 +31,7 @@ Others just take cues from the project’s name, resulting in fairly uninspiring
 
 <figure>
 <img src="https://i.imgur.com/FnvQiyD.jpg" alt="hdb august bto logos 3">
-<figcaption>The logo brief probably made the inclusion of nature-related graphics compulsory to hammer home the City in a Garden concept <a href="https://esales.hdb.gov.sg/bp25/launch/20aug/bto/20AUGBTO_page_2756/about0.html" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://esales.hdb.gov.sg/bp25/launch/20aug/bto/20AUGBTO_page_2756/about0.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Facade-wise, Parc Residences @ Tengah offers the most interesting look with bright orange curved rooflines extending right to the ground floor. The project’s location in Singapore’s first car-lite town also means it is a testbed for new green technologies, including a centralised cooling system which successful BTO applicants can opt in for. 
