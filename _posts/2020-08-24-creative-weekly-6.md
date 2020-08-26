@@ -57,14 +57,14 @@ Meanwhile, UrbanVille @ Woodlands’ design more closely resembles a condominium
 Proof & Company might just have created a solution to ending single-use glass in the bar industry. Under their <a href="https://ecospirits.global/" target="_blank">ecoSPIRITS</a> distribution system, bars have the opportunity to reduce packaging and transport costs, thereby reducing their carbon footprint.
 
 <figure>
-<img src="https://i.imgur.com/Q4NkvST.jpg" alt="EcoTOTE brands">
+<img src="https://i.imgur.com/qNdwmdf.jpg" alt="EcoTOTE brands">
 <figcaption><a href="https://www.drinkmagazine.asia/2020/02/19/proof-company-saving-planet-with-ecospirits-new-spirits-distribution-technology/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 At the centre of ecoSPIRITS is the ecoTOTE, a reusable glass vessel which can be refilled up to 40 times before being sent for sanitisation. The lime-green vessels look like mini-fridges and the matte finish makes them look sophisticated. Vessels can also be labelled, ensuring a consistent brand experience as much as possible for spirit makers.
 
 <figure>
-<img src="https://i.imgur.com/Q4NkvST.jpg" alt="EcoTOTE Brass Lion Distillery">
+<img src="https://i.imgur.com/MzUVlkM.jpg" alt="EcoTOTE Brass Lion Distillery">
 <figcaption><a href="https://www.straitstimes.com/lifestyle/food/brass-lion-goes-greener-for-its-gins/" target="_blank">(Source)</a></figcaption>
 </figure>
 
