@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Zhong Yuan Festival Branding: Smart Nation, Smart Afterlife"
+title: "Zhong Yuan Festival Branding: Digitalising Hungry Ghosts"
 author: d
 categories: [Branding Singapore, Event]
 tags: []
-description: ""
+description: "Discover a new found apppreciation for "
 comments: false
 image: https://i.imgur.com/ju48V7I.png
 published: false
@@ -14,7 +14,7 @@ The annual Hungry Ghost (also known as Zhong Yuan) Festival is a month-long spec
 
 Recognising that this Zhong Yuan Festival would be noticeably quieter, creatives and heritage businesses joined forces to launch <a href="https://zhongyuanfestival.sg/" target="_blank">zhongyuanfestival.sg</a>, an interactive site which seeks to replicate the physical festival atmosphere and document the age-old festival practices which may soon be lost to time. 
 
-The project was done by creative studios <a href="https://tmmw.sg/" target="_blank">The Merry Men Works</a> and <a href="https://weconvey.co/" target="_blank">Convey</a>, together with web design studio Screensavers.
+The project was done by creative studios <a href="https://tmmw.sg/" target="_blank">The Merry Men Works</a> and <a href="https://weconvey.co/" target="_blank">Convey</a>, together with web design studio <a href="http://screensavers.club/" target="_blank">Screensavers</a>.
 
 <h2>Identity</h2>
 <figure>
