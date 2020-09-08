@@ -106,7 +106,7 @@ As a bonus, you could also engage in an online chat with a ghost called Mr. Gwee
 A humorous Chinese couplet greets you when you visit the Zhong Yuan Festival website: 忘记传统，成何体统 (literal translation: forget traditions, how can this be allowed?). It references Reform Party’s Charles Yeo infamous televised election rally speech when he used the second phrase. 
 
 <figure>
-<img src="https://i.imgur.com/0ToLMjn.gifv">
+<img src="https://i.imgur.com/0ToLMjn.gif">
 <figcaption><a href="https://tenor.com/view/charles-charles-yeo-rp-reform-party-ge2020-gif-17837069" target="_blank">(Source)</a></figcaption>
 </figure>
 
