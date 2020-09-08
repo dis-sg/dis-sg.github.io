@@ -25,7 +25,7 @@ The project was done by creative studios <a href="https://tmmw.sg/" target="_bla
 The chinese characters for Zhong Yuan (中元) stacked on top of each other form the festival’s logo. The logo comes in two colour palettes - yellow on dark blue and yellow on red - both reminiscent of 7-month paraphernalia. 
 
 <figure>
-<img src="https://i.imgur.com/mpl4G45.png" alt="Zhong Yuan Festival Website">
+<img src="https://i.imgur.com/ju48V7I.png" alt="Zhong Yuan Festival Website">
 <figcaption><a href="https://zhongyuanfestival.sg" target="_blank">(Source)</a></figcaption>
 </figure>
 
