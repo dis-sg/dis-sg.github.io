@@ -71,15 +71,58 @@ The site highlights four main activities which form the essence of Zhong Yuan Fe
 <figcaption><a href="https://zhongyuanfestival.sg/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-
-
-
-
-<a href="" target="_blank"></a>
-
+Trivia is presented in a highly engaging manner, relevant to each activity. Explaining how much people are willing to bid in an auction is done through quizzes with relatable options (round trip to Japan/Europe/Pulau Ubin for two) while Chinese Street Opera terms and props are introduced through videos and short write-ups.
 
 <figure>
-<img src="" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/JZ7RK1H.png" alt="Zhong Yuan Festival auction">
+<figcaption><a href="https://zhongyuanfestival.sg/" target="_blank">(Source)</a></figcaption>
 </figure>
 
+<figure>
+<img src="https://i.imgur.com/kYXusgT.png" alt="Zhong Yuan Festival Chinese Street Opera">
+<figcaption><a href="https://zhongyuanfestival.sg/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+The getai pop-up takes you to the latest daily getai performance on YouTube and the kim zua ‘shop’ highlights some of the commonly seen offerings and their significance, e-commerce style. 
+
+<figure>
+<img src="https://i.imgur.com/sL8u6cS.png" alt="Zhong Yuan Festival kim zua">
+<figcaption><a href="https://zhongyuanfestival.sg/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+As a bonus, you could also engage in an online chat with a ghost called Mr. Gwee. At the end of the conversation, you would receive a 4-digit number which may be huat enough to make 2020 a prosperous year for you.
+
+<figure>
+<img src="https://i.imgur.com/Vd3LNnW.png" alt="Zhong Yuan Festival ghost convo">
+<figcaption><a href="https://zhongyuanfestival.sg/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<h2>Is the Online Pivot Inevitable?</h2>
+<figure>
+<img src="https://i.imgur.com/xj1IlyL.jpg" alt="Zhong Yuan Festival couplet">
+<figcaption><a href="https://zhongyuanfestival.sg/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+A humorous Chinese couplet greets you when you visit the Zhong Yuan Festival website: 忘记传统，成何体统 (literal translation: forget traditions, how can this be allowed?). It references Reform Party’s Charles Yeo infamous televised election rally speech when he used the second phrase. 
+
+<figure>
+<img src="https://i.imgur.com/0ToLMjn.gifv">
+<figcaption><a href="https://tenor.com/view/charles-charles-yeo-rp-reform-party-ge2020-gif-17837069" target="_blank">(Source)</a></figcaption>
+</figure>
+
+The concern is real, however - some Zhong Yuan businesses have seen an uptick in attendeeship since holding their events online. Virtual getai events this year have attracted over 10,000 viewers, way more than the physical audience limit of 500. With other perks such as performing in air conditioned comfort and the viewers’ ability to rewatch these professionally recorded performances, one could argue that doing digital getai is better. 
+
+<figure>
+<img src="https://i.imgur.com/Ofjjczm.png" alt="Zhong Yuan Festival getai">
+<figcaption><a href="https://zhongyuanfestival.sg/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+Still, there are trade-offs in making a permanent pivot to online getai performances. The experience would be lonelier, lacking a human touch of cheering for a singer as an audience. Sights like the empty front row of chairs would no longer exist. 
+
+<h2>A Second, Digital Lease of Life</h2>
+It is still uncertain if things would go back to pre-pandemic days next year. Websites like zhongyuanfestival.sg help to make sense of the strange times we are living in, and try to provide comfort for those who miss the festivities. There is also a subtle acknowledgement of an inevitable pivot needed for traditions to live on. 
+
+When that time comes, I take comfort in knowing that the festival’s intricacies would be delicately handled and smartly modernised, as seen when this project successfully captured the unique aesthetic of the Zhong Yuan Festival.
+
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+Branding Singapore is a series which highlights notable local brand identities. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
