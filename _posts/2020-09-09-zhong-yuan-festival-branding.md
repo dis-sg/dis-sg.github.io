@@ -6,7 +6,7 @@ categories: [Branding Singapore, Event]
 tags: []
 description: ""
 comments: false
-image: 
+image: https://i.imgur.com/ju48V7I.png
 published: false
 ---
 
