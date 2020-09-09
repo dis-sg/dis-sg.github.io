@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Zhong Yuan Festival Branding: Digitalising Hungry Ghosts"
+title: "Zhong Yuan Festival Branding: The Ghosts Must Be Tech-Savvy"
 author: d
 categories: [Branding Singapore, Event]
 tags: []
-description: "Discover a new found apppreciation for "
+description: "Have an online chat with a ghost and get a 4D number!"
 comments: false
 image: https://i.imgur.com/ju48V7I.png
 published: false
@@ -125,4 +125,5 @@ It is still uncertain if things would go back to pre-pandemic days next year. We
 When that time comes, I take comfort in knowing that the festival’s intricacies would be delicately handled and smartly modernised, as seen when this project successfully captured the unique aesthetic of the Zhong Yuan Festival.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+
 Branding Singapore is a series which highlights notable local brand identities. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
