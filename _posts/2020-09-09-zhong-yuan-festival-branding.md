@@ -6,7 +6,7 @@ categories: [Branding Singapore, Event]
 tags: []
 description: "Have an online chat with a ghost and get a 4D number!"
 comments: false
-image: https://i.imgur.com/prIWDiL.png
+image: https://i.imgur.com/rUDoCWZ.png
 ---
 
 The annual Hungry Ghost (also known as Zhong Yuan) Festival is a month-long spectacle of sights and sounds, but in light of social distancing regulations this year, many activities have pivoted online. 
