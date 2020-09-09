@@ -110,7 +110,7 @@ A humorous Chinese couplet greets you when you visit the Zhong Yuan Festival web
 <figcaption><a href="https://tenor.com/view/charles-charles-yeo-rp-reform-party-ge2020-gif-17837069" target="_blank">(Source)</a></figcaption>
 </figure>
 
-The concern is real, however - some Zhong Yuan businesses have seen an uptick in attendeeship since holding their events online. Virtual getai events this year have attracted over 10,000 viewers, way more than the physical audience limit of 500. With other perks such as performing in air conditioned comfort and the viewers’ ability to rewatch these professionally recorded performances, one could argue that doing digital getai is better. 
+The concern is real, however - some Zhong Yuan businesses have seen an uptick in attendeeship since holding their events online. Virtual getai events this year have attracted over 10,000 viewers each, way more than the physical audience limit of 500. With other perks such as performing in air conditioned comfort and the viewers’ ability to rewatch these professionally recorded performances, one could argue that digital getai is better. 
 
 <figure>
 <img src="https://i.imgur.com/Ofjjczm.png" alt="Zhong Yuan Festival getai">
