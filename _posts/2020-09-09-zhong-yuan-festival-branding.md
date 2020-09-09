@@ -6,7 +6,7 @@ categories: [Branding Singapore, Event]
 tags: []
 description: "Have an online chat with a ghost and get a 4D number!"
 comments: false
-image: https://i.imgur.com/ju48V7I.png
+image: https://i.imgur.com/NB6RrpQ.png
 published: false
 ---
 
