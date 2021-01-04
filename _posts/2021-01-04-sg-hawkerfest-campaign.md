@@ -4,7 +4,7 @@ title: "SG Hawkerfest Campaign: Food is Art"
 author: d
 categories: [Campaigns]
 tags: [Food, Government]
-description: "Nothing beats a clebration with free stuff"
+description: "Nothing beats a celebration with free stuff."
 comments: false
 image: https://i.imgur.com/ScvZLxT.png
 ---
