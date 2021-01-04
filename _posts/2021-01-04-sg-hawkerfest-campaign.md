@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "test"
+title: "SG Hawkerfest Campaign: Food is Art"
 author: d
-categories: []
-tags: []
-description: ""
+categories: [Campaigns]
+tags: [Food, Government]
+description: "Nothing beats a clebration with free stuff"
 comments: false
 image: 
 published: false
@@ -55,22 +55,22 @@ Coinciding with this campaign is the <a href="https://www.oursgheritage.gov.sg/t
 
 <figure>
 <img src="https://i.imgur.com/EfkrKj1.jpg" alt="#ThankYouHawkers Lee Xin Li">
-<figcaption>Hawker paradise <a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">By Lee Xin Li</a></figcaption>
+<figcaption>By <a href="https://www.instagram.com/xinli29288/" target="_blank">Lee Xin Li</a>, iconic hawker centres and their star dishes. Shoutout to the gig economy delivery workers, who have become part of F&B ecosystem. </figcaption>
 </figure>
 
 <figure>
 <img src="https://i.imgur.com/fr4eiKL.jpg" alt="#ThankYouHawkers Yip Yew Chong">
-<figcaption><a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">(Source)</a></figcaption>
+<figcaption>By <a href="https://www.instagram.com/yipyewchong/" target="_blank">Yip Yew Chong</a>, hawker centres at dusk. You can almost feel the cosiness!</figcaption>
 </figure>
 
 <figure>
 <img src="https://i.imgur.com/F3fMMJZ.jpg" alt="#ThankYouHawkers Joy Ho">
-<figcaption>By Joy Ho<a href="https://www.instagram.com/feever_dreem/" target="_blank">(Source)</a></figcaption>
+<figcaption>By <a href="https://www.instagram.com/feever_dreem/" target="_blank">Joy Ho</a>, a psychedelic high - hawker food is that good.</figcaption>
 </figure>
 
 <figure>
 <img src="https://i.imgur.com/hu0UiI5.jpg" alt="#ThankYouHawkers Raihana Abdul Rahman">
-<figcaption><a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">(Source)</a></figcaption>
+<figcaption>By <a href="https://www.instagram.com/araikreva/" target="_blank">Raihana Abdul Rahman</a>, the celebration we could have had if not for this pandemic.</figcaption>
 </figure>
 
 Compared to the oursgheritage identity which got Singaporeans to support the UNESCO bid, there is less emphasis on visual consistency for SG HawkerFest. Instead, this campaign encouraged artistic interpretations, showcasing vibrancy in Singaporean art styles, which can also be said about the variety of food hawker centres offer. 
