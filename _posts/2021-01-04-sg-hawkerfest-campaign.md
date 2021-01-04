@@ -51,11 +51,11 @@ The other set is full of gradients which gives off a regal feel, fitting for a c
 <figcaption><a href="https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/hawker-culture/sg-hawkerfest" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Coinciding with this campaign is the #ThankYouHawkers Art Project by the National Heritage Board. Illustrations by four local artists were commissioned and put up as banners at hawker centres.
+Coinciding with this campaign is the <a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">#ThankYouHawkers Art Project</a> by the National Heritage Board. Illustrations by four local artists were commissioned and put up as banners at hawker centres.
 
 <figure>
 <img src="https://i.imgur.com/EfkrKj1.jpg" alt="#ThankYouHawkers Lee Xin Li">
-<figcaption><a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">(Source)</a></figcaption>
+<figcaption>Hawker paradise <a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">By Lee Xin Li</a></figcaption>
 </figure>
 
 <figure>
@@ -65,10 +65,43 @@ Coinciding with this campaign is the #ThankYouHawkers Art Project by the Nationa
 
 <figure>
 <img src="https://i.imgur.com/F3fMMJZ.jpg" alt="#ThankYouHawkers Joy Ho">
-<figcaption><a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">(Source)</a></figcaption>
+<figcaption>By Joy Ho<a href="https://www.instagram.com/feever_dreem/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <figure>
 <img src="https://i.imgur.com/hu0UiI5.jpg" alt="#ThankYouHawkers Raihana Abdul Rahman">
 <figcaption><a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">(Source)</a></figcaption>
 </figure>
+
+Compared to the oursgheritage identity which got Singaporeans to support the UNESCO bid, there is less emphasis on visual consistency for SG HawkerFest. Instead, this campaign encouraged artistic interpretations, showcasing vibrancy in Singaporean art styles, which can also be said about the variety of food hawker centres offer. 
+
+<h2>Simple Idea, Simple Pleasures</h2>
+SG HawkerFest’s idea is simple, but do not <i>discount</i> its impact in getting people to visit new hawker centres. The five trivia quizzes cover hawker centres on all four corners of Singapore (plus one wildcard where the reward can be redeemed in any of the participating hawker centres), nudging Singaporeans to venture out of their usual go-to hawker centres.
+
+The mobile-first site is simple enough to navigate. Choose the hawker centre location and answer the trivia quiz. There is no penalty for getting an answer wrong - just try again. Note that you cannot change the hawker centre location and voucher collection timing once you select them. 
+
+<figure>
+<img src="https://i.imgur.com/sRb0xGs.png" alt="sg hawkerfest trivia">
+<figcaption><a href="https://sghawkerfest.sg/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+You can even customise your avatar, but it is purely for cosmetic purposes.
+
+<figure>
+<img src="https://i.imgur.com/WEIKiJQ.png" alt="sg hawkerfest avatar">
+<figcaption><a href="https://sghawkerfest.sg/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<h2>Other goodies</h2>
+The SG HawkerFest campaign also includes a digital video series on NEA’s social media accounts which profiles pioneering hawkers. 
+
+<div class="video-responsive"><iframe width="1269" height="480" src="https://www.youtube.com/embed/KNuC00k1qjc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+A platform called Hawkers’ Seminar is also slated to launch soon, which allows hawkers to  “exchange ideas, celebrate hawkers’ achievements, and contribute to ongoing efforts to sustain the hawker trade”. 
+
+The inscription of hawker culture on the UNESCO Intangible Cultural Heritage list is just the first step in ensuring its longevity, which is currently threatened by an aging population of hawkers. Hopefully, this inscription would inspire more young people to enter the hawker trade, and future campaigns would likely work towards this goal. 
+
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+
+Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
+
