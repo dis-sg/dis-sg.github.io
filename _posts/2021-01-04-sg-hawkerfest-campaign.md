@@ -7,7 +7,6 @@ tags: [Food, Government]
 description: "Nothing beats a clebration with free stuff"
 comments: false
 image: https://i.imgur.com/ScvZLxT.png
-published: false
 ---
 
 The campaign to celebrate Singapore’s successful inscription of hawker culture in UNESCO's Intangible Cultural Heritage List combines two things all Singaporeans love: free stuff and food. 
