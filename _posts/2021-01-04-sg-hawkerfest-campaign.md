@@ -53,4 +53,22 @@ The other set is full of gradients which gives off a regal feel, fitting for a c
 
 Coinciding with this campaign is the #ThankYouHawkers Art Project by the National Heritage Board. Illustrations by four local artists were commissioned and put up as banners at hawker centres.
 
+<figure>
+<img src="https://i.imgur.com/EfkrKj1.jpg" alt="#ThankYouHawkers Lee Xin Li">
+<figcaption><a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">(Source)</a></figcaption>
+</figure>
 
+<figure>
+<img src="https://i.imgur.com/fr4eiKL.jpg" alt="#ThankYouHawkers Yip Yew Chong">
+<figcaption><a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/F3fMMJZ.jpg" alt="#ThankYouHawkers Joy Ho">
+<figcaption><a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/hu0UiI5.jpg" alt="#ThankYouHawkers Raihana Abdul Rahman">
+<figcaption><a href="https://www.oursgheritage.gov.sg/thank-you-hawkers-art-project/" target="_blank">(Source)</a></figcaption>
+</figure>
