@@ -20,7 +20,12 @@ SG HawkerFest, which runs from 26 December 2020 to 11 January 2021, is mostly an
 The hawker centres range from old-school legends such as People's Park Food Centre and hawker culture's poster child Tiong Bahru Market to newer additions such as those in Kampung Admiralty and Yishun Park. 
 
 <h2>Aesthetic</h2>
-It is commendable that the National Envrionment Agency (NEA) created a publicly-accessible e-resource kit for this campaign. Usually, style guides are only released for crowdsourced art projects when outsiders have to handle the logo. Nonetheless, this is still a welcome change as it gives us an inside look into the thinking behind aesthetic choices. 
+It is commendable that the National Envrionment Agency (NEA) created a publicly-accessible <a href="https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/hawker-culture/sg-hawkerfest" target="_blank">e-resource kit</a> for this campaign. Usually, style guides are only released for crowdsourced art projects when outsiders have to handle the logo. This is still a welcome change as it gives us an inside look into the thinking behind aesthetic choices. 
+
+<figure>
+<img src="https://i.imgur.com/Hd4tbg3.png" alt="sg hawkerfest logo">
+<figcaption><a href="https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/hawker-culture/sg-hawkerfest" target="_blank">(Source)</a></figcaption>
+</figure>
 
 The logo’s shape is inspired by old-school hawker signboards. SG HawkerFest is written in all four official languages, and the only graphic in the logo is a typical hawker centre round table and chairs. According to the resource kit, the logo “symbolises a communal gathering point for both hawkers and patrons”, likening hawker centres to community dining rooms.
 
@@ -31,7 +36,7 @@ The style guide establishes the dos-and-don'ts for the logo, along with the colo
 <figcaption><a href="https://www.nea.gov.sg/docs/default-source/hawker-centres-documents/e-resource-kit-for-download-(hawker-fest)/sg-hawkerfest-logo_guide_dec-2020.pdf" target="_blank">(Source)</a></figcaption>
 </figure>
 
-The two accompanying illustration sets do the heavy lifting for the identity, which adorns all campaign material. The first set is a panoramic view of a hawker centre by creative studio 8EyedSpud - they recently posted sketches and the full piece on their <a href="https://www.instagram.com/8eyedspud/" target="_blank">Instagram</a> page. 
+The two accompanying illustration sets, which adorn all campaign material, do the heavy lifting for the identity. The first set is a panoramic view of a hawker centre by creative studio 8EyedSpud - they recently posted sketches and the full piece on their <a href="https://www.instagram.com/8eyedspud/" target="_blank">Instagram</a> page. 
 
 <figure>
 <img src="https://i.imgur.com/XvDKVi3.jpg" alt="sg hawkerfest illustration 8eyespud">
@@ -40,10 +45,10 @@ The two accompanying illustration sets do the heavy lifting for the identity, wh
 
 <figure>
 <img src="https://i.imgur.com/LPawvfT.png" alt="sg hawkerfest 8eyespud">
-<figcaption>(8EyedSpud nailed the chee kueh stall sign boards - they look the same regardless of franchise)</figcaption> 
+<figcaption><i>8EyedSpud nailed the chee kueh stall sign boards - they look the same regardless of franchise</i></figcaption> 
 </figure>
 
-The other set is full of gradients which gives off a regal feel, fitting for a culture which has just gotten elevated and internationally recognised status. (I’m working on finding the illustrator(s) behind this).
+The other set is full of gradients which gives off a regal feel, fitting for a culture which has just elevated to internationally recognised status. (I’m working on finding the illustrator(s) behind this).
 
 <figure>
 <img src="https://i.imgur.com/V4PpVrA.jpg" alt="sg hawkerfest illustration">
@@ -77,7 +82,7 @@ Compared to the <a href="https://brandingsingapore.blogspot.com/2018/04/oursgher
 <h2>Simple Idea, Simple Pleasures</h2>
 SG HawkerFest’s idea is simple, but do not <i>discount</i> its impact in getting people to visit new hawker centres. The five trivia quizzes cover hawker centres on all four corners of Singapore (plus one wildcard where the reward can be redeemed in any of the participating hawker centres), nudging Singaporeans to venture out of their usual go-to hawker centres.
 
-The mobile-first site is simple enough to navigate. Choose the hawker centre location and answer the trivia quiz. There is no penalty for getting an answer wrong - just try again. Note that you cannot change the hawker centre location and voucher collection timing once you select them. 
+The mobile-first <a href="https://sghawkerfest.sg/" target="_blank">minisite</a> is simple enough to navigate. Choose the hawker centre location and answer the trivia quiz. There is no penalty for getting an answer wrong - just try again. Note that you cannot change the hawker centre location and voucher collection timing once you select them. 
 
 <figure>
 <img src="https://i.imgur.com/sRb0xGs.png" alt="sg hawkerfest trivia">
@@ -96,11 +101,10 @@ The SG HawkerFest campaign also includes a digital video series on NEA’s socia
 
 <div class="video-responsive"><iframe width="1269" height="480" src="https://www.youtube.com/embed/KNuC00k1qjc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-A platform called Hawkers’ Seminar is also slated to launch soon, which allows hawkers to  “exchange ideas, celebrate hawkers’ achievements, and contribute to ongoing efforts to sustain the hawker trade”. 
+A platform called Hawkers’ Seminar is also slated to launch soon. Hawkers’ Seminar would allow hawkers to  “exchange ideas, celebrate hawkers’ achievements, and contribute to ongoing efforts to sustain the hawker trade”. 
 
-The inscription of hawker culture on the UNESCO Intangible Cultural Heritage list is just the first step in ensuring its longevity, which is currently threatened by an aging population of hawkers. Hopefully, this inscription would inspire more young people to enter the hawker trade, and future campaigns would likely work towards this goal. 
+The inscription of hawker culture on the UNESCO Intangible Cultural Heritage list is just the first step in ensuring its longevity, which is currently threatened by an aging population of hawkers. Hopefully, this inscription would inspire more young people to enter the hawker trade, and future national campaigns would likely work towards this goal. 
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
 Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
-
