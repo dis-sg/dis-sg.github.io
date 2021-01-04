@@ -6,7 +6,7 @@ categories: [Campaigns]
 tags: [Food, Government]
 description: "Nothing beats a clebration with free stuff"
 comments: false
-image: 
+image: https://i.imgur.com/ScvZLxT.png
 published: false
 ---
 
@@ -35,7 +35,7 @@ The style guide establishes the dos-and-don'ts for the logo, along with the colo
 The two accompanying illustration sets do the heavy lifting for the identity, which adorns all campaign material. The first set is a panoramic view of a hawker centre by creative studio 8EyedSpud - they recently posted sketches and the full piece on their <a href="https://www.instagram.com/8eyedspud/" target="_blank">Instagram</a> page. 
 
 <figure>
-<img src="https://i.imgur.com/XvDKVi3.jpg" alt="sg hawkerfest illustration 8eyespud">
+<img src="https://i.imgur.com/7baJ8rL.jpg" alt="sg hawkerfest illustration 8eyespud">
 <figcaption><a href="https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/hawker-culture/sg-hawkerfest" target="_blank">(Source)</a></figcaption>
 </figure>
 
