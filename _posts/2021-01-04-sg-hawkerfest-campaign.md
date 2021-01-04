@@ -73,7 +73,7 @@ Coinciding with this campaign is the <a href="https://www.oursgheritage.gov.sg/t
 <figcaption>By <a href="https://www.instagram.com/araikreva/" target="_blank">Raihana Abdul Rahman</a>, the celebration we could have had if not for this pandemic.</figcaption>
 </figure>
 
-Compared to the oursgheritage identity which got Singaporeans to support the UNESCO bid, there is less emphasis on visual consistency for SG HawkerFest. Instead, this campaign encouraged artistic interpretations, showcasing vibrancy in Singaporean art styles, which can also be said about the variety of food hawker centres offer. 
+Compared to the <a href="https://brandingsingapore.blogspot.com/2018/04/oursgheritage.html" target="_blank">oursgheritage</a> identity which got Singaporeans to support the UNESCO bid, there is less emphasis on visual consistency for SG HawkerFest. Instead, this campaign encouraged artistic interpretations, showcasing vibrancy in Singaporean art styles, which can also be said about the variety of food hawker centres offer. 
 
 <h2>Simple Idea, Simple Pleasures</h2>
 SG HawkerFest’s idea is simple, but do not <i>discount</i> its impact in getting people to visit new hawker centres. The five trivia quizzes cover hawker centres on all four corners of Singapore (plus one wildcard where the reward can be redeemed in any of the participating hawker centres), nudging Singaporeans to venture out of their usual go-to hawker centres.
