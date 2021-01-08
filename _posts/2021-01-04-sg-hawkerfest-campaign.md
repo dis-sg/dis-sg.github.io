@@ -36,7 +36,7 @@ The style guide establishes the dos-and-don'ts for the logo, along with the colo
 <figcaption><a href="https://www.nea.gov.sg/docs/default-source/hawker-centres-documents/e-resource-kit-for-download-(hawker-fest)/sg-hawkerfest-logo_guide_dec-2020.pdf" target="_blank">(Source)</a></figcaption>
 </figure>
 
-The two accompanying illustration sets, which adorn all campaign material, do the heavy lifting for the identity. The first set is a panoramic view of a hawker centre by creative studio 8EyedSpud - they recently posted sketches and the full piece on their <a href="https://www.instagram.com/8eyedspud/" target="_blank">Instagram</a> page. 
+The two accompanying illustration sets, which adorn all campaign material, do the heavy lifting for the identity. The first set is a panoramic view of a hawker centre by creative studio <a href="https://www.8eyedspud.com/" target="_blank">8EyedSpud</a> - they recently posted sketches and the full piece on their <a href="https://www.instagram.com/8eyedspud/" target="_blank">Instagram</a> page. 
 
 <figure>
 <img src="https://i.imgur.com/XvDKVi3.jpg" alt="sg hawkerfest illustration 8eyespud">
@@ -48,7 +48,7 @@ The two accompanying illustration sets, which adorn all campaign material, do th
 <figcaption><i>8EyedSpud nailed the chee kueh stall sign boards - they look the same regardless of franchise</i></figcaption> 
 </figure>
 
-The other set, made by <a href="https://www.facebook.com/tellyourchildren" target="_blank">Tell Your Children</a>, is full of gradients which gives off a regal feel, fitting for a culture which has just been elevated to internationally recognised status.
+The other set, made by <a href="https://www.tycstudios.com/" target="_blank">Tell Your Children</a>, is full of gradients which gives off a regal feel, fitting for a culture which has just been elevated to internationally recognised status.
 
 <figure>
 <img src="https://i.imgur.com/V4PpVrA.jpg" alt="sg hawkerfest illustration">
