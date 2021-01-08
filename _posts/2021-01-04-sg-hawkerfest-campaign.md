@@ -48,7 +48,7 @@ The two accompanying illustration sets, which adorn all campaign material, do th
 <figcaption><i>8EyedSpud nailed the chee kueh stall sign boards - they look the same regardless of franchise</i></figcaption> 
 </figure>
 
-The other set is full of gradients which gives off a regal feel, fitting for a culture which has just elevated to internationally recognised status. (I’m working on finding the illustrator(s) behind this).
+The other set, made by <a href="https://www.facebook.com/tellyourchildren" target="_blank">Tell Your Children</a>, is full of gradients which gives off a regal feel, fitting for a culture which has just been elevated to internationally recognised status.
 
 <figure>
 <img src="https://i.imgur.com/V4PpVrA.jpg" alt="sg hawkerfest illustration">
