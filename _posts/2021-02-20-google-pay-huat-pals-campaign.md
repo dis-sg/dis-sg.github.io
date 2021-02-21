@@ -78,12 +78,12 @@ A clear sign that Huat Pals have become a talking point is other brands referenc
 
 <figure>
 <img src="https://i.imgur.com/UyH8LoK.jpg" alt="crystal jade bb loh">
-<figcaption><a href="No BB Loh never mind, says Crystal Jade" target="_blank">(Source)</a></figcaption>
+<figcaption>No BB Loh never mind, says Crystal Jade <a href="https://www.facebook.com/crystaljadesg/photos/a.1516458338683589/2804560866539990/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <figure>
 <img src="https://i.imgur.com/zTrjpdV.jpg" alt="Red bull bb loh">
-<figcaption><a href="Red Bull has a lot of vitamin Bs but no Loh" target="_blank">(Source)</a></figcaption>
+<figcaption>Red Bull has a lot of vitamin Bs but no Loh <a href="https://www.facebook.com/RedBullSingapore/photos/a.127194410687681/4950182865055454/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Maybe in the future, instead of exchanging oranges, we would just exchange $10 on Google Pay.
