@@ -76,15 +76,14 @@ Perhaps entertainment and social fun - not throwing cash at customers - may be t
 <h2>Reaction from other brands</h2>
 A clear sign that Huat Pals have become a talking point is other brands referencing the elusiveness of BB Loh. Crystal Jade and Red Bull got in on the conversation.
 
-~CJ, RB
 <figure>
-<img src="" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/UyH8LoK.jpg" alt="crystal jade bb loh">
+<figcaption><a href="No BB Loh never mind, says Crystal Jade" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <figure>
-<img src="" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/zTrjpdV.jpg" alt="Red bull bb loh">
+<figcaption><a href="Red Bull has a lot of vitamin Bs but no Loh" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Maybe in the future, instead of exchanging oranges, we would just exchange $10 on Google Pay.
