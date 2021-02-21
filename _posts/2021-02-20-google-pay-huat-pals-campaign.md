@@ -7,7 +7,6 @@ tags: [Technology]
 description: "Gotta catch em' all, especially BB Loh."
 comments: false
 image: https://i.imgur.com/BQoFNgD.png
-published: false
 ---
 
 While local banks seem to have trouble encouraging Singaporeans to use e-angbaos this Lunar New Year, Google Pay users are exchanging money with friends and even acquaintances as part of the digital wallet’s Huat Pals game. 
@@ -67,7 +66,6 @@ Perhaps entertainment and social fun - not throwing cash at customers - may be t
 <figure>
 <img src="https://i.imgur.com/8qLlQoL.png" alt="gift basket google pay LNY">
 </figure>
-
 
 <figure>
 <img src="https://i.imgur.com/lmaRxPX.png" alt="gift basket google pay LNY">
