@@ -15,7 +15,7 @@ While local banks seem to have trouble encouraging Singaporeans to use e-angbaos
 Google Pay's first holiday campaign since its launch late last year appeals to the inner collector in all of us. The goal is simple: earn a Huat Pal with every transaction worth $10 or more. Collect all five Huat Pals and win an angbao worth up to $88.88. 
 
 <figure>
-<img src="https://i.imgur.com/2wTvmIh.png" alt="lenny evolution google pay LNY">
+<img src="https://i.imgur.com/2wTvmIh.png" alt="huat pals google pay LNY">
 </figure>
 
 Huat Pals’ designs are CNY-inspired but distinctly Google, as they follow Material Design principles of shadows and flattened graphics. Neo the weightlighter-esque ox represents this year’s zodiac animal, while the sneaker-wearing lion dancer Rara tries to replicate the ‘dong dong chiang’ atmosphere in light of a muted physical Lunar New Year. Ah Huat the pineapple cosplays as the God of Fortune, while the Singaporean-Malaysian invention yusheng appears as BB Loh - no masks on this Pal, though. 
@@ -28,7 +28,35 @@ Huat Pals also switch up their looks: on the first day of CNY, Lenny the lantern
 
 Google Pay not only created a Huat Pals campaign page but also dolled up the entire app to celebrate the new year by renaming scratch cards as angbaos and more. 
 
-~Pic 
+<figure>
+<img src="https://i.imgur.com/N7WsCYu.png" alt="google pay LNY home">
+<figcaption>Google Pay in Light and dark mode</figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/u53BKEP.png" alt="google pay notifications">
+<figcaption>Google Pay notifications promoting the campaign</figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/tgOzkAq.png" alt="google pay huat pals page">
+<figcaption>Google Pay's Huat Pals campaign homepage</figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/8f1CqyZ.png" alt="google pay huat pals how it works">
+<figcaption>Google Pay's Huat Pals campaign homepage</figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/tgOzkAq.png" alt="google pay huat pals page">
+<figcaption>Google Pay's Huat Pals campaign homepage</figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/tgOzkAq.png" alt="google pay huat pals page">
+<figcaption>Google Pay's Huat Pals campaign homepage</figcaption>
+</figure>
 
 <h2>Harder than it looks</h2>
 What Google Pay does not tell you is how difficult it is for users to collect BB Loh and Ah Huat, turning what would seem like an easy task into a dreadful drag towards game completion. The rare Pals are most likely to show up when you refer new users to the app - although their appearance is not guaranteed. 
@@ -39,15 +67,27 @@ Perhaps entertainment and social fun - not throwing cash at customers - may be t
 
 <figure>
 <img src="https://i.imgur.com/8qLlQoL.png" alt="gift basket google pay LNY">
-<figcaption>Google Pay's group feature allows you to chat with people.</figcaption>
 </figure>
 
 <h2>Reaction from other brands</h2>
 A clear sign that Huat Pals have become a talking point is other brands referencing the elusiveness of BB Loh. Crystal Jade and Red Bull got in on the conversation.
 
-~CJ, RB, WP
+~CJ, RB
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
 
 Maybe in the future, instead of exchanging oranges, we would just exchange $10 on Google Pay.
+
+<figure>
+<img src="https://i.imgur.com/wQzbh46.png" alt="google pay huat pals">
+</figure>
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
