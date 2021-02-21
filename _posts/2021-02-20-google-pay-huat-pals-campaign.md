@@ -18,6 +18,10 @@ Google Pay's first holiday campaign since its launch late last year appeals to t
 <img src="https://i.imgur.com/2wTvmIh.png" alt="huat pals google pay LNY">
 </figure>
 
+<figure>
+<img src="https://i.imgur.com/XUyaGhJ.png" alt="huat pals google pay LNY writeups">
+</figure>
+
 Huat Pals’ designs are CNY-inspired but distinctly Google, as they follow Material Design principles of shadows and flattened graphics. Neo the weightlighter-esque ox represents this year’s zodiac animal, while the sneaker-wearing lion dancer Rara tries to replicate the ‘dong dong chiang’ atmosphere in light of a muted physical Lunar New Year. Ah Huat the pineapple cosplays as the God of Fortune, while the Singaporean-Malaysian invention yusheng appears as BB Loh - no masks on this Pal, though. 
 
 Huat Pals also switch up their looks: on the first day of CNY, Lenny the lantern traded its nerdy spectacles for rockstar sunglasses as it evolved into Lenn-Er. It then evolved again into L33t-ny, because Internet teen lingo is a thing. How do you do, fellow kids? 
@@ -44,18 +48,8 @@ Google Pay not only created a Huat Pals campaign page but also dolled up the ent
 </figure>
 
 <figure>
-<img src="https://i.imgur.com/8f1CqyZ.png" alt="google pay huat pals how it works">
-<figcaption>Google Pay's Huat Pals campaign homepage</figcaption>
-</figure>
-
-<figure>
-<img src="https://i.imgur.com/tgOzkAq.png" alt="google pay huat pals page">
-<figcaption>Google Pay's Huat Pals campaign homepage</figcaption>
-</figure>
-
-<figure>
-<img src="https://i.imgur.com/tgOzkAq.png" alt="google pay huat pals page">
-<figcaption>Google Pay's Huat Pals campaign homepage</figcaption>
+<img src="https://i.imgur.com/dbnIJGY.png" alt="google pay huat pals collection">
+<figcaption>We need a pineapple tart huat pal</figcaption>
 </figure>
 
 <h2>Harder than it looks</h2>
@@ -67,6 +61,11 @@ Perhaps entertainment and social fun - not throwing cash at customers - may be t
 
 <figure>
 <img src="https://i.imgur.com/8qLlQoL.png" alt="gift basket google pay LNY">
+</figure>
+
+
+<figure>
+<img src="https://i.imgur.com/lmaRxPX.png" alt="gift basket google pay LNY">
 </figure>
 
 <h2>Reaction from other brands</h2>
