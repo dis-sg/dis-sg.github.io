@@ -38,6 +38,11 @@ Google Pay not only created a Huat Pals campaign page but also dolled up the ent
 </figure>
 
 <figure>
+<img src="https://i.imgur.com/Yo7iVgO.png" alt="google pay LNY theme">
+<figcaption>Google Pay's Lunar New Year theme</figcaption>
+</figure>
+
+<figure>
 <img src="https://i.imgur.com/u53BKEP.png" alt="google pay notifications">
 <figcaption>Google Pay notifications promoting the campaign</figcaption>
 </figure>
