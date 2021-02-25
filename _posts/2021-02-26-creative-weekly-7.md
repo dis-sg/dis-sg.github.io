@@ -26,13 +26,19 @@ Flexing: The streaming service boasts titles from the billion-dollar Marvel Cine
 Before the “Night of Disney+ event”, six teaser videos were broadcasted on social media, outdoor billboards and on TV to highlight the six different content hubs on Disney+. Shot by Moving Bits, these videos integrated iconic brand characters with Singapore landmarks such as the CBD, hawker centres and HDBs - a brilliant attempt at celebrating the streaming service’s launch here. 
 
 <h2>A New-ish Budget Logo and Identity</h2>
-The Budget has a new identity, breaking the five-year streak of the previous one which was designed by a then-Polytechnic student. 
+The Budget has a new identity, after using the previous logo from 2016 to 2020. 
 
 Singaporeans saw the previous logo more times last year, due to the supplementary budgets. Perhaps the new logo signifies a fresh start after a historic year of budget deficits. 
 
-The new logo consists of three stick human figures which form a heart, with one of the figures having an outstretched hand. Unfortunately, the Ministry of Finance did not disclose who designed the new identity.
+The new logo consists of three stick human figures which form a heart, with one of the figures having an outstretched hand. This time, the logo was designed by a team of <a href="https://www.mof.gov.sg/singaporebudget/about-budget" target="_blank">Temasek Polytechnic students</a>.  
 
 Here are some applications of the new identity.
+
+Budget Booklet:
+
+Animated logo:
+<div class="video-responsive"><iframe width="962" height="450" src="https://www.youtube.com/embed/ZTp3KvHyerM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 <h2>Plus: RTS Station Link Design Revealed</h2>
 
