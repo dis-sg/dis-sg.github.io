@@ -6,7 +6,7 @@ categories: [Creative Weekly]
 tags: [Stories]
 description: "Plus: The upcoming Johor RTS Station Facade Design"
 comments: false
-image: 
+image: https://i.imgur.com/HlRfhbI.png
 ---
 
 In this creative weekly, we explore the no-quarantine business travel exchange Connect@Changi, Disney+'s extravagant launch here and the Budget's new look. 
