@@ -29,7 +29,7 @@ Located at the Singapore Expo, Connect@Changi is effectively a bubble for busine
 
 <figure>
 <img src="https://i.imgur.com/zjNaX1R.jpg" alt="Connect@Changi meeting room">
-<figcaption><a href="https://connectatchangi.sg/gallery" target="_blank">(Source)</a></figcaption>
+<figcaption>A meeting room <a href="https://connectatchangi.sg/gallery" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Photographs and videos of Connect@Changi depict a posh, upscale enclave, featuring many local art pieces such as Peranakan motifs. Developed in part by local hospitality firm <a href="https://www.the-ascott.com/en.html" target="_blank">The Ascott</a>, it likely played a part in designing the facility, showcasing the best of Singapore luxury.
@@ -47,9 +47,31 @@ Photographs and videos of Connect@Changi depict a posh, upscale enclave, featuri
 <h2>Disney+ comes to Singapore</h2>
 The grand arrival of Disney+ in Singapore was well publicised and expensive. Few companies have the budget to use the entire Marina Bay skyline as a backdrop. 
 
-Flexing: The streaming service boasts titles from the billion-dollar Marvel Cinematic Universe, Pixar and National Geographic
+<figure>
+<img src="https://i.imgur.com/5Da1fb6.png" alt="A night of Disney+ Finding Nemo">
+<figcaption>Finding Nemo and Finding Dory <a href="https://www.facebook.com/watch/?v=3713818558707733" target="_blank">(Source)</a></figcaption>
+</figure>
 
-Before the “Night of Disney+ event”, six teaser videos were broadcasted on social media, outdoor billboards and on TV to highlight the six different content hubs on Disney+. Shot by Moving Bits, these videos integrated iconic brand characters with Singapore landmarks such as the CBD, hawker centres and HDBs - a brilliant attempt at celebrating the streaming service’s launch here. 
+<figure>
+<img src="https://i.imgur.com/UhjWCN7.png" alt="A night of Disney+ Frozen 2">
+<figcaption>Frozen 2 <a href="https://www.facebook.com/watch/?v=3713818558707733" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/GNZwykI.png" alt="A night of Disney+ The Mandalorian">
+<figcaption>The Mandalorian <a href="https://www.facebook.com/watch/?v=3713818558707733" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/IcSGowG.png" alt="A night of Disney+ JJ Lin">
+<figcaption>They got JJ Lin to perform at the palm of the ArtScience Museum <a href="https://www.facebook.com/watch/?v=3713818558707733" target="_blank">(Source)</a></figcaption>
+</figure>
+
+Before the “Night of Disney+ event”, six teaser videos were broadcasted on social media, outdoor billboards and on TV to highlight the six different content hubs on Disney+. Shot by <a href="http://movingbitsonline.com/" target="_blank">Moving Bits</a>, these videos integrated iconic brand characters with Singapore landmarks such as the CBD, hawker centres and HDBs - a brilliant attempt at celebrating the streaming service’s launch here. Here are my favourites:
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FDisneyPlusSG%2Fvideos%2F255729016118560%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FDisneyPlusSG%2Fvideos%2F482957836058663%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 <h2>A New-ish Budget Logo and Identity</h2>
 <figure>
@@ -114,7 +136,7 @@ Just five minutes away from Woodlands North station, this terminus would make Jo
 
 <figure>
 <img src="https://i.imgur.com/P1ufgtb.jpg" alt="RTS Station Link">
-<figcaption>Night view<a href="https://www.facebook.com/MRTMalaysia/posts/4063728690325168" target="_blank">(Source)</a></figcaption>
+<figcaption>Night view <a href="https://www.facebook.com/MRTMalaysia/posts/4063728690325168" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
