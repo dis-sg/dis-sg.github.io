@@ -44,7 +44,7 @@ Photographs and videos of Connect@Changi depict a posh, upscale enclave, featuri
 <figcaption>Wallpaper of the Helix Bridge <a href="https://connectatchangi.sg/gallery" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<h2>Disney+ comes to Singapore</h2>
+<h2>Disney+65</h2>
 The grand arrival of Disney+ in Singapore was well publicised and expensive. Few companies have the budget to use the entire Marina Bay skyline as a backdrop. 
 
 <figure>
@@ -109,7 +109,7 @@ Additionally, the budget trivia page included a handy poster which compiled Budg
 <figcaption><a href="https://www.mof.gov.sg/singaporebudget/resources/did-you-know" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<h2>Plus: RTS Station Link Design Revealed</h2>
+<h2>Plus: Johor-Singapore RTS Station Design Revealed</h2>
 
 <figure>
 <img src="https://i.imgur.com/XRsQRdM.jpg" alt="RTS Station Link">
