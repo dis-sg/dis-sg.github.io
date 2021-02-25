@@ -64,7 +64,7 @@ The grand arrival of Disney+ in Singapore was well publicised and expensive. Few
 
 <figure>
 <img src="https://i.imgur.com/IcSGowG.png" alt="A night of Disney+ JJ Lin">
-<figcaption>They got JJ Lin to perform at the palm of the ArtScience Museum <a href="https://www.facebook.com/watch/?v=3713818558707733" target="_blank">(Source)</a></figcaption>
+<figcaption>They even got JJ Lin to perform on the "palm" of the ArtScience Museum <a href="https://www.facebook.com/watch/?v=3713818558707733" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Before the “Night of Disney+ event”, six teaser videos were broadcasted on social media, outdoor billboards and on TV to highlight the six different content hubs on Disney+. Shot by <a href="http://movingbitsonline.com/" target="_blank">Moving Bits</a>, these videos integrated iconic brand characters with Singapore landmarks such as the CBD, hawker centres and HDBs - a brilliant attempt at celebrating the streaming service’s launch here. Here are my favourites:
