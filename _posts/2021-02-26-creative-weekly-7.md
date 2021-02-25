@@ -10,7 +10,7 @@ image: https://i.imgur.com/HlRfhbI.png
 ---
 
 In this creative weekly, we explore the no-quarantine business travel exchange Connect@Changi, Disney+'s extravagant launch here and the Budget's new look. 
-
+<br>
 <h2>Connect@Changi Flexes Singapore's Luxury Design Muscle</h2>
 
 <figure>
@@ -20,7 +20,7 @@ In this creative weekly, we explore the no-quarantine business travel exchange C
 
 In an era of video conferencing, Singapore is betting on high income businesspersons who prefer face-to-face meetings to meet at Changi’s newest - and probably cleanest - facility. 
 
-Located at the Singapore Expo, Connect@Changi is effectively a bubble for business travellers to Singapore - they are not allowed to leave the facility and meetings between them and the Singapore side are powered by two ventilation systems separated by a transparent border. Instead of quarantine for typical arrivals, Connect@Changi travellers only need to take a swab test before they are allowed to move around the facility. 
+Located at the Singapore Expo, Connect@Changi is effectively a bubble for business travellers to Singapore - they are not allowed to leave the facility and meetings between them and the Singapore side are powered by two ventilation systems separated by a transparent glass border. Instead of quarantine orders, Connect@Changi travellers only need to take a swab test before they are allowed to move around the facility. 
 
 <figure>
 <img src="https://i.imgur.com/GXfEV9j.jpg" alt="Connect@Changi courtyard">
@@ -32,7 +32,7 @@ Located at the Singapore Expo, Connect@Changi is effectively a bubble for busine
 <figcaption>A meeting room <a href="https://connectatchangi.sg/gallery" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Photographs and videos of Connect@Changi depict a posh, upscale enclave, featuring many local art pieces such as Peranakan motifs. Developed in part by local hospitality firm <a href="https://www.the-ascott.com/en.html" target="_blank">The Ascott</a>, it likely played a part in designing the facility, showcasing the best of Singapore luxury.
+Photographs and videos of Connect@Changi reveal a posh, upscale enclave, featuring many local art pieces such as plates inspired by Peranakan motifs. Developed in part by local hospitality firm <a href="https://www.the-ascott.com/en.html" target="_blank">The Ascott</a>, it likely played a part in designing the facility, showcasing the best of Singapore luxury.
 
 <figure>
 <img src="https://i.imgur.com/HNX2xed.jpg" alt="Connect@Changi reception 2">
@@ -43,9 +43,9 @@ Photographs and videos of Connect@Changi depict a posh, upscale enclave, featuri
 <img src="https://i.imgur.com/0ooKnnE.jpg" alt="Connect@Changi room">
 <figcaption>Wallpaper of the Helix Bridge <a href="https://connectatchangi.sg/gallery" target="_blank">(Source)</a></figcaption>
 </figure>
-
+<br>
 <h2>Disney+65</h2>
-The grand arrival of Disney+ in Singapore was well publicised and expensive. Few companies have the budget to use the entire Marina Bay skyline as a backdrop. 
+The grand arrival of Disney+ in Singapore was well publicised and expensive - few companies have the budget to use the entire Marina Bay skyline as a backdrop. 
 
 <figure>
 <img src="https://i.imgur.com/5Da1fb6.png" alt="A night of Disney+ Finding Nemo">
@@ -67,12 +67,12 @@ The grand arrival of Disney+ in Singapore was well publicised and expensive. Few
 <figcaption>They even got JJ Lin to perform on the "palm" of the ArtScience Museum <a href="https://www.facebook.com/watch/?v=3713818558707733" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Before the “Night of Disney+ event”, six teaser videos were broadcasted on social media, outdoor billboards and on TV to highlight the six different content hubs on Disney+. Shot by <a href="http://movingbitsonline.com/" target="_blank">Moving Bits</a>, these videos integrated iconic brand characters with Singapore landmarks such as the CBD, hawker centres and HDBs - a brilliant attempt at celebrating the streaming service’s launch here. Here are my favourites:
+Before the “Night of Disney+" event, six teaser videos were broadcasted on social media, outdoor billboards and on TV to highlight the six different content hubs on Disney+. Shot by <a href="http://movingbitsonline.com/" target="_blank">Moving Bits</a>, these videos integrated iconic brand characters with Singapore landmarks such as the CBD, hawker centres and HDBs - a brilliant attempt at celebrating the streaming service’s launch here. Here are my favourites:
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FDisneyPlusSG%2Fvideos%2F255729016118560%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FDisneyPlusSG%2Fvideos%2F482957836058663%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
+<br>
 <h2>A New-ish Budget Logo and Identity</h2>
 <figure>
 <img src="https://i.imgur.com/LKMIHmz.png" alt="budget 2021 logo">
@@ -93,7 +93,6 @@ The new logo consists of three stick human figures which form a heart, with one 
 Here are some applications of the new identity.
 
 Budget Booklet: 
-
 <figure>
 <img src="https://i.imgur.com/SZzcOYe.png" alt="budget booklet">
 <figcaption>Gradients galore <a href="https://www.mof.gov.sg/singaporebudget/resources/budget-booklet/budget-booklet-english" target="_blank">(Source)</a></figcaption>
@@ -102,13 +101,13 @@ Budget Booklet:
 Animated logo:
 <div class="video-responsive"><iframe width="962" height="450" src="https://www.youtube.com/embed/ZTp3KvHyerM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Additionally, the budget trivia page included a handy poster which compiled Budget covers from 1980 to 2015. My favorite is FY1980’s cover, which managed to capture the country’s aspirations for industrialisation tastefully through the use of illustrations and a geometric font. 
+Additionally, the budget trivia page included a handy poster which compiled Budget covers from 1980 to 2015. My favorite is FY1980’s cover, which managed to capture the country’s aspirations of industrialisation tastefully through the use of illustrations and a geometric font. 
 
 <figure>
 <img src="https://i.imgur.com/TAlbqld.jpg" alt="past budget statement covers">
 <figcaption><a href="https://www.mof.gov.sg/singaporebudget/resources/did-you-know" target="_blank">(Source)</a></figcaption>
 </figure>
-
+<br>
 <h2>Plus: Johor-Singapore RTS Station Design Revealed</h2>
 
 <figure>
@@ -116,7 +115,7 @@ Additionally, the budget trivia page included a handy poster which compiled Budg
 <figcaption><a href="https://www.facebook.com/MRTMalaysia/posts/4063728690325168" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Come 2026, a new train terminus would greet travellers who travel from Singapore to Johor on the Rapid Transit System.  
+Come 2026, a new train terminus would greet travellers who arrive in Johor from Singapore on the Rapid Transit System.  
 
 Designed by Johorean architect Chin Yee Chong of SM Architects, the "Integration of Two" proposal was selected from a pool of 91 submissions for the Facade Design Ideas Competition. 
 
@@ -132,7 +131,7 @@ The four-storey building is wrapped in an intertwining swirl facade to signify J
 <figcaption><a href="https://www.facebook.com/MRTMalaysia/posts/4063728690325168" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Just five minutes away from Woodlands North station, this terminus would make Johor getaways a more aesthetically pleasing experience.
+Just five minutes away from Woodlands North station, this terminus would make Johor getaways a more aesthetically-pleasing experience.
 
 <figure>
 <img src="https://i.imgur.com/P1ufgtb.jpg" alt="RTS Station Link">
