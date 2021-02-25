@@ -3,7 +3,7 @@ layout: post
 title: "Google Pay Huat Pals Campaign: My Huat Pals are Here"
 author: d
 categories: [Campaigns]
-tags: [Technology]
+tags: [Technology, Lunar New Year]
 description: "Gotta catch em' all, especially BB Loh."
 comments: false
 image: https://i.imgur.com/BQoFNgD.png
