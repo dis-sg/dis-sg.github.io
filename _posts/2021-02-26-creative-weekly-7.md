@@ -26,30 +26,52 @@ Flexing: The streaming service boasts titles from the billion-dollar Marvel Cine
 Before the “Night of Disney+ event”, six teaser videos were broadcasted on social media, outdoor billboards and on TV to highlight the six different content hubs on Disney+. Shot by Moving Bits, these videos integrated iconic brand characters with Singapore landmarks such as the CBD, hawker centres and HDBs - a brilliant attempt at celebrating the streaming service’s launch here. 
 
 <h2>A New-ish Budget Logo and Identity</h2>
+<figure>
+<img src="https://i.imgur.com/LKMIHmz.png" alt="budget 2021 logo">
+<figcaption><a href="https://www.mof.gov.sg/singaporebudget/about-budget" target="_blank">(Source)</a></figcaption>
+</figure>
 The Budget has a new identity, after using the previous logo from 2016 to 2020. 
-
+<figure>
+<img src="https://i.imgur.com/83DY525.jpg" alt="budget logos old">
+<figcaption>The previous budget logo in different colours</figcaption>
+</figure>
 Singaporeans saw the previous logo more times last year, due to the supplementary budgets. Perhaps the new logo signifies a fresh start after a historic year of budget deficits. 
 
 The new logo consists of three stick human figures which form a heart, with one of the figures having an outstretched hand. This time, the logo was designed by a team of <a href="https://www.mof.gov.sg/singaporebudget/about-budget" target="_blank">Temasek Polytechnic students</a>.  
 
 Here are some applications of the new identity.
 
-Budget Booklet:
+Budget Booklet: 
+<figure>
+<img src="https://i.imgur.com/SZzcOYe.png" alt="budget booklet">
+<figcaption>Gradients galore <a href="https://www.mof.gov.sg/singaporebudget/resources/budget-booklet/budget-booklet-english" target="_blank">(Source)</a></figcaption>
+</figure>
 
 Animated logo:
 <div class="video-responsive"><iframe width="962" height="450" src="https://www.youtube.com/embed/ZTp3KvHyerM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-
 <h2>Plus: RTS Station Link Design Revealed</h2>
-
+<figure>
+<img src="https://i.imgur.com/XRsQRdM.jpg" alt="RTS Station Link">
+<figcaption><a href="https://www.facebook.com/MRTMalaysia/posts/4063728690325168" target="_blank">(Source)</a></figcaption>
+</figure>
 Come 2026, a new train terminus would greet travellers who travel from Singapore to Johor on the Rapid Transit System.  
 
 Designed by Johorean architect Chin Yee Chong of SM Architects, the "Integration of Two" proposal was selected from a pool of 91 submissions for the Facade Design Ideas Competition. 
-
+<figure>
+<img src="https://i.imgur.com/lRNMwn4.jpg" alt="RTS Station Link">
+<figcaption><a href="https://www.facebook.com/MRTMalaysia/posts/4063728690325168" target="_blank">(Source)</a></figcaption>
+</figure>
 The four-storey building is wrapped in an intertwining swirl facade to signify Johor and Singapore’s history and relationship, said to be made stronger upon completion of this transport project. 
-
+<figure>
+<img src="https://i.imgur.com/e7wkKAW.jpg" alt="RTS Station Link">
+<figcaption><a href="https://www.facebook.com/MRTMalaysia/posts/4063728690325168" target="_blank">(Source)</a></figcaption>
+</figure>
 Just five minutes away from Woodlands North station, this terminus would make Johor getaways a more aesthetically pleasing experience.
-
+<figure>
+<img src="https://i.imgur.com/P1ufgtb.jpg" alt="RTS Station Link">
+<figcaption>Night view<a href="https://www.facebook.com/MRTMalaysia/posts/4063728690325168" target="_blank">(Source)</a></figcaption>
+</figure>
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
 Creative Weekly is a roundup of local news stories from a design angle. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
