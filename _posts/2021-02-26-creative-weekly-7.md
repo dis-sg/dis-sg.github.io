@@ -10,6 +10,7 @@ image: https://i.imgur.com/HlRfhbI.png
 ---
 
 In this creative weekly, we explore the no-quarantine business travel exchange Connect@Changi, Disney+'s extravagant launch here and the Budget's new look. 
+
 <br>
 <h2>Connect@Changi Flexes Singapore's Luxury Design Muscle</h2>
 
