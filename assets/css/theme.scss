@@ -240,6 +240,11 @@ img, img:hover {
     position:absolute;
 }
 
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
 
 // blog grid
 .blog-grid-container {
