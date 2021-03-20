@@ -4,7 +4,7 @@ title: "STPI Open House 2021: A Printing Odyssey"
 author: d
 categories: [Art, Event]
 tags: [Stories]
-description: ""
+description: "This year's theme is Font Memories"
 comments: false
 image: https://i.imgur.com/xVEUcrp.png
 ---
