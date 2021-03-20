@@ -29,7 +29,7 @@ Font Memories’ colourful identity celebrates different typography and printing
 The modular aesthetic allows for neat applications, keeping the rainbow of colours in check from overshadowing the actual content.  
 
 <figure>
-<img src="https://i.imgur.com/3hUKODQ.gifv" alt="STPI Open House 2021 stamp card">
+<img src="https://i.imgur.com/3hUKODQ.gif" alt="STPI Open House 2021 stamp card">
 <figcaption><a href="https://www.stpi.com.sg/programmes/" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ In “Print with the Pros”, visitors can try relief printing, lithography, scr
 </figure>
 
 <figure>
-<img src="https://i.imgur.com/vrp2ved.gifv" alt="STPI Open House 2021 Screenprinting">
+<img src="https://i.imgur.com/vrp2ved.gif" alt="STPI Open House 2021 Screenprinting">
 <figcaption>Spread the colours on top of the stencil</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ In “Print with the Pros”, visitors can try relief printing, lithography, scr
 </figure>
 
 <figure>
-<img src="https://i.imgur.com/d9Ob2zd.gifv" alt="STPI Open House 2021 Lithography">
+<img src="https://i.imgur.com/d9Ob2zd.gif" alt="STPI Open House 2021 Lithography">
 <figcaption>Success</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ In “Print with the Pros”, visitors can try relief printing, lithography, scr
 </figure>
 
 <figure>
-<img src="https://i.imgur.com/mbYpXPB.gifv" alt="STPI Open House 2021 Relief Printing">
+<img src="https://i.imgur.com/mbYpXPB.gif" alt="STPI Open House 2021 Relief Printing">
 <figcaption>A delicate but rewarding process</figcaption>
 </figure>
 
