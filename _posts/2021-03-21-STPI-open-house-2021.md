@@ -13,7 +13,7 @@ Creative workshop and gallery STPI is holding its annual open house this week. T
 
 Admission is free but donations are welcomed - blank tote bags and notebooks are available at the registration counter for purchase so you can handprint a design on them. 
 
-<b2>Identity</b2>
+<h2>Identity</h2>
 <figure>
 <img src="https://i.imgur.com/aJjdHGX.png" alt="STPI Open House 2021">
 <figcaption><a href="https://www.facebook.com/STPICreativeWorkshopandGallery/photos/3967972176556379" target="_blank">(Source)</a></figcaption>
@@ -35,7 +35,7 @@ The modular aesthetic allows for neat applications, keeping the rainbow of colou
 
 Each visitor is given a stamp card to track the progress of completed activities which doubles as a cute memento, but the real souvenirs are printed creations of the activities. 
 
-<b2>Activities</b2>
+<h2>Activities</h2>
 In “Print with the Pros”, visitors can try relief printing, lithography, screenprinting, and more. STPI artists will guide you though the different printing processes and explain the nuances that go into creating a good printed - and uniquely handmade - creation. 
 
 <i>Screenprinting</i>
@@ -91,6 +91,7 @@ SPTI’s level 2 activities are mostly seated activities, and they include shrin
 Design your own plastic keychain using colour pencils and markers before the designs are popped in the microwave oven for shrinking. 
 
 <i>Miniature Bookbinding</i>
+
 Requiring only coloured paper and glue, this activity could be your new pastime. 
 
 <figure>
