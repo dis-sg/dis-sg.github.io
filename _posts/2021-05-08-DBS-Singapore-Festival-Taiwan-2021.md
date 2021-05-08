@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DBS Singapore Festival in Taiwan: "
+title: "DBS Singapore Festival in Taiwan: Pandemic Passion Made Possible"
 author: d
 categories: [Event, Tourism]
 tags: [Stories]
@@ -27,15 +27,15 @@ Watching the livestream was eye-opening as the host brought viewers through all 
 <h2>LED Rain Vortex</h2>
 <figure>
 <img src="https://i.imgur.com/JF939og.jpg" alt="DBS Singapore Festival rain vortex">
-<figcaption>Skytrees in the Rain Vortex <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
-</figure>
-
-<figure>
-<img src="https://i.imgur.com/Xsg0wN4.png" alt="DBS Singapore Festival rain vortex">
-<figcaption>Taipei 101 looks on <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
 </figure>
 
 The centrepiece of this Festival is a 8-metre tall vertical LED panel that is supposed to simulate Jewel Changi’s Rain Vortex. A teaser of sorts to the actual waterfall at Changi, the panel screens an LED show every half hour, promoting DBS’ values and touting its achievements. 
+
+<figure>
+<img src="https://i.imgur.com/Xsg0wN4.png" alt="DBS Singapore Festival rain vortex 1">
+<figcaption>Taipei 101 looks on <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+</figure>
 
 <figure>
 <img src="https://i.imgur.com/hcKreoJ.png" alt="DBS Singapore Festival rain vortex 2">
@@ -44,7 +44,7 @@ The centrepiece of this Festival is a 8-metre tall vertical LED panel that is su
 
 <figure>
 <img src="https://i.imgur.com/Oo6PTte.jpg" alt="DBS Singapore Festival rain vortex 3">
-<figcaption><a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+<figcaption>The LED show <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
 </figure>
 
 The panel looks more stunning at night, according to the host - in daytime, visitors simply walk past the screen without paying any attention to it.
@@ -104,9 +104,22 @@ More synergy would have resonated more with Taiwanese visitors, especially in th
 <h2>Local Brand Booths</h2>
 Even during the pandemic, Singaporean brands seem to be going strong overseas, with food booths selling out before the end of the day. Among the homegrown brands featured in the Festival are Song Fa, Irvins and Sergeant Chicken Rice. 
 
+<figure>
+<img src="https://i.imgur.com/3eZtiP4.png" alt="DBS Singapore Festival sold out">
+<figcaption>Sold out! <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+</figure>
+
 Apart from food booths, other big name local brands are also participants of the Festival. Singapore Airlines offers a VR experience at its booth, while Razer ripped its booth straight out of an IT fair. 
 
+<figure>
+<img src="https://i.imgur.com/f61Lye6.png" alt="DBS Singapore Festival singapore airlines">
+<figcaption><a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+</figure>
 
+<figure>
+<img src="https://i.imgur.com/gLlR1cU.png" alt="DBS Singapore Festival razer">
+<figcaption><a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+</figure>
 
 Despite many events pivoting to online or hybrid formats since the start of the pandemic, I am surprised this Festival lacked digital presence apart from posts on DBS Taiwan's social media channels. Nonetheless, this is a decent effort to engage the Taiwanese about Singapore
 
