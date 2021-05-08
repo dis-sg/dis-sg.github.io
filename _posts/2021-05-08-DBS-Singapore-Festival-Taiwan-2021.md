@@ -7,7 +7,6 @@ tags: [Stories]
 description: "Featuring an LED Rain Vortex and Merlion bahulus"
 comments: false
 image: https://i.imgur.com/UnOaoiU.jpg
-published: false
 ---
 
 After a year devoid of recreational travel, Singapore is stepping up its efforts in reminding other nations that it exists as a tourist destination. The DBS Singapore Festival in Taipei is one such effort, introducing Taiwanese citizens to local brands and cultural experiences that reflect Singapore’s unique heritage. 
