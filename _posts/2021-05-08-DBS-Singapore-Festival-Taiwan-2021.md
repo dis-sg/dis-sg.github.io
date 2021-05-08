@@ -12,22 +12,42 @@ published: false
 
 After a year devoid of recreational travel, Singapore is stepping up its efforts in reminding other nations that it exists as a tourist destination. The DBS Singapore Festival in Taipei is one such effort, introducing Taiwanese citizens to local brands and cultural experiences that reflect Singapore’s unique heritage. 
 
-Now in its second year (the first edition was held in 2019), this Festival gives us a sense of how Singapore wants to position itself overseas, which can appear bizarre at times to Singaporeans who visit the Festival or watch its livestream. Organisers clearly cracked their heads at trying to condense the best of Singapore into small exhibits.
+Now in its second year (the first edition was held in 2019), this Festival gives us a sense of how Singapore wants to position itself overseas, which can appear bizarre at times to Singaporeans who visit the Festival or watch its <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">livestream</a>. Organisers clearly cracked their heads at trying to condense the best of Singapore into small exhibits.
 
 <h2>Singapore’s Mandarin Slogan</h2>
+<figure>
+<img src="https://i.imgur.com/17zkQSy.png" alt="Singapore Passion made Possible in chinese">
+<figcaption><a href="https://udn.com/news/story/7270/5420103" target="_blank">(Source)</a></figcaption>
+</figure>
 Before we discuss the Festival proper, I want to highlight Singapore’s tourism slogan in Mandarin. “Passion made Possible” is translated to “心想狮城”, a phonetic play on the idiom “心想事成”, which means “may all your wishes come true”. The last two characters of the slogan translates to “Lion City”, so when taken together, the slogan is “Singapore is a city where your wishes come true”. The slogan is clever and punchy, perhaps more so than the English slogan. 
-
-http://www.tripvivid.com/articles/11279 
 
 <h2>The Exhibits</h2>
 Watching the livestream was eye-opening as the host brought viewers through all the Festival booths and exhibits. These were the ones that stood out: 
 
 <h2>LED Rain Vortex</h2>
+<figure>
+<img src="https://i.imgur.com/JF939og.jpg" alt="DBS Singapore Festival rain vortex">
+<figcaption>Skytrees in the Rain Vortex <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/Xsg0wN4.png" alt="DBS Singapore Festival rain vortex">
+<figcaption>Taipei 101 looks on <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+</figure>
+
 The centrepiece of this Festival is a 8-metre tall vertical LED panel that is supposed to simulate Jewel Changi’s Rain Vortex. A teaser of sorts to the actual waterfall at Changi, the panel screens an LED show every half hour, promoting DBS’ values and touting its achievements. 
 
-The panel looks more stunning at night, according to the host - in daytime, visitors simply walk past the screen without paying any attention to it.
+<figure>
+<img src="https://i.imgur.com/hcKreoJ.png" alt="DBS Singapore Festival rain vortex 2">
+<figcaption><a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+</figure>
 
-While Taipei 101 looks on 
+<figure>
+<img src="https://i.imgur.com/Oo6PTte.jpg" alt="DBS Singapore Festival rain vortex 3">
+<figcaption>Skytrees in the Rain Vortex <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+</figure>
+
+The panel looks more stunning at night, according to the host - in daytime, visitors simply walk past the screen without paying any attention to it.
 
 <h2>Photobooths</h2>
 Fresh off a successful bid to enshrine local hawker culture in the UNESCO list of intangible cultural heritage, a backdrop of Maxwell Market serves as a photobooth where festival-goers can pose with a cut-outs of nonya kuehs and hawker cutlery. 
@@ -39,12 +59,17 @@ No Singaporean festival is complete without freebies, which strongly appeals to 
 
 Festival-goers can also put their legs to work by cycling to produce glasses of fruit juice - an activity by DBS to promote its sustainability cause. 
 
+<figure>
+<img src="https://i.imgur.com/17zkQSy.png" alt="DBS Singapore Festival cycling">
+<figcaption><a href="https://udn.com/news/story/7270/5420103" target="_blank">(Source)</a></figcaption>
+</figure>
+
 For festival-goers who prefer a more cultural experience, henna artists offer free tattoos at the Little India booth, as a nod to our multi-racial identity. 
 
 <h2>Merly & DBS Mascots</h2>
-DBS’ mascots Xing and Jaan are prominently featured in Festival banners and collaterals, unlike Singapore’s official tourism mascot Merly, whose appearance was largely confined to what appears to be Singapore Tourism Board-sponsored boards. 
+DBS’ mascots Xing and Jaan are prominently featured in Festival banners and collaterals, while Singapore’s official tourism mascot Merly makes less frequent cameos such as on Singapore Tourism Board-sponsored boards. 
 
-The duo even made physical appearances
+physical appearances
 
 More synergy would have resonated more with Taiwanese visitors, especially in the mascot-crazy nation.
  
@@ -53,7 +78,8 @@ Even during the pandemic, Singaporean brands seem to be going strong overseas, w
 
 Apart from food booths, other big name local brands are also participants of the Festival. Singapore Airlines offers a VR experience at its booth, while Razer ripped its booth straight out of an IT fair. 
 
-This Festival has a . despite many events pivoting to online, I am surprised this Festival did not include any digital part. Nonetheless, it decent effort to engage Taiwanese  
+Despite many events pivoting to online or hybrid formats since the start of the pandemic, I am surprised this Festival lacked digital presence apart from posts on DBS Taiwan's social media channels. Nonetheless, this is a decent effort to engage the Taiwanese about Singapore
+
 While a travel bubble has not yet been established with Taiwan, count on citizens from both countries to jostle for tickets once recreational flights are announced.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
