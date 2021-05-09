@@ -38,7 +38,7 @@ The centrepiece of this Festival is a 8-metre tall vertical LED panel that is su
 
 <figure>
 <img src="https://i.imgur.com/hcKreoJ.png" alt="DBS Singapore Festival rain vortex 2">
-<figcaption>Skytrees in the Rain Vortex <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
+ <figcaption>Skytrees <i>inside</i> the Rain Vortex <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <figure>
@@ -46,7 +46,7 @@ The centrepiece of this Festival is a 8-metre tall vertical LED panel that is su
 <figcaption>The LED show <a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
 </figure>
 
-The panel looks more stunning at night, according to the host - in daytime, visitors simply walk past the screen without paying any attention to it.
+The panel looks more stunning at night, according to the host - during daytime, visitors simply walk past the screen without paying any attention to it.
 
 <h2>Photobooths</h2>
 Fresh off a successful bid to enshrine local hawker culture in the UNESCO list of intangible cultural heritage, a backdrop of Maxwell Market serves as a photobooth where festival-goers can pose with a cut-outs of nonya kuehs and hawker cutlery. 
@@ -120,7 +120,7 @@ Apart from food booths, other big name local brands are also participants of the
 <figcaption><a href="https://www.facebook.com/142816435924517/videos/506125574061879" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Despite many events pivoting to online or hybrid formats since the start of the pandemic, I am surprised this Festival lacked digital presence apart from posts on DBS Taiwan's social media channels. Nonetheless, this is a decent effort to engage the Taiwanese about Singapore
+Despite many events pivoting to online or hybrid formats since the start of the pandemic, I am surprised this Festival lacked digital presence apart from posts on DBS Taiwan's social media channels. Nonetheless, this is a decent effort to engage the Taiwanese about Singapore's attractions and products.
 
 While a travel bubble has not yet been established with Taiwan, count on citizens from both countries to jostle for tickets once recreational flights are announced.
 
