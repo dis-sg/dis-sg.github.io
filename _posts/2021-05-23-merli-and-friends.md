@@ -67,7 +67,7 @@ Here are some close-ups of the mascots.
 </figure>
 
 <figure>
-<img src="https://i.imgur.com/T9mDZPY.png" alt="Singapore D65 the Durian UFO mascot">
+<img src="https://i.imgur.com/Y3Wv8zS.png" alt="Singapore D65 the Durian UFO mascot">
 <figcaption>Singapore D65 the Durian UFO <a href="https://www.youtube.com/watch?v=4cZ25hKjZEM&list=PL2WeSpSCs2h8gBpeO2HLczCTUrz4spgQ2&index=5" target="_blank">(Source)</a></figcaption>
 </figure>
 
