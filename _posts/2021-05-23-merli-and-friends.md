@@ -17,11 +17,10 @@ Since Merli’s <a href="https://brandingsingapore.blogspot.com/2018/07/merli.ht
 
 The pandemic seemed to change this strategy. As tourist spending dipped, Singapore looked inward and encouraged local tourism via the SingapoRediscovers campaign, with Merli at the heart of the promotion. 
 
-When we received our SingapoRediscovers vouchers in November 2020, Merli adorned the campaign-branded envelopes. E-banners at lift lobbies also featured Merli, which introduced many HDB residents to our tourism mascot for the first time.  
+When we received our SingapoRediscovers factsheets via mail in November 2020, Merli adorned the campaign-branded envelopes. E-banners at lift lobbies also featured Merli, which introduced many HDB residents to our tourism mascot for the first time.  
 
 <figure>
-<img src=" " alt="merli SingapoRediscovers">
-<figcaption> </figcaption>
+<img src="https://i.imgur.com/UZOoZ6r.jpg" alt="merli SingapoRediscovers mail">
 </figure>
 
 The renewed focus on Merli came with new additions to the Singapore mascot family. During the lockdown last year, the Singapore Tourism Board (STB) welcomed four friends who reflect Singapore’s diversity of wildlife, sprinkled with a dash of absurdity. 
@@ -92,8 +91,6 @@ D65’s design stands out the most - the nifty concept tries to make sense of an
 Another video series which teaches netizens how to draw Merli and its friends was also released last year. It was a great way to introduce netizens to the mascots, and a godsend for parents (and the young-at-heart) amid phase 2 measures last year. 
 
 <div class="video-responsive"><iframe width="1264" height="480" src="https://www.youtube.com/embed/yvejvF4X_V8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-While both series did not achieve viral success, the public is slowly warming up to the creatures that represent us on the global stage. An example is a homegrown project that was launched during the circuit breaker last year. 3D printing hobbyist lg2113 uploaded a publicly-accessible blueprint of Merli’s design, which was given the go-ahead by STB. Perhaps he will create blueprints for the rest of the family during this current semi-lockdown.
 
 While both series did not achieve viral success, the public is slowly warming up to the creatures that represent us on the global stage. An example is a homegrown project that was launched during the circuit breaker last year. 3D printing hobbyist lg2113 uploaded a publicly-accessible <a href="https://www.prusaprinters.org/prints/31097-merli-the-merlion" target="_blank">blueprint</a> of Merli’s design, which was given the go-ahead by STB. Perhaps he will create blueprints for the rest of the family during this current semi-lockdown.
 
