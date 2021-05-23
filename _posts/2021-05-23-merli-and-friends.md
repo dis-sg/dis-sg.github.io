@@ -53,19 +53,57 @@ Here are some close-ups of the mascots.
 </figure>
 
 <figure>
-<img src="https://i.imgur.com/9tfxtHd.png" alt="Singapore Marina the Otter">
+<img src="https://i.imgur.com/9tfxtHd.png" alt="Singapore Marina the Otter mascot">
 <figcaption>Marina the Otter being photographed is a nod to our culture of snapping otters <a href="https://www.youtube.com/watch?v=Hblsdl2tqRs&list=PL2WeSpSCs2h8gBpeO2HLczCTUrz4spgQ2&index=2" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <figure>
-<img src="https://i.imgur.com/8Rq5yot.png" alt="Singapore Jewel the Hornbill">
+<img src="https://i.imgur.com/8Rq5yot.png" alt="Singapore Jewel the Hornbill mascot">
 <figcaption>Jewel the Hornbill has an art show at the National Gallery Singapore <a href="https://www.youtube.com/watch?v=4cZ25hKjZEM&list=PL2WeSpSCs2h8gBpeO2HLczCTUrz4spgQ2&index=5" target="_blank">(Source)</a></figcaption>
 </figure>
 
+<figure>
+<img src="https://i.imgur.com/T9mDZPY.png" alt="Singapore Chomp Chomp the Crocodile mascot">
+<figcaption>Chomp Chomp the Crocodile eats a lot, but is also passionate about local trinkets like those from Supermama <a href="https://www.youtube.com/watch?v=BgfIGknGfGE&list=PL2WeSpSCs2h8gBpeO2HLczCTUrz4spgQ2&index=6" target="_blank">(Source)</a></figcaption>
+</figure>
 
+<figure>
+<img src="https://i.imgur.com/T9mDZPY.png" alt="Singapore D65 the Durian UFO mascot">
+<figcaption>Singapore D65 the Durian UFO <a href="https://www.youtube.com/watch?v=4cZ25hKjZEM&list=PL2WeSpSCs2h8gBpeO2HLczCTUrz4spgQ2&index=5" target="_blank">(Source)</a></figcaption>
+</figure>
 
+D65’s design stands out the most - the nifty concept tries to make sense of an alien-looking fruit. The durian UFO has powers of teleportation and electricity discharge. 
+
+<figure>
+<img src="https://i.imgur.com/IX6dDlJ.gif" alt="Singapore D65 the Durian UFO mascot">
+<figcaption><a href="https://www.youtube.com/watch?v=4Jr1LqNyTU8&list=PL2WeSpSCs2h8gBpeO2HLczCTUrz4spgQ2&index=3" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/ZED0oFy.gif" alt="Singapore D65 the Durian UFO mascot">
+<figcaption><a href="https://www.youtube.com/watch?v=Hblsdl2tqRs&list=PL2WeSpSCs2h8gBpeO2HLczCTUrz4spgQ2&index=2" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/2tXBlBe.png" alt="Singapore D65 the Durian UFO mascot">
+<figcaption>Not welcomed at the ArtScience museum, unfortunately <a href="https://www.youtube.com/watch?v=eEkfMx9f1hU&list=PL2WeSpSCs2h8gBpeO2HLczCTUrz4spgQ2&index=7" target="_blank">(Source)</a></figcaption>
+</figure>
+
+Another video series which teaches netizens how to draw Merli and its friends was also released last year. It was a great way to introduce netizens to the mascots, and a godsend for parents (and the young-at-heart) amid phase 2 measures last year. 
+
+<div class="video-responsive"><iframe width="1264" height="480" src="https://www.youtube.com/embed/yvejvF4X_V8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+While both series did not achieve viral success, the public is slowly warming up to the creatures that represent us on the global stage. An example is a homegrown project that was launched during the circuit breaker last year. 3D printing hobbyist lg2113 uploaded a publicly-accessible blueprint of Merli’s design, which was given the go-ahead by STB. Perhaps he will create blueprints for the rest of the family during this current semi-lockdown.
+
+While both series did not achieve viral success, the public is slowly warming up to the creatures that represent us on the global stage. An example is a homegrown project that was launched during the circuit breaker last year. 3D printing hobbyist lg2113 uploaded a publicly-accessible <a href="https://www.prusaprinters.org/prints/31097-merli-the-merlion" target="_blank">blueprint</a> of Merli’s design, which was given the go-ahead by STB. Perhaps he will create blueprints for the rest of the family during this current semi-lockdown.
+
+<figure>
+<img src="https://i.imgur.com/qbaqnoQ.png" alt="Singapore 3D printing merli">
+<figcaption><a href="https://www.prusaprinters.org/prints/31097-merli-the-merlion" target="_blank">(Source)</a></figcaption>
+</figure>
+
+It remains to be seen if Merli can become as recognisable as Singa or Water Wally, but with more campaigns like these, and a cute design to boot, it is well on its way to achieve iconic status - only if STB continues to try.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
-
+Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>.
