@@ -30,7 +30,7 @@ The renewed focus on Merli came with new additions to the Singapore mascot famil
 <figcaption><a href="https://www.facebook.com/STBsingapore/videos/303203537541305/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Drawn in the same kawaii style as Merli, Marina the Otter, Jewel the Hornbill, Chomp Chomp the Crocodile and D65 the Durian UFO are named after local landmarks and just as lovable as the OG mascot. The series was created by <a href="https://www.big3.sg/" target="_blank">Big3 Media</a> and mascot designer <a href="https://www.instagram.com/lemonblanc" target="_blank">Poh Zi Qun</a>, who also designed buffet chain Suki-Ya’s mascot family. 
+Drawn in the same kawaii style as Merli, Marina the Otter, Jewel the Hornbill, Chomp Chomp the Crocodile and D65 the Durian UFO are named after local landmarks and just as lovable as the OG mascot. The series was created by <a href="https://www.big3.sg/" target="_blank">Big3 Media</a> and mascot designer <a href="https://www.instagram.com/_lemonblanc" target="_blank">Poh Zi Qun</a>, who also designed buffet chain Suki-Ya’s mascot family. 
 
 The STB cartoon series “Merli and Friends” sees the characters exploring a parallel, mythical version of Singapore, including museums and parks, while showcasing their personalities. Short descriptions of the attractions at the end of videos nicely summarise why viewers should visit the places, and they will be useful for tourists to refer to. 
 
