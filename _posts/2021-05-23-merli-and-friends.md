@@ -20,7 +20,7 @@ The pandemic seemed to change this strategy. As tourist spending dipped, Singapo
 When we received our SingapoRediscovers factsheets via mail in November 2020, Merli adorned the campaign-branded envelopes. E-banners at lift lobbies also featured Merli, which introduced many HDB residents to our tourism mascot for the first time.  
 
 <figure>
-<img src="https://i.imgur.com/UZOoZ6r.jpg" alt="merli SingapoRediscovers mail">
+<img src="https://i.imgur.com/8k650fS.jpg" alt="merli SingapoRediscovers mail">
 </figure>
 
 The renewed focus on Merli came with new additions to the Singapore mascot family. During the lockdown last year, the Singapore Tourism Board (STB) welcomed four friends who reflect Singapore’s diversity of wildlife, sprinkled with a dash of absurdity. 
