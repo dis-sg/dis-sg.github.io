@@ -79,12 +79,14 @@ Nostalgia seekers and bus enthusiasts were pleased to find out that these chairs
 Although the Facebook post has been archived or deleted, presumably because the chairs sold out, a Caousell listing still exists which marked the chairs as sold. 
 
 <h2>Plus: Can Shopee just stop already?</h2>
-Shopee's annoyingly catchy jingles have reached a new trough with Mark Lee's 6.6 advertisement. Aired on primetime every day for the last few weeks, Mark Lee dances, chants, and drills into your head that annoying "shopee pee pee pee" jingle. Advertisements strive to be memorable, and e-commerce apps have been pushing out annoying tunes like these for more than a year now, often to much online buzz (remember Rolando's dance?). Instead of aiming for cringe content, maybe we should take inspiration from Thai commercials, which are just as bombastic but somehow not annoying. They are memorable too, but they do not stick out in your memory like a sore thumb.
+Shopee's annoyingly catchy jingles have reached a new trough with Mark Lee's 6.6 advertisement. Aired on primetime every day for the last few weeks, Mark Lee dances, chants, and drills into your head that annoying "shopee pee pee pee" jingle. Advertisements strive to be memorable, and e-commerce apps have been pushing out annoying tunes like these for more than a year now, often to much online buzz (remember Rolando's dance?).
 
 <figure>
 <img src="https://i.imgur.com/rptw6Vy.png" alt="Stopee now">
 <figcaption>Follow my art/meme account <a href="https://www.instagram.com/FLYRLCE/" target="_blank">here</a></figcaption>
 </figure>
+
+Instead of aiming for cringe content, perhaps we should take inspiration from Thai commercials, which are just as bombastic but somehow not annoying. They are memorable too, but they do not stick out in your memory like a sore thumb.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
