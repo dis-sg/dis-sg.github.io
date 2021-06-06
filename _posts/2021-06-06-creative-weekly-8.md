@@ -6,8 +6,7 @@ categories: [Creative Weekly]
 tags: [Stories]
 description: "Plus: Can Shopee just stop already?"
 comments: false
-image: 
-published: false
+image: https://i.imgur.com/jp4Keju.png
 ---
 
 In this creative weekly, we take a look at Pablo’s Kitchen’s branding controversy, Singapore Airline's Concorde days and the viral SBS seat-chair. 
