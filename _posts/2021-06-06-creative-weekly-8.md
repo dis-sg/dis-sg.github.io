@@ -60,7 +60,12 @@ Although Concordes were not meant to be - noise complaints and high costs got th
 
 <figure>
 <img src="https://i.imgur.com/xQlSlUe.jpg" alt="Singapore Airlines Concorde window sticker">
-<figcaption>An SQ Concorde window sticker <a href="https://www.ebay.com/itm/SINGAPORE-AIRLINES-CONCORDE-WINDOW-STICKER-SIA-GOES-SUPERSONIC-SQ/124199425696" target="_blank">(Source)</a></figcaption>
+<figcaption>The Concorde was also featured on our $20 note <a href="https://www.ebay.com/itm/SINGAPORE-AIRLINES-CONCORDE-WINDOW-STICKER-SIA-GOES-SUPERSONIC-SQ/124199425696" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="https://i.imgur.com/eaS1JDq.jpg" alt="Singapore Airlines Concorde $20 bill">
+<figcaption>An SQ Concorde window sticker <a href="https://mainlymiles.com/2021/06/03/singapore-airlines-concorde-the-full-story/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <h2>SBS Bus Chair will take you back to the 2000s</h2>
