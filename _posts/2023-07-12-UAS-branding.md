@@ -7,7 +7,6 @@ tags: []
 description: "Can the branding prof say something?"
 comments: false
 image: https://i.imgur.com/qd9Iy4J.png
-published: false
 ---
 
 When it was first announced in 2021 that LASALLE and NAFA would be joining hands to create <a href="https://www.uas.edu.sg/" target="_blank">University of the Arts Singapore</a> (UAS), our first university dedicated to the arts, it sent a clear signal that the government was serious in cultivating the creative industry, starting from streamlining its tertiary education system.
