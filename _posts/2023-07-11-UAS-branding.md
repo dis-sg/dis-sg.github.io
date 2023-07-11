@@ -38,7 +38,7 @@ UAS says the “A” symbolises both the creator and the beholder of art, likeni
 Having an “A” with a bent bar is not a new idea in logo design. The Association of Advertising and Marketing Singapore (AAMS) proudly embraces the “A”-eye connection by turning it 90 degrees and including a blinking animation. Seeing how AAMS and UAS are both creative institutions, it is puzzling why UAS would want to risk copycat accusations by adopting the same idea, albeit with less finesse. 
 
 <figure>
-<img src="https://i.imgur.com/rkMKEwT.gifv" alt="AAMS logo 2021">
+<img src="https://i.imgur.com/rkMKEwT.gif" alt="AAMS logo 2021">
 <figcaption><a href="https://www.lbbonline.com/news/mccann-and-mrm-creative-leads-renew-roles-to-chair-crowbar-2021" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -120,10 +120,8 @@ All these are rookie mistakes that should have been avoided.
 
 UAS’ brand identity is supposed to carry the vision of the university, and by extension Singapore’s ambition to build a leading creative ecosystem. Is this identity worthy?
 
-While it may be impossible to create a perfect logo that carries the weight of a nationwide dream, a logo that doesn’t attempt to try wont command any respect. 
+While it may be impossible to create a perfect logo that carries the weight of a nationwide dream, a logo that does not attempt to try will not command any respect. 
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
 Branding Singapore is a series which highlights notable local brand identities. Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
-
-
