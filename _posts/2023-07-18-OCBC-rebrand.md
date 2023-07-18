@@ -4,10 +4,9 @@ title: "OCBC Rebrand: Steering the Course"
 author: d
 categories: [Branding Singapore, Rebrand, Finance]
 tags: []
-description: ""
+description: "No longer reads Oversea-Chinese Banking Corporation Bank."
 comments: false
-image: 
-published: false
+image: https://i.imgur.com/A5OAYHi.png
 ---
 
 OCBC has undergone a brand refresh as the bank looks to conquer the ASEAN-Greater China market with a unified look. The project was led by creative agency <a href="https://thegovt.org/sg/" target="_blank">GOVT</a>, the bank’s partner of close to seven years. 
@@ -16,19 +15,30 @@ Among the changes in the brand refresh are a logo that has been tweaked for the 
 
 <h2>Logo Tweaks</h2>
 
->>>>>>>>new logo 
+<figure>
+<img src="https://i.imgur.com/A20SBSu.png" alt="New OCBC Logo">
+<figcaption><a href="https://www.ocbc.com/" target="_blank">(Source)</a></figcaption>
+</figure>
 
 The refreshed logo by creative agency <a href="https://www.goodfellas.com.sg/" target="_blank">Goodfellas</a> builds on the strong visual identity that has anchored the brand for 25 years. Here is what the OCBC website says about the new look:
 
->>>>>>>logo explain from website
+<figure>
+<img src="https://i.imgur.com/OVej0nC.png" alt="New OCBC Logo Explained">
+<figcaption><a href="https://www.ocbc.com/group/about-us/our-brand.page" target="_blank">(Source)</a></figcaption>
+</figure>
 
->>>>>>>>>logomark gif
+<figure>
+<img src="https://i.imgur.com/uSiL3tr.gif" alt="OCBC Logo Comparison">
+</figure>
 
 Gaps between the strokes that make up the junk ship on the logomark have been enlarged for clearer viewing on small displays such as phones - think social media profile photos and app icons. Details including the ocean waves have also been removed to achieve a cleaner look.
 
 Most notably, the word “bank” has been dropped from the wordmark, which makes sense as the “B” in “OCBC” already stands for “Banking”. The brand is also recognisable enough to drop the bank labelling. 
 
->>>>>>>wordmark before after
+<figure>
+<img src="https://i.imgur.com/o8sITyM.jpg" alt="OCBC Centre New Logo">
+<figcaption>Wonder where the huge letters went to <a href="https://www.ocbc.com/group/media/release/index?category=alltopics" target="_blank">(Source)</a></figcaption>
+</figure>
 
 The wordmark uses a custom geometric typeface called…wait for it…Geomanist. The perfect circle-curviness of the chunky letters allow the wordmark to shine and it pairs well with the logomark. 
 
@@ -43,7 +53,10 @@ This logo is a classic example of “if it ain't broke, don't fix it”. The Chi
 
 The aspirational tagline, just like the refreshed logo, looks towards the future. The question is whether it is specific enough for OCBC’s brand. Every bank will say that they are here “for now and beyond”, but can any bank other than DBS say that they want you to “live more, bank less?” 
 
->>>>>>>>>tagline 
+<figure>
+<img src="https://i.imgur.com/o8sITyM.jpg" alt="OCBC tagline">
+<figcaption><a href="https://www.ocbc.com/group/media/release/2023/ocbc-unifies-brand-solidifying-one-group-strategy-to-accelerate-asean-greater-china-growth.page?" target="_blank">(Source)</a></figcaption>
+</figure>
 
 The refreshed logo and simplified names of OCBC’s key subsidiaries support the bank’s One Group strategy, which promises a synergistic customer experience across different markets. Perhaps the tagline should reflect this promise as other banks do not place their interconnectedness front and centre in their branding. 
 
