@@ -27,11 +27,11 @@ The refreshed logo by creative agency <a href="https://www.goodfellas.com.sg/" t
 <figcaption><a href="https://www.ocbc.com/group/about-us/our-brand.page" target="_blank">(Source)</a></figcaption>
 </figure>
 
+Gaps between the strokes that make up the junk ship on the logomark have been enlarged for clearer viewing on small displays such as phones - think social media profile photos and app icons. Details including the ocean waves have also been removed to achieve a cleaner look.
+
 <figure>
 <img src="https://i.imgur.com/uSiL3tr.gif" alt="OCBC Logo Comparison">
 </figure>
-
-Gaps between the strokes that make up the junk ship on the logomark have been enlarged for clearer viewing on small displays such as phones - think social media profile photos and app icons. Details including the ocean waves have also been removed to achieve a cleaner look.
 
 Most notably, the word “bank” has been dropped from the wordmark, which makes sense as the “B” in “OCBC” already stands for “Banking”. The brand is also recognisable enough to drop the bank labelling. 
 
@@ -54,7 +54,7 @@ This logo is a classic example of “if it ain't broke, don't fix it”. The Chi
 The aspirational tagline, just like the refreshed logo, looks towards the future. The question is whether it is specific enough for OCBC’s brand. Every bank will say that they are here “for now and beyond”, but can any bank other than DBS say that they want you to “live more, bank less?” 
 
 <figure>
-<img src="https://i.imgur.com/o8sITyM.jpg" alt="OCBC tagline">
+<img src="https://i.imgur.com/Smw5Doh.jpg" alt="OCBC tagline">
 <figcaption><a href="https://www.ocbc.com/group/media/release/2023/ocbc-unifies-brand-solidifying-one-group-strategy-to-accelerate-asean-greater-china-growth.page?" target="_blank">(Source)</a></figcaption>
 </figure>
 
