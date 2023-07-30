@@ -6,7 +6,7 @@ categories: [Creative Weekly]
 tags: [Stories]
 description: "Plus: The upcoming Johor RTS Station Facade Design"
 comments: false
-image: https://i.imgur.com/dFT5B19.png
+image: https://i.imgur.com/zZVWmjD.png
 ---
 
 Politics in Singapore is usually a boring affair but when it rains, it pours. Never have there been so many Members of Parliament (MPs) resigning within just two days, from both the ruling party and the opposition. June-July 2023 was also a very busy period for the Corrupt Practices Investigation Bureau (CPIB), which investigated three ministers.
