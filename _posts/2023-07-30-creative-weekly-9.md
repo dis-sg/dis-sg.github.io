@@ -4,7 +4,7 @@ title: "Creative Weekly: When Political Scandals Inspire Art"
 author: d
 categories: [Creative Weekly]
 tags: [Stories]
-description: "Plus: The upcoming Johor RTS Station Facade Design"
+description: "Archiving these gems before they get lost to time..."
 comments: false
 image: https://i.imgur.com/zZVWmjD.png
 ---
