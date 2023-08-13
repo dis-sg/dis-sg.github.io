@@ -23,9 +23,9 @@ Thanks to years of advertising and being a limited edition burger many times, th
 <figcaption><a href="https://www.facebook.com/photo/?fbid=677899514367416&set=a.554800850010617" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Homegrown curry puff brand Old Chang Kee cleverly snuck in their D24 Durian mochi Ball by placing them on top of the durian husk where the meat rests. This post shows that product placement does not need to be intrusive to be effective. Also, combining our love for durians and Japanese food makes this limited-edition snack a uniquely Singaporean creation. 
+Homegrown curry puff brand Old Chang Kee cleverly snuck in their D24 Durian mochi Ball by placing them on top of the durian husk where the meat rests. This post shows that product placement does not need to be intrusive to be effective. Combining our love for durians and Japanese food truly makes this limited-edition snack a uniquely Singaporean creation. 
 
-<h2>Kfc</h2>
+<h2>KFC</h2>
 <figure>
 <img src="https://i.imgur.com/2GNf47z.jpg" alt="kfc singapore birthday">
 <figcaption><a href="https://www.facebook.com/KFC.SG/photos/6346928158695460" target="_blank">(Source)</a></figcaption>
@@ -34,7 +34,7 @@ Homegrown curry puff brand Old Chang Kee cleverly snuck in their D24 Durian moch
 Also promoting their August special is KFC with its Cereal Chicken, which combines spices, chillies, curry leaves and cereal. KFC created a crunchy silhouette of the iconic Toa Payoh Dragon Playground using the seasoning mix.
 
 <h1>Sama Sama</h1>
-These posts were inspired by the National Day Parade, from fireworks to the parade segment. 
+These posts were inspired by the National Day Parade, from fireworks to the parade segment. They also look like carbon copies of each other.
 
 <h2>Burger King</h2>
 <figure>
@@ -108,8 +108,7 @@ These are pretty much self-explanatory.
 </figure>
 
 <h2>Ya Kun Kaya Toast</h2>
-
-<iframe width="1265" height="480" src="https://www.youtube.com/embed/HnuhwKNUM_o" title="116 YA KUN KAYA TOAST EATEN?! | Eating 58 SERVINGS OF YA KUN KAYA TOASTS FOR SINGAPORE NATIONAL DAY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-responsive"><iframe width="1265" height="480" src="https://www.youtube.com/embed/HnuhwKNUM_o" title="116 YA KUN KAYA TOAST EATEN?! | Eating 58 SERVINGS OF YA KUN KAYA TOASTS FOR SINGAPORE NATIONAL DAY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 Zermatt Neo’s producer really stacked the toasts to make them look like Marina Bay Sands.
 
