@@ -4,9 +4,9 @@ title: " Qixi Fest 2023: Forgotten No More"
 author: d
 categories: [Art, Event, Heritage]
 tags:
-description: ""
+description: "Find out why the mascot has a bald patch 🤔"
 comments: false
-image:
+image: https://i.imgur.com/SN6uT3i.png
 published: false
 ---
 
@@ -27,24 +27,36 @@ Since the 19th century, women organisations in Singapore have celebrated this fe
 <h2>Qixi Fest Visual Identity</h2>
 It is only apt that a festival with such a large focus on handicraft has a great visual identity to celebrate its return. 
 
->>>>>>>>>Logo pic
+<figure>
+<img src="https://i.imgur.com/qQkJI3L.png" alt="qixi fest logo">
+<figcaption><a href="https://www.qixifest.com" target="_blank">(Source)</a></figcaption>
+</figure>
 
 Taking inspiration from a traditional Chinese seal, the words on the logo are handwritten to give off a homemade, authentic feel. It is also a nod to the festival’s celebration of handiwork. 
 
->>>>>>>>>>Mascot 
+<figure>
+<img src="https://i.imgur.com/noW37HN.png" alt="qixi fest logo with mascot">
+<figcaption><a href="https://www.qixifest.com" target="_blank">(Source)</a></figcaption>
+</figure>
 
 Often seen alongside the logo, the mascot Qiqi (seven seven in Mandarin) is a chibi-style illustrated magpie, which gathers in droves to form a bridge for the two lovers to meet annually according to the legend. 
 
 Qiqi happens to be bald because one of the lovebirds stepped on its head while crossing the magpie bridge - what a cheeky way to weave in the legend in the mascot’s appearance!
 
->>>>bald
+<figure>
+<img src="https://i.imgur.com/wDPEGze.jpg" alt="qixi fest mascot qiqi">
+<figcaption><a href="https://www.facebook.com/qixifest/posts/pfbid02kbdrksMdhmrkyGebzry3gmnXEim6RVvZfXc5M3hBkCPCBitRnPCbENuwMkW4sUT8l" target="_blank">(Source)</a></figcaption>
+</figure>
 
 Whether Qiqi is depicted writing Chinese calligraphy or threading a needle, it looks like a very inviting mascot not unlike a cartoon character in a children’s book. The Qixi Fest’s visual identity was likely designed for young families in mind, to ensure future generations remember this annual celebration.
 
 <h2>Creative Partnerships and the Grand Finale</h2>
 The mega carnival to mark the end of Qixi Fest at Smith Street will be packed with creative activities. 
 
->>>Activity schedule
+<figure>
+<img src="https://i.imgur.com/OtmbvtJ.png" alt="qixi fest grand finale">
+<figcaption><a href="https://www.qixifest.com/finale" target="_blank">(Source)</a></figcaption>
+</figure>
 
 Most impressively, 1,000 magpie crochet plushies arranged to form a bridge will be displayed. They were made by volunteers and beneficiaries of Qixi Fest’s heritage awareness programme.
 
@@ -65,6 +77,11 @@ Separately, Qixi Fest collaborated with three female artists (a painter, Chinese
 
 <h2>From Forgotten to Unforgettable</h2>
 Overall, it was a smart choice to go with a friendly aesthetic as it would attract the attention of young Singaporeans. Traditional crafts have always been respectable art forms, but for them to stand a chance of reaching the masses in the social media age, they have to be repackaged to suit modern tastes. Qixi Fest managed to brand a century-old festival for the next generation without compromising its core spirit and activities.
+
+<figure>
+<img src="https://i.imgur.com/hk8843Y.jpg" alt="qixi fest boat tour">
+<figcaption>Collaterals and decorations for evening boat tours <a href="https://www.qixifest.com/" target="_blank">(Source)</a></figcaption>
+</figure>
 
 Heritage festivals like these remind us that Singapore is and always has been culturally rich, especially if you know where - or how far back - to look. How female artisans (even though those were not their job titles but their handcraft skills effectively make them) came together to celebrate their talents is inspiring, and Qixi Fest’s attempt to revive this spirit of collectively making art should be supported by the local creative community.
 
