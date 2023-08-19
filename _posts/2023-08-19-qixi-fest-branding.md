@@ -7,7 +7,6 @@ tags:
 description: "Find out why the mascot has a bald patch 🤔"
 comments: false
 image: https://i.imgur.com/SN6uT3i.png
-published: false
 ---
 
 As Singapore underwent rapid industrialisation, some cultural elements became lost to time. Finding these past relics helps to humanise and better understand our forefathers’ lived experiences. Qixi Festival (七夕节), which was supposedly grander than Chinese New Year, is making a comeback after more than 50 years, with a welcoming visual identity to boot.
