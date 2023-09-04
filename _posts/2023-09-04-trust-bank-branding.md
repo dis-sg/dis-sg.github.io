@@ -23,7 +23,7 @@ An Avengers-esque creative team of Iris Worldwide (creative strategy), Havas Med
 <div class="video-responsive">
 <iframe width="1149" height="480" src="https://www.youtube.com/embed/IWuhBB829z0" title="Trust: Digital banking for all" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
+<br>
 <h2>Trusty Wordmark</h2>
 <figure>
 <img src="https://i.imgur.com/nuaHzuc.png" alt="">
@@ -38,10 +38,10 @@ Like the name of the bank, its wordmark is straight to the point. Refined by <a 
 </figure>
 
 On Trust Bank’s cards, a huge logomark takes up more than half the space and the crossbar (the horizontal line) of the first “t” is cropped away to serve as a visual anchor. 
-
+<br>
 <h2>Two rectangles make a “T”</h2>
 
-<img src="https://i.imgur.com/wCZljNt.mp4">
+<img src="https://i.imgur.com/RtsGSBl.gif">
 
 The logomark consists of two rectangles stacked on each other to form a “T”. In an interview with Marketing Interactive, Chief Marketing Officer Kelvin Tan said: 
 
@@ -51,7 +51,7 @@ Our T-logo was created as a shorthand differentiator to ensure that our brand is
 
 Essentially a blank canvas, the logomark only shines when paired with attention-grabbing graphics to bring it to life. During the brand launch, several videos were produced to illustrate this.
 
-<img src="https://i.imgur.com/TEbNeRw.mp4">
+<img src="https://i.imgur.com/un3XT5M.gif">
 
 The logomark was also updated for festive seasons and milestones. 
 
@@ -71,7 +71,7 @@ The seasonal versions of the logomark are cute but the default version fails to 
 <img src="https://i.imgur.com/CFa7kFR.jpg" alt="">
 <figcaption><a href="https://www.adsoftheworld.com/campaigns/trust-bank-a-digital-bank-for-singapore" target="_blank">(Source)</a></figcaption>
 </figure>
-
+<br>
 <h2>A Signature Shade</h2>
 The most recognisable part of Trust Bank’s brand identity is its blue colour. “Trust Blue'' is a calming colour, but not in a dark shade that suggests age. The colour is used extensively in marketing collaterals and seen without fail on promotional standees outside each NTUC Fairprice outlet.
 
@@ -109,7 +109,7 @@ Here is a comparison of “Trust Blue” with other banks’ blue shades:
 <figure>
 <img src="https://i.imgur.com/UqnZsbb.png" alt="">
 </figure>
-
+<br>
 <h2>Doodles of Life</h2>
 Trust Bank enlisted the help of creative studio <a href="https://www.tycstudios.com/" target="_blank">Tell Your Children</a> and illustrator <a href="http://eeshaun.com/" target="_blank">Soh Eeshaun</a> to create illustrations that added a human touch to the brand.
 
@@ -163,12 +163,12 @@ Each character represents a different type of spending. The larger the character
 </figure>
 
 You can read more about Budget Buddies in the case study <a href="https://trustbank.sg/newsroom/which-is-your-favourite-budget-buddy/" target="_blank">here</a>. 
-
+<br>
 <h2>An Identity that Matches Brand Hype</h2>
 Despite being a virtual bank, Trust Bank fully embraced both digital and physical mediums to grow their presence and brand awareness. For a while, NTUC Fairprice was dripping in “Trust Blue” and it was impossible to miss the bank’s presence. 
 
 As the bank stuck religiously to its brand colours, “Trust Blue” has become arguably more recognisable than the logo itself, showing that there are still novel ways to launch a brand successfully in Singapore.
-
+<br>
 <h2>Bonus: Free Stuff Must Share</h2>
 <figure>
 <img src="https://i.imgur.com/Js87S5d.jpg" alt="">
