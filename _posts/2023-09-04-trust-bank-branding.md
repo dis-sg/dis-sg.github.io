@@ -4,7 +4,7 @@ title: "Trust Bank: Paint the City Blue"
 author: d
 categories: [Finance, Branding Singapore]
 tags: []
-description: "Can the branding prof say something?"
+description: "A 1 year retrospective 💰"
 comments: false
 image: https://i.imgur.com/qAJk3RZ.png
 ---
