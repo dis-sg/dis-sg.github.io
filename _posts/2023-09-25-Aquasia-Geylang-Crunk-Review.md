@@ -6,7 +6,7 @@ categories: [Event, Review]
 tags: []
 description: "Tour a Floating Utopia and Gritty Cyperpunk City 🏙️"
 comments: false
-image: 
+image: https://i.imgur.com/0Vn6Psa.png
 published: false
 ---
 
@@ -20,7 +20,7 @@ The highlight of this showcase is a 20-minute VR experience that transports view
 Upon entering the VR hall, the first thing that caught my eye was the huge Aquasia logo beamed on the wall, in big brother fashion. Participants donning VR goggles were seated on swivel chairs but most of them were still - only a handful tilted their heads occasionally.
 
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/P1dObe2.jpg" alt="">
 <figcaption>Very big brother-esque, but the experience is not nefarious in the slightest <a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -35,17 +35,22 @@ The scene then changed to a vast seascape with a futuristic-looking city on the 
 
 Not only is the city self-sufficient, farming work is fully automated and crops have the ability to grow 24/7, eliminating the limitations of seasons and weather changes. Aquasia is also carbon-negative, meaning it removes more carbon dioxide from the atmosphere than it produces. Basically, the city is described as a wet dream for climate and energy scientists. Whether or not the science is valid is a different story.
 
+<figure>
+<img src="https://i.imgur.com/Bbbhq4i.png" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
+
 I felt like I was observing the floating city from the perspective of a drone - one moment I was on sea level and the next I was floating on top of the futuristic structures. The whole viewing experience also felt a bit like a property or masterplan video, as the narrator took me through the various technologies that make Aquasia the utopia that it is. What number do I call to invest?
 
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/9aRdr0c.png" alt="">
 <figcaption><a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 
 The panoramic views of the city were carefully selected to view the architectural design in all its glory. Best described as futuristic aesthetics with an Eastern touch, the modular city relies heavily on floating bridges that connect to the lotus-shaped metallic/glass structure in the centre of the city. 
 
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/ftCyh8z.png" alt="">
 <figcaption><a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -53,28 +58,28 @@ The latter half of the Aquasia tour was inside the lotus structure, which housed
 
 <h3>André Wee</h3>
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/QZVh4rk.jpg" alt="">
 <figcaption><a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 <b>Future Retro Future</b> imagines a world where sustainability and cultural heritage take centre stage instead of technology. The artwork aims to inspire viewers to be more thoughtful and build an inclusive future. 
 
 <h3>Chan Wan Kyn</h3>
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/NfUl0cs.png" alt="">
 <figcaption><a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 <b>City in Aether</b>: An interpretation of the city of the future, that is fast-paced and constantly in a state of flux. Chan used GPS data from his followers’ submissions and himself to create the shapes and patterns in his artwork, which he documents on his Instagram page.  
 
 <h3>Jamela Lovette Law</h3>
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/qaaYXCU.png" alt="">
 <figcaption><a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 <b>Scars, Skins and Styles: Metamorphosis in the Metaverse</b> celebrates underrepresented individuals who have emerged from traumatic experiences, co-creating these digital fashion pieces as a form of art mediation to promote healing. 
 
 <h2>Geylang Crunk</h2>
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/2iCKA6h.jpg" alt="">
 <figcaption><a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 Next, I was taken to the futuristic city-state of Neo-Santara in 2065. I joined a biker gang on a turbo-charged adventure throughout the city and landed up in a cyberpunk Geylang (G-Town). The sights along the ride on a sky-high highway included endless rows of skyscrapers and huge statues of religious figures. Upon closer inspection, the skyscrapers were plastered with a shophouse texture, giving the city a local flair. 
@@ -86,7 +91,7 @@ A local rap song called 不跟流行 (translation: I do not follow what is trend
 Cyberpunk is often influenced by Japanese aesthetics (think Japanese alphabet, anime), but Geylang Crunk is almost exclusively inspired by local elements. Geylang street signs are neon while HDB blocks are duplicated until they reach the heavens. Golden Mile centre looks glitched out with windows pointing in every direction. What a treat to look at.
 
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/qdudl56.png" alt="">
 <figcaption>The Golden Mile (2023), print for sale at <a href="" target="_blank">https://www.metamoind.com/store/p/store/?itemId=nanoussh5fm6onwgq1rest86ujh7oq</a><a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -96,13 +101,13 @@ Many collaborators contributed to the appearance of G-Town, each bringing their 
 An unmanned merch booth/mini art gallery outside the VR hall helped to bring the world of Aquasia and Geylang Crunk into our reality. From tees to 3D printed pieces inspired by the two places, I could tell that this project came from a place of passion and love for craft. 
 
 <figure>
-<img src="" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/FyCdnsv.jpg" alt="">
+<figcaption>HexScape: Lotus Tower by Metamo Industries<a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <figure>
-<img src="" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/hIAuRyY.jpg" alt="">
+<figcaption>3D print of the Geylang Crunk Logo<a href="" target="_blank">(Source)</a></figcaption>
 </figure>
 
 I also revisited the centre of the lotus on a computer monitor, where I walked up to each of the six artworks and explored them using a 360 degree view, this time using a mouse.
