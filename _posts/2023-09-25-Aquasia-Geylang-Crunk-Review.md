@@ -41,4 +41,43 @@ The panoramic views of the city were carefully selected to view the architectura
 
 The latter half of the Aquasia tour was inside the lotus structure, which housed the six winning works of <a href="https://www.meshminds.com/nextgenerationartprize" target="_blank">Julius Baer Next Generation Art Prize</a>. The digital art ranged from the elaborate to the abstract, on the themes of Future Cities, Digital Disruption and Sustainability. Repping Singapore are André Wee, Chan Wan Kyn and Jamela Law. 
 
+<h3>André Wee</h3>
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
+<b>Future Retro Future</b> imagines a world where sustainability and cultural heritage take centre stage instead of technology. The artwork aims to inspire viewers to be more thoughtful and build an inclusive future. 
 
+<h3>Chan Wan Kyn</h3>
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
+<b>City in Aether</b>: An interpretation of the city of the future, that is fast-paced and constantly in a state of flux. Chan used GPS data from his followers’ submissions and himself to create the shapes and patterns in his artwork, which he documents on his Instagram page.  
+
+<h3>Jamela Lovette Law</h3>
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
+<b>Scars, Skins and Styles: Metamorphosis in the Metaverse</b> celebrates underrepresented individuals who have emerged from traumatic experiences, co-creating these digital fashion pieces as a form of art mediation to promote healing. 
+
+<h2>Geylang Crunk</h2>
+Next, I was taken to the futuristic city-state of Neo-Santara in 2065. I joined a biker gang on a turbo-charged adventure throughout the city and landed up in a cyberpunk Geylang (G-Town). The sights along the ride on a sky-high highway included endless rows of skyscrapers and huge statues of religious figures. Upon closer inspection, the skyscrapers were plastered with a shophouse texture, giving the city a local flair. 
+
+A local rap song called 不跟流行 (translation: I do not follow what is trendy) by Owe Money Pay Money (O$P$) and Zadon was playing through the journey setting the mood for an edgy and gritty exploration of G-Town. The music video also includes some scenes from the Geyland Crunk experience, but from the default viewing angle. No 360-degree view, sorry!
+
+Cyberpunk is often influenced by Japanese aesthetics (think Japanese alphabet, anime), but Geylang Crunk is almost exclusively inspired by local elements. Geylang street signs are neon while HDB blocks are duplicated until they reach the heavens. Golden Mile centre looks glitched out with windows pointing in every direction. What a treat to look at.
+
+Many collaborators contributed to the appearance of G-Town, each bringing their unique styles, ranging from street art to retro, to the experience: Antz (@antz_rscls), BoonBaked (@boonbaked), humanoise (@humanoise), INFRA-24 (@infra.24), Jaba (@didierjabamathieu), Mojoko (@mojokoworld), New World Plaza (@newworldplaza), Sam Lo (@skl0_),  Simple Problem Beings (@simpleproblembeings), Studio Moonchild (@anacathie x @freakyfir), SuperCyberTown (@supercybertown) and Zero (@zero_x_rscls_o).
+
+<h2>A novel and thought-provoking experience</h2>
+Although viewing Aquasia and Geylang Crunk consecutively was a bit jarring, it was a celebration of Asian creativity. MeshMinds has a lot to be proud of giving artists a chance to flex their talent using an underutilised medium.
+
+MeshMinds also sees the potential for these projects to last beyond its stay at the ArtScience Museum. It has a form seeking partners to host the experience. For example, educators can find this experience a useful tool to get the next generation inspired to think about the environment and what sustainability means to them. The stakes feel more real being immersed in a possible reality rather than just reading the facts from a textbook.
+
+The best way to enjoy Aquasia and Geylang Crunk is of course to experience it yourself before the showcase ends its month-long run. Be sure to keep looking around once you don the VR headset - the environments are too rich in detail for you to ignore. 
+
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+
+Explore Singapore's design scene with us on <a href="https://www.facebook.com/designinsingapore/">Facebook</a> and <a href="https://www.instagram.com/designinsingapore/">Instagram</a>. 
