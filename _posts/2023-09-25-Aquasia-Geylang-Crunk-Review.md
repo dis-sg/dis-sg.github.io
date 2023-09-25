@@ -4,7 +4,7 @@ title: "Aquasia and Geylang Crunk Review: A Flex of Asian Creativity"
 author: d
 categories: [Event, Review]
 tags: []
-description: "Tour a Floating Utopia and Gritty Cyperpunk City"
+description: "Tour a Floating Utopia and Gritty Cyperpunk City 🏙️"
 comments: false
 image: 
 published: false
@@ -31,12 +31,14 @@ Before touring Aquasia proper, the narrator shared some alarming facts, includin
 
 The scene then changed to a vast seascape with a futuristic-looking city on the horizon. Welcome to Aquasia. 
 
+<div class="video-responsive"><iframe width="1149" height="480" src="https://www.youtube.com/embed/Joc91kohitQ" title="Aquasia VR - Explore an Imaginary Marine Utopia (Official Trailer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 Not only is the city self-sufficient, farming work is fully automated and crops have the ability to grow 24/7, eliminating the limitations of seasons and weather changes. Aquasia is also carbon-negative, meaning it removes more carbon dioxide from the atmosphere than it produces. Basically, the city is described as a wet dream for climate and energy scientists. Whether or not the science is valid is a different story.
 
 I felt like I was observing the floating city from the perspective of a drone - one moment I was on sea level and the next I was floating on top of the futuristic structures. The whole viewing experience also felt a bit like a property or masterplan video, as the narrator took me through the various technologies that make Aquasia the utopia that it is. What number do I call to invest?
 
 The panoramic views of the city were carefully selected to view the architectural design in all its glory. Best described as futuristic aesthetics with an Eastern touch, the modular city relies heavily on floating bridges that connect to the lotus-shaped metallic/glass structure in the centre of the city. 
 
-The latter half of the Aquasia tour was inside the lotus structure, which housed the six winning works of Julius Baer Next Generation Art Prize. The digital art ranged from the elaborate to the abstract, on the themes of Future Cities, Digital Disruption and Sustainability. Repping Singapore are André Wee, Chan Wan Kyn and Jamela Law. 
+The latter half of the Aquasia tour was inside the lotus structure, which housed the six winning works of <a href="https://www.meshminds.com/nextgenerationartprize" target="_blank">Julius Baer Next Generation Art Prize</a>. The digital art ranged from the elaborate to the abstract, on the themes of Future Cities, Digital Disruption and Sustainability. Repping Singapore are André Wee, Chan Wan Kyn and Jamela Law. 
 
 
