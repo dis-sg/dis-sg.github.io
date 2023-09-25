@@ -37,7 +37,17 @@ Not only is the city self-sufficient, farming work is fully automated and crops 
 
 I felt like I was observing the floating city from the perspective of a drone - one moment I was on sea level and the next I was floating on top of the futuristic structures. The whole viewing experience also felt a bit like a property or masterplan video, as the narrator took me through the various technologies that make Aquasia the utopia that it is. What number do I call to invest?
 
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
+
 The panoramic views of the city were carefully selected to view the architectural design in all its glory. Best described as futuristic aesthetics with an Eastern touch, the modular city relies heavily on floating bridges that connect to the lotus-shaped metallic/glass structure in the centre of the city. 
+
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
 
 The latter half of the Aquasia tour was inside the lotus structure, which housed the six winning works of <a href="https://www.meshminds.com/nextgenerationartprize" target="_blank">Julius Baer Next Generation Art Prize</a>. The digital art ranged from the elaborate to the abstract, on the themes of Future Cities, Digital Disruption and Sustainability. Repping Singapore are André Wee, Chan Wan Kyn and Jamela Law. 
 
@@ -63,13 +73,39 @@ The latter half of the Aquasia tour was inside the lotus structure, which housed
 <b>Scars, Skins and Styles: Metamorphosis in the Metaverse</b> celebrates underrepresented individuals who have emerged from traumatic experiences, co-creating these digital fashion pieces as a form of art mediation to promote healing. 
 
 <h2>Geylang Crunk</h2>
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
 Next, I was taken to the futuristic city-state of Neo-Santara in 2065. I joined a biker gang on a turbo-charged adventure throughout the city and landed up in a cyberpunk Geylang (G-Town). The sights along the ride on a sky-high highway included endless rows of skyscrapers and huge statues of religious figures. Upon closer inspection, the skyscrapers were plastered with a shophouse texture, giving the city a local flair. 
 
-A local rap song called 不跟流行 (translation: I do not follow what is trendy) by Owe Money Pay Money (O$P$) and Zadon was playing through the journey setting the mood for an edgy and gritty exploration of G-Town. The music video also includes some scenes from the Geyland Crunk experience, but from the default viewing angle. No 360-degree view, sorry!
+A local rap song called 不跟流行 (translation: I do not follow what is trendy) by Owe Money Pay Money (O$P$) and Zadon was playing through the journey setting the mood for an edgy and gritty exploration of G-Town. The <a href="https://www.youtube.com/watch?v=VFV_zw5eq2o" target="_blank">music video</a> also includes some scenes from the Geyland Crunk experience, but from the default viewing angle. No 360-degree view, sorry!
+
+<div class="video-responsive"><iframe width="1149" height="480" src="https://www.youtube.com/embed/VFV_zw5eq2o" title="Owe Money Pay Money (O$P$) w/ Zadon - 不跟流行 (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 Cyberpunk is often influenced by Japanese aesthetics (think Japanese alphabet, anime), but Geylang Crunk is almost exclusively inspired by local elements. Geylang street signs are neon while HDB blocks are duplicated until they reach the heavens. Golden Mile centre looks glitched out with windows pointing in every direction. What a treat to look at.
 
+<figure>
+<img src="" alt="">
+<figcaption>The Golden Mile (2023), print for sale at <a href="" target="_blank">https://www.metamoind.com/store/p/store/?itemId=nanoussh5fm6onwgq1rest86ujh7oq</a><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
+
 Many collaborators contributed to the appearance of G-Town, each bringing their unique styles, ranging from street art to retro, to the experience: Antz (@antz_rscls), BoonBaked (@boonbaked), humanoise (@humanoise), INFRA-24 (@infra.24), Jaba (@didierjabamathieu), Mojoko (@mojokoworld), New World Plaza (@newworldplaza), Sam Lo (@skl0_),  Simple Problem Beings (@simpleproblembeings), Studio Moonchild (@anacathie x @freakyfir), SuperCyberTown (@supercybertown) and Zero (@zero_x_rscls_o).
+
+<h2>Post-game</h2>
+An unmanned merch booth/mini art gallery outside the VR hall helped to bring the world of Aquasia and Geylang Crunk into our reality. From tees to 3D printed pieces inspired by the two places, I could tell that this project came from a place of passion and love for craft. 
+
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
+
+<figure>
+<img src="" alt="">
+<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+</figure>
+
+I also revisited the centre of the lotus on a computer monitor, where I walked up to each of the six artworks and explored them using a 360 degree view, this time using a mouse.
 
 <h2>A novel and thought-provoking experience</h2>
 Although viewing Aquasia and Geylang Crunk consecutively was a bit jarring, it was a celebration of Asian creativity. MeshMinds has a lot to be proud of giving artists a chance to flex their talent using an underutilised medium.
