@@ -6,7 +6,7 @@ categories: [Event, Review]
 tags: []
 description: "Tour a Floating Utopia and Gritty Cyperpunk City"
 comments: false
-image: >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+image: 
 published: false
 ---
 
