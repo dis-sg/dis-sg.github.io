@@ -7,7 +7,6 @@ tags: []
 description: "Tour a Floating Utopia and Gritty Cyperpunk City 🏙️"
 comments: false
 image: https://i.imgur.com/0Vn6Psa.png
-published: false
 ---
 
 The threat of rising sea levels is real, but instead of presenting a gloomy future which is the prevailing media narrative, AR and VR studio <a href="https://www.meshminds.com/" target="_blank">MeshMinds</a> imagines how cities might adapt by becoming floating utopias.
@@ -21,7 +20,7 @@ Upon entering the VR hall, the first thing that caught my eye was the huge Aquas
 
 <figure>
 <img src="https://i.imgur.com/P1dObe2.jpg" alt="">
-<figcaption>Very big brother-esque, but the experience is not nefarious in the slightest <a href="" target="_blank">(Source)</a></figcaption>
+<figcaption>Very big brother-esque, but the experience is not nefarious in the slightest</figcaption>
 </figure>
 
 Helpful ArtScience Museum staff briefed us on what to expect before we were guided to our VR sets, which could be tightened or loosened according to one’s head shape.
@@ -37,21 +36,21 @@ Not only is the city self-sufficient, farming work is fully automated and crops 
 
 <figure>
 <img src="https://i.imgur.com/Bbbhq4i.png" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.aqu.asia/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 I felt like I was observing the floating city from the perspective of a drone - one moment I was on sea level and the next I was floating on top of the futuristic structures. The whole viewing experience also felt a bit like a property or masterplan video, as the narrator took me through the various technologies that make Aquasia the utopia that it is. What number do I call to invest?
 
 <figure>
 <img src="https://i.imgur.com/9aRdr0c.png" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.aqu.asia/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 The panoramic views of the city were carefully selected to view the architectural design in all its glory. Best described as futuristic aesthetics with an Eastern touch, the modular city relies heavily on floating bridges that connect to the lotus-shaped metallic/glass structure in the centre of the city. 
 
 <figure>
 <img src="https://i.imgur.com/ftCyh8z.png" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.aqu.asia/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 The latter half of the Aquasia tour was inside the lotus structure, which housed the six winning works of <a href="https://www.meshminds.com/nextgenerationartprize" target="_blank">Julius Baer Next Generation Art Prize</a>. The digital art ranged from the elaborate to the abstract, on the themes of Future Cities, Digital Disruption and Sustainability. Repping Singapore are André Wee, Chan Wan Kyn and Jamela Law. 
@@ -59,30 +58,35 @@ The latter half of the Aquasia tour was inside the lotus structure, which housed
 <h3>André Wee</h3>
 <figure>
 <img src="https://i.imgur.com/QZVh4rk.jpg" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.instagram.com/andre_wee/" target="_blank">IG Profile</a></figcaption>
 </figure>
 <b>Future Retro Future</b> imagines a world where sustainability and cultural heritage take centre stage instead of technology. The artwork aims to inspire viewers to be more thoughtful and build an inclusive future. 
 
 <h3>Chan Wan Kyn</h3>
 <figure>
 <img src="https://i.imgur.com/NfUl0cs.png" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.instagram.com/the.wan.one/" target="_blank">IG Profile</a></figcaption>
 </figure>
 <b>City in Aether</b>: An interpretation of the city of the future, that is fast-paced and constantly in a state of flux. Chan used GPS data from his followers’ submissions and himself to create the shapes and patterns in his artwork, which he documents on his Instagram page.  
 
 <h3>Jamela Lovette Law</h3>
 <figure>
 <img src="https://i.imgur.com/qaaYXCU.png" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.instagram.com/poeticreature/" target="_blank">IG Profile</a></figcaption>
 </figure>
 <b>Scars, Skins and Styles: Metamorphosis in the Metaverse</b> celebrates underrepresented individuals who have emerged from traumatic experiences, co-creating these digital fashion pieces as a form of art mediation to promote healing. 
 
 <h2>Geylang Crunk</h2>
 <figure>
 <img src="https://i.imgur.com/2iCKA6h.jpg" alt="">
-<figcaption><a href="" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.metamoind.com/metamoverse" target="_blank">(Source)</a></figcaption>
 </figure>
 Next, I was taken to the futuristic city-state of Neo-Santara in 2065. I joined a biker gang on a turbo-charged adventure throughout the city and landed up in a cyberpunk Geylang (G-Town). The sights along the ride on a sky-high highway included endless rows of skyscrapers and huge statues of religious figures. Upon closer inspection, the skyscrapers were plastered with a shophouse texture, giving the city a local flair. 
+
+<figure>
+<img src="https://i.imgur.com/6Aad5OQ.jpg" alt="">
+<figcaption><a href="https://www.metamoind.com/metamoverse" target="_blank">(Source)</a></figcaption>
+</figure>
 
 A local rap song called 不跟流行 (translation: I do not follow what is trendy) by Owe Money Pay Money (O$P$) and Zadon was playing through the journey setting the mood for an edgy and gritty exploration of G-Town. The <a href="https://www.youtube.com/watch?v=VFV_zw5eq2o" target="_blank">music video</a> also includes some scenes from the Geyland Crunk experience, but from the default viewing angle. No 360-degree view, sorry!
 
@@ -92,7 +96,7 @@ Cyberpunk is often influenced by Japanese aesthetics (think Japanese alphabet, a
 
 <figure>
 <img src="https://i.imgur.com/qdudl56.png" alt="">
-<figcaption>The Golden Mile (2023), print for sale at <a href="" target="_blank">https://www.metamoind.com/store/p/store/?itemId=nanoussh5fm6onwgq1rest86ujh7oq</a><a href="" target="_blank">(Source)</a></figcaption>
+<figcaption>The Golden Mile (2023), print for sale at <a href="https://www.metamoind.com/store/p/store/?itemId=nanoussh5fm6onwgq1rest86ujh7oq" target="_blank">here</a></figcaption>
 </figure>
 
 Many collaborators contributed to the appearance of G-Town, each bringing their unique styles, ranging from street art to retro, to the experience: Antz (@antz_rscls), BoonBaked (@boonbaked), humanoise (@humanoise), INFRA-24 (@infra.24), Jaba (@didierjabamathieu), Mojoko (@mojokoworld), New World Plaza (@newworldplaza), Sam Lo (@skl0_),  Simple Problem Beings (@simpleproblembeings), Studio Moonchild (@anacathie x @freakyfir), SuperCyberTown (@supercybertown) and Zero (@zero_x_rscls_o).
@@ -102,18 +106,18 @@ An unmanned merch booth/mini art gallery outside the VR hall helped to bring the
 
 <figure>
 <img src="https://i.imgur.com/FyCdnsv.jpg" alt="">
-<figcaption>HexScape: Lotus Tower by Metamo Industries<a href="" target="_blank">(Source)</a></figcaption>
+<figcaption>HexScape: Lotus Tower by Metamo Industries</figcaption>
 </figure>
 
 <figure>
 <img src="https://i.imgur.com/hIAuRyY.jpg" alt="">
-<figcaption>3D print of the Geylang Crunk Logo<a href="" target="_blank">(Source)</a></figcaption>
+<figcaption>3D print of the Geylang Crunk Logo</figcaption>
 </figure>
 
 I also revisited the centre of the lotus on a computer monitor, where I walked up to each of the six artworks and explored them using a 360 degree view, this time using a mouse.
 
 <h2>A novel and thought-provoking experience</h2>
-Although viewing Aquasia and Geylang Crunk consecutively was a bit jarring, it was a celebration of Asian creativity. MeshMinds has a lot to be proud of giving artists a chance to flex their talent using an underutilised medium.
+Although viewing Aquasia and Geylang Crunk consecutively was a bit jarring, it was a celebration of Asian creativity. MeshMinds and its partners like Metamo Industries have a lot to be proud of giving artists a chance to flex their talent using an underutilised medium.
 
 MeshMinds also sees the potential for these projects to last beyond its stay at the ArtScience Museum. It has a form seeking partners to host the experience. For example, educators can find this experience a useful tool to get the next generation inspired to think about the environment and what sustainability means to them. The stakes feel more real being immersed in a possible reality rather than just reading the facts from a textbook.
 
