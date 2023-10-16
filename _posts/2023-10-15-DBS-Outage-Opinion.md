@@ -16,7 +16,9 @@ While this was an unfortunate incident which should not have happened in the fir
 <h2>Sporadic, Vague and Cold Updates</h2>
 During the outage, DBS only posted one thread on Facebook with four updates, spread across 17 hours.
 
+<div class="video-responsive">
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdbs.sg%2Fposts%2Fpfbid02sXLuDiPE6bXxcs36t2HfU6Fsg4jqZWeEBZ3bms7rXRSf3tg23Bz9CLM5JfuM9bNkl&show_text=true&width=500" width="500" height="252" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 <figure>
 <img src="https://i.imgur.com/kaQaQG5.png" alt="">
@@ -57,7 +59,9 @@ Furthermore, in the dumpster fire that was the comments section, DBS failed to e
 <h2>Lack of Transparency</h2> 
 If you thought DBS’ response was bad enough, POSB was worse. The subsidiary bank of DBS did not even post a status update until 7:43pm, close to five hours after the outage began. The updates were identical to DBS’, and the page did not engage with comments as well. I struggle to see how ignoring customers lives up to POSB’s “neighbours first” slogan.
 
+<div class="video-responsive">
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPOSB%2Fposts%2Fpfbid0tw9GQjaaskkTCPX3kwebWGp5sKbgAmxkum3De1TguTfgeaYFrDSYNKrYzXCsLRo4l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 Despite having multiple public-facing channels, including the phone numbers of each customer, both DBS and POSB did not publish updates on any other platform during the outage. As the data centre issue affected some users’ access to Meta platforms including Facebook, quite a few customers would have first heard of the outage through news reports. How could DBS control the narrative if the news came before the bank’s own update?
 
