@@ -19,7 +19,7 @@ During the outage, DBS only posted one thread on Facebook with four updates, spr
 <div class="video-responsive">
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdbs.sg%2Fposts%2Fpfbid02sXLuDiPE6bXxcs36t2HfU6Fsg4jqZWeEBZ3bms7rXRSf3tg23Bz9CLM5JfuM9bNkl&show_text=true&width=500" width="500" height="252" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
-
+<br>
 <figure>
 <img src="https://i.imgur.com/kaQaQG5.png" alt="">
 <figcaption><a href="https://www.facebook.com/dbs.sg/posts/pfbid02sXLuDiPE6bXxcs36t2HfU6Fsg4jqZWeEBZ3bms7rXRSf3tg23Bz9CLM5JfuM9bNkl" target="_blank">(Source)</a></figcaption>
