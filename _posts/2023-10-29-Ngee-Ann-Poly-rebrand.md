@@ -7,7 +7,6 @@ tags: []
 description: ""
 comments: false
 image: https://i.imgur.com/3u1OoH2.jpg
-published: false
 ---
 
 As Ngee Ann Polytechnic celebrates its 60th anniversary this year, it unveiled a new brand identity consisting of a simplified logomark and logotype. Described as bold and dynamic, the new identity tries to give off cool aunt vibes (taking into account NP’s age) but lands up looking immature for an institute of higher learning. 
@@ -35,14 +34,14 @@ The letter “n” flows seamlessly into the letter “p”, symbolising the dyn
 The opening in the letter “p” signifies the limitless possibilities for our graduates as they acquire the competencies and growth mindset to navigate and thrive in a global workplace.”
 </blockquote>
 
-Highlighting the curves of “n” and “p” helps the symbol achieve synergy, but it looks too kiddy for a polytechnic. The rounded edges bring to mind preschool/primary school branding, lacking any gravitas of a 60-year old institute of higher learning. While it is usually true that less is more, this design is too simplistic for its own good. 
+Highlighting the curves of “n” and “p” helps the symbol achieve synergy, but it looks too kiddy for a polytechnic. The rounded edges bring to mind preschool/primary school branding, lacking any gravitas of a 60-year-old institute of higher learning. While it is usually true that less is more, this design is too simplistic for its own good. 
 
 <figure>
 <img src="https://i.imgur.com/wTAFk3V.gif" alt="">
 <figcaption><a href="https://www.np.edu.sg/corporate-logo" target="_blank">(Source)</a></figcaption>
 </figure>
 
-NP says that the shield (crest) “serves as a visual link to the earlier versions of its corporate identity, conveying the rich heritage of the institution''. NP had the right idea to flex its heritage, but slapping the symbol on the crest silhouette was a clunky way of doing it, resulting in a jarring design which blends the mediaeval and modern.
+NP says that the shield (crest) "serves as a visual link to the earlier versions of its corporate identity, conveying the rich heritage of the institution". NP had the right idea to flex its heritage, but slapping the symbol on the crest silhouette was a clunky way of doing it, resulting in a jarring design which blends the mediaeval and modern.
 
 The symbol is length-heavy, but it is forced into a crest that is height-heavy. This results in the symbol being too close to the edges of the crest, which would reflect poorly in small logo applications. The empty space at the bottom third of the crest also makes the logo look awkward and incomplete.
 
