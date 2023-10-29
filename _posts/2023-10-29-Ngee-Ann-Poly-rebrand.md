@@ -6,7 +6,7 @@ categories: [Branding Singapore, Rebrand, Education]
 tags: []
 description: ""
 comments: false
-image: https://i.imgur.com/3u1OoH2.jpg
+image: https://i.imgur.com/HnhVqCK.png
 ---
 
 As Ngee Ann Polytechnic celebrates its 60th anniversary this year, it unveiled a new brand identity consisting of a simplified logomark and logotype. Described as bold and dynamic, the new identity tries to give off cool aunt vibes (taking into account NP’s age) but lands up looking immature for an institute of higher learning. 
