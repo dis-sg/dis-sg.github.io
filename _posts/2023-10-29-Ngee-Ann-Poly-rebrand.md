@@ -11,7 +11,9 @@ image: https://i.imgur.com/3u1OoH2.jpg
 
 As Ngee Ann Polytechnic celebrates its 60th anniversary this year, it unveiled a new brand identity consisting of a simplified logomark and logotype. Described as bold and dynamic, the new identity tries to give off cool aunt vibes (taking into account NP’s age) but lands up looking immature for an institute of higher learning. 
 
+<div class="video-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ktMkWMMitFk?si=frJ4bdV73R1png7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Online reaction has not been positive - NP turned off comments for its <a href="https://www.instagram.com/reel/CyfFewky8Jf/" target="_blank">announcement post</a> on Instagram, and angry reactions made up a third of reactions on NP’s <a href="https://www.facebook.com/photo?fbid=716030417226917&set=a.635933805236579
 " target="_blank">new profile picture</a>. Over a thousand people have signed an <a href="https://www.change.org/p/oppose-changes-to-ngee-ann-polytechnic-s-emblem" target="_blank">online petition</a> to bring back the old logo, with the organiser citing a “lack of thorough consultation with relevant stakeholders including alumni, students, and faculty”.
@@ -34,21 +36,27 @@ The letter “n” flows seamlessly into the letter “p”, symbolising the dyn
 The opening in the letter “p” signifies the limitless possibilities for our graduates as they acquire the competencies and growth mindset to navigate and thrive in a global workplace.”
 </blockquote>
 
-Highlighting the curves of “n” and “p” helps the symbol achieve synergy, but it looks too kiddy for a polytechnic. The rounded edges bring to mind preschool/primary school branding, lacking any gravitas of a 60-year-old institute of higher learning. While it is usually true that less is more, this design is too simplistic for its own good. 
+Highlighting the curves of “n” and “p” helps the symbol achieve synergy, but it looks too kiddy for a polytechnic. The rounded edges bring to mind preschool/primary school branding, lacking any gravitas of a 60-year-old institution. While it is usually true that less is more, this design is too simplistic for its own good. 
 
 <figure>
 <img src="https://i.imgur.com/wTAFk3V.gif" alt="">
 <figcaption><a href="https://www.np.edu.sg/corporate-logo" target="_blank">(Source)</a></figcaption>
 </figure>
 
-NP says that the shield (crest) "serves as a visual link to the earlier versions of its corporate identity, conveying the rich heritage of the institution". NP had the right idea to flex its heritage, but slapping the symbol on the crest silhouette was a clunky way of doing it, resulting in a jarring design which blends the mediaeval and modern.
+NP says that the shield (crest) "serves as a visual link to the earlier versions of its corporate identity, conveying the rich heritage of the institution". NP had the right idea to flex its heritage, but slapping the symbol on the crest silhouette was a clunky way of doing it, resulting in a jarring design which blends mediaeval and modern.
 
-The symbol is length-heavy, but it is forced into a crest that is height-heavy. This results in the symbol being too close to the edges of the crest, which would reflect poorly in small logo applications. The empty space at the bottom third of the crest also makes the logo look awkward and incomplete.
+The symbol is length-heavy, but it is forced into a crest that is height-heavy. This makes the symbol too close to the edges of the crest, which would reflect poorly in small logo applications. The empty space at the bottom third of the crest also makes the logo look awkward and incomplete.
 
 <figure>
 <img src="https://i.imgur.com/8q6XvKP.png" alt="">
 <figcaption>Very squeezy <a href="https://t.me/ngeeannpoly" target="_blank">(Source)</a></figcaption>
 </figure>
+
+<figure>
+<img src="https://i.imgur.com/5OgJp1I.gif" alt="">
+<figcaption><a href="https://t.me/ngeeannpoly" target="_blank">(Source)</a></figcaption>
+</figure>
+
 
 <blockquote>
 “The logotype [“ngee ann polytechnic”] has also been updated to feature a typeface that is more contemporary, friendly, and yet dignified.
