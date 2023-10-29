@@ -6,7 +6,7 @@ categories: [Branding Singapore, Rebrand, Education]
 tags: []
 description: ""
 comments: false
-image: https://i.imgur.com/A5OAYHi.png
+image: https://i.imgur.com/3u1OoH2.jpg
 published: false
 ---
 
@@ -18,7 +18,7 @@ Online reaction has not been positive - NP turned off comments for its <a href="
 " target="_blank">new profile picture</a>. Over a thousand people have signed an <a href="https://www.change.org/p/oppose-changes-to-ngee-ann-polytechnic-s-emblem" target="_blank">online petition</a> to bring back the old logo, with the organiser citing a “lack of thorough consultation with relevant stakeholders including alumni, students, and faculty”.
 
 <h2>A Crest in Name Only</h2> 
-Firstly, kudos to NP for having a <a href="https://www.np.edu.sg/corporate-logo" target="_blank">brand identity page</a>, unlike a certain university  that recently unveiled its logo. It shows that NP cares about its brand identity and believes in its visual symbolism, which should be a basic requirement for any brand. 
+Firstly, kudos to NP for having a <a href="https://www.np.edu.sg/corporate-logo" target="_blank">brand identity page</a>, unlike a <a href="https://dis-sg.github.io/UAS-branding/" target="_blank">certain university</a> that recently unveiled its logo. It shows that NP cares about its brand identity and believes in its visual symbolism, which should be a basic requirement for any brand. 
 
 NP’s new logomark sheds almost all of its old look except for the crest-shaped body which now houses the np symbol. 
 
