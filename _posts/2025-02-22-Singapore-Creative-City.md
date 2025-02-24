@@ -9,7 +9,7 @@ comments: false
 image: https://i.imgur.com/Ha4Q4Iw.png
 ---
 
-<h2><i>This is a rhetorical question 🙃</i></h2>
+<h2>This is a rhetorical question 🙃</h2>
 
 Singapore is a creative city. 
 
