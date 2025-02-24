@@ -9,6 +9,8 @@ comments: false
 image: https://i.imgur.com/Ha4Q4Iw.png
 ---
 
+<h2><i>This is a rhetorical question 🙃</i></h2>
+
 Singapore is a creative city. 
 
 That is a fact, according to UNESCO's Design Cities project, which inscribed Singapore as a City of Design in 2015. Other cities on the list include Shenzhen, Nagoya and Helsinki. 
