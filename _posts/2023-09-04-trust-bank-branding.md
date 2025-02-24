@@ -8,6 +8,7 @@ description: "A 1 year retrospective 💰"
 comments: false
 image: https://i.imgur.com/qAJk3RZ.png
 ---
+test
 
 Trust Bank has a lot to celebrate on its first birthday this week. A partnership between Standard Chartered Bank and FairPrice Group, the virtual bank has over 600,000 customers who collectively deposited more than $1 billion. It aims to be the fourth largest retail bank in terms of customer numbers by 2024. 
 
