@@ -120,17 +120,21 @@ img, img:hover {
 }
 .sidebar {
     position: fixed;
-    left: 0px;
-    top: 0px;
-    width: 100%;
+    left: 0;
+    top: 0;
+    width: 100%; /* or set a fixed width like 300px */
     height: 100%;
     border-right: solid rgba(0, 0, 0, 0.07) 1px;
     z-index: 1022;
-    background:#fff;
-	max-width: 100%;
+    background: #fff;
     display: block;
-    object-fit: contain; /* Ensures the logo scales without distorting */
+}
 
+	.sidebar img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
 }
 .nav-icon {
     position: fixed;
