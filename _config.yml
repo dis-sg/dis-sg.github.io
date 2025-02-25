@@ -39,6 +39,12 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
+
+# Collections
+collections:
+  mascotdex:
+    output: true
+    permalink: /mascotdex/:name/
     
 # Pagination 
 paginate: 6
