@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
-<h1>{{ page.mascot_name }}</h1>
-<img src="{{ page.image }}" alt="{{ page.mascot_name }}">
-<p>{{ page.description }}</p>
+
+<div class="page-single">
+    <div class="entry-header">       
+        <h1 class="posttitle">{{ page.mascot_name }}</h1>        
+    </div>
+</div>
+
+<!-- Featured Image -->
+{% include featured-image.html %}
+
+<!-- Content -->
+{% include article.html %}
+
+<!-- Comments if not disabled with comments: false -->
+{% include comments.html %}
