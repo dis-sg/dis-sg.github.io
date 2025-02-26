@@ -120,22 +120,16 @@ img, img:hover {
 }
 .sidebar {
     position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%; /* or set a fixed width like 300px */
+    left: 0px;
+    top: 0px;
+    width: 80px;
     height: 100%;
     border-right: solid rgba(0, 0, 0, 0.07) 1px;
     z-index: 1022;
-    background: #fff;
-    display: block;
+    background:#fff;
 }
 
-	.sidebar img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    object-fit: contain;
-}
+
 .nav-icon {
     position: fixed;
     left: 15px;
