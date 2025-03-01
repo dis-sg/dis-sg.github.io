@@ -31,6 +31,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
+- jekyll-sitemap
+
     
 # Archives
 jekyll-archives:
