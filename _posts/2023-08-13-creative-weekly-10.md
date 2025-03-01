@@ -7,6 +7,7 @@ tags: [Stories]
 description: "From the impressive to the unhinged."
 comments: false
 image: https://i.imgur.com/I12yyKc.png
+canonical: "https://www.designinsingapore.com/creative-weekly-10/"
 ---
 
 Makan (eating) is Singapore’s favourite pastime other than….well, complaining. To celebrate Singapore's 58th birthday, here is a look at what some food brands posted on August 9th, from the impressive to the unhinged.
