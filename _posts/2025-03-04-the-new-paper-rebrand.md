@@ -28,7 +28,7 @@ SPH Media describes <a href="https://www.sph.com.sg/our-brands/news/#the_new_pap
 <figcaption><a href="https://www.facebook.com/photo/?fbid=1033955195435575&set=a.636923091805456" target="_blank">(Source)</a></figcaption>
 </figure>
 
-TNP’s wordmark uses Bitter (<a href="https://fonts.google.com/specimen/Bitter" target="_blank">https://fonts.google.com/specimen/Bitter</a>), a narrow slab serif which gives the brand a youthful and modern feel. The word "New" is bolded and italicised for emphasis and helps break up the wordmark, as there are no spaces between the words.
+TNP’s wordmark uses <a href="https://fonts.google.com/specimen/Bitter" target="_blank">Bitter</a>, a narrow slab serif which gives the brand a youthful and modern feel. The word "New" is bolded and italicised for emphasis and helps break up the wordmark, as there are no spaces between the words.
 
 The electric blue-yellow colour combination sets the logo apart from its SPH Media peers, which largely use muted colours. This is the first time orange is absent from the logo, though it still appears as part of the website’s UI colours.
 
@@ -48,7 +48,7 @@ On Facebook and TikTok, TNP’s profile photo lists the outlet’s tagline in de
 <figcaption><a href="https://www.facebook.com/photo/?fbid=1033952958769132&set=a.636923105138788" target="_blank">(Source)</a></figcaption>
 </figure>
 
-The refreshed website (<a href="https://www.tnp.sg/" target="_blank">https://www.tnp.sg/</a>) is definitely more alive than the profile photos let on. The homepage is sleek, well laid out, and concise—featuring only 10 headlines. Six are the latest articles, while the other four are top reads.
+The refreshed <a href="https://www.tnp.sg/" target="_blank">website</a> is definitely more alive than the profile photos let on. The homepage is sleek, well laid out, and concise—featuring only 10 headlines. Six are the latest articles, while the other four are top reads.
 
 <figure>
 <img src="https://i.imgur.com/aNGHYpL.png" alt="the new paper website">
@@ -74,7 +74,7 @@ Another long-running humour column was Act Blur by SM Ong, who strung together t
 
 Many of these columnists have moved on to other outlets (in SM Ong’s case, ST), or have left the news business. Today, the paper is run by a tiny team of three journalists and an editor—smaller than some news desks. So, what is TNP’s focus now?
 
-A new section called Kopitime publishes letters from readers (read: free content). Think of it as a mix between Reddit posts and Stomp articles—ranging from grievances (<a href="https://www.tnp.sg/lifestyle/kopitime-my-estate-not-accessible-disabled-people?ref=section-top" target="_blank">https://www.tnp.sg/lifestyle/kopitime-my-estate-not-accessible-disabled-people?ref=section-top</a>) about inaccessible estates to complaints (<a href="https://www.tnp.sg/lifestyle/others/kopitime-mcdonalds-orders-missing-standard-condiments?ref=section-list" target="_blank">https://www.tnp.sg/lifestyle/others/kopitime-mcdonalds-orders-missing-standard-condiments?ref=section-list</a>) about missing McDonald's condiments.
+A new section called Kopitime publishes letters from readers (read: free content). Think of it as a mix between Reddit posts and Stomp articles—ranging from <a href="https://www.tnp.sg/lifestyle/kopitime-my-estate-not-accessible-disabled-people?ref=section-top" target="_blank">grievances</a> about inaccessible estates to <a href="https://www.tnp.sg/lifestyle/others/kopitime-mcdonalds-orders-missing-standard-condiments?ref=section-list" target="_blank">complaints</a> about missing McDonald's condiments.
 
 <figure>
 <img src="https://i.imgur.com/XCSl3wn.png" alt="the new paper kopitime">
