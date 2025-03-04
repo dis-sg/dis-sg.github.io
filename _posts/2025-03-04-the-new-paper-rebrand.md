@@ -99,9 +99,9 @@ Furthermore, TNP once organised events like The New Paper Big Walk and The New P
 
 To predict TNP’s future, we can look at its rival, Mediacorp’s Today. Like TNP, Today started as a tabloid before going digital-only—until it was absorbed into CNA last year and rebranded as CNA Today, a long-form weekend magazine.
 
-Had TNP remained focused on sports, its best-case scenario would have been integration into ST under its sports section. The worst case? Extinction.
+Had TNP remained focused on sports, its best-case scenario would have been integration into ST under its sports section. Now, it seems like TNP is marching towards extinction.
 
-TNP needs a sharper focus that honours its legacy. Its new brand identity offers an opportunity to course-correct and SPH Media can look at TNP’s roots for direction, lest TNP ends up on a checklist of brands to axe.
+TNP needs a sharper focus that honours its legacy. Its new brand identity offers an opportunity to course-correct and SPH Media should look at TNP’s roots for direction, lest TNP ends up on a checklist of brands to axe.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
