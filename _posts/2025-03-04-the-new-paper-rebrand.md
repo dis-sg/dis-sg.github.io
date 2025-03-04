@@ -20,7 +20,7 @@ Like many traditional news media outlets, TNP has repeatedly changed its distrib
 <figcaption>TNP’s first and last print edition <a href="https://www.carousell.sg/p/vintage-newspapers-first-and-last-copy-of-the-new-paper-today-my-paper-streats-project-eyeball-1133324476/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-SPH Media describes <a href="https://www.sph.com.sg/our-brands/news/#the_new_paper" target="_blank">The New Paper</a> as “an outlet that keeps readers up to speed with hyperlocal content such as community, entertainment, lifestyle, racing, and inspiring social stories.”
+SPH Media <a href="https://www.sph.com.sg/our-brands/news/#the_new_paper" target="_blank">describes</a> The New Paper as “an outlet that keeps readers up to speed with hyperlocal content such as community, entertainment, lifestyle, racing, and inspiring social stories.”
 
 <h2>The New Brand Identity</h2>
 <figure>
