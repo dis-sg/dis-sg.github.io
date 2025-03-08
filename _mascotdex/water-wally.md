@@ -10,6 +10,7 @@ mascot-cause: [Environment, x]
 mascot-status: Active
 mascot-owner: PUB, Singapore's National Water Agency
 mascot-family:
+birth-year: 2005
 ---
 
 Water Wally is one of the official mascots of PUB, Singapore’s National Water Agency. Introduced in 2005 to promote water conservation and raise awareness about the importance of water resources, particularly among young children, the blue water droplet mascot is regularly featured in various educational materials, events, and campaigns by PUB. 
