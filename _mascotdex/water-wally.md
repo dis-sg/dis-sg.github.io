@@ -9,7 +9,7 @@ mascot-type: Water Droplet
 mascot-cause: [Environment]
 mascot-status: Active
 mascot-owner: PUB, Singapore's National Water Agency
-mascot-family: test
+mascot-family:
 birth-year: 2005
 ---
 
