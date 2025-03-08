@@ -12,6 +12,50 @@ layout: default
 <!-- Featured Image -->
 {% include featured-image.html %}
 
+<!-- Two-Column Table Below the Featured Image -->
+<div class="mascot-details-table">
+    <table>
+        <tr>
+            <th>Name</th>
+            <td>{{ page.title }}</td>
+        </tr>
+        
+        <!-- Birth Year (conditionally rendered) -->
+        {% if page.birth_year %}
+            <tr>
+                <th>Birth Year</th>
+                <td>{{ page.birth_year }}</td>
+            </tr>
+        {% endif %}
+        
+        <tr>
+            <th>Type</th>
+            <td>{{ page.mascot-type }}</td>
+        </tr>
+        <tr>
+            <th>Owner</th>
+            <td>{{ page.mascot-owner }}</td>
+        </tr>
+        
+        <!-- Mascot Family Column (conditionally rendered) -->
+        {% if page.mascot-family %}
+            <tr>
+                <th>Family</th>
+                <td>{{ page.mascot-family }}</td>
+            </tr>
+        {% endif %}
+        
+        <tr>
+            <th>Cause</th>
+            <td>{{ page.mascot-cause }}</td>
+        </tr>
+        <tr>
+            <th>Status</th>
+            <td>{{ page.mascot-status }}</td>
+        </tr>
+    </table>
+</div>
+
 <!-- Content -->
 {% include article.html %}
 
