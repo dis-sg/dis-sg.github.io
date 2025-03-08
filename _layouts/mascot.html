@@ -19,15 +19,10 @@ layout: default
             <th>Name</th>
             <td>{{ page.title }}</td>
         </tr>
-        
-        <!-- Birth Year (conditionally rendered) -->
-        {% if page.birth_year %}
-            <tr>
-                <th>Birth Year</th>
-                <td>{{ page.birth_year }}</td>
-            </tr>
-        {% endif %}
-        
+        <tr>
+            <th>Birth Year</th>
+            <td>{{ page.birth-year }}</td>
+        </tr>
         <tr>
             <th>Type</th>
             <td>{{ page.mascot-type }}</td>
