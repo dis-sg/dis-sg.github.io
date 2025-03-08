@@ -16,28 +16,30 @@ layout: default
 {% include article.html %}
 
 <!-- Tags and Taxonomy (mascot-type, mascot-cause, mascot-family) -->
-<div class="tags">
-    <h4>Type:</h4>
-    <ul>
-        {% for type in page.mascot-type %}
-            <li>{{ type }}</li>
-        {% endfor %}
-    </ul>
+{% unless page.layout == "mascot" %}
+  <div class="tags">
+      <h4>Type:</h4>
+      <ul>
+          {% for type in page.mascot-type %}
+              <li>{{ type }}</li>
+          {% endfor %}
+      </ul>
 
-    <h4>Cause:</h4>
-    <ul>
-        {% for cause in page.mascot-cause %}
-            <li>{{ cause }}</li>
-        {% endfor %}
-    </ul>
+      <h4>Cause:</h4>
+      <ul>
+          {% for cause in page.mascot-cause %}
+              <li>{{ cause }}</li>
+          {% endfor %}
+      </ul>
 
-    <h4>Family:</h4>
-    <ul>
-        {% for family in page.mascot-family %}
-            <li>{{ family }}</li>
-        {% endfor %}
-    </ul>
-</div>
+      <h4>Family:</h4>
+      <ul>
+          {% for family in page.mascot-family %}
+              <li>{{ family }}</li>
+          {% endfor %}
+      </ul>
+  </div>
+{% endunless %}
 
 <!-- Comments if not disabled with comments: false -->
 {% include comments.html %}
