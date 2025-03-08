@@ -18,25 +18,25 @@ layout: default
 <!-- Tags and Taxonomy (mascot-type, mascot-cause, mascot-family) -->
 <div class="tags">
     <h4>Type:</h4>
-    <ul>
+    <div>
         {% for type in page.mascot-type %}
-            <li>{{ type }}</li>
+            <a href="/mascot-type/{{ type | slugify }}" class="badge badge-primary">{{ type }}</a>
         {% endfor %}
-    </ul>
+    </div>
 
     <h4>Cause:</h4>
-    <ul>
+    <div>
         {% for cause in page.mascot-cause %}
-            <li>{{ cause }}</li>
+            <a href="/mascot-cause/{{ cause | slugify }}" class="badge badge-success">{{ cause }}</a>
         {% endfor %}
-    </ul>
+    </div>
 
     <h4>Family:</h4>
-    <ul>
+    <div>
         {% for family in page.mascot-family %}
-            <li>{{ family }}</li>
+            <a href="/mascot-family/{{ family | slugify }}" class="badge badge-warning">{{ family }}</a>
         {% endfor %}
-    </ul>
+    </div>
 </div>
 
 <!-- Comments if not disabled with comments: false -->
