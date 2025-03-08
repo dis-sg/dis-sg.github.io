@@ -3,8 +3,9 @@ layout: default
 ---
 
 <div class="page-single">
-    <div class="entry-header">       
-        <h1 class="posttitle">{{ page.mascot_name }}</h1>        
+    <div class="entry-header">
+        <!-- Render Title -->
+        <h1 class="posttitle">{{ page.title }}</h1>        
     </div>
 </div>
 
@@ -13,6 +14,30 @@ layout: default
 
 <!-- Content -->
 {% include article.html %}
+
+<!-- Tags and Taxonomy (mascot-type, mascot-cause, mascot-family) -->
+<div class="tags">
+    <h4>Type:</h4>
+    <ul>
+        {% for type in page.mascot-type %}
+            <li>{{ type }}</li>
+        {% endfor %}
+    </ul>
+
+    <h4>Cause:</h4>
+    <ul>
+        {% for cause in page.mascot-cause %}
+            <li>{{ cause }}</li>
+        {% endfor %}
+    </ul>
+
+    <h4>Family:</h4>
+    <ul>
+        {% for family in page.mascot-family %}
+            <li>{{ family }}</li>
+        {% endfor %}
+    </ul>
+</div>
 
 <!-- Comments if not disabled with comments: false -->
 {% include comments.html %}
