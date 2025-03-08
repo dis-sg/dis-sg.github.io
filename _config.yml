@@ -47,7 +47,14 @@ collections:
   mascotdex:
     output: true
     permalink: /mascotdex/:name/
-    
+
+taxonomies:
+  mascot-type: "Mascot Type"
+mascot-cause: "Mascot Cause"
+mascot-status: "Mascot Status"
+mascot-family: "Mascot Family"
+mascot-owner: "Mascot Owner"
+
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
