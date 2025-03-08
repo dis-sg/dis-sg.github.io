@@ -46,7 +46,7 @@ jekyll-archives:
 collections:
   mascotdex:
     output: true
-    permalink: /mascotdex/:name/
+    permalink: /mascotdex/:title/
 
 taxonomies:
   mascot-type: "Mascot Type"
