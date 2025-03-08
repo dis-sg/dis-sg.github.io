@@ -6,10 +6,10 @@ layout: mascot
 permalink: /mascotdex/water-wally/
 comments: false
 mascot-type: Water Droplet
-mascot-cause: [Environment, x]
+mascot-cause: [Environment]
 mascot-status: Active
 mascot-owner: PUB, Singapore's National Water Agency
-mascot-family:
+mascot-family: test
 birth-year: 2005
 ---
 
