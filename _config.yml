@@ -50,11 +50,12 @@ collections:
 
 taxonomies:
   mascot-type: "Mascot Type"
-mascot-cause: "Mascot Cause"
-mascot-status: "Mascot Status"
-mascot-family: "Mascot Family"
-mascot-owner: "Mascot Owner"
-birth-year: "Birth Year"
+  mascot-cause: "Mascot Cause"
+  mascot-status: "Mascot Status"
+  mascot-family: "Mascot Family"
+  mascot-owner: "Mascot Owner"
+  birth-year: "Birth Year"
+
 
 # Pagination 
 paginate: 6
