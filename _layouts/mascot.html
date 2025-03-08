@@ -19,66 +19,59 @@ layout: default
             <th>Name</th>
             <td>{{ page.title }}</td>
         </tr>
-        <tr>
-            <th>Birth Year</th>
-            <td>{{ page.birth-year }}</td>
-        </tr>
+        
         <tr>
             <th>Type</th>
-            <td>{{ page.mascot-type }}</td>
+            <td>
+                {% if page.mascot-type %}
+                    <a href="/mascot-type/{{ page.mascot-type | slugify }}/">{{ page.mascot-type }}</a>
+                {% endif %}
+            </td>
         </tr>
+
         <tr>
             <th>Owner</th>
-            <td>{{ page.mascot-owner }}</td>
+            <td>
+                {% if page.mascot-owner %}
+                    <a href="/mascot-owner/{{ page.mascot-owner | slugify }}/">{{ page.mascot-owner }}</a>
+                {% endif %}
+            </td>
         </tr>
-        
+
         <!-- Mascot Family Column (conditionally rendered) -->
         {% if page.mascot-family %}
             <tr>
                 <th>Family</th>
-                <td>{{ page.mascot-family }}</td>
+                <td>
+                    <a href="/mascot-family/{{ page.mascot-family | slugify }}/">{{ page.mascot-family }}</a>
+                </td>
             </tr>
         {% endif %}
-        
+
         <tr>
             <th>Cause</th>
-            <td>{{ page.mascot-cause }}</td>
+            <td>
+                {% if page.mascot-cause %}
+                    {% for cause in page.mascot-cause %}
+                        <a href="/mascot-cause/{{ cause | slugify }}/">{{ cause }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                {% endif %}
+            </td>
         </tr>
+
         <tr>
             <th>Status</th>
-            <td>{{ page.mascot-status }}</td>
+            <td>
+                {% if page.mascot-status %}
+                    <a href="/mascot-status/{{ page.mascot-status | slugify }}/">{{ page.mascot-status }}</a>
+                {% endif %}
+            </td>
         </tr>
     </table>
 </div>
 
 <!-- Content -->
 {% include article.html %}
-
-<!-- Tags and Taxonomy (mascot-type, mascot-cause, mascot-family) -->
-{% unless page.layout == "mascot" %}
-  <div class="tags">
-      <h4>Type:</h4>
-      <ul>
-          {% for type in page.mascot-type %}
-              <li>{{ type }}</li>
-          {% endfor %}
-      </ul>
-
-      <h4>Cause:</h4>
-      <ul>
-          {% for cause in page.mascot-cause %}
-              <li>{{ cause }}</li>
-          {% endfor %}
-      </ul>
-
-      <h4>Family:</h4>
-      <ul>
-          {% for family in page.mascot-family %}
-              <li>{{ family }}</li>
-          {% endfor %}
-      </ul>
-  </div>
-{% endunless %}
 
 <!-- Comments if not disabled with comments: false -->
 {% include comments.html %}
