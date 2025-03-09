@@ -27,56 +27,12 @@ layout: default
             </tr>
             {% endif %}
 
-            {% if page.mascot-type %}
+            {% if page.tags %}
             <tr>
-                <th>Type</th>
+                <th>Tags</th>
                 <td>
-                    {% for type in page.mascot-type %}
-                        <a href="/tags/{{ type | downcase | replace: ' ', '-' }}/">{{ type }}</a>{% unless forloop.last %}, {% endunless %}
-                    {% endfor %}
-                </td>
-            </tr>
-            {% endif %}
-
-            {% if page.mascot-owner %}
-            <tr>
-                <th>Owner</th>
-                <td>
-                    {% for owner in page.mascot-owner %}
-                        <a href="/tags/{{ owner | downcase | replace: ' ', '-' }}/">{{ owner }}</a>{% unless forloop.last %}, {% endunless %}
-                    {% endfor %}
-                </td>
-            </tr>
-            {% endif %}
-
-            {% if page.mascot-cause %}
-            <tr>
-                <th>Cause</th>
-                <td>
-                    {% for cause in page.mascot-cause %}
-                        <a href="/tags/{{ cause | downcase | replace: ' ', '-' }}/">{{ cause }}</a>{% unless forloop.last %}, {% endunless %}
-                    {% endfor %}
-                </td>
-            </tr>
-            {% endif %}
-
-            {% if page.mascot-status %}
-            <tr>
-                <th>Status</th>
-                <td>
-                    {% for status in page.mascot-status %}
-                        <a href="/tags/{{ status | downcase | replace: ' ', '-' }}/">{{ status }}</a>{% unless forloop.last %}, {% endunless %}
-                    {% endfor %}
-                </td>
-            </tr>
-            {% endif %}
-
-            {% if page.mascot-family %}
-            <tr>
-                <th>Family</th>
-                <td>
-                    {% for family in page.mascot-family %}
-                        <a href="/tags/{{ family | downcase | replace: ' ', '-' }}/">{{ family }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% for tag in page.tags %}
+                        <a href="/tags/{{ tag | downcase | replace: ' ', '-' }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </td>
             </tr>
