@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Mascot Family"
+permalink: "/mascot-family/:slug/"
+---
+
+<h2>Mascots in the Family: {{ page.title | capitalize }}</h2>
+
+<ul>
+  {% for mascot in site.mascotdex %}
+    {% if mascot.mascot-family contains page.title %}
+      <li><a href="{{ mascot.url }}">{{ mascot.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
