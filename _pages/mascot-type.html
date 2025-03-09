@@ -1,19 +1,14 @@
 ---
 layout: default
 title: "Mascot Type"
-permalink: "/mascot-type/:slug/"
+permalink: "/mascot-type/:name/"
 ---
-
-<h2>Mascots of Type: {{ page.title }}</h2>
+<h2>Mascots of Type: {{ page.name | capitalize }}</h2>
 
 <ul>
   {% for mascot in site.mascotdex %}
-    {% if mascot.mascot-type %}
-      {% for type in mascot.mascot-type %}
-        {% if type == page.title %}
-          <li><a href="{{ mascot.url }}">{{ mascot.title }}</a></li>
-        {% endif %}
-      {% endfor %}
+    {% if mascot.mascot-type contains page.name %}
+      <li><a href="{{ mascot.url }}">{{ mascot.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
