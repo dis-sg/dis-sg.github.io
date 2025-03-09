@@ -87,7 +87,7 @@ layout: default
                 <th>Tags</th>
                 <td>
                     {% for tag in page.tags %}
-                        <span class="badge badge-primary">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+                        <a href="/tags#{{ tag | downcase | replace: ' ', '-' | url_encode }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </td>
             </tr>
@@ -142,10 +142,13 @@ layout: default
         background: #f1f1f1;
     }
 
-    .mascot-details-table .badge {
-        background-color: #005FEA;
-        color: white;
+    .mascot-details-table a {
+        color: #005FEA;
+        text-decoration: none;
         font-weight: bold;
-        margin-right: 5px;
+    }
+
+    .mascot-details-table a:hover {
+        text-decoration: underline;
     }
 </style>
