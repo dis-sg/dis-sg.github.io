@@ -30,52 +30,60 @@ layout: default
             {% if page.mascot-type %}
             <tr>
                 <th>Type</th>
-                <td>{{ page.mascot-type }}</td>
+                <td>
+                    {% for type in page.mascot-type %}
+                        <a href="/tags/{{ type | downcase | replace: ' ', '-' }}/">{{ type }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
             </tr>
             {% endif %}
 
             {% if page.mascot-owner %}
             <tr>
                 <th>Owner</th>
-                <td>{{ page.mascot-owner }}</td>
+                <td>
+                    {% for owner in page.mascot-owner %}
+                        <a href="/tags/{{ owner | downcase | replace: ' ', '-' }}/">{{ owner }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
             </tr>
             {% endif %}
 
             {% if page.mascot-cause %}
             <tr>
                 <th>Cause</th>
-                <td>{{ page.mascot-cause }}</td>
+                <td>
+                    {% for cause in page.mascot-cause %}
+                        <a href="/tags/{{ cause | downcase | replace: ' ', '-' }}/">{{ cause }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
             </tr>
             {% endif %}
 
             {% if page.mascot-status %}
             <tr>
                 <th>Status</th>
-                <td>{{ page.mascot-status }}</td>
+                <td>
+                    {% for status in page.mascot-status %}
+                        <a href="/tags/{{ status | downcase | replace: ' ', '-' }}/">{{ status }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
             </tr>
             {% endif %}
 
             {% if page.mascot-family %}
             <tr>
                 <th>Family</th>
-                <td>{{ page.mascot-family }}</td>
+                <td>
+                    {% for family in page.mascot-family %}
+                        <a href="/tags/{{ family | downcase | replace: ' ', '-' }}/">{{ family }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
             </tr>
             {% endif %}
         </tbody>
     </table>
 </div>
-
-<!-- Display Tags at the bottom using Jekyll's default tag functionality -->
-{% if page.tags %}
-<div class="mascot-tags">
-    <h3>Tags:</h3>
-    <ul>
-        {% for tag in page.tags %}
-            <li><a href="{{ site.baseurl }}/tags/{{ tag | downcase | replace: ' ', '-' }}/">{{ tag }}</a></li>
-        {% endfor %}
-    </ul>
-</div>
-{% endif %}
 
 <!-- Content -->
 {% include article.html %}
@@ -131,19 +139,5 @@ layout: default
 
     .mascot-details-table a:hover {
         text-decoration: underline;
-    }
-
-    .mascot-tags ul {
-        list-style-type: none;
-        padding: 0;
-    }
-
-    .mascot-tags li {
-        display: inline-block;
-        margin-right: 10px;
-        padding: 5px;
-        background-color: #f1f1f1;
-        border-radius: 3px;
-        font-size: 14px;
     }
 </style>
