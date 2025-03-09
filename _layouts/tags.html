@@ -4,30 +4,20 @@ layout: default
 permalink: "/tags.html"
 ---
 
-{% assign all_content = site.posts | concat: site.pages | concat: site.mascotdex %}
-
-{% assign tag_map = {} %}
-
-{% for item in all_content %}
-  {% if item.tags %}
-    {% for tag in item.tags %}
-      {% assign tag_key = tag | downcase %}
-      {% if tag_map[tag_key] %}
-        {% assign tag_map[tag_key] = tag_map[tag_key] | push: item %}
-      {% else %}
-        {% assign tag_map = tag_map | merge: { tag_key => item } %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
-
-{% for tag in tag_map %}
-  <h4 class="mt-5 mb-neg-30" id="{{ tag[0] | replace: " ","-" }}">
+{% for tag in site.tags %}
+<h4 class="mt-5 mb-neg-30" id="{{ tag[0] | replace: " ","-" }}">
     <span class="text-capitalize text-small badge badge-primary">{{ tag[0] }}</span>
-  </h4>
-  <div class="blog-grid-container">
-    {% for item in tag[1] %}
-      {% include postbox.html %}
+</h4>
+<div class="blog-grid-container">
+    {% assign pages_list = tag[1] %}
+    {% for post in pages_list %}
+        {% if post.title != null %}
+            {% if group == null or group == post.group %}
+                {% include postbox.html %}
+            {% endif %}
+        {% endif %}
     {% endfor %}
-  </div>
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
+</div>
 {% endfor %}
