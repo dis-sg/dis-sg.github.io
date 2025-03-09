@@ -11,7 +11,11 @@ layout: default
 <div class="taxonomy-list">
     <ul>
         {% for mascot in site.mascotdex %}
-            {% if mascot[page.tag] contains page.title %}
+            {% if mascot.mascot-type contains page.title or
+                  mascot.mascot-cause contains page.title or
+                  mascot.mascot-status contains page.title or
+                  mascot.mascot-owner contains page.title or
+                  mascot.mascot-family contains page.title %}
                 <li><a href="{{ mascot.url }}">{{ mascot.title }}</a></li>
             {% endif %}
         {% endfor %}
