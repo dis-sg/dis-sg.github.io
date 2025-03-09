@@ -81,6 +81,17 @@ layout: default
                 </td>
             </tr>
             {% endif %}
+
+            {% if page.tags %}
+            <tr>
+                <th>Tags</th>
+                <td>
+                    {% for tag in page.tags %}
+                        <span class="badge badge-primary">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
         </tbody>
     </table>
 </div>
@@ -131,13 +142,10 @@ layout: default
         background: #f1f1f1;
     }
 
-    .mascot-details-table a {
-        color: #005FEA;
-        text-decoration: none;
+    .mascot-details-table .badge {
+        background-color: #005FEA;
+        color: white;
         font-weight: bold;
-    }
-
-    .mascot-details-table a:hover {
-        text-decoration: underline;
+        margin-right: 5px;
     }
 </style>
