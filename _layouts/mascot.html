@@ -27,12 +27,56 @@ layout: default
             </tr>
             {% endif %}
 
-            {% if page.tags %}
+            {% if page.mascot-type %}
             <tr>
-                <th>Tags</th>
+                <th>Type</th>
                 <td>
-                    {% for tag in page.tags %}
-                        <a href="/tags/{{ tag | downcase | replace: ' ', '-' }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% for type in page.mascot-type %}
+                        {{ type }}{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if page.mascot-owner %}
+            <tr>
+                <th>Owner</th>
+                <td>
+                    {% for owner in page.mascot-owner %}
+                        {{ owner }}{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if page.mascot-cause %}
+            <tr>
+                <th>Cause</th>
+                <td>
+                    {% for cause in page.mascot-cause %}
+                        {{ cause }}{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if page.mascot-status %}
+            <tr>
+                <th>Status</th>
+                <td>
+                    {% for status in page.mascot-status %}
+                        {{ status }}{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
+
+            {% if page.mascot-family %}
+            <tr>
+                <th>Family</th>
+                <td>
+                    {% for family in page.mascot-family %}
+                        {{ family }}{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </td>
             </tr>
