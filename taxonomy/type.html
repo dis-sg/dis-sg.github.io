@@ -1,6 +1,19 @@
 ---
-layout: taxonomy
-title: "Mascot Types"
-permalink: "/mascot-type/"
-taxonomy: "mascot-type"
+layout: default
+title: "Mascot Type"
+permalink: "/mascot-type/:slug/"
 ---
+
+<h2>Mascots of Type: {{ page.title }}</h2>
+
+<ul>
+  {% for mascot in site.mascotdex %}
+    {% if mascot.mascot-type %}
+      {% for type in mascot.mascot-type %}
+        {% if type == page.title %}
+          <li><a href="{{ mascot.url }}">{{ mascot.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</ul>
