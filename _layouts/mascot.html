@@ -5,7 +5,7 @@ layout: default
 <div class="page-single">
     <div class="entry-header">
         <!-- Render Title -->
-        <h1 class="posttitle">{{ page.title }}</h1>        
+        <h1 class="posttitle">{{ page.title }}</h1>
     </div>
 </div>
 
@@ -20,7 +20,7 @@ layout: default
                 <th>Name</th>
                 <td>{{ page.title }}</td>
             </tr>
-            
+
             {% if page.birth-year %}
             <tr>
                 <th>Birth Year</th>
@@ -33,7 +33,7 @@ layout: default
                 <th>Type</th>
                 <td>
                     {% for type in page.mascot-type %}
-                        <a href="{{ site.baseurl }}/mascot-type/{{ type | slugify }}/">{{ type }}</a>{% unless forloop.last %}, {% endunless %}
+                        <a href="/mascot-type/{{ type | slugify }}/">{{ type }}</a>{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </td>
             </tr>
@@ -44,7 +44,7 @@ layout: default
                 <th>Owner</th>
                 <td>
                     {% for owner in page.mascot-owner %}
-                        <a href="{{ site.baseurl }}/mascot-owner/{{ owner | slugify }}/">{{ owner }}</a>{% unless forloop.last %}, {% endunless %}
+                        <a href="/mascot-owner/{{ owner | slugify }}/">{{ owner }}</a>{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </td>
             </tr>
@@ -55,7 +55,7 @@ layout: default
                 <th>Cause</th>
                 <td>
                     {% for cause in page.mascot-cause %}
-                        <a href="{{ site.baseurl }}/mascot-cause/{{ cause | slugify }}/">{{ cause }}</a>{% unless forloop.last %}, {% endunless %}
+                        <a href="/mascot-cause/{{ cause | slugify }}/">{{ cause }}</a>{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </td>
             </tr>
@@ -66,7 +66,7 @@ layout: default
                 <th>Status</th>
                 <td>
                     {% for status in page.mascot-status %}
-                        <a href="{{ site.baseurl }}/mascot-status/{{ status | slugify }}/">{{ status }}</a>{% unless forloop.last %}, {% endunless %}
+                        <a href="/mascot-status/{{ status | slugify }}/">{{ status }}</a>{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </td>
             </tr>
@@ -77,7 +77,7 @@ layout: default
                 <th>Family</th>
                 <td>
                     {% for family in page.mascot-family %}
-                        <a href="{{ site.baseurl }}/mascot-family/{{ family | slugify }}/">{{ family }}</a>{% unless forloop.last %}, {% endunless %}
+                        <a href="/mascot-family/{{ family | slugify }}/">{{ family }}</a>{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </td>
             </tr>
@@ -121,6 +121,11 @@ layout: default
         color: white;
         font-weight: bold;
         text-transform: uppercase;
+        width: 35%;
+    }
+
+    .mascot-details-table td {
+        width: 65%;
     }
 
     .mascot-details-table tr:hover {
