@@ -4,19 +4,21 @@ layout: default
 permalink: "/tags.html"
 ---
 
-{% assign all_content = site.posts | concat: site.pages %}
+{% assign all_content = site.posts | concat: site.pages | concat: site.mascotdex %}
 
 {% assign tag_map = {} %}
 
 {% for item in all_content %}
-  {% for tag in item.tags %}
-    {% assign tag_key = tag | downcase %}
-    {% if tag_map[tag_key] %}
-      {% assign tag_map[tag_key] = tag_map[tag_key] | push: item %}
-    {% else %}
-      {% assign tag_map = tag_map | merge: { tag_key => item } %}
-    {% endif %}
-  {% endfor %}
+  {% if item.tags %}
+    {% for tag in item.tags %}
+      {% assign tag_key = tag | downcase %}
+      {% if tag_map[tag_key] %}
+        {% assign tag_map[tag_key] = tag_map[tag_key] | push: item %}
+      {% else %}
+        {% assign tag_map = tag_map | merge: { tag_key => item } %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
 
 {% for tag in tag_map %}
