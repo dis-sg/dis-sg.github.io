@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="page-single">
+    <div class="entry-header">
+        <h1 class="posttitle">Mascots under "{{ page.title }}"</h1>
+    </div>
+</div>
+
+<div class="taxonomy-list">
+    <ul>
+        {% for mascot in site.mascotdex %}
+            {% if mascot[page.tag] contains page.title %}
+                <li><a href="{{ mascot.url }}">{{ mascot.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
