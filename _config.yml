@@ -33,29 +33,31 @@ plugins:
   - jekyll-figure
   - jekyll-sitemap
 
-    
 # Archives
 jekyll-archives:
   enabled:
     - categories
+    - tags
+    - mascot-type
+    - mascot-cause
+    - mascot-status
+    - mascot-family
+    - mascot-owner
   layout: archive
   permalinks:
     category: '/category/:name/'
+    tag: '/tag/:name/'
+    mascot-type: '/mascot-type/:name/'
+    mascot-cause: '/mascot-cause/:name/'
+    mascot-status: '/mascot-status/:name/'
+    mascot-family: '/mascot-family/:name/'
+    mascot-owner: '/mascot-owner/:name/'
 
 # Collections
 collections:
   mascotdex:
     output: true
     permalink: /mascotdex/:title/
-
-taxonomies:
-  mascot-type: "Mascot Type"
-  mascot-cause: "Mascot Cause"
-  mascot-status: "Mascot Status"
-  mascot-family: "Mascot Family"
-  mascot-owner: "Mascot Owner"
-  birth-year: "Birth Year"
-
 
 # Pagination 
 paginate: 6
@@ -67,8 +69,6 @@ markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
       disable : true
-
-
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
