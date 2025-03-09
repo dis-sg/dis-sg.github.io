@@ -21,50 +21,67 @@ layout: default
                 <td>{{ page.title }}</td>
             </tr>
             
+            {% if page.birth-year %}
             <tr>
                 <th>Birth Year</th>
                 <td>{{ page.birth-year }}</td>
             </tr>
+            {% endif %}
 
-<tr>
-    <th>Type</th>
-    <td>
-        <a href="/mascot-type/{{ page.mascot-type | slugify }}/">{{ page.mascot-type }}</a>
-    </td>
-</tr>
+            {% if page.mascot-type %}
+            <tr>
+                <th>Type</th>
+                <td>
+                    {% for type in page.mascot-type %}
+                        <a href="/mascot-type/{{ type | slugify }}/">{{ type }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
 
-<tr>
-    <th>Owner</th>
-    <td>
-        <a href="/mascot-owner/{{ page.mascot-owner | slugify }}/">{{ page.mascot-owner }}</a>
-    </td>
-</tr>
+            {% if page.mascot-owner %}
+            <tr>
+                <th>Owner</th>
+                <td>
+                    {% for owner in page.mascot-owner %}
+                        <a href="/mascot-owner/{{ owner | slugify }}/">{{ owner }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
 
-<tr>
-    <th>Cause</th>
-    <td>
-        {% for cause in page.mascot-cause %}
-            <a href="/mascot-cause/{{ cause | slugify }}/">{{ cause }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-    </td>
-</tr>
+            {% if page.mascot-cause %}
+            <tr>
+                <th>Cause</th>
+                <td>
+                    {% for cause in page.mascot-cause %}
+                        <a href="/mascot-cause/{{ cause | slugify }}/">{{ cause }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
 
-<tr>
-    <th>Status</th>
-    <td>
-        <a href="/mascot-status/{{ page.mascot-status | slugify }}/">{{ page.mascot-status }}</a>
-    </td>
-</tr>
+            {% if page.mascot-status %}
+            <tr>
+                <th>Status</th>
+                <td>
+                    {% for status in page.mascot-status %}
+                        <a href="/mascot-status/{{ status | slugify }}/">{{ status }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
 
-{% if page.mascot-family %}
-<tr>
-    <th>Family</th>
-    <td>
-        <a href="/mascot-family/{{ page.mascot-family | slugify }}/">{{ page.mascot-family }}</a>
-    </td>
-</tr>
-{% endif %}
-
+            {% if page.mascot-family %}
+            <tr>
+                <th>Family</th>
+                <td>
+                    {% for family in page.mascot-family %}
+                        <a href="/mascot-family/{{ family | slugify }}/">{{ family }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
         </tbody>
     </table>
 </div>
@@ -84,8 +101,8 @@ layout: default
     }
 
     .mascot-details-table table {
-        width: 80%;
-        max-width: 600px;
+        width: 90%;
+        max-width: 650px;
         border-collapse: collapse;
         background: #f9f9f9;
         border-radius: 10px;
@@ -104,6 +121,11 @@ layout: default
         color: white;
         font-weight: bold;
         text-transform: uppercase;
+        width: 35%;
+    }
+
+    .mascot-details-table td {
+        width: 65%;
     }
 
     .mascot-details-table tr:hover {
