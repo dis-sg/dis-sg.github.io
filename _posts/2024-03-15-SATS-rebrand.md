@@ -51,14 +51,15 @@ WFS’ former logo was more direct in recalling the industry it operates in. It 
 
 SATS said the following of the new brand identity:
 
-    <blockquote>
-The new visual identity features a double loop and a ‘to the power of’ mathematical symbol to signify the coming together of SATS and WFS to power a world of trade, travel and taste via the Group’s connected global network of aviation gateway services, air cargo handling, and food solutions. The new visual will be rolled out in phases over the next three years.
--<a href="https://www.sats.com.sg/media/latest-news/article/sats-and-wfs-unite-with-a-new-visual-identity">SATS</a>
-    </blockquote>
+<blockquote>
+    The new visual identity features a double loop and a ‘to the power of’ mathematical symbol to signify the coming together of SATS and WFS to power a world of trade, travel and taste via the Group’s connected global network of aviation gateway services, air cargo handling, and food solutions. The new visual will be rolled out in phases over the next three years.
+    - <a href="https://www.sats.com.sg/media/latest-news/article/sats-and-wfs-unite-with-a-new-visual-identity" target="_blank">SATS</a>
+</blockquote>
+
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fthesatsgroup%2Fvideos%2F548999927979809%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-Similar to how SATS’ first logo used the Singapore Airlines’ <a href="https://logos.fandom.com/wiki/SATS?file=SATS_SQ.svg">bird icon</a>, both SATS and WFS now share one graphic in their logos while keeping their names. The double loop can be interpreted as a symbol of the acquisition, signifying synergy between both brands. Cynics, however, might say it looks too much like a tide pod.
+Similar to how SATS’ first logo used the Singapore Airlines’ <a href="https://logos.fandom.com/wiki/SATS?file=SATS_SQ.svg" target="_blank">bird icon</a>, both SATS and WFS now share one graphic in their logos while keeping their names. The double loop can be interpreted as a symbol of the acquisition, signifying synergy between both brands. Cynics, however, might say it looks too much like a tide pod.
 
 <figure>
 <img src="https://i.imgur.com/7ZSvvUa.png" alt="SATS WFS new logos">
