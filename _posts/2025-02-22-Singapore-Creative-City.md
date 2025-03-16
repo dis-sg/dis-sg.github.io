@@ -7,6 +7,7 @@ tags: []
 description: "This is a rhetorical question 🙃"
 comments: false
 image: https://i.imgur.com/Ha4Q4Iw.png
+og_image: "https://i.imgur.com/Ha4Q4Iw.png"
 ---
 
 <h2>This is a rhetorical question 🙃</h2>
