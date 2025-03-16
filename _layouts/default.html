@@ -4,34 +4,37 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<meta property="og:title" content="Design in Singapore">
-<meta property="og:description" content="Your creative escape from the daily grind in 🇸🇬">
-<meta property="og:image" content="https://i.imgur.com/wzbY53X.png">
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="{% if page.og_title %}{{ page.og_title }}{% else %}{{ page.title }}{% endif %}">
+<meta property="og:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image" content="{% if page.og_image %}{{ page.og_image | absolute_url }}{% else %}https://i.imgur.com/wzbY53X.png{% endif %}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:url" content="https://www.designinsingapore.com/">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Design in Singapore">
-<meta name="twitter:description" content="Your creative escape from the daily grind in 🇸🇬">
-<meta name="twitter:image" content="https://i.imgur.com/wzbY53X.png">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 
-	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if page.og_title %}{{ page.og_title }}{% else %}{{ page.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:image" content="{% if page.og_image %}{{ page.og_image | absolute_url }}{% else %}https://i.imgur.com/wzbY53X.png{% endif %}">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ page.url | absolute_url }}">
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
 
-<title>{{ page.title }} | {{site.name}}</title>
+<title>{{ page.title }} | {{ site.name }}</title>
 
-	    <!-- Font Awesome 6 -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+<!-- Font Awesome 6 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
-    <!-- Other styles and scripts -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-	
+<!-- Other styles and scripts -->
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 {% seo %}
-    
-<link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 
+<link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
@@ -43,9 +46,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9819354984816938"
      crossorigin="anonymous"></script>
 
-
-	
 </head>
+
 
 {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
