@@ -45,9 +45,4 @@ Welcome to Design In Singapore, your creative escape.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Explore Singapore’s design scene with us on  
-  <a href="https://www.facebook.com/DesignInSingapore" target="_blank" rel="noopener noreferrer">Facebook</a>,  
-  <a href="https://www.instagram.com/designinsingapore" target="_blank" rel="noopener noreferrer">Instagram</a>,  
-  <a href="https://www.tiktok.com/@designinsingapore" target="_blank" rel="noopener noreferrer">TikTok</a>,  
-  <a href="https://www.linkedin.com/company/designinsingapore" target="_blank" rel="noopener noreferrer">LinkedIn</a>, and  
-  <a href="https://t.me/designinsingapore" target="_blank" rel="noopener noreferrer">Telegram</a>. 
+Explore Singapore’s design scene with us on <a href="https://www.facebook.com/DesignInSingapore" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://www.instagram.com/designinsingapore" target="_blank" rel="noopener noreferrer">Instagram</a>, <a href="https://www.tiktok.com/@designinsingapore" target="_blank" rel="noopener noreferrer">TikTok</a>, <a href="https://www.linkedin.com/company/designinsingapore" target="_blank" rel="noopener noreferrer">LinkedIn</a>, and <a href="https://t.me/designinsingapore" target="_blank" rel="noopener noreferrer">Telegram</a>. 
