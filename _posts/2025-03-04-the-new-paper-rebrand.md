@@ -7,6 +7,7 @@ tags: []
 description: "Say goodbye to the ✔️"
 comments: false
 image: https://i.imgur.com/VEHEZpi.png
+og_image: https://i.imgur.com/VEHEZpi.png
 ---
 
 <h2>Say goodbye to the ✔️</h2>
