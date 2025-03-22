@@ -142,4 +142,4 @@ Just don't ask if it actually inspired them to be more active in sports after sp
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Take a trip down memory lane with a design twist in >>Rewind. 
+Take a trip down memory lane with a design twist in Rewind. 
