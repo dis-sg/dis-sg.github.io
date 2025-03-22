@@ -6,9 +6,8 @@ categories: [Rewind]
 tags: []
 description: "Oh yeah, oh yeah, oh yeah, hey!"
 comments: false
-image: 
-og_image: 
-published: false
+image: https://i.imgur.com/Q8kR3XR.jpg
+og_image: https://i.imgur.com/Q8kR3XR.jpg
 ---
 
 <h2>Oh yeah, oh yeah, oh yeah, hey!</h2>
@@ -17,7 +16,7 @@ It was March 2010 and Singapore was gearing up to host the inaugural Youth Olymp
 
 <figure>
 <img src="https://i.imgur.com/R1NTwRf.jpg" alt="YOG 2010 mascots Lyo and Merly">
-<figcaption><a href="https://www.facebook.com/Singapore2010Odyssey/photos/pb.100071804376345.-2207520000/199761869913/?type=3" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.facebook.com/Singapore2010Odyssey" target="_blank">(Source)</a></figcaption>
 </figure>
 
 As a sporting event for youths, the organising committee could not ignore the hottest trend that was revolutionising communication—social media. The last Olympic Games had been held in China, which has the Great Firewall, making YOG 2010 arguably the first Olympic Games to fully embrace social media.
@@ -98,7 +97,7 @@ Many of the screenshots also showed the world devoid of avatars, which made the 
  <a href="https://www.facebook.com/Singapore2010Odyssey/photos/pb.100071804376345.-2207520000/399679294913/?type=3" target="_blank">(Source)</a></figcaption>
 </figure>
 
-A schoolwide competition was even organised, encouraging students to compete for high scores and school glory.
+A school-wide competition was organised, motivating students to compete for top scores and bring glory to their school.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExcaVzVtqDc?si=GBP00HHBuDx1Jpc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -119,7 +118,7 @@ Hipihi, in particular, was a noteworthy partner—it was once described as China
 
 <h2>The End of Odyssey</h2>
 
-After YOG 2010, the game was rebranded to Odyssey <a href="https://www.facebook.com/profile.php?id=100067269990618#" target="_blank">(link)</a>, which positioned itself as a "futuristic 3D Virtual World where youths from across the world can interact with each other while travelling through space and time".
+After YOG 2010, the game was rebranded to <a href="https://www.facebook.com/profile.php?id=100067269990618#" target="_blank">Odyssey</a>, which positioned itself as a "futuristic 3D Virtual World where youths from across the world can interact with each other while travelling through space and time".
 
 For a game designed to connect youths worldwide, it was an odd choice for the first non-sports scenario to transport players to Singapore in 1942, during the Japanese Occupation.
 
@@ -143,4 +142,4 @@ Just don't ask if it actually inspired them to be more active in sports after sp
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Take a trip down memory lane with a design twist in >>Rewind.
+Take a trip down memory lane with a design twist in >>Rewind. 
