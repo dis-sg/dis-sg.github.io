@@ -13,7 +13,7 @@ published: false
 
 <h2>Oh yeah, oh yeah, oh yeah, hey!</h2>
 
-    <p>It was March 2010 and Singapore was gearing up to host the inaugural Youth Olympic Games (YOG). Mascots Lyo and Merly had already been introduced and merchandise was lining store shelves.</p>
+It was March 2010 and Singapore was gearing up to host the inaugural Youth Olympic Games (YOG). Mascots Lyo and Merly had already been introduced and merchandise was lining store shelves.
     <figure>
         <img src="https://i.imgur.com/R1NTwRf.jpg" alt="">
         <figcaption><a href="https://www.facebook.com/Singapore2010Odyssey/photos/pb.100071804376345.-2207520000/199761869913/?type=3" target="_blank">(Source)</a></figcaption>
