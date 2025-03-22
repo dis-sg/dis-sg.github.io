@@ -25,13 +25,13 @@ But YOG 2010 went further than this. Besides launching a "WhyOhGee" microsite wh
 
 <h2>An Odyssey into the Future</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kL72ihHOsdw?si=UfrmSYUH8XrwWZRO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/kL72ihHOsdw?si=UfrmSYUH8XrwWZRO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 The Singapore 2010 Odyssey game was described as a "three-dimensional virtual world modelled after the Singapore 2010 Youth Olympic Games and the ideals of the Olympic Movement". Set in 3010, players could participate in YOG sports virtually and interact with each other. There was even an option for players to code their own content on the platform. 
 
 The cinematic trailer hinted at a storyline where humans would compete against aliens in futuristic Olympic events. However, in the final release, only human avatars were available, and players from across the globe could create accounts and interact in the game world. This was how the game began:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kbL7Rku8PBM?si=CqaGVSYKSFTcPegU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/kbL7Rku8PBM?si=CqaGVSYKSFTcPegU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Players could explore different landmarks in Singapore, which, interestingly, seemed unchanged even a thousand years into the future—Suntec City still had the Fountain of Wealth, and Pulau Ubin retained its rustic charm.
 
@@ -42,7 +42,7 @@ Players could explore different landmarks in Singapore, which, interestingly, se
 
 In contrast, the sporting facilities looked futuristic, featuring aquamarine neon lights and sleek glass surfaces, giving them a high-tech aesthetic.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/62kFzJJxDJw?si=BlbEZfv6sUi161bC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/62kFzJJxDJw?si=BlbEZfv6sUi161bC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Beyond Olympic sports, players could try out random mini-games like whack-a-mole, a Tetris clone, and even a recycling-themed game where they sorted trash into the correct bins.
 
@@ -99,7 +99,7 @@ Many of the screenshots also showed the world devoid of avatars, which made the 
 
 A school-wide competition was organised, motivating students to compete for top scores and bring glory to their school.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ExcaVzVtqDc?si=GBP00HHBuDx1Jpc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/ExcaVzVtqDc?si=GBP00HHBuDx1Jpc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Just before YOG 2010, in celebration of Singapore's National Day, some 10 schools participated in a virtual pledge-taking ceremony, where avatars were dressed in red and white.
 
@@ -114,7 +114,7 @@ The game was developed by a consortium of Singapore companies with international
 
 Hipihi, in particular, was a noteworthy partner—it was once described as China's answer to Second Life, a multiplayer virtual world that was popular in the West. Singapore 2010 Odyssey was likely built using Hipihi's game engine.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B-LWRbixkkc?si=M9rFVvB2MvsRM6nV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/B-LWRbixkkc?si=M9rFVvB2MvsRM6nV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 <h2>The End of Odyssey</h2>
 
@@ -122,7 +122,7 @@ After YOG 2010, the game was rebranded to <a href="https://www.facebook.com/prof
 
 For a game designed to connect youths worldwide, it was an odd choice for the first non-sports scenario to transport players to Singapore in 1942, during the Japanese Occupation.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D151656218224287%26id%3D116865108382500&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D151656218224287%26id%3D116865108382500&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
 
 This was Odyssey's first and last Facebook post—the game was likely shut down due to low player numbers. Even though there were over 200,000 accounts, the momentum could not last after the YOG 2010. In the end, players probably found more engaging virtual worlds elsewhere, rather than revisiting a dark chapter of Singapore's history. 
  
