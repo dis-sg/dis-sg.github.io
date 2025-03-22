@@ -17,7 +17,7 @@ It was March 2010 and Singapore was gearing up to host the inaugural Youth Olymp
 
 <figure>
 <img src="https://i.imgur.com/R1NTwRf.jpg" alt="">
-<figcaption><a href="https://www.facebook.com/Singapore2010Odyssey/photos/pb.100071804376345.-2207520000/199761869913/?type=3" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.facebook.com/Singapore2010Odyssey/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 As a sporting event for youths, the organising committee could not ignore the hottest trend that was revolutionising communication—social media. The last Olympic Games had been held in China, which has the Great Firewall, making YOG 2010 arguably the first Olympic Games to fully embrace social media.
@@ -85,4 +85,4 @@ The cinematic trailer hinted at a storyline where humans would compete against a
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Take a trip down memory lane with a design twist with >>Rewind, 
+Take a trip down memory lane with a design twist in >>Rewind.
