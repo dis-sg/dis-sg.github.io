@@ -1,6 +1,6 @@
 ---
 title: Water Wally
-image: https://i.imgur.com/u0PYGk2.png
+image: https://i.imgur.com/SWMNDcU.png
 description: Everything you need to know about Water Wally
 layout: mascot
 permalink: /mascotdex/water-wally/
