@@ -15,7 +15,7 @@ tags: [Water Droplet, Active]
 birth-year: 2005
 ---
 
-test 
+test hello
 Water Wally is one of the official mascots of PUB, Singapore’s National Water Agency. Introduced in 2005 to promote water conservation and raise awareness about the importance of water resources, particularly among young children, the blue water droplet mascot is regularly featured in various educational materials, events, and campaigns by PUB. 
 
 Notably, Water Wally starred in a nine-episode animated series in 2009 titled "The Adventures of Water Wally," aimed at educating children on water-related topics. Another popular video was Water Wally’s Shower Dance of 2011, which became a local meme as Water Wally supposedly walked into the toilet while a kid was showering.
