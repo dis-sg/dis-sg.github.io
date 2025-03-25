@@ -19,7 +19,7 @@ Water Sally is one of the official mascots of PUB, Singapore’s National Water 
 <div class="video-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Rc3t01tZf4?si=Tp3pdnI-FpY7QMkW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+<br> 
 <figure>
 <img src="https://i.imgur.com/3ziXIIb.jpg" alt="">
 <figcaption><a href="https://www.facebook.com/photo/?fbid=3528818337208822&set=a.146148697689692" target="_blank">(Source)</a></figcaption>
@@ -32,7 +32,7 @@ Both have since made appearances together at mascot meet-and-greets and content 
 <div class="video-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T9aYJnjcmkg?si=kZHS8htlcK5FjOMH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+<br> 
 <figure>
 <img src="https://i.imgur.com/bT8dXQg.jpg" alt="">
 <figcaption><a href="https://www.pub.gov.sg/AboutUs/Water-Wally-and-Sally-Club" target="_blank">(Source)</a></figcaption>
