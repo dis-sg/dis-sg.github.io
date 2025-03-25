@@ -59,6 +59,17 @@ layout: default
                 </td>
             </tr>
             {% endif %}
+            
+            {% if page.creator %}
+            <tr>
+                <th>Creator</th>
+                <td>
+                    {% for creator in page.creator %}
+                        {{ creator }}{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endif %}
 
             {% if page.mascot-status %}
             <tr>
