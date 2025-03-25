@@ -60,11 +60,11 @@ layout: default
             </tr>
             {% endif %}
             
-            {% if page.creator %}
+            {% if page.mascot-creator %}
             <tr>
                 <th>Creator</th>
                 <td>
-                    {% for creator in page.creator %}
+                    {% for creator in page.mascot-creator %}
                         {{ creator }}{% unless forloop.last %}, {% endunless %}
                     {% endfor %}
                 </td>
