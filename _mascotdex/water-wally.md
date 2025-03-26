@@ -22,7 +22,7 @@ Notably, Water Wally starred in a nine-episode animated series in 2009 titled "T
 
 Water Wally’s original design depicted him reflecting light, as represented by a white exclamation mark diagonally above its face. The current version of Water Wally is a simpler look with a lighter shade of blue.
 
-In 2020, PUB introduced Water Wally's sister, Water Sally, to further enhance public engagement on water conservation issues. Both have since made appearances together at mascot meet-and-greets and content such as “The Adventures of Water Wally and Sally” book series. In celebration of Singapore World Water Day 2021, PUB also partnered with Pinkfong for an original children’s song and dance called “Turn off the Tap”, featuring Baby Shark, Water Wally and Sally. 
+In 2020, PUB introduced Water Wally's sister, <a href="https://www.designinsingapore.com/mascotdex/water-sally/" target="_blank">Water Sally</a>, to further enhance public engagement on water conservation issues. Both have since made appearances together at mascot meet-and-greets and content such as “The Adventures of Water Wally and Sally” book series. In celebration of Singapore World Water Day 2021, PUB also partnered with Pinkfong for an original children’s song and dance called “Turn off the Tap”, featuring Baby Shark, Water Wally and Sally. 
 
 <div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube.com/embed/T9aYJnjcmkg?si=ut6GSKlskzxFztLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
