@@ -40,7 +40,7 @@ He continues to be a key figure in NEA’s outreach efforts, appearing in educat
 <div class="video-responsive">
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FNEASingapore%2Fvideos%2F1329871854656007%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
-
+<br>
 <figure>
 <img src="https://i.imgur.com/YnuDR1U.jpg" alt="">
 <figcaption><a href="https://www.facebook.com/NEASingapore/posts/pfbid072siQZASU9MrWPAn696XiEwodbnd8x94st4Z33iNhgXgcMfnm7Sngoe9wzgucv6Cl" target="_blank">(Source)</a></figcaption>
