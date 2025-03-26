@@ -42,7 +42,7 @@ He continues to be a key figure in NEA’s outreach efforts, appearing in educat
 </div>
 
 <figure>
-<img src="" alt="">
+<img src="https://i.imgur.com/YnuDR1U.jpg" alt="">
 <figcaption><a href="https://www.facebook.com/NEASingapore/posts/pfbid072siQZASU9MrWPAn696XiEwodbnd8x94st4Z33iNhgXgcMfnm7Sngoe9wzgucv6Cl" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -55,4 +55,4 @@ Before Captain Green, the Ministry of the Environment (of which NEA is a statuto
 <figcaption>Unnamed frog for dengue fever awareness <a href="https://sghistoricity.wordpress.com/2017/12/21/lost-mascots-6-mosquito-buster/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<i>Have a trivia nugget about xx? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
+<i>Have a trivia nugget about Captain Green? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
