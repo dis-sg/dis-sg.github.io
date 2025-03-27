@@ -1,6 +1,6 @@
 ---
 title: Camy
-image: 
+image: https://i.imgur.com/GxjeZk4.png
 description: Everything you need to know about Camy
 layout: mascot
 permalink: /mascotdex/camy/
@@ -21,7 +21,7 @@ Camy represents the fantasy genre. The mascot has a pale yellow body and holds a
 <div class="video-responsive">
 <iframe width="1217" height="480" src="https://www.youtube.com/embed/JPEUMPsFmrA" title="Meet Monsters United!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+<br>
 <div class="video-responsive">
 <iframe width="1217" height="480" src="https://www.youtube.com/embed/ml0DwncCfhw" title="Sharing Books | Library Etiquette for Children feat. Monsters United" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
