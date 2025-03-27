@@ -3,7 +3,7 @@ title: Rooky
 image: https://i.imgur.com/XZ26Op1.png
 description: Everything you need to know about Rooky
 layout: mascot
-permalink: /mascotdex/hutsy/
+permalink: /mascotdex/rooky/
 comments: false
 birth-year: 2019
 mascot-type: Monster
