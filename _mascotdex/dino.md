@@ -28,4 +28,4 @@ Dino’s design was inspired by the T-rex and ice cream - it has a pink stocky b
 <figcaption><a href="https://www.facebook.com/NationalHeritageBoardSG/posts/pfbid02unmwps5uknk4yhog3uoimRCk3jpE2XzjQu9geQfKJA69BeWAuq4x1phZNdDcQmTol?ref=embed_post" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Have a trivia nugget about Dino? Share your stories, photos and videos with us at designinsingapore65@gmail.com
+<i>Have a trivia nugget about Dino? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
