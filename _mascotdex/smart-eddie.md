@@ -21,7 +21,7 @@ In 2016, as part of the Sustainable Singapore Movement by the Ministry of the En
 <figcaption><a href="https://www.facebook.com/photo/?fbid=1289884707729415&set=a.234440306607199" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Zippy Maree is a butterfly mascot who represents a car-lite Singapore. A social media <a href="https://www.facebook.com/MSEsingapore/videos/1299537403430812/" target="_blank">post</a> by the Ministry explains her story: 
+Smart Eddie is an owl mascot who represents Singapore’s “eco-smart endearing towns” pillar. A social media <a href="https://www.facebook.com/MSEsingapore/videos/1299537403430812/" target="_blank">post</a> by the Ministry explains his story: 
 
 <blockquote>“Smart Eddie is a brilliant owl who believes that planning and intelligence are the keys to the future. From designing eco-smart endearing towns to smart homes, Eddie will help equip you with the knowledge and insights to discover new ideas on creating better living environments for everyone.”
 </blockquote>
