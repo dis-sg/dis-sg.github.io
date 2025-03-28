@@ -17,8 +17,8 @@ mascot-family: Sustainable Singapore Blueprint Friends
 In 2016, as part of the Sustainable Singapore Movement by the Ministry of the Environment and Water Resources in Singapore (now Ministry of Sustainability and the Environment), five mascots were introduced to encourage citizens to adopt more sustainable lifestyles. Each mascot was designed to personify various pillars of the Sustainable Singapore Blueprint, and they were collectively known as the Sustainable Singapore Blueprint Friends.
 
 <figure>
-<img src="https://i.imgur.com/t4OaCMf.png" alt="">
-<figcaption><a href="https://www.facebook.com/ssgallery.sg/" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/WxNt9Na.png" alt="">
+<figcaption><a href="https://www.facebook.com/photo/?fbid=1289884707729415&set=a.234440306607199" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Zippy Maree is a butterfly mascot who represents a car-lite Singapore. A social media <a href="https://www.facebook.com/MSEsingapore/videos/1303323399718879/" target="_blank">post</a> by the Ministry explains her story: 
@@ -28,8 +28,8 @@ Zippy Maree is a butterfly mascot who represents a car-lite Singapore. A social 
 Together with Smiley Ray, Caring Cora, Smart Eddie and Eco Eva, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
 
 <figure>
-<img src="https://i.imgur.com/WxNt9Na.png" alt="">
-<figcaption><a href="https://www.facebook.com/photo/?fbid=1289884707729415&set=a.234440306607199" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/t4OaCMf.png" alt="">
+<figcaption><a href="https://www.facebook.com/ssgallery.sg/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 In 2021, the Sustainable Singapore Blueprint was succeeded by the SG Green Plan 2030. Although the five mascots are no longer actively used in the Ministry’s outreach efforts, they are still featured in SSB’s logo, while life-sized figures of the mascots continue to welcome visitors to the gallery.
