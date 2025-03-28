@@ -18,10 +18,6 @@ Introduced in 2020 by the National Museum of Singapore during the pandemic, when
 
 The chatbot also has interactive activities such as an Architectural Tour of the museum which features 3D Augmented Reality models to explore.
 
-<div class="video-responsive">
-<iframe width="1217" height="480" src="https://www.youtube.com/embed/JPEUMPsFmrA" title="Meet Monsters United!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
 <figure>
 <img src="https://i.imgur.com/JHoUoRi.jpg" alt="">
 <figcaption><a href="https://www.facebook.com/photo/?fbid=3575236902536996&set=a.109197459140975" target="_blank">(Source)</a></figcaption>
