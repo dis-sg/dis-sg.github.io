@@ -16,8 +16,6 @@ mascot-family: Sustainable Singapore Blueprint Friends
 
 In 2016, as part of the Sustainable Singapore Movement by the Ministry of the Environment and Water Resources in Singapore (now Ministry of Sustainability and the Environment), five mascots were introduced to encourage citizens to adopt more sustainable lifestyles. Each mascot was designed to personify various pillars of the Sustainable Singapore Blueprint, and they were collectively known as the Sustainable Singapore Blueprint Friends.
 
-In 2016, as part of the Sustainable Singapore Movement by the Ministry of the Environment and Water Resources in Singapore (now Ministry of Sustainability and the Environment), five mascots were introduced to encourage citizens to adopt more sustainable lifestyles. Each mascot was designed to personify various pillars of the Sustainable Singapore Blueprint, and they were collectively known as the Sustainable Singapore Blueprint Friends.
-
 <figure>
 <img src="https://i.imgur.com/WxNt9Na.png" alt="">
 <figcaption><a href="https://www.facebook.com/photo/?fbid=1289884707729415&set=a.234440306607199" target="_blank">(Source)</a></figcaption>
