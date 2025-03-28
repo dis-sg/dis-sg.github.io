@@ -46,9 +46,11 @@ Sentosa was once home to a towering 37-metre Merlion, serving as a key attractio
 
 There are several statues of the Merlion overseas, including Indonesia, Japan, South Korea, Thailand, China, Cambodia and the United Kingdom. Many of these statues were gifts by the Singapore Government as a sign of diplomatic friendship.
 
-The Merlion remains a key icon of Singapore, frequently appearing in marketing campaigns, souvenirs, and pop culture. Many local mascots were inspired by the Merlion, including [Merli] (link: https://www.designinsingapore.com/merli-and-friends/), a kawaii-style Merlion mascot introduced by the STB in 2018.
+The Merlion remains a key icon of Singapore, frequently appearing in marketing campaigns, souvenirs, and pop culture. Many local mascots were inspired by the Merlion, including <a href="https://www.designinsingapore.com/merli-and-friends/" target="_blank">Merli</a>, a kawaii-style Merlion mascot introduced by the STB in 2018.
 
+<div class="video-responsive">
 <iframe width="1217" height="480" src="https://www.youtube.com/embed/3uD8LPjtuos?list=PL2WeSpSCs2h8gBpeO2HLczCTUrz4spgQ2" title="Merli and Friends: The Boy Who Could" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Foreign pop culture franchises such as *Cowboy Bebop* and *We Bare Bears* have also featured the Merlion as a representation of Singapore or made references to it, cementing the Merlion’s status as Singapore's most recognisable symbol.
 
