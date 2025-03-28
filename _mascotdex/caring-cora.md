@@ -21,7 +21,7 @@ In 2016, as part of the Sustainable Singapore Movement by the Ministry of the En
 <figcaption><a href="https://www.facebook.com/photo/?fbid=1289884707729415&set=a.234440306607199" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Zippy Maree is a butterfly mascot who represents a car-lite Singapore. A social media <a href="https://www.facebook.com/MSEsingapore/videos/1349955621722323/" target="_blank">post</a> by the Ministry explains her story: 
+Caring Cora is a heart mascot who represents Singapore’s goal as a leading green economy. A social media <a href="https://www.facebook.com/MSEsingapore/videos/1349955621722323/" target="_blank">post</a> by the Ministry explains her story: 
 
 <blockquote>“Caring Cora is a great role model for an active and gracious community. She loves to volunteer in all kinds of community events that will help create a greener and more sustainable Singapore. Her warmth and friendly demeanor are what attracts others in her community to work together in helping each other make a brighter future for everyone.”</blockquote>
 
