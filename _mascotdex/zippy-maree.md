@@ -1,6 +1,6 @@
 ---
 title: Zippy Maree
-image: https://i.imgur.com/6updMIq.png
+image: https://i.imgur.com/TWTDl0U.png
 description: Everything you need to know about Zippy Maree
 layout: mascot
 permalink: /mascotdex/zippy-maree/
@@ -16,16 +16,16 @@ mascot-family: Sustainable Singapore Blueprint Friends
 
 In 2016, as part of the Sustainable Singapore Movement by the Ministry of the Environment and Water Resources in Singapore (now Ministry of Sustainability and the Environment), five mascots were introduced to encourage citizens to adopt more sustainable lifestyles. Each mascot was designed to personify various pillars of the Sustainable Singapore Blueprint, and they were collectively known as the Sustainable Singapore Blueprint Friends.
 
+<figure>
+<img src="https://i.imgur.com/t4OaCMf.png" alt="">
+<figcaption><a href="https://www.facebook.com/ssgallery.sg/" target="_blank">(Source)</a></figcaption>
+</figure>
+
 Zippy Maree is a butterfly mascot who represents a car-lite Singapore. A social media <a href="https://www.facebook.com/MSEsingapore/videos/1303323399718879/" target="_blank">post</a> by the Ministry explains her story: 
 
 <blockquote>“Maree was once a crawling caterpillar but became a beautiful butterfly when she chose to transform her mindset and lifestyle and adopted an alternative, greener means of transport. That is why her friends now call her Zippy Maree because she can move confidently from place to place with ease while enjoying a healthier lifestyle.”</blockquote>
 
 Together with Smiley Ray, Caring Cora, Smart Eddie and Eco Eva, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
-
-<figure>
-<img src="https://i.imgur.com/t4OaCMf.png" alt="">
-<figcaption><a href="https://www.facebook.com/ssgallery.sg/" target="_blank">(Source)</a></figcaption>
-</figure>
 
 <figure>
 <img src="https://i.imgur.com/WxNt9Na.png" alt="">
