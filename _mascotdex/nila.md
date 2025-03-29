@@ -6,7 +6,7 @@ layout: mascot
 permalink: /mascotdex/nila/
 comments: false
 birth-year: 2015
-mascot-type: Water Droplet
+mascot-type: Lion
 mascot-owner: Sport Singapore
 mascot-cause: [Sport]
 mascot-creator: [Beatrice Cho]
@@ -23,8 +23,8 @@ Nila is the official mascot of Sport Singapore, first introduced as the face of 
 Nila’s design was the winning entry submitted by Beatrice Cho, a first-year design student at Singapore Polytechnic, in a tertiary school mascot design competition. Out of 16 submissions, four were shortlisted—two cat designs and two lion designs. Beatrice's design won more than 70% of the public online votes.
 
 <figure>
-<figcaption>Shortlisted mascot designs (Source)</figcaption>
 <img src="https://i.imgur.com/Xiypyfl.png" alt="">
+<figcaption>Shortlisted mascot designs <a href="https://www.sportsingapore.gov.sg/media-centre/media-release/voting-commences-for-singapore-national-games-2012-logo-and-mascot/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Nila played a prominent role in SEA Games 2015 marketing and branding, posing in all sports categories across collaterals, merchandise, and digital overlays.
@@ -34,20 +34,20 @@ Nila played a prominent role in SEA Games 2015 marketing and branding, posing in
 </div>
 
 <figure>
-<figcaption>(Source)</figcaption>
 <img src="https://i.imgur.com/eAL949C.png" alt="">
+<figcaption><a href="https://www.catstamps.org/checklists/Countries/S/SG_W.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Creative consultancy <a href="https://www.animagine.com">Animagine</a> refined the design by carefully adjusting limb proportions to make Nila’s poses more natural.
 
 <figure>
-<figcaption>Nila design refinement by Animagine (Source)</figcaption>
 <img src="https://i.imgur.com/Xg1xWrN.png" alt="">
+<figcaption><a href="https://www.animagine.com/portfolio/sports-sinagpore-nila/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <figure>
-<figcaption>Another Nila design refinement image (Source)</figcaption>
 <img src="https://i.imgur.com/p1r49LP.png" alt="">
+<figcaption><a href="https://www.animagine.com/portfolio/sports-sinagpore-nila/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Under the Make-A-Nila programme, 4,500 hand-sewn plush toys of Nila were presented to athletes during the victory ceremonies at the SEA Games. These plush toys symbolised friendship and camaraderie among regional sportsmen and women.
@@ -65,8 +65,8 @@ To further engage children, a series of web games called Nila’s Quest was laun
 Large inflatable Nila mascots were also erected at prominent locations around Singapore leading up to the SEA Games.
 
 <figure>
-<figcaption>Large inflatable Nila mascots (Source)</figcaption>
 <img src="https://i.imgur.com/9lji1pA.jpg" alt="">
+<figcaption><a href="https://www.flickr.com/photos/25802865@N08/22602054733" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Beyond the SEA Games, Nila continues to be a prominent mascot in various community and sporting events, including GetActive! Singapore, which promotes an active and healthy lifestyle among Singaporeans. His name also inspired the national sports volunteerism movement, <a href="https://www.sportsingapore.gov.sg/our-work/team-nila/">Team Nila</a>.
@@ -76,8 +76,8 @@ Beyond the SEA Games, Nila continues to be a prominent mascot in various communi
 </div>
 
 <figure>
-<figcaption>Nila’s attire change after the SEA Games (Source)</figcaption>
 <img src="https://i.imgur.com/zRbIcis.jpg" alt="">
+<figcaption>Nila’s attire change after the SEA Games <a href="https://x.com/MascotNila/status/587815142211117056/photo/1" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <i>Have a trivia nugget about Nila? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
