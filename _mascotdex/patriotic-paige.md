@@ -29,3 +29,5 @@ They join the original mascot group of Rachel REACH, Apathetic Andy, Skeptical S
 <img src="https://i.imgur.com/C1A4Vv1.jpg" alt="">
 <figcaption>A parody of Taylor Swift’s Eras Tour poster, featuring the REACH characters <a href="https://www.facebook.com/photo/?fbid=793956392765655&set=a.223512983143335" target="_blank">(Source)</a></figcaption>
 </figure>
+
+<i>Have a trivia nugget about Patriotic Paige? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
