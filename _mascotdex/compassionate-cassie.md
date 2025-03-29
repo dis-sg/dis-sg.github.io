@@ -1,6 +1,6 @@
 ---
 title: Compassionate Cassie
-image: https://i.imgur.com/G7gki3M.png
+image: https://i.imgur.com/pp79fDI.png 
 description: Everything you need to know about Compassionate Cassie
 layout: mascot
 permalink: /mascotdex/compassionate-cassie/
@@ -17,7 +17,7 @@ mascot-family:
 Compassionate Cassie is a mascot for REACH Singapore. Designed as one of the common archetypes of Singaporeans, she wears a blouse with a heart design and long red hair. REACH <a href="https://www.reach.gov.sg/who-we-are/reach-characters">describes</a> her as “a strong, feisty, daring girl who advocates for mental health”.
 
 <figure>
-<img src="https://i.imgur.com/pp79fDI.png" alt="">
+<img src="https://i.imgur.com/G7gki3M.png" alt="">
 <figcaption> <a href="https://www.reach.gov.sg/who-we-are/reach-characters">(Source)</a></figcaption>
 </figure>
 
