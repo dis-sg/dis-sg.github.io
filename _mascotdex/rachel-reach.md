@@ -34,10 +34,7 @@ Rachel REACH has been featured in REACH's collaterals and social media content s
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fposts%2Fpfbid02A5pRSpkp1dFZXjmoWGw9mZQ6H6iX46pKnc1qA9VPfrdAfh4BG17Hkx4TqXtqLXm9l&show_text=true&width=500" width="500" height="747" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 
-<div class="video-responsive">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fposts%2Fpfbid02A5pRSpkp1dFZXjmoWGw9mZQ6H6iX46pKnc1qA9VPfrdAfh4BG17Hkx4TqXtqLXm9l&show_text=true&width=500" width="500" height="747" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-</div>
-
+<br>
 <figure>
 <img src="https://i.imgur.com/I6nNksd.jpg" alt="">
 <figcaption>REACH comics are created in-house <a href="https://www.facebook.com/photo/?fbid=282625257232107&set=pcb.282625297232103" target="_blank">(Source)</a></figcaption>
