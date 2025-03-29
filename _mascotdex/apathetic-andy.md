@@ -27,8 +27,16 @@ He has been featured in REACH's social media content such as comics, which tackl
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fposts%2Fpfbid0EqTy7ac8ejjK17x5NyQVKxhrp4QG51pcSpWMAkvvWwvBdAXb1dHHP2guGs4LtM2pl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <br>
-<div class="video-responsive">
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fvideos%2F873924214457611%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 500px;">
+    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fposts%2Fpfbid0EqTy7ac8ejjK17x5NyQVKxhrp4QG51pcSpWMAkvvWwvBdAXb1dHHP2guGs4LtM2pl&show_text=true&width=500"
+            width="500" 
+            height="100%" 
+            style="border:none;overflow:hidden; position: absolute; top: 0; left: 0;" 
+            scrolling="no" 
+            frameborder="0" 
+            allowfullscreen="true" 
+            allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
+
 
 <i>Have a trivia nugget about Apathetic Andy? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
