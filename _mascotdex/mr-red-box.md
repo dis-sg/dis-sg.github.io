@@ -20,7 +20,6 @@ Mr Red Box is the mascot of Youth Corps Singapore. Introduced in 2024 during the
 <img src="https://i.imgur.com/ECrMex0.jpg" alt="">
 <figcaption><a href="https://www.facebook.com/hengsweekeat/posts/meet-mr-red-box-the-newest-member-of-youth-corps-singaporeyouth-corps-turns-10-t/986877002798034/" target="_blank">(Source)</a></figcaption>
 </figure>
-<br>
 <figure>
 <img src="https://i.imgur.com/s8kwmk1.jpg" alt="">
 <figcaption>Lee Kuan Yew’s red box <a href="https://www.facebook.com/photo?fbid=871852492875464&set=pcb.871852582875455" target="_blank">(Source)</a></figcaption>
