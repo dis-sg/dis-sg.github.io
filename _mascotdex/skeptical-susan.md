@@ -17,9 +17,10 @@ mascot-family:
 Skeptical Susan is a mascot for REACH Singapore. Designed as one of the common archetypes of Singaporeans, she wears a red blouse and a pearl necklace.
 
 <figure>
-<figcaption>Image (Source)</figcaption>
 <img src="https://i.imgur.com/0ryRU0h.jpg" alt="">
+<figcaption><a href="https://www.facebook.com/photo/?fbid=10158159426262227&set=a.10152195790707227" target="_blank">(Source)</a></figcaption>
 </figure>
+
 
 Her personal <a href="https://www.reach.gov.sg/who-we-are/reach-characters">statement</a> is: “I go through so much news I don’t know what to trust anymore! I like using social media but it’s so hard to be sure of anything these days!”
 
