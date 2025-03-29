@@ -252,12 +252,14 @@ video {
 
 .fb-post-container {
   width: 100%;
-  overflow: hidden;
+  overflow: visible; /* Changed from hidden to visible */
+  margin: 0 auto;
+  text-align: center; /* Help center the embed */
 }
 
 .fb-post, .fb-post iframe, .fb-post span {
   width: 100% !important;
-  max-width: 100% !important;
+  max-width: 550px !important; /* Set a max-width that matches Facebook's default width */
   margin: 0 auto;
   display: block;
 }
@@ -266,8 +268,16 @@ video {
 .fb-post iframe {
   min-height: 500px; /* Adjust this value based on your needs */
   height: auto !important;
+  transform: scale(1) !important; /* Prevent any scaling that might cause cropping */
 }
 
+/* For smaller screens, allow content to scale down */
+@media (max-width: 550px) {
+  .fb-post, .fb-post iframe, .fb-post span {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
 
 // blog grid
 .blog-grid-container {
