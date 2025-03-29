@@ -17,15 +17,16 @@ mascot-family:
 Mr Red Box is the mascot of Youth Corps Singapore. Introduced in 2024 during the organisation’s 10th anniversary year, the mascot’s head design draws inspiration from modern Singapore’s founding father Lee Kuan Yew’s red box, the briefcase that he used for his daily work. The design also resembles Youth Corps Singapore’s main office, called The Red Box, by placing the logo of the organisation at the crown of the mascot’s head.
 
 <figure>
-<img src="https://i.imgur.com/s8kwmk1.jpg" alt="">
-<figcaption>Lee Kuan Yew’s red box <a href="https://www.facebook.com/photo?fbid=871852492875464&set=pcb.871852582875455" target="_blank">(Source)</a></figcaption>
-</figure>
-
-<figure>
 <img src="https://i.imgur.com/ECrMex0.jpg" alt="">
 <figcaption><a href="https://www.facebook.com/hengsweekeat/posts/meet-mr-red-box-the-newest-member-of-youth-corps-singaporeyouth-corps-turns-10-t/986877002798034/" target="_blank">(Source)</a></figcaption>
 </figure>
 <br>
+<figure>
+<img src="https://i.imgur.com/s8kwmk1.jpg" alt="">
+<figcaption>Lee Kuan Yew’s red box <a href="https://www.facebook.com/photo?fbid=871852492875464&set=pcb.871852582875455" target="_blank">(Source)</a></figcaption>
+</figure>
+
+
 <figure>
 <img src="https://i.imgur.com/n8J5GdN.jpg" alt="">
 <figcaption>The Red Box at Youth Park<a href="https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/Youth-Park" target="_blank">(Source)</a></figcaption>
