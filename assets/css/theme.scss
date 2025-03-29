@@ -250,6 +250,25 @@ video {
     height: auto !important;
 }
 
+.fb-post-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.fb-post, .fb-post iframe, .fb-post span {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 auto;
+  display: block;
+}
+
+/* Override Facebook's default iframe sizing behavior */
+.fb-post iframe {
+  min-height: 500px; /* Adjust this value based on your needs */
+  height: auto !important;
+}
+
+
 // blog grid
 .blog-grid-container {
     width: auto;
