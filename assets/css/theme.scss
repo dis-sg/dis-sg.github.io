@@ -229,17 +229,20 @@ img, img:hover {
 }
 
 .video-responsive {
+    position: relative;
     width: 100%; /* Make the width responsive */
-    max-width: 500px; /* Optional: Set a maximum width for larger screens */
-    margin: 0 auto; /* Center the iframe */
+    height: auto; /* Allow height to adjust based on the content */
+    overflow: hidden;
 }
 
 .video-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%; /* Ensures the iframe takes the full width of the container */
-    height: auto; /* Allows height to adjust automatically based on content */
+    height: auto; /* The height adjusts based on the content */
     border: none;
 }
-
 // blog grid
 .blog-grid-container {
     width: auto;
