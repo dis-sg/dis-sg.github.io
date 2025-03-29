@@ -16,6 +16,12 @@ mascot-family:
 
 Inquisitive Ivan is a mascot for REACH Singapore. Designed as one of the common archetypes of Singaporeans, he wears a pair of boxy spectacles and has centre-parted blue hair. 
 
+<figure>
+<img src="https://i.imgur.com/bv6hKQu.png" alt="">
+<figcaption> <a href="https://www.reach.gov.sg/who-we-are/reach-characters">(Source)</a></figcaption>
+</figure>
+
+
 His personal <a href="https://www.reach.gov.sg/who-we-are/reach-characters" target="_blank">statement</a> is: “I am always curious, tech savvy and happy to help my apathetic and skeptical friends to verify facts.”  
 
 Inquisitive Ivan has been featured in REACH's social media content such as comics, which tackle hot button issues of the day like discrimination and mental wellbeing.  
