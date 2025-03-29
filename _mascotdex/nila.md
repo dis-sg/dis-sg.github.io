@@ -33,6 +33,8 @@ Nila played a prominent role in SEA Games 2015 marketing and branding, posing in
 <iframe width="1217" height="480" src="https://www.youtube.com/embed/3yHRg-f6QC4" title="How was Nila like before the 28th SEA Games?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+<br>
+
 <figure>
 <img src="https://i.imgur.com/eAL949C.png" alt="">
 <figcaption><a href="https://www.catstamps.org/checklists/Countries/S/SG_W.html" target="_blank">(Source)</a></figcaption>
@@ -74,6 +76,7 @@ Beyond the SEA Games, Nila continues to be a prominent mascot in various communi
 <div class="video-responsive">
 <iframe width="1920" height="1080" src="https://www.youtube.com/embed/we7gpCb8EWY" title="Team Nila – Who We Are (2020)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+<br>
 
 <figure>
 <img src="https://i.imgur.com/zRbIcis.jpg" alt="">
