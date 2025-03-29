@@ -14,7 +14,7 @@ mascot-status: Active
 mascot-family:
 ---
 
-Apathetic Andy is a mascot for REACH Singapore. Designed as one of the common archetypes of Singaporeans, he sports a bowl cut, singlet and shorts. REACH describes him as “just a regular joe who is apathetic about most issues but if it affects him, he’ll pay attention”.
+Apathetic Andy is a mascot for REACH Singapore. Designed as one of the common archetypes of Singaporeans, he sports a bowl cut, singlet and shorts. REACH <a href="https://www.reach.gov.sg/who-we-are/reach-characters">describes</a> him as “just a regular joe who is apathetic about most issues but if it affects him, he’ll pay attention”.
 
 <figure>
 <img src="https://i.imgur.com/C40kvBC.jpg" alt="">
