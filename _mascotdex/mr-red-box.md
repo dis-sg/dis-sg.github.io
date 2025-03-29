@@ -6,9 +6,9 @@ layout: mascot
 permalink: /mascotdex/mr-red-box/
 comments: false
 birth-year: 2024
-mascot-type: Lion
-mascot-owner: Sport Singapore
-mascot-cause: [Sport]
+mascot-type: Humanoid
+mascot-owner: Youth Corps Singapore
+mascot-cause: [Youth]
 mascot-creator: [Unknown]
 mascot-status: Active
 mascot-family:
