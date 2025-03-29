@@ -30,7 +30,7 @@ Rachel REACH has pink-toned skin and sports a sleek purple visor. Her ponytail i
 
 Rachel REACH has been featured in REACH's collaterals and social media content such as comics, serving as a friendly and approachable figure to encourage public feedback and participation. She also makes appearances at REACH's outreach events.
 
-<div class="video-responsive">
+<div class="fb-post-container">
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fposts%2Fpfbid02A5pRSpkp1dFZXjmoWGw9mZQ6H6iX46pKnc1qA9VPfrdAfh4BG17Hkx4TqXtqLXm9l&show_text=true&width=500" width="500" height="747" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 
