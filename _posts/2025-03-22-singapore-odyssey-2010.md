@@ -122,7 +122,8 @@ After YOG 2010, the game was rebranded to <a href="https://www.facebook.com/prof
 
 For a game designed to connect youths worldwide, it was an odd choice for the first non-sports scenario to transport players to Singapore in 1942, during the Japanese Occupation.
 
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D151656218224287%26id%3D116865108382500&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D151656218224287%26id%3D116865108382500&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
 
 This was Odyssey's first and last Facebook post—the game was likely shut down due to low player numbers. Even though there were over 200,000 accounts, the momentum could not last after the YOG 2010. In the end, players probably found more engaging virtual worlds elsewhere, rather than revisiting a dark chapter of Singapore's history. 
  
