@@ -24,8 +24,7 @@ Apathetic Andy is a mascot for REACH Singapore. Designed as one of the common ar
 He has been featured in REACH's social media content such as comics, which tackle hot button issues of the day like discrimination and mental wellbeing.
 
 <div class="video-responsive">
-    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fposts%2Fpfbid0EqTy7ac8ejjK17x5NyQVKxhrp4QG51pcSpWMAkvvWwvBdAXb1dHHP2guGs4LtM2pl&show_text=true&width=500"
-        style="border:none; overflow:hidden; width: 100%; height: auto;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fposts%2Fpfbid0EqTy7ac8ejjK17x5NyQVKxhrp4QG51pcSpWMAkvvWwvBdAXb1dHHP2guGs4LtM2pl&show_text=true&width=500" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 
 
