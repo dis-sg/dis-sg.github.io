@@ -250,33 +250,40 @@ video {
     height: auto !important;
 }
 
+/* Facebook embed responsive fix */
 .fb-post-container {
   width: 100%;
-  overflow: visible; /* Changed from hidden to visible */
+  max-width: 100%;
+  overflow-x: scroll; /* Allow horizontal scrolling if needed */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on touch devices */
   margin: 0 auto;
-  text-align: center; /* Help center the embed */
 }
 
-.fb-post, .fb-post iframe, .fb-post span {
+.fb-post, 
+.fb-post iframe, 
+.fb-post span {
+  max-width: 100% !important;
+  width: auto !important; /* Let the width be determined naturally */
+  margin: 0 auto !important;
+}
+
+/* Target the specific iframe that Facebook creates */
+.fb-post iframe.fb_iframe_widget_lift {
+  max-width: 100% !important;
+  width: auto !important;
+  right: auto !important;
+  position: relative !important;
+}
+
+/* Override any Facebook-injected styles */
+.fb_iframe_widget {
   width: 100% !important;
-  max-width: 550px !important; /* Set a max-width that matches Facebook's default width */
-  margin: 0 auto;
-  display: block;
+  display: block !important;
 }
 
-/* Override Facebook's default iframe sizing behavior */
-.fb-post iframe {
-  min-height: 500px; /* Adjust this value based on your needs */
-  height: auto !important;
-  transform: scale(1) !important; /* Prevent any scaling that might cause cropping */
-}
-
-/* For smaller screens, allow content to scale down */
-@media (max-width: 550px) {
-  .fb-post, .fb-post iframe, .fb-post span {
-    width: 100% !important;
-    max-width: 100% !important;
-  }
+.fb_iframe_widget span {
+  width: 100% !important;
+  display: block !important;
 }
 
 // blog grid
