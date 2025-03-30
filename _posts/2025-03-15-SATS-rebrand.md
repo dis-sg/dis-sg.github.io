@@ -7,7 +7,6 @@ tags: []
 description: "Decent identity, unfortunate brand rollout 🤢"
 comments: false
 image: https://i.imgur.com/aqmDxAv.png
-published: false
 ---
 
 <h2>Decent identity, unfortunate brand rollout 🤢</h2>
