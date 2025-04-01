@@ -30,8 +30,7 @@ Trashemon’s design is inspired by Singapore’s green rubbish bins. He has one
 Besides being featured on PHC’s social media channels, the council collaborated with the tertiary institutions to create KeepSGClean Supermons content, from animated videos in partnership with Nanyang Polytechnic in 2024 to a <a href="https://www.publichygienecouncil.sg/initiatives/story-writing-competition/" target="_blank">story writing competition</a> in partnership with Temasek Polytechnic.  
 
 <div class="video-responsive">
-<iframe width="1524" height="560" src="https://www.youtube.com/embed/CQZfG6ns9ss" title="KeepSGClean Supermons - Toilemon Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<iframe width="1524" height="560" src="https://www.youtube.com/embed/jRH44y73pZ4" title="KeepSGClean Supermons - Trashemon Animation Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 <br>
 
 <div class="video-responsive">
