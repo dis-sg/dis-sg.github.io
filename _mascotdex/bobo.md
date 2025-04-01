@@ -8,7 +8,7 @@ comments: false
 birth-year: 1973
 mascot-type: Elephant
 mascot-owner: Public Utilities Board
-mascot-cause: [Research]
+mascot-cause: [Environment]
 mascot-creator: [Sheldon Cohen]
 mascot-status: Retired
 mascot-family:
