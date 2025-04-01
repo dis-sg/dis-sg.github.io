@@ -29,4 +29,4 @@ Bobo’s filmlets were screened on TV and in cinemas. On print, other than poste
 
 <h3>Lost media: Bobo filmlets, sticker designs</h3>
 
-<i>Have a trivia nugget about Creative Cory? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
+<i>Have a trivia nugget about Bobo? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
