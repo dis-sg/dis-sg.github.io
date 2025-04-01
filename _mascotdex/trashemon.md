@@ -34,10 +34,8 @@ Besides being featured on PHC’s social media channels, the council collaborate
 </div>
 <br>
 
-<div class="video-responsive">
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Ci2Gryjux7c/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"></blockquote>
-  <script async src="//www.instagram.com/embed.js"></script>
-</div>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Ci2Gryjux7c/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
 
 
 <i>Have a trivia nugget about Trashemon? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
