@@ -8,7 +8,7 @@ comments: false
 birth-year: 2022
 mascot-type: Toilet Bowl
 mascot-owner: Public Hygiene Council
-mascot-cause: [Research]
+mascot-cause: [Environment]
 mascot-creator: [Unknown]
 mascot-status: Active
 mascot-family: Supermons
