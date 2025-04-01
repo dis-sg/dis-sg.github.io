@@ -34,8 +34,12 @@ Besides being featured on PHC’s social media channels, the council collaborate
 <iframe width="1524" height="560" src="https://www.youtube.com/embed/CQZfG6ns9ss" title="KeepSGClean Supermons - Toilemon Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C0Nnt2uB1xn/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"></blockquote>
-<script async src="//www.instagram.com/embed.js"></script>
+
+<div class="video-responsive">
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C0Nnt2uB1xn/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14"></blockquote>
+  <script async src="//www.instagram.com/embed.js"></script>
+</div>
+
 
 <i>Have a trivia nugget about Toilemon? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
 
