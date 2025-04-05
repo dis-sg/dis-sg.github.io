@@ -50,3 +50,4 @@ The Soaper 5 also collaborated with Singa and the Kindness Cubbies in a special 
   <figcaption><a href="https://www.facebook.com/photo/?fbid=10160093590927004&set=a.10150100883752004">Source</a></figcaption>
 </figure>
 
+<i>Have a trivia nugget about Virus Screener Varun? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
