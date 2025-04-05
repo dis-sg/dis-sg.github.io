@@ -1,6 +1,6 @@
 ---
 title: Super Soaper Soffy
-image: https://i.imgur.com/Oo0JvGq.png
+image: https://i.imgur.com/kOCwTV0.png
 description: Everything you need to know about Super Soaper Soffy
 layout: mascot
 permalink: /mascotdex/super-soaper-soffy/
@@ -25,7 +25,7 @@ In the <a href="https://www.youtube.com/hashtag/soaper5">The Soaper 5 Animated S
 <iframe width="1524" height="560" src="https://www.youtube.com/embed/yeMfoKzx1W8" title="The Soaper 5 Animated Series – Episode 4: Hana joins the crew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 <br>
 <figure>
-  <img src="https://i.imgur.com/wVfuWIl.jpg" alt="">
+  <img src="https://i.imgur.com/wJ6dKsp.jpg" alt="">
   <figcaption><a href="https://www.schoolbag.edu.sg/story/soaper-5-reminds-us-to-stay-safe-in-2021/">Source</a></figcaption>
 </figure>
 
