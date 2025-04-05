@@ -56,7 +56,7 @@ Still, the vibrant and simple look produced a great set of applications, from th
 <div class="video-responsive">
   <iframe width="1524" height="560" src="https://www.youtube.com/embed/x1XIfFZFuk4" title="Cold Storage The Fresh News - Salmon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+<br>
 <div class="video-responsive">
   <iframe width="1524" height="560" src="https://www.youtube.com/embed/aMVA-SUd-zg" title="Cold Storage &quot;My Favourite Things&quot; TVC Created by LH.M ( 2010 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
