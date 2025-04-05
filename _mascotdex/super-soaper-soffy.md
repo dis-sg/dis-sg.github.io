@@ -19,9 +19,11 @@ Super Soaper Soffy was one of the five members of the Soaper 5, introduced by th
 In the <a href="https://www.youtube.com/hashtag/soaper5">The Soaper 5 Animated Series</a>, Super Soaper Soffy was shown to be third to join the Soaper 5, initially wearing a yellow tiara and yellow gloves. Her upgraded costume is a blue super suit with a cape.
 
 <div class="video-responsive">
-<iframe width="1524" height="560" src="https://www.youtube.com/embed/jr4iXh0lhHU" title="The Soaper 5 Animated Series – Episode 3: Soffy waltzes in" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<iframe width="1524" height="560" src="https://www.youtube.com/embed/jr4iXh0lhHU" title="The Soaper 5 Animated Series – Episode 3: Soffy waltzes in" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<br>
 <div class="video-responsive">
-<iframe width="1524" height="560" src="https://www.youtube.com/embed/yeMfoKzx1W8" title="The Soaper 5 Animated Series – Episode 4: Hana joins the crew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<iframe width="1524" height="560" src="https://www.youtube.com/embed/yeMfoKzx1W8" title="The Soaper 5 Animated Series – Episode 4: Hana joins the crew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<br>
 <figure>
   <img src="https://i.imgur.com/wVfuWIl.jpg" alt="">
   <figcaption><a href="https://www.schoolbag.edu.sg/story/soaper-5-reminds-us-to-stay-safe-in-2021/">Source</a></figcaption>
