@@ -23,7 +23,11 @@ In the <a href="https://www.youtube.com/hashtag/soaper5">The Soaper 5 Animated S
 <br>
 <div class="video-responsive">
 <iframe width="1524" height="560" src="https://www.youtube.com/embed/jr4iXh0lhHU" title="The Soaper 5 Animated Series – Episode 3: Soffy waltzes in" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-
+<br>
+<figure>
+  <img src="https://i.imgur.com/uGHjESd.jpg" alt="">
+  <figcaption><a href="https://www.schoolbag.edu.sg/story/soaper-5-reminds-us-to-stay-safe-in-2021/">Source</a></figcaption>
+</figure>
 Together with the rest of the Soaper 5, Wipe Up Wilson was featured in a rap song "Bye Bye Virus," which engaged students to practise good hygiene in a fun and memorable way. 
 
 <div class="video-responsive">
