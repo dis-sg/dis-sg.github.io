@@ -17,8 +17,8 @@ mascot-family: Virus Vanguard
 Dr. Disinfector was part of The Virus Vanguard, a team of five fictional superheroes introduced by Singapore's Ministry of Communications and Information (now Ministry of Ministry of Digital Development and Information) on 20 April 2020 as part of the Gov.sg platform's efforts to promote COVID-19 safety measures. Each character was designed to personify specific guidelines to combat the pandemic—Dr. Disinfector advocated for regular disinfection of hands and surfaces.
 
 <figure>
-  <img src="https://i.imgur.com/MqQgUEM.png" alt="">
-  <figcaption>Source: <a href="https://archive.ph/h1bIE">archive.ph</a></figcaption>
+  <img src="https://i.imgur.com/ZNs9bQb.jpg" alt="">
+  <figcaption><a href="https://archive.ph/h1bIE">Source</a></figcaption>
 </figure>
 
 Gov.sg published a now-deleted backstory of Dr. Disinfector:
