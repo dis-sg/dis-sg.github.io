@@ -18,7 +18,7 @@ Fake News Buster was part of The Virus Vanguard, a team of five fictional superh
 
 <figure>
   <img src="https://i.imgur.com/xB1ZWbr.jpg" alt="">
-  <figcaption><a href="https://archive.ph/h1bIE">Source</a></figcaption>
+  <figcaption><a href="https://archive.ph/h1bIE">(Source)</a></figcaption>
 </figure>
 
 Gov.sg published a now-deleted backstory of Fake News Buster:
