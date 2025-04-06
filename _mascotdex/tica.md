@@ -20,7 +20,7 @@ The mascot has been featured on ICA’s social media channels and makes appearan
 
 <div class="video-responsive"> 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FImmigration.Checkpoints.Authority%2Fvideos%2F930834222194044%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></div>
-
+<br>
 <figure>
 <img src="https://i.imgur.com/dXlGUco.jpg" alt="">
 <figcaption>TICA at the ICA Workplan Seminar 2024 <a href="https://www.instagram.com/ica_singapore/p/C7DwDW3h3EM/?img_index=1 
