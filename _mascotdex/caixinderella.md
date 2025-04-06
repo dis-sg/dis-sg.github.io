@@ -15,7 +15,7 @@ mascot-family: Singapore Farmed Forces
 ---
 
 
-Caixinderella is an vegatable mascot of the Singapore Food Agency (SFA), used to promote locally farmed produce and raise awareness about Singapore's agricultural sector. Together with Seabasstian Water and Eggs Benedette C, they form the Singapore Farmed Forces. 
+Caixinderella is an vegatable mascot of the Singapore Food Agency (SFA), used to promote locally farmed produce and raise awareness about Singapore's agricultural sector. Together with <a href="https://www.designinsingapore.com/mascotdex/seabasstian-water/" target="_blank">Seabasstian Water</a> and <a href="https://www.designinsingapore.com/mascotdex/eggs-benedette-c/" target="_blank">Eggs Benedette C</a, they form the Singapore Farmed Forces. The mascots were created by <a href="https://jazloh.com/the-food-star-awards" target="_blank">Tribal Worldwide/DDB</a>.
 
 In a series of video advertisements, the trio were introduced as winners of the SG Food Star Awards to raise awareness about SFA’s local produce badges. Caixinderella’s video was inspired by Cinderella.
 
