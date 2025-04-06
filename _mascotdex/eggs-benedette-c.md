@@ -14,7 +14,7 @@ mascot-status: Active
 mascot-family: Singapore Farmed Forces
 ---
 
-Eggs Benedette C is an egg mascot of the Singapore Food Agency (SFA), used to promote locally farmed produce and raise awareness about Singapore's agricultural sector. Together with Seabasstian Water and Caixinderella, they form the Singapore Farmed Forces.
+Eggs Benedette C is an egg mascot of the Singapore Food Agency (SFA), used to promote locally farmed produce and raise awareness about Singapore's agricultural sector. Together with <a href="https://www.designinsingapore.com/mascotdex/seabasstian-water/" target="_blank">Seabasstian Water</a> and <a href="https://www.designinsingapore.com/mascotdex/caixinderella/" target="_blank">Caixinderella</a>, they form the Singapore Farmed Forces. The mascots were created by <a href="https://jazloh.com/the-food-star-awards" target="_blank">Tribal Worldwide/DDB</a>.
 
 In a series of video advertisements, the trio were introduced as winners of the SG Food Star Awards to raise awareness about SFA’s local produce badges. Eggs Benedette C’s video parodied scenes from Dr Strange, played by Benedict Cumberbatch. The actor’s name inspired the mascot’s, along with the eggs benedict dish.
 
