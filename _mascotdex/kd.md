@@ -18,7 +18,7 @@ K.D. is the mascot for PA Kiddies, a series of curated courses by the People’s
 
 <figure>
 <img src="https://i.imgur.com/9YBNK1h.png" alt="">
-<figcaption>K.D. promoting different courses <a href="https://www.facebook.com/photo/?fbid=569294972015060&set=a.437920595152499 ” target="_blank">(Source)</a></figcaption>
+<figcaption>K.D. promoting different courses <a href="https://www.facebook.com/photo/?fbid=569294972015060&set=a.437920595152499" target="_blank">(Source)</a></figcaption>
 </figure>
 
 The beige dinosaur mascot has blunt purple spikes on its head all the way to his back. He is often seen with his parents on PA Kiddies’ Facebook page participating in activities such as cooking, working on science experiments and creating art. The page also posts tips on how to cultivate good habits among young children.
