@@ -24,7 +24,7 @@ Bespeckled and wearing a cap with the Ask Kopi Kakis logo, Ken appears in <a hre
 </figure>
 
 <figure>
-<img src="https://i.imgur.com/Mt4DlWt.png" alt="">
+<img src="https://i.imgur.com/trxZWsX.png" alt="">
 <figcaption>Ken as an inflatable <a href="https://siliconplus.sg/portfolio/peoples-association/ask-kopi-kakis-policies-made-simple/" target="_blank">(Source)</a></figcaption>
 </figure>
 
