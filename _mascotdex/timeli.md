@@ -6,7 +6,7 @@ layout: mascot
 permalink: /mascotdex/timeli/
 comments: false
 birth-year: 1982
-mascot-type: Bee
+mascot-type: Rooster
 mascot-owner: National Punctuality Drive (campaign)
 mascot-cause: [Culture]
 mascot-creator: [Unknown]
@@ -36,7 +36,7 @@ Timeli, whose name was selected as the winning entry in a naming contest, was dr
 Timeli's appearances were part of a broader push for overall punctuality—not just workplace timeliness. Restaurants were encouraged to display cardboard cutouts of the mascot, and <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930818-1.2.33.6?qt=timeli&q=timeli" target="_blank">one restaurant</a> even organised a lucky draw during a wedding it hosted, rewarding guests who arrived early.
 
 <figure>
-<img src=https://i.imgur.com/mh5RqeR.png"" alt="">
+<img src=https://i.imgur.com/mh5RqeR.png" alt="">
 <figcaption><a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930818-1.2.33.6?qt=timeli&q=timeli" target="_blank">(Source)</a></figcaption>
 </figure>
 
