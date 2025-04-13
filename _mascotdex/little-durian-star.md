@@ -1,6 +1,6 @@
 ---
 title: Little Durian Star (榴莲小星)
-image: https://i.imgur.com/2cHgnwS.png
+image: https://i.imgur.com/d8URmAq.png
 description: Everything you need to know about Little Durian Star (榴莲小星)
 layout: mascot
 permalink: /mascotdex/little-durian-star/
