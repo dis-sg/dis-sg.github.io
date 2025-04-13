@@ -61,7 +61,7 @@ Although Merli was intended to be more prominently featured in overseas marketin
 <br>
 <figure>
 <img src="https://i.imgur.com/lxrvIXN.jpg" alt="">
-<figcaption>SingapoRediscovers mailers sent in November 2020</a></figcaption>
+<figcaption>SingapoRediscovers mailers sent in November 2020</figcaption>
 </figure>
 
 
