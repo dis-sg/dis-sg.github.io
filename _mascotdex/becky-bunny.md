@@ -1,6 +1,6 @@
 ---
 title: Becky Bunny
-image: 
+image: https://i.imgur.com/iIHD047.png
 description: Everything you need to know about Becky Bunny
 layout: mascot
 permalink: /mascotdex/becky-bunny/
@@ -21,7 +21,7 @@ Becky Bunny is the official mascot of Families for Life (FFL), an initiative by 
 <figcaption><a href="https://familiesforlife.sg/pages/activity/ffl-family-values" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Becky is known for her cheerful personality and enjoys singing the <a href="https://www.youtube.com/playlist?list=PLCQSBo98s6eU-_JcU2yzqUSDbREjFH7Ld" target="_blank">Families for Life sing-along songs</a>Families for Life sing-along songs and indulging in kueh during special occasions. She wears a pink bucket hat and an orange blouse with a white heart pattern. 
+Becky is known for her cheerful personality and enjoys singing the <a href="https://www.youtube.com/playlist?list=PLCQSBo98s6eU-_JcU2yzqUSDbREjFH7Ld" target="_blank">Families for Life sing-along songs</a> and indulging in kueh during special occasions. She wears a pink bucket hat and an orange blouse with a white heart pattern. 
 
 <div class="video-responsive"><iframe width="1217" height="480" src="https://www.youtube.com/embed/b5jVOrR0J28?list=PLCQSBo98s6eU-_JcU2yzqUSDbREjFH7Ld" title="I Love My Family - Children Sing-Along | Families for Life Family Songs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
 
