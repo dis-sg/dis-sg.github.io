@@ -6,7 +6,7 @@ layout: mascot
 permalink: /mascotdex/oscar/
 comments: false
 birth-year: 2002
-mascot-type: Bee
+mascot-type: Otter
 mascot-owner: Singapore Food Agency
 mascot-cause: [Food, Environment]
 mascot-creator: [Unknown]
@@ -18,7 +18,7 @@ mascot-family:
 Oscar the Food Safety Otter was introduced by the Singapore Food Agency (then called the Agri-Food & Veterinary Authority of Singapore) in 2002 to promote food safety habits among the public. The Asian otter was chosen as the mascot because of its natural behaviour of washing its food before consumption, symbolising proper food hygiene practices. His message to the public is “Together, let's keep food safe."
 
 <figure>
-<img src="https://i.imgur.com/37b1dNv.png" alt="">
+<img src="https://i.imgur.com/zXqSY2g.jpg" alt="">
 <figcaption>Oscar’s original design <a href="https://www.facebook.com/SGFoodAgency/posts/didyouknow-oscar-has-been-avas-food-safety-mascot-since-2002-oscar-was-chosen-as/1791219314287921/" target="_blank">(Source)</a></figcaption>
 </figure>
 
