@@ -31,4 +31,4 @@ Jazz-O, the official mascot for the Sing Singapore campaign, was introduced in 1
 <figcaption>NDP 1988 <a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/012c2dcc-1162-11e3-83d5-0050568939ad   " target="_blank">(Source)</a></figcaption>
 </figure>
 
-Have a trivia nugget about Jazz-O? Share your stories, photos and videos with us at designinsingapore65@gmail.com
+<i>Have a trivia nugget about Jazz-O? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
