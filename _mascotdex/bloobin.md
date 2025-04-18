@@ -23,11 +23,11 @@ Bloobin is the recycling mascot introduced by Clean & Green Singapore (under the
 
 Clean & Green Singapore provides a write-up on Bloobin’s backstory on its website:
 
-<i>Twenty years ago, Bloobin started out as a dreamer full of hope. He believed that when everyone came together to recycle, we could create a greener Singapore with less waste sent to Semakau Landfill.
+<i>Twenty years ago, Bloobin started out as a dreamer full of hope. He believed that when everyone came together to recycle, we could create a greener Singapore with less waste sent to Semakau Landfill.</i>
 
-Over the years however, Bloobin became increasingly frustrated due to constant bin contamination. People had been treating the blue recycling bins as trash bins, throwing all sorts of rubbish into them and causing recyclables to be contaminated. Common contaminants include food and liquid waste, tissue paper, Styrofoam, electronic waste, furniture and items meant for reuse, such as clothing, toys and shoes.
+<i>Over the years however, Bloobin became increasingly frustrated due to constant bin contamination. People had been treating the blue recycling bins as trash bins, throwing all sorts of rubbish into them and causing recyclables to be contaminated. Common contaminants include food and liquid waste, tissue paper, Styrofoam, electronic waste, furniture and items meant for reuse, such as clothing, toys and shoes.</i>
 
-Having had enough of the years of abuse and misuse, Bloobin is now on a mission to get everyone to recycle right. He wants everyone to join him to increase our recycling rates and extend the lifespan of Semakau Landfill.</i>
+<i>Having had enough of the years of abuse and misuse, Bloobin is now on a mission to get everyone to recycle right. He wants everyone to join him to increase our recycling rates and extend the lifespan of Semakau Landfill.</i>
 
 With large oval eyes and prominent concave eyebrows, Bloobin is usually portrayed with a smirk or a frown. His logo is designed like graffiti, which fits his rough and grouchy personality.
 
