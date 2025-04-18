@@ -52,4 +52,4 @@ Brave is frequently featured on BTL’s social media channels, where it shares m
 
 Through Brave's engaging presence, NCSS continues to work towards reducing mental health stigma and encouraging open conversations about mental well-being in the community.
 
-
+<i>Have a trivia nugget about BRAVE? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
