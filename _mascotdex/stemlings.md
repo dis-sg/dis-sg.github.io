@@ -8,7 +8,7 @@ comments: false
 birth-year: 2021
 mascot-type: Robot
 mascot-owner: Science Centre Singapore
-mascot-cause: [Education]
+mascot-cause: [Education, Children]
 mascot-creator: [Unknown]
 mascot-status: Active
 mascot-family: 
@@ -43,6 +43,7 @@ In this version of UNTAME, STEMlings were tasked to eradicate the Void - a villa
 </figure>
 
 <strong>Watt</strong>
+
 What is its name? Watt - The standard unit of power; the perfect aptronym for the leader of the STEMlings.
 
 <strong>Liv</strong>
