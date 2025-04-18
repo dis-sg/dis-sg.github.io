@@ -1,5 +1,5 @@
 ---
-title: Leo
+title: Leonette
 image: https://i.imgur.com/BFlKEyb.png
 description: Everything you need to know about Leonette
 layout: mascot
