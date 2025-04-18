@@ -26,7 +26,7 @@ In the “<a href="https://www.facebook.com/photo/?fbid=304793878358031&set=a.30
 
 Bobby’s underbelly has a blue “B” design (in comic sans). Sometimes, he wears a blue snapback or blue ranger hat, the latter covering his brown streak of hair. 
 
-Together with fellow PAssion Wave mascot Ottie the Otter (link), they are frequently featured on PAssion Wave’s social media channels. 
+Together with fellow PAssion Wave mascot <a href="https://www.designinsingapore.com/mascotdex/ottie/" target="_blank">Ottie the Otter</a>, they are frequently featured on PAssion Wave’s social media channels. 
 
 <figure>
 <img src="https://i.imgur.com/lCTtEBs.jpg" alt="">
