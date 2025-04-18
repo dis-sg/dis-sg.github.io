@@ -8,8 +8,8 @@ comments: false
 birth-year: 2022
 mascot-type: Blob
 mascot-owner: "Beyond the Label Movement"
-mascot-cause: [Design]
-mascot-creator: [Sport, Event]
+mascot-cause: [Health]
+mascot-creator: [Unknown]
 mascot-status: Active
 mascot-family: 
 ---
