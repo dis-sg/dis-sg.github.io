@@ -1,6 +1,6 @@
 ---
 title: Gayle
-image: https://i.imgur.com/PWyBmxq.png
+image: https://i.imgur.com/1Ej4mIh.png
 description: Everything you need to know about Gayle
 layout: mascot
 permalink: /mascotdex/gayle/
