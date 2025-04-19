@@ -46,7 +46,7 @@ Blood Buddy’s former design has a body of a red blood droplet, with rosy cheek
 On Blood Buddy’s social media feed, four other characters with the same shape represent different blood types: Annie (A), Brian (B), Abigail (AB) and Oliver (O). Each character wears different clothing in a distinct colour which helps to distinguish them - Annie carries blue sunglasses, Brian wears purple headphones, Abigail has a headscarf and Oliver sports a green snapback. They are known collectively as “BB and Friends”.
 
 <figure>
-<img src=https://i.imgur.com/WSbUy1g.jpg"" alt="">
+<img src="https://i.imgur.com/WSbUy1g.jpg" alt="">
 <figcaption><a href="https://www.facebook.com/photo.php?fbid=328114216508151&set=pb.100079287257390.-2207520000&type=3" target="_blank">(Source)</a></figcaption>
 </figure>
 
