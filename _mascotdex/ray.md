@@ -9,7 +9,7 @@ birth-year: 2019
 mascot-type: Lion
 mascot-owner: Singapore Police Force
 mascot-cause: [Crime]
-mascot-creator: [Cubix International]
+mascot-creator: [Unknown]
 mascot-status: Active
 mascot-family: 
 ---
