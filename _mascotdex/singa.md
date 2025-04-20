@@ -64,7 +64,7 @@ One of the key initiatives for children is <a href="https://kindsville.kindness.
 
 In 2020, during the COVID-19 pandemic, some episodes featured the Soaper 5 mascots from the Ministry of Education, who were created to promote good hygiene practices during the pandemic. 
 
-<a href="" target="_blank"><iframe width="1524" height="560" src="https://www.youtube.com/embed/pyAB8LhvVNU" title="Season 5 (Ep 3) Singa and the Kindness Cubbies - Back to School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<div class="video-responsive"> <iframe width="1536" height="729" src="https://www.youtube.com/embed/pyAB8LhvVNU" title="Season 5 (Ep 3) Singa and the Kindness Cubbies - Back to School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 <br>
 
@@ -84,7 +84,7 @@ In 2020, during the COVID-19 pandemic, some episodes featured the Soaper 5 masco
 • Launched in 2010 to commemorate World Kindness Day, Project Singa featured 2.5-inch vinyl collectible figurines of Singa the Kindness Lion, created in collaboration with Singapore-based toy maker Play Imaginative and local artists. A design contest was also held, with winning entries turned into figurines. In total, 34 unique designs were developed to promote messages of graciousness and kindness in society.
 
 <figure>
-<img src=https://i.imgur.com/CgCH8CR.jpg"" alt="">
+<img src="https://i.imgur.com/CgCH8CR.jpg" alt="">
 <figcaption> <a href="https://toysrevil.blogspot.com/2010/09/project-singa-singa-lion-toy-from-play.html " target="_blank">(Source)</a></figcaption>
 </figure>
 
