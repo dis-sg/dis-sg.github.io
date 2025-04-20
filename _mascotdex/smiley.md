@@ -53,7 +53,7 @@ Smiley is also prominently featured in the annual POSB Run For Kids event.
 <br>
 
 
-<h3>Unique merch<h3>
+<h3>Unique merch</h3>
 
 <figure>
 <img src="https://i.imgur.com/Gk0l8se.jpg" alt="">
@@ -83,7 +83,10 @@ Smiley is also prominently featured in the annual POSB Run For Kids event.
 <h3>Lost media</h3>
 
 Educational Flimlets: 
+
 -Smily Squirrel Saves the Day 
+
 -Smily Squirrel Gets His Rewards
 
+<br>
 <i>Have a trivia nugget about Smiley? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
