@@ -9,7 +9,7 @@ birth-year: 2011
 mascot-type: Lion
 mascot-owner: Singapore Kindness Movement
 mascot-cause: [Culture]
-mascot-creator: Unknown]
+mascot-creator: [Unknown]
 mascot-status: Active
 mascot-family: Kindness Cubbies
 ---
