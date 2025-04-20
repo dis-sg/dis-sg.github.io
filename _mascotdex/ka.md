@@ -9,7 +9,7 @@ birth-year: 2019
 mascot-type: Pricetag
 mascot-owner: Consumers Association of Singapore
 mascot-cause: [Finance]
-mascot-creator: [Unknown]
+mascot-creator: [The Visual Team]
 mascot-status: Active
 mascot-family: 
 ---
