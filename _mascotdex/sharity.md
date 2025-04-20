@@ -65,7 +65,7 @@ In 2024, Community Chest celebrated her 40th birthday with an exhibition called 
 <br>
 
 <figure>
-<img src="" alt="https://i.imgur.com/AmVRS7S.jpg">
+<img src="https://i.imgur.com/AmVRS7S.jpg" alt="">
 <figcaption>One of the 33 Sharity designs <a href="https://www.comchest.gov.sg/brand/sharity/sharity-40th/sharity-reimagined-exhibition " target="_blank">(Source)</a></figcaption>
 </figure>
 
