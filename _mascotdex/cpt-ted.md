@@ -5,7 +5,7 @@ description: Everything you need to know about CPT Ted
 layout: mascot
 permalink: /mascotdex/cpt-ted/
 comments: false
-birth-year: Unknown
+birth-year: 2011
 mascot-type: Bear
 mascot-owner: The Republic of Singapore Air Force
 mascot-cause: [Defence]
