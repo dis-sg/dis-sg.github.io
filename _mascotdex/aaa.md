@@ -14,6 +14,8 @@ mascot-status: Active
 mascot-family:
 ---
 
+    <title>Mascotdex Table</title>
+  <style>
     table {
       border-collapse: collapse;
       width: 100%;
@@ -154,7 +156,7 @@ mascot-family:
 
   function sortTable(columnIndex) {
     const table = document.getElementById("mascotTable");
-    const rows = Array.from(table.rows).slice(1); // Exclude header row
+    const rows = Array.from(table.rows).slice(1); // Exclude header
     sortDirection = !sortDirection;
 
     rows.sort((a, b) => {
@@ -173,3 +175,6 @@ mascot-family:
     }
   }
 </script>
+
+</body>
+</html>
