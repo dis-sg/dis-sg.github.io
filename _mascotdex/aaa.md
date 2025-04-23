@@ -14,7 +14,11 @@ mascot-status: Active
 mascot-family:
 ---
 
-    <title>Mascotdex Table</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mascotdex Table</title>
   <style>
     table {
       border-collapse: collapse;
