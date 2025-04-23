@@ -14,11 +14,6 @@ mascot-status: Active
 mascot-family:
 ---
 
- <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-
     table {
       border-collapse: collapse;
       width: 100%;
@@ -33,11 +28,7 @@ mascot-family:
 
     th {
       background-color: #f4f4f4;
-    }
-
-    select {
-      width: 100%;
-      padding: 4px;
+      cursor: pointer;
     }
 
     a {
@@ -49,53 +40,136 @@ mascot-family:
       text-decoration: underline;
     }
   </style>
-  <script>
-    function filterTable(columnIndex) {
-      const select = document.getElementById("filter-" + columnIndex);
-      const filter = select.value.toLowerCase();
-      const table = document.getElementById("mascotTable");
-      const tr = table.getElementsByTagName("tr");
-
-      for (let i = 2; i < tr.length; i++) {
-        const td = tr[i].getElementsByTagName("td")[columnIndex];
-        if (td) {
-          const txtValue = td.textContent || td.innerText;
-          tr[i].style.display = (filter === "all" || txtValue.toLowerCase() === filter) ? "" : "none";
-        }
-      }
-    }
-  </script>
 </head>
 <body>
 
 <table id="mascotTable">
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Birth Year</th>
-      <th>Type</th>
-      <th>Cause</th>
-      <th>Status</th>
-      <th>Mascot Family</th>
-      <th>Owner</th>
+      <th onclick="sortTable(0)">Name</th>
+      <th onclick="sortTable(1)">Birth Year</th>
+      <th onclick="sortTable(2)">Type</th>
+      <th onclick="sortTable(3)">Cause</th>
+      <th onclick="sortTable(4)">Status</th>
+      <th onclick="sortTable(5)">Mascot Family</th>
+      <th onclick="sortTable(6)">Owner</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.designinsingapore.com/mascotdex/merlion/">Merlion</a></td>
+      <td>1964</td>
+      <td>Merlion</td>
+      <td>Tourism</td>
+      <td>Active</td>
+      <td>-</td>
+      <td>Singapore Tourism Board</td>
     </tr>
     <tr>
-      <th>
-        <select id="filter-0" onchange="filterTable(0)">
-          <option value="all">All</option>
-          <option value="Merlion">Merlion</option>
-          <option value="Water Wally">Water Wally</option>
-          <option value="Water Sally">Water Sally</option>
-          <option value="Captain Green">Captain Green</option>
-          <option value="Dino">Dino</option>
-          <option value="Camy">Camy</option>
-          <option value="Hutsy">Hutsy</option>
-          <option value="Zecky">Zecky</option>
-          <option value="Rooky">Rooky</option>
-          <option value="Phyll">Phyll</option>
-        </select>
-      </th>
-      <th>
-        <select id="filter-1" onchange="filterTable(1)">
-          <option value="all">All</option>
-          <option value="1964">1964</option>
+      <td><a href="https://www.designinsingapore.com/mascotdex/water-wally/">Water Wally</a></td>
+      <td>2005</td>
+      <td>Water Droplet</td>
+      <td>Environment</td>
+      <td>Active</td>
+      <td>-</td>
+      <td>PUB, Singapore’s National Water Agency</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.designinsingapore.com/mascotdex/water-sally/">Water Sally</a></td>
+      <td>2021</td>
+      <td>Water Droplet</td>
+      <td>Environment</td>
+      <td>Active</td>
+      <td>-</td>
+      <td>PUB, Singapore’s National Water Agency</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.designinsingapore.com/mascotdex/captain-green/">Captain Green</a></td>
+      <td>1990</td>
+      <td>Frog</td>
+      <td>Environment</td>
+      <td>Active</td>
+      <td>-</td>
+      <td>National Environment Agency</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.designinsingapore.com/mascotdex/dino/">Dino</a></td>
+      <td>2018</td>
+      <td>Dinosaur</td>
+      <td>Culture</td>
+      <td>Retired</td>
+      <td>-</td>
+      <td>National Heritage Board</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.designinsingapore.com/mascotdex/camy/">Camy</a></td>
+      <td>2019</td>
+      <td>Monster</td>
+      <td>Education, Children</td>
+      <td>Active</td>
+      <td>Monsters United</td>
+      <td>National Library Board</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.designinsingapore.com/mascotdex/hutsy/">Hutsy</a></td>
+      <td>2019</td>
+      <td>Monster</td>
+      <td>Education, Children</td>
+      <td>Active</td>
+      <td>Monsters United</td>
+      <td>National Library Board</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.designinsingapore.com/mascotdex/zecky/">Zecky</a></td>
+      <td>2019</td>
+      <td>Monster</td>
+      <td>Education, Children</td>
+      <td>Active</td>
+      <td>Monsters United</td>
+      <td>National Library Board</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.designinsingapore.com/mascotdex/rooky/">Rooky</a></td>
+      <td>2019</td>
+      <td>Monster</td>
+      <td>Education, Children</td>
+      <td>Active</td>
+      <td>Monsters United</td>
+      <td>National Library Board</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.designinsingapore.com/mascotdex/phyll/">Phyll</a></td>
+      <td>2022</td>
+      <td>Leaf</td>
+      <td>Environment</td>
+      <td>Active</td>
+      <td>-</td>
+      <td>National Parks Board</td>
+    </tr>
+  </tbody>
+</table>
+
+<script>
+  let sortDirection = true;
+
+  function sortTable(columnIndex) {
+    const table = document.getElementById("mascotTable");
+    const rows = Array.from(table.rows).slice(1); // Exclude header row
+    sortDirection = !sortDirection;
+
+    rows.sort((a, b) => {
+      const cellA = a.cells[columnIndex].textContent.trim().toLowerCase();
+      const cellB = b.cells[columnIndex].textContent.trim().toLowerCase();
+
+      if (!isNaN(cellA) && !isNaN(cellB)) {
+        return sortDirection ? cellA - cellB : cellB - cellA;
+      } else {
+        return sortDirection ? cellA.localeCompare(cellB) : cellB.localeCompare(cellA);
+      }
+    });
+
+    for (const row of rows) {
+      table.tBodies[0].appendChild(row);
+    }
+  }
+</script>
