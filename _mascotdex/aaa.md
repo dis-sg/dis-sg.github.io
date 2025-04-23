@@ -520,7 +520,7 @@ mascot-family:
       </tr>
       <tr>
         <td><a href="https://www.designinsingapore.com/mascotdex/cpt-ted/">CPT Ted</a></td>
-        <td>Undetermined</td>
+        <td>2011</td>
         <td>Bear</td>
         <td>Active</td>
         <td>The Republic of Singapore Air Force</td>
