@@ -8,7 +8,7 @@ comments: false
 birth-year: 2022
 mascot-type: Human
 mascot-owner: REACH (Reaching Everyone for Active Citizenry @ Home)
-mascot-cause: [Research]
+mascot-cause: [Outreach]
 mascot-creator: [Unknown]
 mascot-status: Active
 mascot-family:
