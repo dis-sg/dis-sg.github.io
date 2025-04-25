@@ -5,12 +5,12 @@ description: Everything you need to know about Apathetic Andy
 layout: mascot
 permalink: /mascotdex/aaa/
 comments: false
-birth-year: 2021
-mascot-type: Human
-mascot-owner: REACH (Reaching Everyone for Active Citizenry @ Home)
-mascot-cause: [Outreach]
-mascot-creator: [Unknown]
-mascot-status: Active
+birth-year: <a href="www.google.com" target="_blank">test</a>
+mascot-type: <a href="www.google.com" target="_blank">test</a>
+mascot-owner: <a href="www.google.com" target="_blank">test</a>
+mascot-cause: [<a href="www.google.com" target="_blank">test</a>]
+mascot-creator: <a href="www.google.com" target="_blank">test</a>
+mascot-status: <a href="www.google.com" target="_blank">test</a>
 mascot-family:
 ---
 
