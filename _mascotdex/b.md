@@ -13,7 +13,7 @@ mascot-creator: <a href="www.google.com" target="_blank">test</a>
 mascot-status: <a href="www.google.com" target="_blank">test</a>
 mascot-family:
 ---
-
+<head>
     <style>
         .mascot-details-table {
             margin: 20px 0;
@@ -77,7 +77,7 @@ mascot-family:
             text-align: center;
             margin-top: 30px;
         }
-    </style>
+    </style></head>
 <body>
     <h3>1980s</h3>
     <div class="mascot-details-table">
