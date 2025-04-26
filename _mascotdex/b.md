@@ -15,10 +15,12 @@ mascot-family:
 ---
 
 
-
-<h2>1980s</h2>
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mascots of Singapore</title>
     <style>
       .mascot-details-table {
         margin: 20px 0;
@@ -79,7 +81,8 @@ mascot-family:
         margin-right: 10px;
       }
     </style>
-
+</head>
+<body>
     <div class="mascot-details-table">
         <table id="mascotTable">
             <thead>
@@ -191,3 +194,5 @@ mascot-family:
             arrow.textContent = asc ? "▲" : "▼";
         }
     </script>
+</body>
+</html>
