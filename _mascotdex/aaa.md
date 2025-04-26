@@ -889,13 +889,13 @@ mascot-family:
         <td>Ministry of Education</td>
       </tr>
       <tr>
-        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/A5bPV0K.png" alt="Water Sally Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/water-sally/">Water Sally</a></div></td>
+        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/3XQ32X6.png " alt="Water Sally Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/water-sally/">Water Sally</a></div></td>
         <td>2021</td>
         <td>Active</td>
         <td>PUB, Singapore’s National Water Agency</td>
       </tr>
       <tr>
-        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/3XQ32X6.png" alt="Water Wally Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/water-wally/">Water Wally</a></div></td>
+        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/A5bPV0K.png" alt="Water Wally Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/water-wally/">Water Wally</a></div></td>
         <td>2005</td>
         <td>Active</td>
         <td>PUB, Singapore’s National Water Agency</td>
