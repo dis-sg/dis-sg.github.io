@@ -14,6 +14,176 @@ mascot-status: <a href="www.google.com" target="_blank">test</a>
 mascot-family:
 ---
 
+<style>
+  .mascot-details-table {
+    margin: 20px 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .mascot-details-table table {
+    width: 90%;
+    max-width: 700px;
+    border-collapse: collapse;
+    background: #f9f9f9;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .mascot-details-table th,
+  .mascot-details-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    cursor: default;
+  }
+
+  .mascot-details-table th {
+    background: #005FEA;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    user-select: none;
+    cursor: pointer;
+  }
+
+  .mascot-details-table td {
+    color: #333;
+  }
+
+  .mascot-details-table tr:hover {
+    background: #f1f1f1;
+  }
+
+  .mascot-details-table a {
+    color: #005FEA;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .mascot-details-table a:hover {
+    text-decoration: underline;
+  }
+
+  .sort-arrow {
+    margin-left: 6px;
+    font-size: 0.8em;
+  }
+
+  .thumbnail-name {
+    width: 60px; /* Increased thumbnail size */
+    height: 60px; /* Increased thumbnail size */
+    object-fit: contain;
+    vertical-align: middle;
+    margin-right: 8px;
+  }
+</style>
+
+<div class="mascot-details-table">
+  <table id="mascotTable">
+    <thead>
+      <tr>
+        <th onclick="sortTable(0)">Name<span class="sort-arrow" id="arrow0">▲</span></th>
+        <th onclick="sortTable(1)">Birth Year<span class="sort-arrow" id="arrow1">▲</span></th>
+        <th onclick="sortTable(2)">Status<span class="sort-arrow" id="arrow2">▲</span></th>
+        <th onclick="sortTable(3)">Owner<span class="sort-arrow" id="arrow3">▲</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="https://i.imgur.com/DlbeZLD.png" alt="Care-leh Dee Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/care-leh-dee/">Care-leh Dee</a></td>
+        <td><a href="/year/2020/">2020</a></td>
+        <td><a href="/status/retired/">Retired</a></td>
+        <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://i.imgur.com/ARxvaIP.png" alt="Circuit Breaker Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/circuit-breaker/">Circuit Breaker</a></td>
+        <td><a href="/year/2020/">2020</a></td>
+        <td><a href="/status/retired/">Retired</a></td>
+        <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://i.imgur.com/rQOoDTP.png" alt="Dr. Disinfector Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/dr-disinfector/">Dr. Disinfector</a></td>
+        <td><a href="/year/2020/">2020</a></td>
+        <td><a href="/status/retired/">Retired</a></td>
+        <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://i.imgur.com/2FlBy1Z.png" alt="Fake News Buster Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/fake-news-buster/">Fake News Buster</a></td>
+        <td><a href="/year/2020/">2020</a></td>
+        <td><a href="/status/retired/">Retired</a></td>
+        <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://i.imgur.com/WtbVxIK.png" alt="MAWA Man (Must Always Walk Alone Man) Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/MAWA-man/">MAWA Man (Must Always Walk Alone Man)</a></td>
+        <td><a href="/year/2020/">2020</a></td>
+        <td><a href="/status/retired/">Retired</a></td>
+        <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://i.imgur.com/eVBv2yk.png" alt="Bag-Down Benny Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/bag-down-benny/">Bag-Down Benny</a></td>
+        <td><a href="/year/2014/">2014</a></td>
+        <td><a href="/status/active/">Active</a></td>
+        <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://i.imgur.com/diYTS2C.png" alt="Give-Way Glenda Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/give-way-glenda/">Give-Way Glenda</a></td>
+        <td><a href="/year/2014/">2014</a></td>
+        <td><a href="/status/active/">Active</a></td>
+        <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://i.imgur.com/8JMbZi9.png" alt="Hush-Hush Hannah Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/hush-hush-hannah/">Hush-Hush Hannah</a></td>
+        <td><a href="/year/2014/">2014</a></td>
+        <td><a href="/status/active/">Active</a></td>
+        <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://i.imgur.com/sZE3jTa.png" alt="Move-In Martin Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/move-in-martin/">Move-In Martin</a></td>
+        <td><a href="/year/2014/">2014</a></td>
+        <td><a href="/status/active/">Active</a></td>
+        <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://i.imgur.com/9EKOyPw.png" alt="Stand-Up Stacey Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/stand-up-stacey/">Stand-Up Stacey</a></td>
+        <td><a href="/year/2014/">2014</a></td>
+        <td><a href="/status/active/">Active</a></td>
+        <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<script>
+  const sortState = [true, true, true, true]; // true = ascending, false = descending
+
+  function sortTable(colIndex) {
+    const table = document.getElementById("mascotTable");
+    const tbody = table.tBodies[0];
+    const rows = Array.from(tbody.rows);
+    const asc = sortState[colIndex];
+
+    rows.sort((a, b) => {
+      let valA, valB;
+
+      valA = a.cells[colIndex].textContent.trim().toLowerCase();
+      valB = b.cells[colIndex].textContent.trim().toLowerCase();
+      return asc ? valA.localeCompare(valB) : valB.localeCompare(valA);
+    });
+
+    rows.forEach(row => tbody.appendChild(row));
+    sortState[colIndex] = !asc;
+
+    // Update arrows
+    for (let i = 0; i < 4; i++) {
+      document.getElementById(`arrow${i}`).textContent = i === colIndex
+        ? (sortState[i] ? '▲' : '▼')
+        : '▲';
+    }
+  }
+</script>
+_______________
 
 <style>
   .mascot-details-table {
