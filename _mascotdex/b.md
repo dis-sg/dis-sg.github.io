@@ -539,7 +539,213 @@ mascot-family:
         </table>
     </div>
 
-
+<h3>2020s</h3>
+    <div class="mascot-details-table">
+        <table id="mascotTable20s">
+            <thead>
+                <tr>
+                    <th style="text-align: center;" onclick="sortTable(0, 'mascotTable20s')">Name<span class="sort-arrow" id="arrow0_20s">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(1, 'mascotTable20s')">Birth Year<span class="sort-arrow" id="arrow1_20s">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(2, 'mascotTable20s')">Status<span class="sort-arrow" id="arrow2_20s">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(3, 'mascotTable20s')">Owner<span class="sort-arrow" id="arrow3_20s">▲</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/1KCurEr.png" alt="Agile" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/agile/">Agile</a></div></td>
+                    <td>2020</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/9vgBLbZ.png" alt="Becky Bunny" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/becky-bunny/">Becky Bunny</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>Families for Life</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/RIH5YRu.png" alt="Bold" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/bold/">Bold</a></div></td>
+                    <td>2020</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/kGnNXGZ.png" alt="Caixinderella" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/caixinderella/">Caixinderella</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Singapore Food Agency</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/DlbeZLD.png" alt="Care-leh Dee" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/care-leh-dee/">Care-leh Dee</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/ARxvaIP.png" alt="Circuit Breaker" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/circuit-breaker/">Circuit Breaker</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/9yQdAVx.png" alt="Collaborative" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/collaborative/">Collaborative</a></div></td>
+                    <td>2020</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/SKdPtKF.png" alt="Dastan" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/dastan/">Dastan</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Defence Science and Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/rQOoDTP.png" alt="Dr. Disinfector" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/dr-disinfector/">Dr. Disinfector</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/2FlBy1Z.png" alt="Fake News Buster" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/fake-news-buster/">Fake News Buster</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/plxBydS.png" alt="Finley" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/finley/">Finley</a></div></td>
+                    <td>2024</td>
+                    <td>Active</td>
+                    <td>Singapore Disability Sports Council</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/KIyrkqj.png" alt="Hands Down Hana" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/hands-down-hana/">Hands Down Hana</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/WtbVxIK.png" alt="MAWA Man (Must Always Walk Alone Man)" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/MAWA-man/">MAWA Man (Must Always Walk Alone Man)</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/LP4GK0A.png" alt="Mask Up Mei Mei" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/mask-up-mei-mei/">Mask Up Mei Mei</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/7cfjFMP.png" alt="Ollie" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/ollie/">Ollie</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/ZaqDM1D.png" alt="Ollie (World Aquatics Championships 2025)" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/ollie-world-aquatics-championships-2025/">Ollie (World Aquatics Championships 2025)</a></div></td>
+                    <td>2025</td>
+                    <td>Active</td>
+                    <td>22nd World Aquatics Championships 2025</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/vIU90r5.png" alt="OTTer" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/otter/">OTTer</a></div></td>
+                    <td>2021</td>
+                    <td>Retired</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Vf958vw.png" alt="PIP" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/pip/">PIP</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Esplanade – Theatres on the Bay</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/XaaWHou.png" alt="Rachel REACH" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/rachel-reach/">Rachel REACH</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/gNKuNhD.png" alt="Roary" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/roary/">Roary</a></div></td>
+                    <td>2024</td>
+                    <td>Active</td>
+                    <td>Singapore National Paralympic Council</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Xv4HUo6.png" alt="Spark" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/spark/">Spark</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Youthtopia</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/oVHWRaK.png" alt="STEMlings" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/stemlings/">STEMlings</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>Science Centre Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/51ud9fL.png" alt="Super Soaper Soffy" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/super-soaper-soffy/">Super Soaper Soffy</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/apbiNgj.png" alt="Tembi" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/tembi/">Tembi</a></div></td>
+                    <td>2024</td>
+                    <td>Active</td>
+                    <td>Silver Generation Office</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/hToEeMV.png" alt="Toilemon" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/toilemon/">Toilemon</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Public Hygiene Council</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/iAaqPSD.png" alt="Trashemon" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/trashemon/">Trashemon</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Public Hygiene Council</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/3JmGkhl.png" alt="Trayremon" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/trayremon/">Trayremon</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Public Hygiene Council</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/2l6xgXI.png" alt="Virus Screener Varun" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/virus-screener-varun/">Virus Screener Varun</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/3XQ32X6.png" alt="Water Sally" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/water-sally/">Water Sally</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>PUB, Singapore’s National Water Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Kd3FTYJ.png" alt="Wipe Up Wilson" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/wipe-up-wilson/">Wipe Up Wilson</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/jZUUdZB.png" alt="wiTTy" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/witty/">wiTTy</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>SG Translate Together</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/2X1DpLv.png" alt="WonderBot" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/wonderbot/">WonderBot</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Children's Museum Singapore</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 
 
 
@@ -583,6 +789,8 @@ mascot-family:
         const sortState = {
             mascotTable80s: [true, true, true, true], // Default sort order for 1980s table
             mascotTable90s: [true, true, true, true]  // Default sort order for 1990s table
+            mascotTable00s: [true, true, true, true]  // Default sort order for 2000s table
+            mascotTable20s: [true, true, true, true]  // Default sort order for 2020s table
         };
     </script>
 </body>
