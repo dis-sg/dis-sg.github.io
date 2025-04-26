@@ -17,6 +17,8 @@ mascot-family:
 
 
 <h2>1980s</h2>
+
+
     <style>
       .mascot-details-table {
         margin: 20px 0;
@@ -77,8 +79,7 @@ mascot-family:
         margin-right: 10px;
       }
     </style>
-</head>
-<body>
+
     <div class="mascot-details-table">
         <table id="mascotTable">
             <thead>
