@@ -14,9 +14,6 @@ mascot-status: <a href="www.google.com" target="_blank">test</a>
 mascot-family:
 ---
 
-
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -194,5 +191,84 @@ mascot-family:
             arrow.textContent = asc ? "▲" : "▼";
         }
     </script>
+
+<h3>1990s</h3>
+
+    <div class="mascot-details-table">
+        <table id="mascotTable">
+            <thead>
+                <tr>
+                    <th style="text-align: center;" onclick="sortTable(0)">Name<span class="sort-arrow" id="arrow0">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(1)">Birth Year<span class="sort-arrow" id="arrow1">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(2)">Status<span class="sort-arrow" id="arrow2">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(3)">Owner<span class="sort-arrow" id="arrow3">▲</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/3fvtOdC.png" alt="Kucinta Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/kucinta/">Kucinta</a></div></td>
+                    <td>1990</td>
+                    <td>Retired</td>
+                    <td>Singapore Tourist Promotion Board</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/ENH6WNO.png" alt="Captain Green Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/captain-green/">Captain Green</a></div></td>
+                    <td>1990</td>
+                    <td>Active</td>
+                    <td>National Environment Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/lvVrMuB.png" alt="Singa Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/singa-sea-games/">Singa</a></div></td>
+                    <td>1993</td>
+                    <td>Retired</td>
+                    <td>17th Southeast Asian (SEA) Games 1993</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/HbiHLX8.png" alt="Timeli Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/timeli/">Timeli</a></div></td>
+                    <td>1993</td>
+                    <td>Retired</td>
+                    <td>National Punctuality Drive Campaign</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/wv3m2SF.png" alt="Champ Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/champ/">Champ</a></div></td>
+                    <td>1998</td>
+                    <td>Retired</td>
+                    <td>Singapore Blood Transfusion Service</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <script>
+        const sortState = [true, true, true, true];
+        function sortTable(colIndex) {
+            const table = document.getElementById("mascotTable");
+            const tbody = table.tBodies[0];
+            const rows = Array.from(tbody.rows);
+            const asc = sortState[colIndex];
+             rows.sort((a, b) => {
+                let valA, valB;
+                if (colIndex === 0) {
+                    // Handle sorting by mascot name, considering the <a> tag if it exists
+                    const aNameElement = a.querySelector('a');
+                    const bNameElement = b.querySelector('a');
+                    const nameA = aNameElement ? aNameElement.textContent.trim().toLowerCase() : a.cells[0].textContent.trim().toLowerCase();
+                    const nameB = bNameElement ? bNameElement.textContent.trim().toLowerCase() : b.cells[0].textContent.trim().toLowerCase();
+                    valA = nameA;
+                    valB = nameB;
+                } else {
+                    // Handle sorting by other columns (Birth Year, Status, Owner)
+                    valA = a.cells[colIndex].textContent.trim().toLowerCase();
+                    valB = b.cells[colIndex].textContent.trim().toLowerCase();
+                }
+                return asc ? valA.localeCompare(valB) : valB.localeCompare(valA);
+            });
+
+            rows.forEach(row => tbody.appendChild(row));
+            sortState[colIndex] = !asc;
+            const arrow = document.getElementById(`arrow${colIndex}`);
+            arrow.textContent = asc ? "▲" : "▼";
+        }
+    </script>
+
+    
 </body>
-</html>
