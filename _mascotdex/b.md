@@ -344,6 +344,7 @@ mascot-family:
         }
     </script>
 
+
 <h3>2010s</h3>
 
 <div class="mascot-details-table">
@@ -704,5 +705,453 @@ mascot-family:
         }
     </script>
 
-    
+<h3>2020s</h3>
+
+      <div class="mascot-details-table">
+        <table id="mascotTable">
+            <thead>
+                <tr>
+                    <th style="text-align: center;" onclick="sortTable(0)">Name<span class="sort-arrow" id="arrow0">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(1)">Birth Year<span class="sort-arrow" id="arrow1">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(2)">Status<span class="sort-arrow" id="arrow2">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(3)">Owner<span class="sort-arrow" id="arrow3">▲</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/zJhZfig.png" alt="Home Team Science and Technology Agency" class="thumbnail-name"><a href="#">X</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>Home Team Science and Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/L13P4dN.png" alt="13th World Para Swimming Championships 2025" class="thumbnail-name"><a href="#">Ah Dot</a></div></td>
+                    <td>2025</td>
+                    <td>Active</td>
+                    <td>13th World Para Swimming Championships 2025</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/MVCCrry.png" alt="Singapore Co-operative Movement" class="thumbnail-name"><a href="#">Charlie</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>Singapore Co-operative Movement</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/zvbQo0P.png" alt="Singapore Co-operative Movement" class="thumbnail-name"><a href="#">Mia</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>Singapore Co-operative Movement</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/heG93Ak.png" alt="Singapore Co-operative Movement" class="thumbnail-name"><a href="#">Shane</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>Singapore Co-operative Movement</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/b1ldZ74.png" alt="Sun-dac" class="thumbnail-name"><a href="#">SUN-Bear</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Sun-dac</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/IYU00CU.png" alt="Clean &amp; Green Singapore" class="thumbnail-name"><a href="#">Bloobin</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Clean &amp; Green Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/ei4fiQ2.png" alt="Beyond the Label Movement" class="thumbnail-name"><a href="#">BRAVE</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Beyond the Label Movement</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/AQanEbT.png" alt="The Association of Banks in Singapore" class="thumbnail-name"><a href="#">Canny</a></div></td>
+                    <td>2024</td>
+                    <td>Active</td>
+                    <td>The Association of Banks in Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Nrg2EhV.png" alt="Club Rainbow" class="thumbnail-name"><a href="#">Ray (Club Rainbow)</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Club Rainbow</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/WREb2xW.png" alt="People’s Association" class="thumbnail-name"><a href="#">K.D.</a></div></td>
+                    <td>2020</td>
+                    <td>Active</td>
+                    <td>People’s Association</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/1babVBl.png" alt="Insurance and Financial Practitioners Association of Singapore" class="thumbnail-name"><a href="#">Guardian Gabe</a></div></td>
+                    <td>2024</td>
+                    <td>Active</td>
+                    <td>Insurance and Financial Practitioners Association of Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/P1Bfatm.png" alt="Singapore Food Agency" class="thumbnail-name"><a href="#">Seabasstian Water</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Singapore Food Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/2fAPrr5.png" alt="National Museum of Singapore" class="thumbnail-name"><a href="#">Dome Bot</a></div></td>
+                    <td>2020</td>
+                    <td>Active</td>
+                    <td>National Museum of Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/sv02jf2.png" alt="22nd World Aquatics Championships 2025" class="thumbnail-name"><a href="#">Dewey</a></div></td>
+                    <td>2025</td>
+                    <td>Active</td>
+                    <td>22nd World Aquatics Championships 2025</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/7viPga0.png" alt="Singapore Food Agency" class="thumbnail-name"><a href="#">Eggs Benedette C</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Singapore Food Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/N7YEbT1.png" alt="REACH" class="thumbnail-name"><a href="#">Apathetic Andy</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/yQvspLT.png" alt="REACH" class="thumbnail-name"><a href="#">Compassionate Cassie</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/fjPrEpj.png" alt="REACH" class="thumbnail-name"><a href="#">Creative Cory</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/ZJBUTgJ.png" alt="REACH" class="thumbnail-name"><a href="#">Fearless Farah</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/nX8afuS.png" alt="REACH" class="thumbnail-name"><a href="#">Inquisitive Ivan</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Q2htDpH.png" alt="REACH" class="thumbnail-name"><a href="#">Kiasu Kitty</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/qruAEmC.png" alt="REACH" class="thumbnail-name"><a href="#">Patriotic Paige</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/bn08ufk.png" alt="REACH" class="thumbnail-name"><a href="#">Skeptical Susan</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/9CWkAKf.png" alt="Singapore Prison Service" class="thumbnail-name"><a href="#">COLin</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>Singapore Prison Service</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/LLV4IBd.png" alt="Government Technology Agency" class="thumbnail-name"><a href="#">Gayle</a></div></td>
+                    <td>2020</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/27pBsmF.png" alt="Science Centre Singapore" class="thumbnail-name"><a href="#">Nano</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>Science Centre Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Nvor18W.png" alt="Science Centre Singapore" class="thumbnail-name"><a href="#">Pico</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>Science Centre Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/WOWFa04.png" alt="Government Technology Agency" class="thumbnail-name"><a href="#">Ivan</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/ujBl9OR.png" alt="OneService" class="thumbnail-name"><a href="#">Kaki</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>OneService</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/eJKMVXt.png" alt="Youth Corps Singapore" class="thumbnail-name"><a href="#">Mr Red Box</a></div></td>
+                    <td>2024</td>
+                    <td>Active</td>
+                    <td>Youth Corps Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/g7lWrKj.png" alt="National Parks Board" class="thumbnail-name"><a href="#">Phyll</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>National Parks Board</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/KMM0TgV.png" alt="Immigration and Checkpoints Authority" class="thumbnail-name"><a href="#">TICA</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>Immigration and Checkpoints Authority</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/jlv9iST.png" alt="National Day Parade" class="thumbnail-name"><a href="#">August</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>National Day Parade</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/gNKuNhD.png" alt="Singapore National Paralympic Council" class="thumbnail-name"><a href="#">Roary</a></div></td>
+                    <td>2024</td>
+                    <td>Active</td>
+                    <td>Singapore National Paralympic Council</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/plxBydS.png" alt="Singapore Disability Sports Council" class="thumbnail-name"><a href="#">Finley</a></div></td>
+                    <td>2024</td>
+                    <td>Active</td>
+                    <td>Singapore Disability Sports Council</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/ZaqDM1D.png" alt="22nd World Aquatics Championships 2025" class="thumbnail-name"><a href="#">Ollie (World Aquatics Championships 2025)</a></div></td>
+                    <td>2025</td>
+                    <td>Active</td>
+                    <td>22nd World Aquatics Championships 2025</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/vIU90r5.png" alt="Government Technology Agency" class="thumbnail-name"><a href="#">OTTer</a></div></td>
+                    <td>2021</td>
+                    <td>Retired</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/7cfjFMP.png" alt="Government Technology Agency" class="thumbnail-name"><a href="#">Ollie</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/9vgBLbZ.png" alt="Families for Life" class="thumbnail-name"><a href="#">Becky Bunny</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>Families for Life</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/XaaWHou.png" alt="REACH" class="thumbnail-name"><a href="#">Rachel REACH</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>REACH</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/1KCurEr.png" alt="Government Technology Agency" class="thumbnail-name"><a href="#">Agile</a></div></td>
+                    <td>2020</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/RIH5YRu.png" alt="Government Technology Agency" class="thumbnail-name"><a href="#">Bold</a></div></td>
+                    <td>2020</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/9yQdAVx.png" alt="Government Technology Agency" class="thumbnail-name"><a href="#">Collaborative</a></div></td>
+                    <td>2020</td>
+                    <td>Active</td>
+                    <td>Government Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/oVHWRaK.png" alt="Science Centre Singapore" class="thumbnail-name"><a href="#">STEMlings</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>Science Centre Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/jZUUdZB.png" alt="SG Translate Together" class="thumbnail-name"><a href="#">wiTTy</a></div></td>
+                    <td>2023</td>
+                    <td>Active</td>
+                    <td>SG Translate Together</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/2X1DpLv.png" alt="Children\'s Museum Singapore" class="thumbnail-name"><a href="#">WonderBot</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Children's Museum Singapore</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/SKdPtKF.png" alt="Defence Science and Technology Agency" class="thumbnail-name"><a href="#">Dastan</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Defence Science and Technology Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Xv4HUo6.png" alt="Youthtopia" class="thumbnail-name"><a href="#">Spark</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Youthtopia</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/DlbeZLD.png" alt="Ministry of Communications and Information" class="thumbnail-name"><a href="#">Care-leh Dee</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/ARxvaIP.png" alt="Ministry of Communications and Information" class="thumbnail-name"><a href="#">Circuit Breaker</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/rQOoDTP.png" alt="Ministry of Communications and Information" class="thumbnail-name"><a href="#">Dr. Disinfector</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/2FlBy1Z.png" alt="Ministry of Communications and Information" class="thumbnail-name"><a href="#">Fake News Buster</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/WtbVxIK.png" alt="Ministry of Communications and Information" class="thumbnail-name"><a href="#">MAWA Man (Must Always Walk Alone Man)</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Communications and Information</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/KIyrkqj.png" alt="Ministry of Education" class="thumbnail-name"><a href="#">Hands Down Hana</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/LP4GK0A.png" alt="Ministry of Education" class="thumbnail-name"><a href="#">Mask Up Mei Mei</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/51ud9fL.png" alt="Ministry of Education" class="thumbnail-name"><a href="#">Super Soaper Soffy</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/2l6xgXI.png" alt="Ministry of Education" class="thumbnail-name"><a href="#">Virus Screener Varun</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Kd3FTYJ.png" alt="Ministry of Education" class="thumbnail-name"><a href="#">Wipe Up Wilson</a></div></td>
+                    <td>2020</td>
+                    <td>Retired</td>
+                    <td>Ministry of Education</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/hToEeMV.png" alt="Public Hygiene Council" class="thumbnail-name"><a href="#">Toilemon</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Public Hygiene Council</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/iAaqPSD.png" alt="Public Hygiene Council" class="thumbnail-name"><a href="#">Trashemon</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Public Hygiene Council</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/3JmGkhl.png" alt="Public Hygiene Council" class="thumbnail-name"><a href="#">Trayremon</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Public Hygiene Council</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/apbiNgj.png" alt="Silver Generation Office" class="thumbnail-name"><a href="#">Tembi</a></div></td>
+                    <td>2024</td>
+                    <td>Active</td>
+                    <td>Silver Generation Office</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Vf958vw.png" alt="Esplanade – Theatres on the Bay" class="thumbnail-name"><a href="#">PIP</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Esplanade – Theatres on the Bay</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/kGnNXGZ.png" alt="Singapore Food Agency" class="thumbnail-name"><a href="#">Caixinderella</a></div></td>
+                    <td>2022</td>
+                    <td>Active</td>
+                    <td>Singapore Food Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/3XQ32X6.png" alt="PUB, Singapore’s National Water Agency" class="thumbnail-name"><a href="#">Water Sally</a></div></td>
+                    <td>2021</td>
+                    <td>Active</td>
+                    <td>PUB, Singapore’s National Water Agency</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <script>
+      const sortState =[true, true, true, true]; // true = ascending, false = descending
+
+      function sortTable(colIndex) {
+          const table = document.getElementById("mascotTable");
+          const tbody = table.tBodies[0];
+          const rows = Array.from(tbody.rows);
+          const asc = sortState[colIndex];
+          rows.sort((a, b) => {
+              let valA, valB;
+              if (colIndex === 0) {
+                // Handle the Name column, extract text from the anchor
+                const nameA = a.querySelector('a').textContent.trim().toLowerCase();
+                const nameB = b.querySelector('a').textContent.trim().toLowerCase();
+                return asc ? nameA.localeCompare(nameB) : nameB.localeCompare(nameA);
+              } else {
+                // Handle other columns
+                valA = a.cells[colIndex].textContent.trim().toLowerCase();
+                valB = b.cells[colIndex].textContent.trim().toLowerCase();
+                return asc ? valA.localeCompare(valB) : valB.localeCompare(valA);
+              }
+          });
+
+          rows.forEach(row => tbody.appendChild(row));
+          sortState[colIndex] = !asc; // Toggle sort direction (ascending/descending)
+
+          // Update the arrow icons
+          const arrowIcons = document.querySelectorAll('.sort-arrow');
+          arrowIcons.forEach((arrow, index) => {
+              if (index === colIndex) {
+                  arrow.textContent = asc ? '▲' : '▼';
+              } else {
+                  arrow.textContent = '▲'; // Reset other arrows to ascending
+              }
+          });
+      }
+    </script>
 </body>
