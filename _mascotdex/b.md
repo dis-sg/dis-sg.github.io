@@ -79,6 +79,50 @@ mascot-family:
         }
     </style></head>
 <body>
+
+    <h3>1960s</h3>
+    <div class="mascot-details-table">
+        <table id="mascotTable60s">
+            <thead>
+                <tr>
+                    <th style="text-align: center;" onclick="sortTable(0, 'mascotTable60s')">Name<span class="sort-arrow" id="arrow0_60s">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(1, 'mascotTable60s')">Birth Year<span class="sort-arrow" id="arrow1_60s">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(2, 'mascotTable60s')">Status<span class="sort-arrow" id="arrow2_60s">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(3, 'mascotTable60s')">Owner<span class="sort-arrow" id="arrow3_60s">▲</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Jx9TK5n.png" alt="Merlion" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/merlion/">Merlion</a></div></td>
+                    <td>1964</td>
+                    <td>Active</td>
+                    <td>Singapore Tourism Board</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h3>1970s</h3>
+    <div class="mascot-details-table">
+        <table id="mascotTable70s">
+            <thead>
+                <tr>
+                    <th style="text-align: center;" onclick="sortTable(0, 'mascotTable70s')">Name<span class="sort-arrow" id="arrow0_70s">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(1, 'mascotTable70s')">Birth Year<span class="sort-arrow" id="arrow1_70s">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(2, 'mascotTable70s')">Status<span class="sort-arrow" id="arrow2_70s">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(3, 'mascotTable70s')">Owner<span class="sort-arrow" id="arrow3_70s">▲</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                 <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/bl7wqjS.png" alt="Bobo" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/bobo/">Bobo</a></div></td>
+                    <td>1973</td>
+                    <td>Retired</td>
+                    <td>Public Utilities Board</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
     <h3>1980s</h3>
     <div class="mascot-details-table">
         <table id="mascotTable80s">
@@ -787,7 +831,9 @@ mascot-family:
 
         // Keep track of sort state for each table.  Use an object.
         const sortState = {
-            mascotTable80s: [true, true, true, true], // Default sort order for 1980s table
+            mascotTable60s: [true, true, true, true],
+        mascotTable70s: [true, true, true, true],
+        mascotTable80s: [true, true, true, true], // Default sort order for 1980s table
             mascotTable90s: [true, true, true, true]  // Default sort order for 1990s table
             mascotTable00s: [true, true, true, true]  // Default sort order for 2000s table
             mascotTable20s: [true, true, true, true]  // Default sort order for 2020s table
