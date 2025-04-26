@@ -14,8 +14,6 @@ mascot-status: <a href="www.google.com" target="_blank">test</a>
 mascot-family:
 ---
 
-<h1>Mascots by Year</h1>
-
 <style>
   .mascot-decade-table {
     margin-bottom: 20px;
@@ -42,11 +40,38 @@ mascot-family:
   }
 
   .mascot-decade-table th {
-    background: #007bff;
+    background: #343a40; /* Same header color */
     color: white;
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
+    cursor: pointer; /* Indicate sortable */
+    position: relative;
+    padding-right: 20px; /* Space for the triangle */
+  }
+
+  .mascot-decade-table th::after {
+    content: '';
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid white; /* Default triangle pointing up */
+    opacity: 0.6;
+  }
+
+  .mascot-decade-table th.ascending::after {
+    border-top: none;
+    border-bottom: 5px solid white; /* Triangle pointing down for ascending */
+    opacity: 1;
+  }
+
+  .mascot-decade-table th.descending::after {
+    border-top: 5px solid white; /* Triangle pointing up for descending */
+    border-bottom: none;
+    opacity: 1;
   }
 
   .mascot-decade-table td a {
@@ -82,22 +107,76 @@ mascot-family:
   }
 </style>
 
+<script>
+  let currentSortColumn = null;
+  let sortDirection = 'ascending';
+
+  function sortTable(table, columnIndex) {
+    const thead = table.querySelector('thead');
+    const tbody = table.querySelector('tbody');
+    const rows = Array.from(tbody.querySelectorAll('tr'));
+    const headers = thead.querySelectorAll('th');
+    const isNumber = columnIndex === 1; // Birth Year column
+
+    // Reset all header classes
+    headers.forEach(header => {
+      header.classList.remove('ascending', 'descending');
+    });
+
+    if (columnIndex === currentSortColumn) {
+      sortDirection = sortDirection === 'ascending' ? 'descending' : 'ascending';
+    } else {
+      currentSortColumn = columnIndex;
+      sortDirection = 'ascending';
+    }
+
+    const sortedRows = rows.sort((rowA, rowB) => {
+      const cellA = rowA.querySelectorAll('td')[columnIndex].textContent.trim();
+      const cellB = rowB.querySelectorAll('td')[columnIndex].textContent.trim();
+      const comparison = isNumber ? parseInt(cellA) - parseInt(cellB) : cellA.localeCompare(cellB, undefined, { sensitivity: 'base' });
+
+      return sortDirection === 'ascending' ? comparison : comparison * -1;
+    });
+
+    // Add class to the currently sorted header
+    headers[columnIndex].classList.add(sortDirection);
+
+    // Remove existing rows
+    while (tbody.firstChild) {
+      tbody.removeChild(tbody.firstChild);
+    }
+
+    // Append sorted rows
+    sortedRows.forEach(row => tbody.appendChild(row));
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const tables = document.querySelectorAll('.mascot-decade-table table');
+    tables.forEach(table => {
+      const headers = table.querySelectorAll('th');
+      headers.forEach((header, index) => {
+        header.addEventListener('click', () => sortTable(table, index));
+      });
+    });
+  });
+</script>
+
 <h2>1960s</h2>
 <div class="mascot-decade-table">
   <table>
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Birth Year</th>
-        <th>Status</th>
-        <th>Owner</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 0)">Name</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 1)">Birth Year</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 2)">Status</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 3)">Owner</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/merlion.jpg" alt="Merlion Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/jQy8144.png" alt="Merlion Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/merlion/">Merlion</a>
           </div>
         </td>
@@ -114,17 +193,17 @@ mascot-family:
   <table>
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Birth Year</th>
-        <th>Status</th>
-        <th>Owner</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 0)">Name</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 1)">Birth Year</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 2)">Status</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 3)">Owner</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/bobo.jpg" alt="Bobo Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/2jErn4W.png" alt="Bobo Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/bobo/">Bobo</a>
           </div>
         </td>
@@ -141,17 +220,17 @@ mascot-family:
   <table>
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Birth Year</th>
-        <th>Status</th>
-        <th>Owner</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 0)">Name</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 1)">Birth Year</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 2)">Status</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 3)">Owner</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/captain-v.jpg" alt="Captain V Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/yX9444v.png" alt="Captain V Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/captain-v/">Captain V</a>
           </div>
         </td>
@@ -162,7 +241,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/fi-drant.jpg" alt="Fi-drant Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/1GGuJ44.png" alt="Fi-drant Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/fi-drant/">Fi-drant</a>
           </div>
         </td>
@@ -173,7 +252,7 @@ mascot-family:
       <tr>
        <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/jazz-o.jpg" alt="Jazz-O Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/MD0QYjJ.png" alt="Jazz-O Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/jazz-o/">Jazz-O</a>
           </div>
         </td>
@@ -184,7 +263,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/mr-mandarin-starter.jpg" alt="Mr Mandarin Starter Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/k48995q.png" alt="Mr Mandarin Starter Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/mr-mandarin-starter/">Mr Mandarin Starter</a>
           </div>
         </td>
@@ -195,7 +274,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/safey-bear.jpg" alt="Safey Bear Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/45XqYF3.png" alt="Safey Bear Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/safey-bear/">Safey Bear</a>
           </div>
         </td>
@@ -206,7 +285,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/sharity.jpg" alt="Sharity Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/LQSHhU0.png" alt="Sharity Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/sharity/">Sharity</a>
           </div>
         </td>
@@ -217,7 +296,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/singa.jpg" alt="Singa the Kindness Lion Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/NKfAKKr.png" alt="Singa the Kindness Lion Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/singa/">Singa the Kindness Lion</a>
           </div>
         </td>
@@ -228,7 +307,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/smiley.jpg" alt="Smiley Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/BXz69z3.png" alt="Smiley Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/smiley/">Smiley</a>
           </div>
         </td>
@@ -239,7 +318,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/teamy-the-productivity-bee.jpg" alt="Teamy The Productivity Bee Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/Z021pr5.png" alt="Teamy The Productivity Bee Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/teamy/">Teamy The Productivity Bee</a>
           </div>
         </td>
@@ -250,7 +329,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/micos.jpg" alt="MICOS Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/1QyY0uG.png" alt="MICOS Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/micos/">MICOS</a>
           </div>
         </td>
@@ -267,17 +346,17 @@ mascot-family:
   <table>
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Birth Year</th>
-        <th>Status</th>
-        <th>Owner</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 0)">Name</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 1)">Birth Year</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 2)">Status</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 3)">Owner</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/captain-green.jpg" alt="Captain Green Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/W04y8cV.png" alt="Captain Green Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/captain-green/">Captain Green</a>
           </div>
         </td>
@@ -288,7 +367,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/kucinta.jpg" alt="Kucinta Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/m44436b.png" alt="Kucinta Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/kucinta/">Kucinta</a>
           </div>
         </td>
@@ -299,7 +378,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/singa-sea-games.jpg" alt="Singa Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/lvVrMuB.png" alt="Singa Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/singa-sea-games/">Singa</a>
           </div>
         </td>
@@ -310,7 +389,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/timeli.jpg" alt="Timeli Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/HbiHLX8.png" alt="Timeli Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/timeli/">Timeli</a>
           </div>
         </td>
@@ -321,7 +400,7 @@ mascot-family:
 	  <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/champ.jpg" alt="Champ Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/k93h2dK.png" alt="Champ Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/champ/">Champ</a>
           </div>
         </td>
@@ -338,17 +417,17 @@ mascot-family:
   <table>
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Birth Year</th>
-        <th>Status</th>
-        <th>Owner</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 0)">Name</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 1)">Birth Year</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 2)">Status</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 3)">Owner</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/blood-buddy.jpg" alt="Blood Buddy Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/8l1Gj1x.png" alt="Blood Buddy Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/blood-buddy/">Blood Buddy</a>
           </div>
         </td>
@@ -359,7 +438,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/oscar.jpg" alt="Oscar Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/2Hd50M2.png" alt="Oscar Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/oscar/">Oscar</a>
           </div>
         </td>
@@ -370,7 +449,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/water-wally.jpg" alt="Water Wally Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/3XQ32X6.png" alt="Water Wally Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/water-wally/">Water Wally</a>
           </div>
         </td>
@@ -381,7 +460,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/frasia.jpg" alt="Frasia Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/Fs9yJ8c.png" alt="Frasia Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/frasia/">Frasia</a>
           </div>
         </td>
@@ -398,17 +477,17 @@ mascot-family:
   <table>
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Birth Year</th>
-        <th>Status</th>
-        <th>Owner</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 0)">Name</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 1)">Birth Year</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 2)">Status</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 3)">Owner</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/cpt-ted.jpg" alt="CPT Ted Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/b64XGgV.png" alt="CPT Ted Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/cpt-ted/">CPT Ted</a>
           </div>
         </td>
@@ -419,7 +498,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/little-durian-star.jpg" alt="Little Durian Star Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/yJvDLYz.png" alt="Little Durian Star Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/little-durian-star/">Little Durian Star (榴莲小星)</a>
           </div>
         </td>
@@ -430,7 +509,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/lyo.jpg" alt="Lyo Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/f6g895W.png" alt="Lyo Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/lyo/">Lyo</a>
           </div>
         </td>
@@ -441,7 +520,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/merly.jpg" alt="Merly Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/9y5sb7r.png" alt="Merly Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/merly/">Merly</a>
           </div>
         </td>
@@ -452,7 +531,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/mr-zebra.jpg" alt="Mr Zebra Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/c5jO66z.png" alt="Mr Zebra Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/mr-zebra/">Mr Zebra</a>
           </div>
         </td>
@@ -463,7 +542,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/netalia.jpg" alt="Netalia Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/n464w4J.png" alt="Netalia Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/netalia/">Netalia</a>
           </div>
         </td>
@@ -474,7 +553,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/sean-the-lion.jpg" alt="Sean the Lion Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/8cLGehQ.png" alt="Sean the Lion Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/sean/">Sean the Lion</a>
           </div>
         </td>
@@ -485,7 +564,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/sher.jpg" alt="Sher Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/kY6489q.png" alt="Sher Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/sher/">Sher</a>
           </div>
         </td>
@@ -496,7 +575,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/tomeo.jpg" alt="Tomeo Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/kY6489q.png" alt="Tomeo Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/tomeo/">Tomeo</a>
           </div>
         </td>
@@ -507,7 +586,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/tosh.jpg" alt="Tosh Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/mkcMSf4.png" alt="Tosh Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/tosh/">Tosh</a>
           </div>
         </td>
@@ -518,7 +597,7 @@ mascot-family:
 	  <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/bag-down-benny.jpg" alt="Bag-Down Benny Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/9498Tni.png" alt="Bag-Down Benny Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/bag-down-benny/">Bag-Down Benny</a>
           </div>
         </td>
@@ -529,7 +608,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/beco.jpg" alt="Beco Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/5q4Vq2V.png" alt="Beco Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/beco/">Beco</a>
           </div>
         </td>
@@ -540,7 +619,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/bobby.jpg" alt="Bobby Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/Lqej4bu.png" alt="Bobby Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/bobby/">Bobby</a>
           </div>
         </td>
@@ -551,7 +630,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/give-way-glenda.jpg" alt="Give-Way Glenda Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/s9Cj45q.png" alt="Give-Way Glenda Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/give-way-glenda/">Give-Way Glenda</a>
           </div>
         </td>
@@ -562,7 +641,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/greco.jpg" alt="Greco Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/6mF879F.png" alt="Greco Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/greco/">Greco</a>
           </div>
         </td>
@@ -573,7 +652,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/hush-hush-hannah.jpg" alt="Hush-Hush Hannah Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/n1eJ86j.png" alt="Hush-Hush Hannah Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/hush-hush-hannah/">Hush-Hush Hannah</a>
           </div>
         </td>
@@ -584,7 +663,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/move-in-martin.jpg" alt="Move-In Martin Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/xX348yq.png" alt="Move-In Martin Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/move-in-martin/">Move-In Martin</a>
           </div>
         </td>
@@ -595,7 +674,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/ottie.jpg" alt="Ottie Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/37q14yG.png" alt="Ottie Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/ottie/">Ottie</a>
           </div>
         </td>
@@ -606,7 +685,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/stand-up-stacey.jpg" alt="Stand-Up Stacey Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/z22gH4g.png" alt="Stand-Up Stacey Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/stand-up-stacey/">Stand-Up Stacey</a>
           </div>
         </td>
@@ -617,7 +696,7 @@ mascot-family:
 	    <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/caring-cora.jpg" alt="Caring Cora Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/n74c88q.png" alt="Caring Cora Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/caring-cora/">Caring Cora</a>
           </div>
         </td>
@@ -628,7 +707,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/eco-eva.jpg" alt="Eco Eva Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/s3t781Z.png" alt="Eco Eva Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/eco-eva/">Eco Eva</a>
           </div>
         </td>
@@ -639,7 +718,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/ken.jpg" alt="Ken Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/6s85w7k.png" alt="Ken Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/ken/">Ken</a>
           </div>
         </td>
@@ -650,7 +729,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/singapaw.jpg" alt="SingaPaw Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/r905p5J.png" alt="SingaPaw Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/singapaw/">SingaPaw</a>
           </div>
         </td>
@@ -661,7 +740,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/smart-eddie.jpg" alt="Smart Eddie Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/b94w79Z.png" alt="Smart Eddie Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/smart-eddie/">Smart Eddie</a>
           </div>
         </td>
@@ -672,7 +751,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/smiley-ray.jpg" alt="Smiley Ray Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/c1z11yR.png" alt="Smiley Ray Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/smiley-ray/">Smiley Ray</a>
           </div>
         </td>
@@ -683,7 +762,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/td-defenders.jpg" alt="TD Defenders Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/t9c9x6q.png" alt="TD Defenders Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/td-defenders/">TD Defenders</a>
           </div>
         </td>
@@ -694,7 +773,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/zippy-maree.jpg" alt="Zippy Maree Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/5nDutF2.png" alt="Zippy Maree Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/zippy-maree/">Zippy Maree</a>
           </div>
         </td>
@@ -705,7 +784,7 @@ mascot-family:
 	   <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/kopi-lim.jpg" alt="Kopi Lim Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/4y6b8bZ.png" alt="Kopi Lim Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/kopi-lim/">Kopi Lim</a>
           </div>
         </td>
@@ -716,7 +795,7 @@ mascot-family:
 	    <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/blo-belina.jpg" alt="Blo.belina Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/9y4b8vW.png" alt="Blo.belina Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/blo-belina/">Blo.belina</a>
           </div>
         </td>
@@ -727,7 +806,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/dino.jpg" alt="Dino Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/2n8a9vW.png" alt="Dino Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/dino/">Dino</a>
           </div>
         </td>
@@ -738,7 +817,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/dr-maxine.jpg" alt="Dr Maxine Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/6p5b8zW.png" alt="Dr Maxine Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/dr-maxine/">Dr Maxine</a>
           </div>
         </td>
@@ -749,7 +828,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/merli.jpg" alt="Merli Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/9z7c6eW.png" alt="Merli Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/merli/">Merli</a>
           </div>
         </td>
@@ -760,10 +839,10 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/parley.jpg" alt="Parley Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/b8z9d1W.png" alt="Parley Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/parley/">Parley</a>
           </div>
-        </td>
+	  </td>
         <td>2018</td>
         <td>Active</td>
         <td>Parliament of Singapore</td>
@@ -771,7 +850,7 @@ mascot-family:
 	  <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/ally.jpg" alt="Ally Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/8p6a7fW.png" alt="Ally Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/ally/">Ally</a>
           </div>
         </td>
@@ -782,7 +861,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/camy.jpg" alt="Camy Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/7q5c8gW.png" alt="Camy Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/camy/">Camy</a>
           </div>
         </td>
@@ -793,18 +872,18 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/giffy.jpg" alt="Giffy Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/6r4d9hW.png" alt="Giffy Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/giffy/">Giffy</a>
           </div>
         </td>
         <td>2019</td>
         <td>Active</td>
         <td>Dementia-Friendly Singapore Movement</td>
-        </tr>
+      </tr>
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/inspector-clif.jpg" alt="Inspector Clif Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/5s3e0iW.png" alt="Inspector Clif Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/inspector-clif/">Inspector Clif</a>
           </div>
         </td>
@@ -815,7 +894,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/jaga.jpg" alt="Jaga Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/4t2f1jW.png" alt="Jaga Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/jaga/">Jaga</a>
           </div>
         </td>
@@ -826,7 +905,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/ka.jpg" alt="Ka Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/3u1g2kW.png" alt="Ka Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/ka/">Ka</a>
           </div>
         </td>
@@ -837,7 +916,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/ki.jpg" alt="Ki Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/2v0h3lW.png" alt="Ki Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/ki/">Ki</a>
           </div>
         </td>
@@ -848,7 +927,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/pan.jpg" alt="Pan Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/1w9i4mW.png" alt="Pan Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/pan/">Pan</a>
           </div>
         </td>
@@ -859,7 +938,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/ray-spf.jpg" alt="Ray Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/0x8j5nW.png" alt="Ray Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/ray/">Ray</a>
           </div>
         </td>
@@ -870,7 +949,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/rookie.jpg" alt="Rooky Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/yv7k6oW.png" alt="Rooky Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/rooky/">Rooky</a>
           </div>
         </td>
@@ -881,7 +960,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/zecky.jpg" alt="Zecky Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/Kd3FTYJ.png" alt="Zecky Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/zecky/">Zecky</a>
           </div>
         </td>
@@ -892,7 +971,7 @@ mascot-family:
 	  <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/dotz.jpg" alt="Dotz Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/hYj59a7.png" alt="Dotz Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/dotz/">Dotz</a>
           </div>
         </td>
@@ -903,7 +982,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/hexa.jpg" alt="Hexa Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/k3Y7b6L.png" alt="Hexa Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/hexa/">Hexa</a>
           </div>
         </td>
@@ -914,7 +993,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://www.designinsingapore.com/wp-content/uploads/2019/07/leo.jpg" alt="Leo Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/m6Z9c3R.png" alt="Leo Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/leo/">Leo</a>
           </div>
         </td>
@@ -931,10 +1010,10 @@ mascot-family:
   <table>
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Birth Year</th>
-        <th>Status</th>
-        <th>Owner</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 0)">Name</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 1)">Birth Year</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 2)">Status</th>
+        <th onclick="sortTable(this.parentNode.parentNode.parentNode.parentNode, 3)">Owner</th>
       </tr>
     </thead>
     <tbody>
@@ -1176,7 +1255,7 @@ mascot-family:
             <a href="https://www.designinsingapore.com/mascotdex/mr-red-box/">Mr Red Box</a>
           </div>
         </td>
-        <td>2024</td>
+	<td>2024</td>
         <td>Active</td>
         <td>Youth Corps Singapore</td>
       </tr>
@@ -1205,8 +1284,7 @@ mascot-family:
       <tr>
         <td>
           <div class="thumbnail-name-container">
-            <img src="https://i.imgur.com/ZaqDM1D.png" alt="Ollie (World Aquatics Championships 2025)
-            Thumbnail" class="thumbnail-name">
+            <img src="https://i.imgur.com/ZaqDM1D.png" alt="Ollie (World Aquatics Championships 2025) Thumbnail" class="thumbnail-name">
             <a href="https://www.designinsingapore.com/mascotdex/ollie-world-aquatics-championships-2025/">Ollie (World Aquatics Championships 2025)</a>
           </div>
         </td>
@@ -1481,4 +1559,3 @@ mascot-family:
     </tbody>
   </table>
 </div>
-        
