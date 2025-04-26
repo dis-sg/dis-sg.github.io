@@ -46,6 +46,7 @@ mascot-family:
     text-transform: uppercase;
     user-select: none;
     cursor: pointer;
+    text-align: center; /* Center align header text */
   }
 
   .mascot-details-table td {
@@ -73,7 +74,7 @@ mascot-family:
 
   .thumbnail-name-container {
     display: flex;
-    align-items: center; /* Vertically align thumbnail and name */
+    align-items: left; /* Vertically align thumbnail and name */
   }
 
   .thumbnail-name {
@@ -306,7 +307,7 @@ mascot-family:
         <td>Building and Construction Authority</td>
       </tr>
       <tr>
-        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/r5DVpOC.png" alt="Dr Maxine Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/dr-maxine/">Dr Maxine</a></div></td>
+      <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/r5DVpOC.png" alt="Dr Maxine Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/dr-maxine/">Dr Maxine</a></div></td>
         <td>2018</td>
         <td>Active</td>
         <td>Singapore Cancer Society</td>
@@ -796,7 +797,7 @@ mascot-family:
         <td>2014</td>
         <td>Active</td>
         <td>Land Transport Authority</td>
-      </tr>
+        </tr>
       <tr>
         <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/oVHWRaK.png" alt="STEMlings Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/stemlings/">STEMlings</a></div></td>
         <td>2021</td>
