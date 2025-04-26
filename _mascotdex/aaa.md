@@ -71,12 +71,16 @@ mascot-family:
     font-size: 0.8em;
   }
 
+  .thumbnail-name-container {
+    display: flex;
+    align-items: center; /* Vertically align thumbnail and name */
+  }
+
   .thumbnail-name {
-    width: 60px; /* Increased thumbnail size */
-    height: 60px; /* Increased thumbnail size */
+    width: 80px; /* Even bigger thumbnail */
+    height: 80px; /* Even bigger thumbnail */
     object-fit: contain;
-    vertical-align: middle;
-    margin-right: 8px;
+    margin-right: 10px;
   }
 </style>
 
@@ -92,61 +96,111 @@ mascot-family:
     </thead>
     <tbody>
       <tr>
-        <td><img src="https://i.imgur.com/DlbeZLD.png" alt="Care-leh Dee Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/care-leh-dee/">Care-leh Dee</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/DlbeZLD.png" alt="Care-leh Dee Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/care-leh-dee/">Care-leh Dee</a>
+          </div>
+        </td>
         <td><a href="/year/2020/">2020</a></td>
         <td><a href="/status/retired/">Retired</a></td>
         <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
       </tr>
       <tr>
-        <td><img src="https://i.imgur.com/ARxvaIP.png" alt="Circuit Breaker Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/circuit-breaker/">Circuit Breaker</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/ARxvaIP.png" alt="Circuit Breaker Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/circuit-breaker/">Circuit Breaker</a>
+          </div>
+        </td>
         <td><a href="/year/2020/">2020</a></td>
         <td><a href="/status/retired/">Retired</a></td>
         <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
       </tr>
       <tr>
-        <td><img src="https://i.imgur.com/rQOoDTP.png" alt="Dr. Disinfector Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/dr-disinfector/">Dr. Disinfector</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/rQOoDTP.png" alt="Dr. Disinfector Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/dr-disinfector/">Dr. Disinfector</a>
+          </div>
+        </td>
         <td><a href="/year/2020/">2020</a></td>
         <td><a href="/status/retired/">Retired</a></td>
         <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
       </tr>
       <tr>
-        <td><img src="https://i.imgur.com/2FlBy1Z.png" alt="Fake News Buster Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/fake-news-buster/">Fake News Buster</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/2FlBy1Z.png" alt="Fake News Buster Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/fake-news-buster/">Fake News Buster</a>
+          </div>
+        </td>
         <td><a href="/year/2020/">2020</a></td>
         <td><a href="/status/retired/">Retired</a></td>
         <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
       </tr>
       <tr>
-        <td><img src="https://i.imgur.com/WtbVxIK.png" alt="MAWA Man (Must Always Walk Alone Man) Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/MAWA-man/">MAWA Man (Must Always Walk Alone Man)</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/WtbVxIK.png" alt="MAWA Man (Must Always Walk Alone Man) Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/MAWA-man/">MAWA Man (Must Always Walk Alone Man)</a>
+          </div>
+        </td>
         <td><a href="/year/2020/">2020</a></td>
         <td><a href="/status/retired/">Retired</a></td>
         <td><a href="/owner/ministry-of-communications-and-information/">Ministry of Communications and Information</a></td>
       </tr>
       <tr>
-        <td><img src="https://i.imgur.com/eVBv2yk.png" alt="Bag-Down Benny Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/bag-down-benny/">Bag-Down Benny</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/eVBv2yk.png" alt="Bag-Down Benny Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/bag-down-benny/">Bag-Down Benny</a>
+          </div>
+        </td>
         <td><a href="/year/2014/">2014</a></td>
         <td><a href="/status/active/">Active</a></td>
         <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
       </tr>
       <tr>
-        <td><img src="https://i.imgur.com/diYTS2C.png" alt="Give-Way Glenda Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/give-way-glenda/">Give-Way Glenda</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/diYTS2C.png" alt="Give-Way Glenda Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/give-way-glenda/">Give-Way Glenda</a>
+          </div>
+        </td>
         <td><a href="/year/2014/">2014</a></td>
         <td><a href="/status/active/">Active</a></td>
         <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
       </tr>
       <tr>
-        <td><img src="https://i.imgur.com/8JMbZi9.png" alt="Hush-Hush Hannah Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/hush-hush-hannah/">Hush-Hush Hannah</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/8JMbZi9.png" alt="Hush-Hush Hannah Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/hush-hush-hannah/">Hush-Hush Hannah</a>
+          </div>
+        </td>
         <td><a href="/year/2014/">2014</a></td>
         <td><a href="/status/active/">Active</a></td>
         <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
       </tr>
       <tr>
-        <td><img src="https://i.imgur.com/sZE3jTa.png" alt="Move-In Martin Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/move-in-martin/">Move-In Martin</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/sZE3jTa.png" alt="Move-In Martin Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/move-in-martin/">Move-In Martin</a>
+          </div>
+        </td>
         <td><a href="/year/2014/">2014</a></td>
         <td><a href="/status/active/">Active</a></td>
         <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
       </tr>
       <tr>
-        <td><img src="https://i.imgur.com/9EKOyPw.png" alt="Stand-Up Stacey Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/stand-up-stacey/">Stand-Up Stacey</a></td>
+        <td>
+          <div class="thumbnail-name-container">
+            <img src="https://i.imgur.com/9EKOyPw.png" alt="Stand-Up Stacey Thumbnail" class="thumbnail-name">
+            <a href="https://www.designinsingapore.com/mascotdex/stand-up-stacey/">Stand-Up Stacey</a>
+          </div>
+        </td>
         <td><a href="/year/2014/">2014</a></td>
         <td><a href="/status/active/">Active</a></td>
         <td><a href="/owner/land-transport-authority/">Land Transport Authority</a></td>
@@ -167,9 +221,15 @@ mascot-family:
     rows.sort((a, b) => {
       let valA, valB;
 
-      valA = a.cells[colIndex].textContent.trim().toLowerCase();
-      valB = b.cells[colIndex].textContent.trim().toLowerCase();
-      return asc ? valA.localeCompare(valB) : valB.localeCompare(valA);
+      if (colIndex === 0) {
+        const nameA = a.querySelector('.thumbnail-name-container a').textContent.trim().toLowerCase();
+        const nameB = b.querySelector('.thumbnail-name-container a').textContent.trim().toLowerCase();
+        return asc ? nameA.localeCompare(nameB) : nameB.localeCompare(nameA);
+      } else {
+        valA = a.cells[colIndex].textContent.trim().toLowerCase();
+        valB = b.cells[colIndex].textContent.trim().toLowerCase();
+        return asc ? valA.localeCompare(valB) : valB.localeCompare(valA);
+      }
     });
 
     rows.forEach(row => tbody.appendChild(row));
@@ -183,6 +243,7 @@ mascot-family:
     }
   }
 </script>
+
 _______________
 
 <style>
