@@ -80,6 +80,8 @@ mascot-family:
     </style>
 </head>
 <body>
+
+    <h3>1980s></h3>
     <div class="mascot-details-table">
         <table id="mascotTable">
             <thead>
@@ -269,6 +271,79 @@ mascot-family:
             arrow.textContent = asc ? "▲" : "▼";
         }
     </script>
+
+<h3>2000s</h3>
+
+<div class="mascot-details-table">
+        <table id="mascotTable">
+            <thead>
+                <tr>
+                    <th style="text-align: center;" onclick="sortTable(0)">Name<span class="sort-arrow" id="arrow0">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(1)">Birth Year<span class="sort-arrow" id="arrow1">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(2)">Status<span class="sort-arrow" id="arrow2">▲</span></th>
+                    <th style="text-align: center;" onclick="sortTable(3)">Owner<span class="sort-arrow" id="arrow3">▲</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/V7ZYTBP.png" alt="Blood Buddy Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/blood-buddy/">Blood Buddy</a></div></td>
+                    <td>2005</td>
+                    <td>Active</td>
+                    <td>Singapore Red Cross</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/aANER5U.png" alt="Frasia Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/frasia/">Frasia</a></div></td>
+                    <td>2009</td>
+                    <td>Retired</td>
+                    <td>1st Asian Youth Games 2009</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/2Hd50M2.png" alt="Oscar Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/oscar/">Oscar</a></div></td>
+                    <td>2002</td>
+                    <td>Active</td>
+                    <td>Singapore Food Agency</td>
+                </tr>
+                <tr>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/3XQ32X6.png" alt="Water Wally Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/water-wally/">Water Wally</a></div></td>
+                    <td>2005</td>
+                    <td>Active</td>
+                    <td>PUB, Singapore’s National Water Agency</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <script>
+        const sortState = [true, true, true, true];
+        function sortTable(colIndex) {
+            const table = document.getElementById("mascotTable");
+            const tbody = table.tBodies[0];
+            const rows = Array.from(tbody.rows);
+            const asc = sortState[colIndex];
+             rows.sort((a, b) => {
+                let valA, valB;
+                if (colIndex === 0) {
+                    // Handle sorting by mascot name, considering the <a> tag if it exists
+                    const aNameElement = a.querySelector('a');
+                    const bNameElement = b.querySelector('a');
+                    const nameA = aNameElement ? aNameElement.textContent.trim().toLowerCase() : a.cells[0].textContent.trim().toLowerCase();
+                    const nameB = bNameElement ? bNameElement.textContent.trim().toLowerCase() : b.cells[0].textContent.trim().toLowerCase();
+                    valA = nameA;
+                    valB = nameB;
+                } else {
+                    // Handle sorting by other columns (Birth Year, Status, Owner)
+                    valA = a.cells[colIndex].textContent.trim().toLowerCase();
+                    valB = b.cells[colIndex].textContent.trim().toLowerCase();
+                }
+                return asc ? valA.localeCompare(valB) : valB.localeCompare(valA);
+            });
+
+            rows.forEach(row => tbody.appendChild(row));
+            sortState[colIndex] = !asc;
+            const arrow = document.getElementById(`arrow${colIndex}`);
+            arrow.textContent = asc ? "▲" : "▼";
+        }
+    </script>
+
 
     
 </body>
