@@ -78,7 +78,6 @@ mascot-family:
             margin-top: 30px;
         }
     </style>
-</head>
 <body>
     <h3>1980s</h3>
     <div class="mascot-details-table">
