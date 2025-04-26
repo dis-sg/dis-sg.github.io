@@ -796,48 +796,51 @@ mascot-family:
 
     <script>
         function sortTable(colIndex, tableId) {
-            const table = document.getElementById(tableId);
-            const tbody = table.tBodies[0];
-            const rows = Array.from(tbody.rows);
-            const asc = sortState[colIndex];
+    const table = document.getElementById(tableId);
+    const tbody = table.tBodies[0];
+    const rows = Array.from(tbody.rows);
+    // Correctly access the sort state for the specific table and column
+    const asc = sortState[tableId][colIndex];
 
-            rows.sort((a, b) => {
-                let valA, valB;
-                 if (colIndex === 0) {
-                    // Handle the Name column, extract text from the anchor
-                    const nameA = a.querySelector('a').textContent.trim().toLowerCase();
-                    const nameB = b.querySelector('a').textContent.trim().toLowerCase();
-                    return asc ? nameA.localeCompare(nameB) : nameB.localeCompare(nameA);
-                } else {
-                    valA = a.cells[colIndex].textContent.trim().toLowerCase();
-                    valB = b.cells[colIndex].textContent.trim().toLowerCase();
-                    return asc ? valA.localeCompare(valB) : valB.localeCompare(valA);
-                }
-            });
-
-            rows.forEach(row => tbody.appendChild(row));
-            sortState[colIndex] = !asc;
-
-            // Update arrow icons, IMPORTANT: Now uses the tableId to target correctly.
-            const arrowIcons = document.querySelectorAll(`#${tableId} .sort-arrow`);
-            arrowIcons.forEach((arrow, index) => {
-                if (index === colIndex) {
-                    arrow.textContent = asc ? '▲' : '▼';
-                } else {
-                    arrow.textContent = '▲';
-                }
-            });
+    rows.sort((a, b) => {
+        let valA, valB;
+        if (colIndex === 0) {
+            // Handle the Name column, extract text from the anchor
+            const nameA = a.querySelector('a').textContent.trim().toLowerCase();
+            const nameB = b.querySelector('a').textContent.trim().toLowerCase();
+            return asc ? nameA.localeCompare(nameB) : nameB.localeCompare(nameA);
+        } else {
+            valA = a.cells[colIndex].textContent.trim().toLowerCase();
+            valB = b.cells[colIndex].textContent.trim().toLowerCase();
+            return asc ? valA.localeCompare(valB) : valB.localeCompare(valA);
         }
+    });
 
-        // Keep track of sort state for each table.  Use an object.
-        const sortState = {
-            mascotTable60s: [true, true, true, true],
-        mascotTable70s: [true, true, true, true],
-        mascotTable80s: [true, true, true, true], // Default sort order for 1980s table
-            mascotTable90s: [true, true, true, true]  // Default sort order for 1990s table
-            mascotTable00s: [true, true, true, true]  // Default sort order for 2000s table
-            mascotTable20s: [true, true, true, true]  // Default sort order for 2020s table
-        };
+    rows.forEach(row => tbody.appendChild(row));
+    // Correctly update the sort state for the specific table and column
+    sortState[tableId][colIndex] = !asc;
+
+    // Update arrow icons, IMPORTANT: Now uses the tableId to target correctly.
+    const arrowIcons = document.querySelectorAll(`#${tableId} .sort-arrow`);
+    arrowIcons.forEach((arrow, index) => {
+        if (index === colIndex) {
+            arrow.textContent = asc ? '▲' : '▼';
+        } else {
+             // Reset other arrows to a default state (e.g., unsorted or initial sort direction)
+             // You might want to consider a neutral state like '↕' or reset to the default '▲'
+            arrow.textContent = '▲';
+        }
+    });
+}
+
+// Keep track of sort state for each table. Use an object.
+const sortState = {
+    mascotTable60s: [true, true, true, true],
+    mascotTable70s: [true, true, true, true],
+    mascotTable80s: [true, true, true, true], // Default sort order for 1980s table
+    mascotTable90s: [true, true, true, true],  // Default sort order for 1990s table
+    mascotTable00s: [true, true, true, true],  // Default sort order for 2000s table
+    mascotTable20s: [true, true, true, true]   // Default sort order for 2020s table
+};
     </script>
 </body>
-</html>
