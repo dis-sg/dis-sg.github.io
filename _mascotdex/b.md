@@ -1,9 +1,9 @@
 ---
-title: bbb
+title: a1
 image: 
 description: Everything you need to know about Apathetic Andy
 layout: mascot
-permalink: /mascotdex/b/
+permalink: /mascotdex/a1/
 comments: false
 birth-year: <a href="www.google.com" target="_blank">test</a>
 mascot-type: <a href="www.google.com" target="_blank">test</a>
