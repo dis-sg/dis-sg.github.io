@@ -325,7 +325,7 @@ mascot-family:
         <td>Sustainable Singapore Gallery</td>
       </tr>
       <tr>
-        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/Pga0.png" alt="Eggs Benedette C Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/eggs-benedette-c/">Eggs Benedette C</a></div></td>
+        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/7viPga0.png" alt="Eggs Benedette C Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/eggs-benedette-c/">Eggs Benedette C</a></div></td>
         <td>2022</td>
         <td>Active</td>
         <td>Singapore Food Agency</td>
