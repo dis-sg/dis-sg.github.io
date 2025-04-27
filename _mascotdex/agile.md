@@ -14,6 +14,11 @@ mascot-status: Active
 mascot-family: 
 ---
 
+<button style="background-color: #005FEA; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; display: block; margin: 20px auto; font-size: 1em;">
+  ← Back to Mascotdex
+</button>
+
+
 Named after one of Government Technology Agency of Singapore’s (GovTech) corporate values, Agile is a robot that is described as pro-active, nimble and curious. Agile is also a type of approach to developing software which GovTech officers practise.
 
 <figure>
