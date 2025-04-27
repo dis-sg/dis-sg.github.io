@@ -14,9 +14,11 @@ mascot-status: Active
 mascot-family: 
 ---
 
-<button style="background-color: #005FEA; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; display: block; margin: 20px auto; font-size: 1em;">
-  ← Back to Mascotdex
-</button>
+<a href="https://www.designinsingapore.com/mascotdex/" style="text-decoration: none;">
+  <button style="background-color: #005FEA; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; display: block; margin: 20px auto; font-size: 1em;">
+    ← Back to Mascotdex
+  </button>
+</a>
 
 
 Named after one of Government Technology Agency of Singapore’s (GovTech) corporate values, Agile is a robot that is described as pro-active, nimble and curious. Agile is also a type of approach to developing software which GovTech officers practise.
@@ -39,4 +41,9 @@ Agile is often featured besides fellow robots Bold and Collaborative on GovTech�
 
 <i>Have a trivia nugget about Agile? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
 
+<a href="https://www.designinsingapore.com/mascotdex/" style="text-decoration: none;">
+  <button style="background-color: #005FEA; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; display: block; margin: 20px auto; font-size: 1em;">
+    ← Back to Mascotdex
+  </button>
+</a>
 
