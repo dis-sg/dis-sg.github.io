@@ -10,8 +10,7 @@ disqus: false
 mailchimp-list: false
 include: ["_pages"]
 email: designinsingapore65@gmail.com
-permalink: pretty
-
+permalink: /:title/
 
 # Authors
 authors:
