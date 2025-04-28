@@ -9,9 +9,7 @@ google_analytics: 'UA-168039047-1'
 disqus: false
 mailchimp-list: false
 include: ["_pages"]
-permalink: /:title/
 email: designinsingapore65@gmail.com
-
 permalink: pretty
 
 
