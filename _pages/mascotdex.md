@@ -89,7 +89,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
   }
 </style>
 
-<div class="mascot-details-table" style="overflow-x: auto; white-space: nowrap;">>
+<div class="mascot-details-table" style="overflow-x: auto; white-space: nowrap;">
   <table id="mascotTable">
     <thead>
       <tr>
