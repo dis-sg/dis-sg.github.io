@@ -2,7 +2,7 @@
 layout: page 
 title: "Mascotdex: Singapore's Mascot Encyclopedia"
 image: https://i.imgur.com/aWoOYFd.png
-permalink: /mascotdex
+permalink: /mascotdex/
 comments: false
 description: Mascotdex is the definitive repository of Singapore's mascots
 ---
