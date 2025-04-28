@@ -12,6 +12,9 @@ include: ["_pages"]
 permalink: /:title/
 email: designinsingapore65@gmail.com
 
+permalink: pretty
+
+
 # Authors
 authors:
   d:
