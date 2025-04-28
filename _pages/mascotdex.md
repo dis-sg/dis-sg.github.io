@@ -1,9 +1,10 @@
 ---
 layout: page 
-title: Mascotdex: Singapore's Mascot Encyclopedia
+title: "Mascotdex: Singapore's Mascot Encyclopedia"
 image: https://i.imgur.com/aWoOYFd.png
 permalink: /mascotdex
 comments: false
+description: Mascotdex is the definitive repository of Singapore's mascots
 ---
 
 Mascots have been a lively part of Singaporean life since the 1980s. By putting a face to a cause or brand, they capture attention more easily — especially among children, who often eagerly pose for photos with them.
