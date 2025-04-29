@@ -549,3 +549,8 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
     table-layout: fixed !important;
     width: auto !important;
 }
+
+.mascot-details-table .table-wrapper {
+  overflow-x: auto !important;
+  width: auto !important;
+}
