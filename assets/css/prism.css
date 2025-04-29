@@ -482,7 +482,8 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
 
 .table-wrapper {
     display: block; /* Ensure block-level layout */
-    width: 100%; /* Use full width for responsiveness */
+     overflow-x: auto;
+	width: 100%; /* Use full width for responsiveness */
     max-width: 100%; /* No artificial width restriction */
     background: #f9f9f9;
     border-radius: 10px; /* Rounded corners */
@@ -536,4 +537,16 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
     .table-wrapper {
         width: 100%; /* Ensure full width on smaller screens */
     }
+}
+
+.table-wrapper table.fixed-layout-table td,
+.table-wrapper table.fixed-layout-table th {
+    width: auto !important;
+    min-width: auto !important;
+    max-width: auto !important;
+}
+
+.table-wrapper table.fixed-layout-table {
+    table-layout: fixed !important;
+    width: auto !important;
 }
