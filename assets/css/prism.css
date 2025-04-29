@@ -483,8 +483,7 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
 .table-wrapper {
     display: block; /* Ensure block-level layout */
      overflow-x: auto;
-	width: 100%; /* Use full width for responsiveness */
-    max-width: 100%; /* No artificial width restriction */
+	width: auto; /* Use full width for responsiveness */
     background: #f9f9f9;
     border-radius: 10px; /* Rounded corners */
     overflow: hidden; /* Prevent content from extending outside */
