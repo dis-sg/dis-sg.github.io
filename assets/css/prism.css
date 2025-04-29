@@ -474,16 +474,16 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
 
 .mascot-details-table {
   margin: 20px 0;
-  width: 100%;
+  width: 100%; /* Or consider removing for mobile */
   display: flex;
   justify-content: center;
   overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch; /* For smooth iOS scrolling */
 }
 
 .table-wrapper {
-  width: 90%;
-  max-width: 800px; /* Apply width constraints to the wrapper */
+  width: 90%; /* Or auto, depending on your layout needs */
+  max-width: 800px; /* For larger screens */
   background: #f9f9f9;
   border-radius: 10px;
   overflow: hidden; /* For rounded corners */
@@ -492,8 +492,18 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
 .table-wrapper table {
   border-collapse: collapse;
   white-space: nowrap;
-  width: auto;
-  max-width: none;
+  width: auto; /* Let the table determine its own width */
+  max-width: none; /* Ensure no artificial width limit */
 }
 
-/* ... other table cell and header styles ... */
+/* ... your other table styles (th, td, etc.) ... */
+
+/* Media query for larger screens to re-apply max-width on the wrapper */
+@media (min-width: 801px) {
+  .table-wrapper {
+    max-width: 800px;
+  }
+  .mascot-details-table {
+    width: 100%; /* Re-apply if needed on larger screens */
+  }
+}
