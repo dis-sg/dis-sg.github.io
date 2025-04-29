@@ -25,17 +25,24 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
   .mascot-details-table {
     margin: 20px 0;
     width: 100%;
-    display: flex;
-    justify-content: center;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
   }
 
-  .mascot-details-table table {
-    width: 90%;
-    max-width: 800px; /* Slightly wider table */
-    border-collapse: collapse;
+  .table-wrapper {
+    display: block; /* Ensure proper block-level layout */
+    width: 100%; /* Full width for responsiveness */
+    max-width: none; /* Remove artificial width restrictions */
     background: #f9f9f9;
     border-radius: 10px;
-    overflow: hidden;
+    overflow: hidden; /* Prevent content overflow */
+  }
+
+  .table-wrapper table {
+    border-collapse: collapse;
+    white-space: nowrap; /* Prevent wrapping */
+    width: 100%; /* Ensure table fits container */
+    max-width: none; /* Remove width restrictions */
   }
 
   .mascot-details-table th,
@@ -43,7 +50,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
     padding: 12px 15px;
     text-align: left;
     border-bottom: 1px solid #ddd;
-    cursor: default;
+    color: #333;
   }
 
   .mascot-details-table th {
@@ -51,13 +58,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
     color: white;
     font-weight: bold;
     text-transform: uppercase;
-    user-select: none;
-    cursor: pointer;
-    text-align: center; /* Center align header text */
-  }
-
-  .mascot-details-table td {
-    color: #333;
+    text-align: center;
   }
 
   .mascot-details-table tr:hover {
@@ -74,14 +75,9 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
     text-decoration: underline;
   }
 
-  .sort-arrow {
-    margin-left: 6px;
-    font-size: 0.8em;
-  }
-
   .thumbnail-name-container {
     display: flex;
-    align-items: center; /* Vertically align thumbnail and name */
+    align-items: center; /* Align thumbnail and name */
   }
 
   .thumbnail-name {
@@ -92,18 +88,19 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
   }
 </style>
 
-<div class="mascot-details-table" style="overflow-x: auto;">
-  <div class="table-wrapper" style="border-radius: 10px; overflow: hidden;">
-    <table id="mascotTable" style="white-space: nowrap; width: auto; max-width: none;">
-    <thead>
-      <tr>
-        <th style="text-align: center;" onclick="sortTable(0)">Name<span class="sort-arrow" id="arrow0">▲</span></th>
-        <th style="text-align: center;" onclick="sortTable(1)">Birth Year<span class="sort-arrow" id="arrow1">▲</span></th>
-        <th style="text-align: center;" onclick="sortTable(2)">Status<span class="sort-arrow" id="arrow2">▲</span></th>
-        <th style="text-align: center;" onclick="sortTable(3)">Owner<span class="sort-arrow" id="arrow3">▲</span></th>
-      </tr>
-    </thead>
-    <tbody>
+
+<div class="mascot-details-table">
+  <div class="table-wrapper">
+    <table id="mascotTable">
+      <thead>
+        <tr>
+          <th onclick="sortTable(0)">Name<span class="sort-arrow" id="arrow0">▲</span></th>
+          <th onclick="sortTable(1)">Birth Year<span class="sort-arrow" id="arrow1">▲</span></th>
+          <th onclick="sortTable(2)">Status<span class="sort-arrow" id="arrow2">▲</span></th>
+          <th onclick="sortTable(3)">Owner<span class="sort-arrow" id="arrow3">▲</span></th>
+        </tr>
+      </thead>
+      <tbody>
       <tr>
         <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/1KCurEr.png" alt="Agile Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/agile/">Agile</a></div></td>
         <td>2020</td>
