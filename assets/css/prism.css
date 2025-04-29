@@ -476,22 +476,25 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
   margin: 20px 0;
   width: 100%;
   overflow-x: auto; /* Enable horizontal scrolling */
-  -webkit-overflow-scrolling: touch; /* For smooth scrolling on iOS */
+  overflow-y: hidden; /* Prevent vertical overflow */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
 }
 
 .table-wrapper {
-  width: 90%; /* Adjust width for responsiveness */
-  max-width: 800px; /* Limit width for larger screens */
+  display: block; /* Ensure block-level layout */
+  width: 100%; /* Use full width for responsiveness */
+  max-width: 100%; /* No artificial width restriction */
   background: #f9f9f9;
   border-radius: 10px; /* Rounded corners */
-  overflow: hidden; /* Prevent overflow beyond the wrapper */
+  overflow: hidden; /* Prevent content from extending outside */
 }
 
 .table-wrapper table {
+  display: table; /* Ensure proper table rendering */
   border-collapse: collapse;
   white-space: nowrap; /* Prevent wrapping of table content */
-  width: auto; /* Allow table to determine its own width */
-  max-width: none; /* No artificial width restrictions */
+  width: 100%; /* Let table take full width */
+  max-width: none; /* No artificial width restriction */
 }
 
 .mascot-details-table th,
@@ -524,9 +527,13 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
   text-decoration: underline; /* Add hover effect to links */
 }
 
+/* Media query for smaller screens */
 @media (max-width: 800px) {
-  /* Add specific styles for smaller screens */
+  .mascot-details-table {
+    padding-bottom: 10px; /* Add padding for scrollbar */
+  }
+
   .table-wrapper {
-    width: 100%; /* Allow wrapper to take full width */
+    width: 100%; /* Ensure full width on smaller screens */
   }
 }
