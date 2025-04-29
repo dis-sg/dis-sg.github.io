@@ -473,67 +473,67 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
 }
 
 .mascot-details-table {
-  margin: 20px 0;
-  width: 100%;
-  overflow-x: auto; /* Enable horizontal scrolling */
-  overflow-y: hidden; /* Prevent vertical overflow */
-  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    margin: 20px 0;
+    width: 100%;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    overflow-y: hidden; /* Prevent vertical overflow */
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
 }
 
 .table-wrapper {
-  display: block; /* Ensure block-level layout */
-  width: 100%; /* Use full width for responsiveness */
-  max-width: 100%; /* No artificial width restriction */
-  background: #f9f9f9;
-  border-radius: 10px; /* Rounded corners */
-  overflow: hidden; /* Prevent content from extending outside */
+    display: block; /* Ensure block-level layout */
+    width: 100%; /* Use full width for responsiveness */
+    max-width: 100%; /* No artificial width restriction */
+    background: #f9f9f9;
+    border-radius: 10px; /* Rounded corners */
+    overflow: hidden; /* Prevent content from extending outside */
 }
 
 .table-wrapper table {
-  display: table; /* Ensure proper table rendering */
-  border-collapse: collapse;
-  white-space: nowrap; /* Prevent wrapping of table content */
-  width: 100%; /* Let table take full width */
-  max-width: none; /* No artificial width restriction */
+    display: table; /* Ensure proper table rendering */
+    border-collapse: collapse;
+    white-space: nowrap; /* Prevent wrapping of table content */
+    width: 100%; /* Let table take full width */
+    max-width: none; /* No artificial width restriction */
 }
 
 .mascot-details-table th,
 .mascot-details-table td {
-  padding: 12px 15px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-  color: #333;
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    color: #333;
 }
 
 .mascot-details-table th {
-  background: #005FEA;
-  color: white;
-  font-weight: bold;
-  text-transform: uppercase;
-  text-align: center; /* Center-align headers */
+    background: #005FEA;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center; /* Center-align headers */
 }
 
 .mascot-details-table tr:hover {
-  background: #f1f1f1; /* Highlight row on hover */
+    background: #f1f1f1; /* Highlight row on hover */
 }
 
 .mascot-details-table a {
-  color: #005FEA;
-  text-decoration: none;
-  font-weight: bold;
+    color: #005FEA;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .mascot-details-table a:hover {
-  text-decoration: underline; /* Add hover effect to links */
+    text-decoration: underline; /* Add hover effect to links */
 }
 
 /* Media query for smaller screens */
 @media (max-width: 800px) {
-  .mascot-details-table {
-    padding-bottom: 10px; /* Add padding for scrollbar */
-  }
+    .mascot-details-table {
+        padding-bottom: 10px; /* Add padding for scrollbar */
+    }
 
-  .table-wrapper {
-    width: 100%; /* Ensure full width on smaller screens */
-  }
+    .table-wrapper {
+        width: 100%; /* Ensure full width on smaller screens */
+    }
 }
