@@ -91,7 +91,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
 
 <div class="mascot-details-table">
   <div class="table-wrapper">
-    <table id="mascotTable">
+    <table id="mascotTable" class="fixed-layout-table">
       <thead>
         <tr>
           <th onclick="sortTable(0)">Name<span class="sort-arrow" id="arrow0">▲</span></th>
