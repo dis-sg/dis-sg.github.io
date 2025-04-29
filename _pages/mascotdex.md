@@ -90,7 +90,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
 </style>
 
 <div class="mascot-details-table" style="overflow-x: auto;">
-  <table id="mascotTable" style="white-space: nowrap;">>
+  <table id="mascotTable" style="white-space: nowrap;">
     <thead>
       <tr>
         <th style="text-align: center;" onclick="sortTable(0)">Name<span class="sort-arrow" id="arrow0">▲</span></th>
