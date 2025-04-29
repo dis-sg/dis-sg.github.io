@@ -474,36 +474,59 @@ pre > code.diff-highlight .token.inserted:not(.prefix) {
 
 .mascot-details-table {
   margin: 20px 0;
-  width: 100%; /* Or consider removing for mobile */
-  display: flex;
-  justify-content: center;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch; /* For smooth iOS scrolling */
+  width: 100%;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  -webkit-overflow-scrolling: touch; /* For smooth scrolling on iOS */
 }
 
 .table-wrapper {
-  width: 90%; /* Or auto, depending on your layout needs */
-  max-width: 800px; /* For larger screens */
+  width: 90%; /* Adjust width for responsiveness */
+  max-width: 800px; /* Limit width for larger screens */
   background: #f9f9f9;
-  border-radius: 10px;
-  overflow: hidden; /* For rounded corners */
+  border-radius: 10px; /* Rounded corners */
+  overflow: hidden; /* Prevent overflow beyond the wrapper */
 }
 
 .table-wrapper table {
   border-collapse: collapse;
-  white-space: nowrap;
-  width: auto; /* Let the table determine its own width */
-  max-width: none; /* Ensure no artificial width limit */
+  white-space: nowrap; /* Prevent wrapping of table content */
+  width: auto; /* Allow table to determine its own width */
+  max-width: none; /* No artificial width restrictions */
 }
 
-/* ... your other table styles (th, td, etc.) ... */
+.mascot-details-table th,
+.mascot-details-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  color: #333;
+}
 
-/* Media query for larger screens to re-apply max-width on the wrapper */
-@media (min-width: 801px) {
+.mascot-details-table th {
+  background: #005FEA;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center; /* Center-align headers */
+}
+
+.mascot-details-table tr:hover {
+  background: #f1f1f1; /* Highlight row on hover */
+}
+
+.mascot-details-table a {
+  color: #005FEA;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.mascot-details-table a:hover {
+  text-decoration: underline; /* Add hover effect to links */
+}
+
+@media (max-width: 800px) {
+  /* Add specific styles for smaller screens */
   .table-wrapper {
-    max-width: 800px;
-  }
-  .mascot-details-table {
-    width: 100%; /* Re-apply if needed on larger screens */
+    width: 100%; /* Allow wrapper to take full width */
   }
 }
