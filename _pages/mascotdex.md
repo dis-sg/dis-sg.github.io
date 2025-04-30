@@ -9,44 +9,8 @@ description: Mascotdex is the definitive repository of Singapore's mascots
 <head> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-tbody td:nth-child(1) {
-    display: block !important;
-    overflow: hidden !important;
-    white-space: normal !important;
-}
-tbody td:nth-child(1) .thumbnail-name-container {
-    display: flex !important;
-    align-items: center !important;
-    width: 100% !important;
-    height: auto !important;
-    overflow: hidden !important;
-}
-tbody td:nth-child(1) .thumbnail-name-container img {
-    margin-right: 5px !important;
-}
-tbody td:nth-child(1) .thumbnail-name-container span {
-    overflow-wrap: break-word !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
-}
-tbody td:nth-child(4) {
-    white-space: normal !important;
-}
-  
-</head>
-
-Mascots have been a lively part of Singaporean life since the 1980s. By putting a face to a cause or brand, they capture attention more easily — especially among children, who often eagerly pose for photos with them.
-
-As we celebrate 60 years of nation-building, take a trip down memory lane with the Mascotdex — a growing repository dedicated to Singapore’s beloved characters, past and present.
-
-For a start, mascots from the Government and non-profit sectors have been catalogued. More mascots, including those from the education and private sectors, will be added over time.
-
-The Mascotdex is still a work in progress. Some entries are missing details, such as their creators or associated merchandise. There’s even <a href="https://www.designinsingapore.com/mascotdex/champ/">one entry</a> with no known image on the Internet.
-
-If you have more information, notice a missing mascot, or spot any errors, please reach out to me at <a href="mailto:designinsingapore65@gmail.com">designinsingapore65@gmail.com</a>!
-
-
 <style>
+
   .mascot-details-table {
     margin: 20px 0;
     width: 100%;
@@ -111,7 +75,45 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
     object-fit: contain;
     margin-right: 10px;
   }
-</style>
+
+
+
+    
+tbody td:nth-child(1) {
+    display: block !important;
+    overflow: hidden !important;
+    white-space: normal !important;
+}
+tbody td:nth-child(1) .thumbnail-name-container {
+    display: flex !important;
+    align-items: center !important;
+    width: 100% !important;
+    height: auto !important;
+    overflow: hidden !important;
+}
+tbody td:nth-child(1) .thumbnail-name-container img {
+    margin-right: 5px !important;
+}
+tbody td:nth-child(1) .thumbnail-name-container span {
+    overflow-wrap: break-word !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+tbody td:nth-child(4) {
+    white-space: normal !important;
+}
+  </style>
+</head>
+
+Mascots have been a lively part of Singaporean life since the 1980s. By putting a face to a cause or brand, they capture attention more easily — especially among children, who often eagerly pose for photos with them.
+
+As we celebrate 60 years of nation-building, take a trip down memory lane with the Mascotdex — a growing repository dedicated to Singapore’s beloved characters, past and present.
+
+For a start, mascots from the Government and non-profit sectors have been catalogued. More mascots, including those from the education and private sectors, will be added over time.
+
+The Mascotdex is still a work in progress. Some entries are missing details, such as their creators or associated merchandise. There’s even <a href="https://www.designinsingapore.com/mascotdex/champ/">one entry</a> with no known image on the Internet.
+
+If you have more information, notice a missing mascot, or spot any errors, please reach out to me at <a href="mailto:designinsingapore65@gmail.com">designinsingapore65@gmail.com</a>!
 
 
 <div class="mascot-details-table">
