@@ -1006,12 +1006,33 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
     }
   }
 
-  const birthYearHeader = document.querySelector('th:nth-child(2)');
+const birthYearHeader = document.querySelector('th:nth-child(2)');
 if (birthYearHeader) {
-    const triangle = document.createElement('span');
-    triangle.className = 'sort-arrow';
-    triangle.id = 'arrow1';
-    triangle.textContent = '▲';
-    birthYearHeader.appendChild(triangle);
+  const spans = birthYearHeader.querySelectorAll('span');
+  spans.forEach(span => span.remove());
+  birthYearHeader.textContent = "Birth Year";
+  const triangle = document.createElement('span');
+  triangle.className = 'sort-arrow';
+  triangle.id = 'arrow1';
+  triangle.textContent = '▲';
+  birthYearHeader.appendChild(triangle);
+
+  const textContent = birthYearHeader.textContent.trim();
+  birthYearHeader.innerHTML = '';
+  const firstDiv = document.createElement('div');
+  firstDiv.textContent = "Birth";
+  const secondDiv = document.createElement('div');
+  secondDiv.textContent = "Year";
+  secondDiv.appendChild(triangle);
+
+  birthYearHeader.appendChild(firstDiv);
+  birthYearHeader.appendChild(secondDiv);
+  birthYearHeader.style.display = 'flex';
+  birthYearHeader.style.flexDirection = 'column';
+  birthYearHeader.style.whiteSpace = '';
+  birthYearHeader.style.lineHeight = '';
+  secondDiv.style.display = 'flex';
+  secondDiv.style.flexDirection = 'row';
+  secondDiv.style.marginLeft = '5px'
 }
 </script>
