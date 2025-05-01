@@ -1,8 +1,8 @@
 ---
 layout: page 
-title: "Mascotdex: Singapore's Mascots by Status"
-image: https://i.imgur.com/JrRjUog.png
-permalink: /mascotdex-by-status/
+title: "Mascotdex: Singapore's Mascot Families"
+image: https://i.imgur.com/Ptu9Ndl.png
+permalink: /mascotdex-mascot-families/
 comments: false
 description: Mascotdex is the definitive repository of Singapore's mascots
 ---
