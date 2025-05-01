@@ -119,7 +119,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
     <h3>1960s</h3>
     <div class="mascot-details-table">
-        <table id="mascotTable60s">
+        <table id="mascotTable60s" class="fixed-layout-table">
             <thead>
                 <tr>
                     <th style="text-align: center;" onclick="sortTable(0, 'mascotTable60s')">Name<span class="sort-arrow" id="arrow0_60s">▲</span></th>
@@ -141,7 +141,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
     <h3>1970s</h3>
     <div class="mascot-details-table">
-        <table id="mascotTable70s">
+        <table id="mascotTable70s" class="fixed-layout-table">
             <thead>
                 <tr>
                     <th style="text-align: center;" onclick="sortTable(0, 'mascotTable70s')">Name<span class="sort-arrow" id="arrow0_70s">▲</span></th>
@@ -162,7 +162,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
     </div>
     <h3>1980s</h3>
     <div class="mascot-details-table">
-        <table id="mascotTable80s">
+        <table id="mascotTable80s" class="fixed-layout-table">
             <thead>
                 <tr>
                     <th style="text-align: center;" onclick="sortTable(0, 'mascotTable80s')">Name<span class="sort-arrow" id="arrow0_80s">▲</span></th>
@@ -244,7 +244,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
     <h3>1990s</h3>
     <div class="mascot-details-table">
-        <table id="mascotTable90s">
+        <table id="mascotTable90s" class="fixed-layout-table">
             <thead>
                 <tr>
                     <th style="text-align: center;" onclick="sortTable(0, 'mascotTable90s')">Name<span class="sort-arrow" id="arrow0_90s">▲</span></th>
@@ -290,7 +290,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
 <h3>2000s</h3>
     <div class="mascot-details-table">
-        <table id="mascotTable00s">
+        <table id="mascotTable00s" class="fixed-layout-table">
             <thead>
                 <tr>
                     <th style="text-align: center;" onclick="sortTable(0, 'mascotTable00s')">Name<span class="sort-arrow" id="arrow0_00s">▲</span></th>
@@ -330,7 +330,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
     <h3>2010s</h3>
     <div class="mascot-details-table">
-        <table id="mascotTable10s">
+        <table id="mascotTable10s" class="fixed-layout-table">
             <thead>
                 <tr>
                     <th style="text-align: center;" onclick="sortTable(0, 'mascotTable10s')">Name<span class="sort-arrow" id="arrow0_10s">▲</span></th>
@@ -622,7 +622,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
 <h3>2020s</h3>
     <div class="mascot-details-table">
-        <table id="mascotTable20s">
+        <table id="mascotTable20s" class="fixed-layout-table">
             <thead>
                 <tr>
                     <th style="text-align: center;" onclick="sortTable(0, 'mascotTable20s')">Name<span class="sort-arrow" id="arrow0_20s">▲</span></th>
