@@ -107,7 +107,7 @@ tbody td:nth-child(4) {
 
 <body>
 
-As we celebrate 60 years of nation-building, take a trip down memory lane with the Mascotdex — a growing repository dedicated to Singapore’s beloved characters, past and present. Mascots are grouped according to their status (active or retired) in this page.
+As we celebrate 60 years of nation-building, take a trip down memory lane with the Mascotdex — a growing repository dedicated to Singapore’s beloved characters, past and present. Mascots are grouped according to their status (active or retired) on this page.
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
   <a href="https://www.designinsingapore.com/mascotdex/" style="text-decoration: none;">
@@ -900,7 +900,6 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
         </table>
     </div>
 
-</body>
 
 
 
