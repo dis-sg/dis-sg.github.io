@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: "Mascotdex: Singapore's Mascots by Status"
-image: https://i.imgur.com/aCic5Fz.png
+image: https://i.imgur.com/JrRjUog.png
 permalink: /mascotdex-by-status/
 comments: false
 description: Mascotdex is the definitive repository of Singapore's mascots
@@ -106,6 +106,18 @@ tbody td:nth-child(4) {
 </head>
 
 <body>
+
+As we celebrate 60 years of nation-building, take a trip down memory lane with the Mascotdex — a growing repository dedicated to Singapore’s beloved characters, past and present. Mascots are grouped according to their status (active or retired) in this page.
+
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
+  <a href="https://www.designinsingapore.com/mascotdex/" style="text-decoration: none;">
+    <button style="background-color: #005FEA; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 1em;">
+      ← Back to Main Mascotdex
+    </button>
+  </a>
+</div>
+
+  
     <h3>Active</h3>
 <div class="mascot-details-table">
       <div class="table-wrapper">
@@ -748,6 +760,7 @@ tbody td:nth-child(4) {
         </table>
     </div>
 
+<br>
             
 <h3>Retired</h3>
     <div class="mascot-details-table">
@@ -887,6 +900,7 @@ tbody td:nth-child(4) {
         </table>
     </div>
 
+</body>
 
 
 
@@ -986,5 +1000,4 @@ if (birthYearHeader) {
   secondDiv.style.marginLeft = '5px'
 }
     </script>
-</body>
 
