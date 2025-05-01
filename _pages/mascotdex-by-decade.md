@@ -119,6 +119,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
     <h3>1960s</h3>
     <div class="mascot-details-table">
+          <div class="table-wrapper">
         <table id="mascotTable60s" class="fixed-layout-table">
             <thead>
                 <tr>
@@ -141,6 +142,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
     <h3>1970s</h3>
     <div class="mascot-details-table">
+          <div class="table-wrapper">
         <table id="mascotTable70s" class="fixed-layout-table">
             <thead>
                 <tr>
@@ -162,6 +164,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
     </div>
     <h3>1980s</h3>
     <div class="mascot-details-table">
+          <div class="table-wrapper">
         <table id="mascotTable80s" class="fixed-layout-table">
             <thead>
                 <tr>
@@ -244,6 +247,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
     <h3>1990s</h3>
     <div class="mascot-details-table">
+          <div class="table-wrapper">
         <table id="mascotTable90s" class="fixed-layout-table">
             <thead>
                 <tr>
@@ -290,6 +294,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
 <h3>2000s</h3>
     <div class="mascot-details-table">
+            <div class="table-wrapper">
         <table id="mascotTable00s" class="fixed-layout-table">
             <thead>
                 <tr>
@@ -330,6 +335,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
     <h3>2010s</h3>
     <div class="mascot-details-table">
+          <div class="table-wrapper">
         <table id="mascotTable10s" class="fixed-layout-table">
             <thead>
                 <tr>
@@ -622,6 +628,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
 <h3>2020s</h3>
     <div class="mascot-details-table">
+            <div class="table-wrapper">
         <table id="mascotTable20s" class="fixed-layout-table">
             <thead>
                 <tr>
