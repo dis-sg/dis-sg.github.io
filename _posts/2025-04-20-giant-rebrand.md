@@ -147,7 +147,7 @@ All is not lost with Giant’s rebrand, though. With the rise of anti-design pop
 
 Going viral nowadays is less about looking professional (read: conforming) but more of testing the limits of what it means to be a brand. Serviceable designs can only bring a brand so far, but ironically, ugly and nostalgic are full of potential. Imagine if Giant teams up with Cold Storage to launch a 90’s inspired capsule collection? Again, <a href="https://www.koreaherald.com/article/3359719" target="_blank">weirder things </a> have happened.  
 
-Blame it on the Blob
+<h2>Blame it on the Blob</h2>
 
 While Giant’s rebrand was long overdue, the new logo looks overly safe and sanitised to make any lasting impression. The “blobs” that dominate its design language already feel stale—just look at VivoCity’s branding, which has used blobs since the mall’s opening in 2006. 
 
