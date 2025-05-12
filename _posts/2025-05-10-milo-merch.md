@@ -102,6 +102,7 @@ These characters were then adapted to cup clips in 2024.
 
 <div class="video-responsive"><iframe width="912" height="513" src="https://www.youtube.com/embed/qCCzWM6a-vg" title="Make Your MILO with MILO Cup Clips - Collect all 5 today!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
 
+<br>
 
 <h2>Drip</h2>
 
@@ -133,13 +134,13 @@ Keeping up with a generation that was raised with Milo, the brand dipped into li
 <figcaption>Milo Galaxy Z Flip6 Phone Case 2024 <a href="https://www.instagram.com/milosingapore/p/DDgxa5azIPD?img_index=1" target="_blank">(Source)</a></figcaption>
 </figure>
 
-
+<br>
 <h2>Practical Stuff</h2>
 
 Still a favourite of school-going children, Milo has bundled practical kid-friendly merchandise ever since its expansion to Singapore from coin banks to lunchboxes. 
 
 <figure>
-<img src="" alt="https://i.imgur.com/tnIFen9.jpg">
+<img src="https://i.imgur.com/tnIFen9.jpg" alt="">
 <figcaption>Milo coin banks 2023 <a href="https://dtcworld.com/milo-gift-with-purchase-coin-banks/" target="_blank">(Source)</a></figcaption>
 </figure>
 <br>
@@ -193,4 +194,6 @@ Until then, it is back to the trenches of camping at supermarket aisles for Milo
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
-Take a trip down memory lane with a design twist in Rewind. 
+Take a trip down memory lane with a design twist in Rewind. Explore Singapore’s design scene with us on <a href="https://www.facebook.com/DesignInSingapore" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://www.instagram.com/designinsingapore" target="_blank" rel="noopener noreferrer">Instagram</a>, <a href="https://www.tiktok.com/@designinsingapore" target="_blank" rel="noopener noreferrer">TikTok</a>, <a href="https://www.linkedin.com/company/designinsingapore" target="_blank" rel="noopener noreferrer">LinkedIn</a>, and <a href="https://t.me/designinsingapore" target="_blank" rel="noopener noreferrer">Telegram</a>. 
+
+
