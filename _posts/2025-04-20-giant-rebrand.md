@@ -64,7 +64,7 @@ Designed by UK design agency <a href="https://www.ticketyboocreative.co.uk/work/
 “The new logo is inspired by mango fruit, a popular food in each of the three regions. It has a smooth, organic shape and the best bit is that there’s a subtle smile hidden there. It anchors the brand in its direction of moving to a more friendly and supportive attitude that’s still rooted in value for the customer.” 
 </blockquote>
 
-Although mangoes are popular in Singapore and Malaysia, they do not hold any deep cultural significance—unlike durians or pineapples. This could explain why the mango motif was never mentioned in official communications, except in niche applications like the Kids Run logo, which featured a rubber hose-style mango character. The “subtle smile” shape, the reference too vague and resembles more of a random shaped blob instead.
+Although mangoes are popular in Singapore and Malaysia, they do not hold any deep cultural significance—unlike durians or pineapples. This could explain why the mango motif was never mentioned in official communications, except in niche applications like the Kids Run logo, which featured a rubber hose-style mango character. As for the “subtle smile” shape, the reference is too vague and resembles more of a random shaped blob instead.
 
 <figure>
 <img src="https://i.imgur.com/6j7f1WZ.jpg" alt="">
@@ -114,7 +114,7 @@ On the other hand, drinks and pantry items are packaged more cleanly, but risk l
 <figcaption><a href="https://giant.sg/giant-brand/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Even though house brands are meant to be affordable alternatives, that doesn’t mean they should look cheap. For food products, using images of fresh ingredients or raw foods can boost perceived quality. Tesco’s house brand packaging is a fine example of this. 
+Even though house brands are meant to be affordable alternatives, that does not mean they should look cheap. For food products, using images of fresh ingredients or raw foods can boost perceived quality. Tesco’s house brand packaging is a fine example of this. 
 
 <figure>
 <img src="https://i.imgur.com/D4YhUZH.png" alt="">
@@ -126,14 +126,14 @@ Closer to home, NTUC FairPrice’s house brand also follows this approach. Even 
 
 <figure>
 <img src="https://i.imgur.com/REwYMx9.jpg" alt="">
-<figcaption><a href="https://www.fairprice.com.sg/food-and-wellness/community/how-fairprice-housebrand-products-offer-great-prices-quality-variety-and-design/" target="_blank">(Source)</a></figcaption>
+<figcaption>NTUC FairPrice’s house brand products <a href="https://www.fairprice.com.sg/food-and-wellness/community/how-fairprice-housebrand-products-offer-great-prices-quality-variety-and-design/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <br>
 
 <figure>
 <img src="https://i.imgur.com/IuLSmPp.jpg" alt="">
-<figcaption><a href="https://www.facebook.com/photo/?fbid=10157861343941330&set=pcb.10157861344731330/" target="_blank">(Source)</a></figcaption>
+<figcaption>Meadows products <a href="https://www.facebook.com/photo/?fbid=10157861343941330&set=pcb.10157861344731330/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <h2>No Longer Brat</h2>
@@ -145,7 +145,7 @@ All is not lost with Giant’s rebrand, though. With the rise of anti-design pop
 <figcaption>Imagine…</figcaption>
 </figure>
 
-Going viral nowadays is less about looking professional (read: conforming) but more of testing the limits of what it means to be a brand. Serviceable designs can only bring a brand so far, but ironically, ugly and nostalgic are full of potential. Imagine if Giant teams up with Cold Storage to launch a 90’s inspired capsule collection? Again, <a href="https://www.koreaherald.com/article/3359719" target="_blank">weirder things </a> have happened.  
+Going viral nowadays is less about looking professional (read: conforming) but more of testing the limits of what it means to be a brand. Functional designs can only bring a brand so far—ironically, ugly and nostalgic are full of potential. What if Giant teams up with Cold Storage to launch a 90’s inspired capsule collection featuring their former logos? Again, <a href="https://www.koreaherald.com/article/3359719" target="_blank">weirder things </a> have happened.  
 
 <h2>Blame it on the Blob</h2>
 
