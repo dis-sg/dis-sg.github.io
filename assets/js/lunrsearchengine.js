@@ -3,7 +3,7 @@ layout: null
 sitemap: false
 ---
 
-  {% assign counter = 0 %}
+{% assign counter = 0 %}
 var documents = [
 
 {% comment %}Include normal pages{% endcomment %}
@@ -31,8 +31,8 @@ var documents = [
   {% assign counter = counter | plus: 1 %}
 {% endfor %}
 
-{% comment %}Include mascot collection{% endcomment %}
-{% for page in site.mascot %}
+{% comment %}Include mascotdex collection{% endcomment %}
+{% for page in site.mascotdex %}
   {
     "id": {{ counter }},
     "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
@@ -41,7 +41,6 @@ var documents = [
   }{% unless forloop.last %},{% endunless %}
   {% assign counter = counter | plus: 1 %}
 {% endfor %}
-
 ];
 
 
