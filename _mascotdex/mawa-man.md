@@ -3,7 +3,7 @@ title: MAWA Man (Must Always Walk Alone Man)
 image: https://i.imgur.com/ckoDiug.png
 description: Everything you need to know about MAWA Man
 layout: mascot
-permalink: /mascotdex/MAWA-man/
+permalink: /mascotdex/mawa-man/
 comments: false
 birth-year: 2020
 mascot-type: Superhuman
