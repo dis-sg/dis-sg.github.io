@@ -5,8 +5,11 @@ sitemap: false
 
 {% assign counter = 0 %}
 var documents = [
+
+{% comment %} Include site.pages (excluding some) {% endcomment %}
 {% for page in site.pages %}
-  {% if page.layout == "mascot" or (page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag') == false %}
+  {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}
+  {% else %}
 {
   "id": {{ counter }},
   "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
@@ -17,6 +20,18 @@ var documents = [
   {% endif %}
 {% endfor %}
 
+{% comment %} Include mascot collection {% endcomment %}
+{% for mascot in site.mascot %}
+{
+  "id": {{ counter }},
+  "url": "{{ site.url }}{{ site.baseurl }}{{ mascot.url }}",
+  "title": "{{ mascot.title }}",
+  "body": "{{ mascot.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"
+},
+{% assign counter = counter | plus: 1 %}
+{% endfor %}
+
+{% comment %} Include posts {% endcomment %}
 {% for post in site.posts %}
 {
   "id": {{ counter }},
