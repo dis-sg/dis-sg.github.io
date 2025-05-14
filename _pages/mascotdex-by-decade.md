@@ -712,7 +712,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
                     <td>Ministry of Education</td>
                 </tr>
                  <tr>
-                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/WtbVxIK.png" alt="MAWA Man (Must Always Walk Alone Man)" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/MAWA-man/">MAWA Man (Must Always Walk Alone Man)</a></div></td>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/WtbVxIK.png" alt="MAWA Man (Must Always Walk Alone Man)" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/mawa-man/">MAWA Man (Must Always Walk Alone Man)</a></div></td>
                     <td>2020</td>
                     <td>Retired</td>
                     <td>Ministry of Communications and Information</td>
