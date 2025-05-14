@@ -3,7 +3,7 @@ title: TICA
 image: https://i.imgur.com/7ncvRu7.png
 description: Everything you need to know about TICA
 layout: mascot
-permalink: /mascotdex/TICA/
+permalink: /mascotdex/tica/
 comments: false
 birth-year: 2023
 mascot-type: Lemur
