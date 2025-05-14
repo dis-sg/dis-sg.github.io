@@ -3,45 +3,45 @@ layout: null
 sitemap: false
 ---
 
-{% assign counter = 0 %}
+  {% assign counter = 0 %}
 var documents = [
 
-{% comment %} Include site.pages (excluding some) {% endcomment %}
+{% comment %}Include normal pages{% endcomment %}
 {% for page in site.pages %}
   {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}
-  {% else %}
-{
-  "id": {{ counter }},
-  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
-  "title": "{{ page.title }}",
-  "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"
-},
-{% assign counter = counter | plus: 1 %}
+    {% continue %}
   {% endif %}
+  {
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+    "title": "{{ page.title | escape }}",
+    "body": "{{ page.content | markdownify | strip_html | strip_newlines | replace: '"', ' ' }}"
+  },
+  {% assign counter = counter | plus: 1 %}
 {% endfor %}
 
-{% comment %} Include mascot collection {% endcomment %}
-{% for mascot in site.mascot %}
-{
-  "id": {{ counter }},
-  "url": "{{ site.url }}{{ site.baseurl }}{{ mascot.url }}",
-  "title": "{{ mascot.title }}",
-  "body": "{{ mascot.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"
-},
-{% assign counter = counter | plus: 1 %}
+{% comment %}Include posts{% endcomment %}
+{% for page in site.posts %}
+  {
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+    "title": "{{ page.title | escape }}",
+    "body": "{{ page.content | markdownify | strip_html | strip_newlines | replace: '"', ' ' }}"
+  },
+  {% assign counter = counter | plus: 1 %}
 {% endfor %}
 
-{% comment %} Include posts {% endcomment %}
-{% for post in site.posts %}
-{
-  "id": {{ counter }},
-  "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
-  "title": "{{ post.title }}",
-  "body": "{{ post.date | date: "%Y/%m/%d" }} - {{ post.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"
-}
-{% assign counter = counter | plus: 1 %}
-{% if forloop.last == false %},{% endif %}
+{% comment %}Include mascot collection{% endcomment %}
+{% for page in site.mascot %}
+  {
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+    "title": "{{ page.title | escape }}",
+    "body": "{{ page.content | markdownify | strip_html | strip_newlines | replace: '"', ' ' }}"
+  }{% unless forloop.last %},{% endunless %}
+  {% assign counter = counter | plus: 1 %}
 {% endfor %}
+
 ];
 
 
