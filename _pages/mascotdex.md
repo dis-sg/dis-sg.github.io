@@ -561,7 +561,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
         <td>Ministry of Education</td>
       </tr>
       <tr>
-        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/WtbVxIK.png" alt="MAWA Man (Must Always Walk Alone Man) Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/MAWA-man/">MAWA Man (Must Always Walk Alone Man)</a></div></td>
+        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/WtbVxIK.png" alt="MAWA Man (Must Always Walk Alone Man) Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/mawa-man/">MAWA Man (Must Always Walk Alone Man)</a></div></td>
         <td>2020</td>
         <td>Retired</td>
         <td>Ministry of Communications and Information</td>
@@ -873,7 +873,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
         <td>Silver Generation Office</td>
       </tr>
       <tr>
-        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/KMM0TgV.png" alt="TICA Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/TICA/">TICA</a></div></td>
+        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/KMM0TgV.png" alt="TICA Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/tica/">TICA</a></div></td>
         <td>2023</td>
         <td>Active</td>
         <td>Immigration and Checkpoints Authority</td>
