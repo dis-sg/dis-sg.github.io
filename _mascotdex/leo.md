@@ -38,6 +38,8 @@ Both Leo and Leonette are often featured on the Singapore Airshow’s social med
 
 <br>
 
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOfficialSingaporeAirshow%2Fphotos%2Fa.702091379819253%2F717915031570221%2F%3Ftype%3D3&show_text=true&width=500" width="500" height="635" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOfficialSingaporeAirshow%2Fphotos%2Fa.702091379819253%2F717915031570221%2F%3Ftype%3D3&show_text=true&width=500" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 <i>Have a trivia nugget about Captain Leo? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
