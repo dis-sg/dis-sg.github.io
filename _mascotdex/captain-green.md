@@ -38,7 +38,7 @@ The mascot’s superhero look was short-lived - the frog design was brought back
 He continues to be a key figure in NEA’s outreach efforts, appearing in educational materials, school programmes, and community events to inspire environmental responsibility.
 
 <div class="fb-post-container">
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FNEASingapore%2Fvideos%2F1329871854656007%2F&show_text=false&width=267&t=0" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FNEASingapore%2Fvideos%2F1329871854656007%2F&show_text=false&width=267&t=0" height="510" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
   
 <br>
