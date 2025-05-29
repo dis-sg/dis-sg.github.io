@@ -35,7 +35,9 @@ Both Leonette and Leo are often featured on the Singapore Airshow’s social med
 <figcaption><a href="https://www.facebook.com/OfficialSingaporeAirshow/posts/pfbid0p2VEaNDeKkyBssUaGhhQypHHoXFjW4Hs29Z3qqBxCoqyY4yJECAxRPrkDyQVBP3el " target="_blank">(Source)</a></figcaption>
 </figure>
 
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOfficialSingaporeAirshow%2Fphotos%2Fa.702091379819253%2F1171830866178633%2F%3Ftype%3D3&show_text=true&width=500" width="500" height="674" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOfficialSingaporeAirshow%2Fphotos%2Fa.702091379819253%2F1171830866178633%2F%3Ftype%3D3&show_text=true&width=500" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 <i>Have a trivia nugget about Leonette? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
 
