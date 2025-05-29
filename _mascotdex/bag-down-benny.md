@@ -113,11 +113,10 @@ In 2024, the campaign celebrated its 10th anniversary with life-sized sculptures
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWeKeepYourWorldMoving%2Fposts%2Fpfbid031fE2fx93xsQs55SPUCk9v9zPJ6TbrPyEBDqxvzbEFqoTB2m9CM8LoZJrP7snbAbVl&show_text=true&width=500" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 
+<br>
+
 <div class="fb-post-container">
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FWeKeepYourWorldMoving%2Fvideos%2F1165933231134673%2F&show_text=false&width=267&t=0" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
-
-<br>
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FWeKeepYourWorldMoving%2Fvideos%2F1165933231134673%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></div>
 
 <i>Have a trivia nugget about Bag-Down Benny? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
