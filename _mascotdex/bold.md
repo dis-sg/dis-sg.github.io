@@ -29,6 +29,8 @@ Bold is often featured besides fellow robots <a href="https://www.designinsingap
 </figure>
 
 <br>
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGovTechSG%2Fposts%2Fpfbid02tig6UjzGo7GTr5u7w7yP4eSDAzJyRaKqsNsoVx2G51ZyE68BQ5QAhyELJfW3KtWxl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
+<div class="fb-post-container">
+<iframe src="https%3A%2F%2Fwww.facebook.com%2FGovTechSG%2Fposts%2Fpfbid02tig6UjzGo7GTr5u7w7yP4eSDAzJyRaKqsNsoVx2G51ZyE68BQ5QAhyELJfW3KtWxl&show_text=true&width=500" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 <i>Have a trivia nugget about Bold? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
