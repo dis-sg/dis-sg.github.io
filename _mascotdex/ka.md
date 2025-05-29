@@ -37,7 +37,9 @@ As core elements of the app’s visual identity, Ka and Ki are featured on the a
 
 Ka is the stubbier of the two mascots and green in colour. 
 
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpricekaki%2Fposts%2Fpfbid0VyREYCy9CcyeYEA3uhjEGBX294QbLnYoBiJsDXsB1UeYzC3LzWAUMMtmdfWaETBCl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpricekaki%2Fposts%2Fpfbid0VyREYCy9CcyeYEA3uhjEGBX294QbLnYoBiJsDXsB1UeYzC3LzWAUMMtmdfWaETBCl&show_text=true&width=500" width="500" height="651" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 
 <i>Have a trivia nugget about Ka? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
