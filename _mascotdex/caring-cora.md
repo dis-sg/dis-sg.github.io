@@ -25,7 +25,7 @@ Caring Cora is a heart mascot who represents Singapore’s goal as a leading gre
 
 <blockquote>“Caring Cora is a great role model for an active and gracious community. She loves to volunteer in all kinds of community events that will help create a greener and more sustainable Singapore. Her warmth and friendly demeanor are what attracts others in her community to work together in helping each other make a brighter future for everyone.”</blockquote>
 
-Together with Smiley Ray, Caring Cora, Smart Eddie and Eco Eva, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
+Together with <a href="https://www.designinsingapore.com/mascotdex/smiley-ray/" target="_blank">Smiley Ray</a>, <a href="https://www.designinsingapore.com/mascotdex/zippy-maree/" target="_blank">Zippy Maree</a>, <a href="https://www.designinsingapore.com/mascotdex/smart-eddie/" target="_blank">Smart Eddie</a> and <a href="https://www.designinsingapore.com/mascotdex/eco-eva/" target="_blank">Eco Eva</a>, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
 
 <figure>
 <img src="https://i.imgur.com/t4OaCMf.png" alt="">
