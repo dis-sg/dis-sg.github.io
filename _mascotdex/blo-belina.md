@@ -14,7 +14,7 @@ mascot-status: Retired
 mascot-family: 
 ---
 
-Blo.belina was a female blood droplet mascot that occasionally attended blood donation drives and outreach activities instead of Singapore Red Cross’s main mascot, Blood Buddy. 
+Blo.belina was a female blood droplet mascot that occasionally attended blood donation drives and outreach activities instead of Singapore Red Cross’s main mascot, <a href="https://www.designinsingapore.com/mascotdex/blood-buddy/" target="_blank">Blood Buddy</a>. 
 
 <figure>
 <img src="https://i.imgur.com/l5z3Rmw.jpg" alt="">
