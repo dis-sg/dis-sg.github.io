@@ -23,11 +23,13 @@ Ah Dot is the mascot of the 2025 World Para Swimming Championships held in Singa
 
 A <a href="https://sdsc.org.sg/media-release-singapore-2025-world-para-swimming-championships-logo-and-mascot-inspired-by-little-red-dot/" target="_blank">press release</a> explained Ah Dot’s name and design in a short write-up:
 
+<blockquote>
 “Ah Dot represents adaptability, resilience and growth. The ripples emanating from Ah Dot reflect the waves of change inspired by Para athletes, as their triumphs motivate others to overcome challenges.
 
 In Singapore, the prefix “Ah” is a colloquial term used affectionately in informal settings to address someone or something. Rooted in local Chinese dialects, it evokes a sense of warmth, familiarity, and endearment, reflecting Singapore’s multicultural and inclusive identity.
 
 The name “Ah Dot” weaves cultural relevance with an emotional connection, making the mascot relatable and memorable for Singaporeans, and those that Singapore welcomes to its shores. It invites everyone to celebrate and support Para athletes as they create ripples of change.”
+</blockquote>
 
 <figure>
 <img src="https://i.imgur.com/DhonPJa.jpg" alt="">
