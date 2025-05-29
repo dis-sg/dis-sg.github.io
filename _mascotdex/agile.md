@@ -21,7 +21,7 @@ Named after one of Government Technology Agency of Singapore’s (GovTech) corpo
 <figcaption><a href="https://www.facebook.com/GovTechSG/posts/-mascots-assemble-youve-seen-our-robots-and-gayle-deliver-you-the-latest-tech-ne/461839979309552/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Agile is often featured besides fellow robots <a href="https://www.designinsingapore.com/mascotdex/bold/" target="_blank">Bold</a> and <a href="https://www.designinsingapore.com/mascotdex/collaborative/" target="_blank">Collaborative</a> on GovTech’s social media channels as part of employer branding content.
+Agile is often featured alongside fellow robots <a href="https://www.designinsingapore.com/mascotdex/bold/" target="_blank">Bold</a> and <a href="https://www.designinsingapore.com/mascotdex/collaborative/" target="_blank">Collaborative</a> on GovTech’s social media channels as part of employer branding content.
 
 <figure>
 <img src="https://i.imgur.com/qTCLjd0.jpg" alt="">
