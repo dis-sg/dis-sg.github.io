@@ -16,8 +16,18 @@ mascot-family:
 
 Dastan is the official mascot of the Defence Science and Technology Agency (DSTA). A white robot who wears a blue visor, Dastan is often featured on DSTA’s social media channels in the form of comic strips exploring technologies such as artificial intelligence. The mascot also has virtual sticker packs and a plushie form which is usually displayed and given out at employee branding events.
 
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSingaporeDSTA%2Fposts%2Fpfbid082FGNGdSRzLYa5YrMEbMJF957cLCHUHcTrgirzJWUGiagUqsvvmPaieBexxCGb6Vl&show_text=true&width=500" height="485" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+
 <div class="video-responsive"> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSingaporeDSTA%2Fposts%2Fpfbid082FGNGdSRzLYa5YrMEbMJF957cLCHUHcTrgirzJWUGiagUqsvvmPaieBexxCGb6Vl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
+
+
 <br>
+
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FSingaporeDSTA%2Fvideos%2F889012606464778%2F&show_text=false&width=267&t=0" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 <div class="video-responsive"> <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FSingaporeDSTA%2Fvideos%2F889012606464778%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></div>
 <br>
