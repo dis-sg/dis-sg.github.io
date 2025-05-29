@@ -21,7 +21,7 @@ Named after one of Government Technology Agency of Singapore’s (GovTech) corpo
 <figcaption><a href="https://www.facebook.com/GovTechSG/posts/-mascots-assemble-youve-seen-our-robots-and-gayle-deliver-you-the-latest-tech-ne/461839979309552/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Bold is often featured besides fellow robots Agile and Collaborative on GovTech’s social media channels as part of employer branding content.
+Bold is often featured besides fellow robots <a href="https://www.designinsingapore.com/mascotdex/agile/" target="_blank">Agile</a> and <a href="https://www.designinsingapore.com/mascotdex/collaborative/" target="_blank">Collaborative</a> on GovTech’s social media channels as part of employer branding content.
 
 <figure>
 <img src="https://i.imgur.com/MKibZQ0.jpg" alt="">
