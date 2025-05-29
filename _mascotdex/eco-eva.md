@@ -26,7 +26,7 @@ Eco Eva is a leaf mascot who represents Singapore’s zero-waste pillar. A socia
 <blockquote>“She is the best role model of a Zero Waste Nation! Eva is always mindful of her consumption and waste, which is why she practices the three R's - Reduce, Reuse and Recycle. She also likes to encourage everyone she meets to embrace a more viable way of living, so that there will be less waste, and landfills can be freed up to provide more space for everyone to enjoy.”
 </blockquote>
 
-Together with <a href="https://www.designinsingapore.com/mascotdex/smiley-ray/" target="_blank">Smiley Ray</a>, <a href="https://www.designinsingapore.com/mascotdex/caring-cora/" target="_blank">Caring Cora</a>, <a href="https://www.designinsingapore.com/mascotdex/smart-eddie/" target="_blank">Smart Eddie</a> and <a href="https://www.designinsingapore.com/mascotdex/eco-eva/" target="_blank">Eco Eva</a>, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
+Together with <a href="https://www.designinsingapore.com/mascotdex/smiley-ray/" target="_blank">Smiley Ray</a>, <a href="https://www.designinsingapore.com/mascotdex/caring-cora/" target="_blank">Caring Cora</a>, <a href="https://www.designinsingapore.com/mascotdex/smart-eddie/" target="_blank">Smart Eddie</a> and <a href="https://www.designinsingapore.com/mascotdex/zippy-maree/" target="_blank">Zippy Maree</a>, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
 
 <figure>
 <img src="https://i.imgur.com/t4OaCMf.png" alt="">
@@ -41,7 +41,7 @@ In 2021, the Sustainable Singapore Blueprint was succeeded by the SG Green Plan 
 </figure>
 
 <div class="video-responsive">
-<iframe width="1524" height="560" src="https://www.youtube.com/embed/t5kE_7z9wII?list=PLufsUwaI-DoGXFAY9rHe1BSi4SOcsW3rV" title="Eco Eva: Towards a Zero Waste Nation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1524" height="560" src="https://www.youtube.com/embed/t5kE_7z9wII?list=PLufsUwaI-DoGXFAY9rHe1BSi4SOcsW3rV" title="Eco Eva: Towards a Zero Waste Nation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 <br>
 
