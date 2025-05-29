@@ -16,7 +16,7 @@ mascot-family: Thoughtful Bunch
 
 Bag-Down Benny is one of five mascots from the Thoughtful Bunch, introduced in 2014 by the Land Transport Authority (LTA) to promote considerate behaviour on Singapore’s public transport system. He promotes putting bags down so others have more room.
 
-Bag-Down Benny and Hush-Hush Hannah were later additions to the Thoughtful Bunch, introduced as part of LTA’s Graciousness Campaign 2014. They were crowd-sourced through a Facebook app called Thoughtful-Me Creator, which allowed users to customise their own characters, fostering greater public involvement in promoting considerate commuter behaviour.
+Bag-Down Benny and <a href="https://www.designinsingapore.com/mascotdex/hush-hush-hannah/" target="_blank">Hush-Hush Hannah</a> were later additions to the Thoughtful Bunch, introduced as part of LTA’s Graciousness Campaign 2014. They were crowd-sourced through a Facebook app called Thoughtful-Me Creator, which allowed users to customise their own characters, fostering greater public involvement in promoting considerate commuter behaviour.
 
 <div class="video-responsive">  <iframe width="1524" height="560" src="https://www.youtube.com/embed/enSSLKy-QI8" title="Unveiling of Bag-Down Benny &amp; Hush-Hush Hannah - Event Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
 
@@ -88,8 +88,6 @@ Beyond food tie-ins, the Thoughtful Bunch has also reached younger audiences. A 
 
 To meet growing fan interest, LTA has also produced Thoughtful Bunch merchandise, including cushions, notebooks, and mugs.
 
-
-
 <figure>
 <img src="https://i.imgur.com/MHTmLhB.jpg" alt="">
 <figcaption><a href="https://www.lazada.sg/knackstopsg/?from=wangpu&langFlag=en&page=2&pageTypeId=2&q=All-Products" target="_blank">(Source)</a></figcaption>
@@ -111,7 +109,13 @@ In 2024, the campaign celebrated its 10th anniversary with life-sized sculptures
 
 <br>
 
-<div class="video-responsive"> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWeKeepYourWorldMoving%2Fposts%2Fpfbid031fE2fx93xsQs55SPUCk9v9zPJ6TbrPyEBDqxvzbEFqoTB2m9CM8LoZJrP7snbAbVl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWeKeepYourWorldMoving%2Fposts%2Fpfbid031fE2fx93xsQs55SPUCk9v9zPJ6TbrPyEBDqxvzbEFqoTB2m9CM8LoZJrP7snbAbVl&show_text=true&width=500" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FWeKeepYourWorldMoving%2Fvideos%2F1165933231134673%2F&show_text=false&width=267&t=0" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 <br>
 <div class="video-responsive"><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FWeKeepYourWorldMoving%2Fvideos%2F1165933231134673%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></div>
