@@ -18,7 +18,7 @@ Ivan is the official mascot of Singpass, Singapore’s national digital identity
 
 <figure>
 <img src="https://i.imgur.com/Ivl1LKp.png" alt="">
-<figcaption><a href="https://www.popandstrange.com/popfolio/singpass-with-gov-tech-esd " target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.popandstrange.com/popfolio/singpass-with-gov-tech-esd " target="_blank">Creative agency Pop and Strange designed different poses for Ivan to make him the "Clippy of Singpass"(Source)</a></figcaption>
 </figure>
  
 <i>Have a trivia nugget about Ivan? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
