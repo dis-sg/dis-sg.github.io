@@ -47,7 +47,7 @@ In 2021, the Sustainable Singapore Blueprint was succeeded by the SG Green Plan 
 
 <div class="video-responsive">
 <iframe width="1524" height="560" src="https://www.youtube.com/embed/i2louyEOwg0?list=PLufsUwaI-DoGXFAY9rHe1BSi4SOcsW3rV" title="Paperless with Eva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-</div>
+
 <br>
 
 <figure>
