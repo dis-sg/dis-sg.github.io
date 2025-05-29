@@ -21,7 +21,7 @@ Kalleis a female lion cub introduced by the Singapore Kindness Movement as part 
 <figcaption>Singa and the Kindness Cubbies <a href="https://www.facebook.com/11thprod/posts/pfbid03XWv41msNsfKKjNVVzPXcJpMF8V7WAGZD6mf1w4KXeV2dDG22xGWBiWdsWnbsB8Kl  " target="_blank">(Source)</a></figcaption>
 </figure>
 
-Kindsville is also the virtual world where the Kindness Cubbies - Kalle, along with Singa, Sher, Tomeo, and Tosh, reside.
+Kindsville is also the virtual world where the Kindness Cubbies - Kalle, along with <a href="https://www.designinsingapore.com/mascotdex/singa/" target="_blank">Singa</a>, <a href="https://www.designinsingapore.com/mascotdex/sher/" target="_blank">Sher</a>, <a href="https://www.designinsingapore.com/mascotdex/tomeo/" target="_blank">Tomeo</a>, and <a href="https://www.designinsingapore.com/mascotdex/tosh/" target="_blank">Tosh</a>, reside.
 
 The Kindsville website provides a write-up about Kalle:
 
