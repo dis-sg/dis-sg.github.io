@@ -35,4 +35,4 @@ Giffy also has a strong social media presence - the <a href="https://www.instagr
 
 <div class="video-responsive"><iframe width="1524" height="560" src="https://www.youtube.com/embed/60ZCc7XxdTI" title="#DementiaFriendlySG: Facing Dementia in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
 
-<i>Have a trivia nugget about PIP? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
+<i>Have a trivia nugget about Giffy? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
