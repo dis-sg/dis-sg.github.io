@@ -14,7 +14,7 @@ mascot-status: Retired
 mascot-family: 
 ---
 
-Greco and Beco are retired mascots of the Building and Construction Authority (BCA), representing the agency’s efforts to promote green and sustainable building practices.
+Greco and <a href="https://www.designinsingapore.com/mascotdex/beco/" target="_blank">Beco</a> are retired mascots of the Building and Construction Authority (BCA), representing the agency’s efforts to promote green and sustainable building practices.
 
 <figure>
 <img src="https://i.imgur.com/OCtsQeb.jpg" alt="">
