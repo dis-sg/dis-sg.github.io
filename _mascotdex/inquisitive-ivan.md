@@ -27,7 +27,7 @@ His personal <a href="https://www.reach.gov.sg/who-we-are/reach-characters" targ
 Inquisitive Ivan has been featured in REACH's social media content such as comics, which tackle hot button issues of the day like discrimination and mental wellbeing.  
 
 <div class="fb-post-container">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fposts%2Fpfbid0LomhRUWaM87UyRv5TBoNYACg1EdkPhxmZN6RHnwFJLjRR1rQjjN7cf78xDVRcDj3l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fposts%2Fpfbid0LomhRUWaM87UyRv5TBoNYACg1EdkPhxmZN6RHnwFJLjRR1rQjjN7cf78xDVRcDj3l&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 
 <i>Have a trivia nugget about Inquisitive Ivan? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
