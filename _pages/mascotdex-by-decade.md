@@ -354,7 +354,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
                     <td>Land Transport Authority</td>
                 </tr>
                 <tr>
-                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/0l0K1Et.png" alt="Beco" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/beco/">Beco</a></div></td>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/pzqILuu.png" alt="Beco" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/beco/">Beco</a></div></td>
                     <td>2014</td>
                     <td>Retired</td>
                     <td>Building and Construction Authority</td>
@@ -408,7 +408,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
                     <td>Land Transport Authority</td>
                 </tr>
                 <tr>
-                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/pzqILuu.png" alt="Greco" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/greco/">Greco</a></div></td>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/0l0K1Et.png" alt="Greco" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/greco/">Greco</a></div></td>
                     <td>2014</td>
                     <td>Retired</td>
                     <td>Building and Construction Authority</td>
