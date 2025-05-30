@@ -1,6 +1,6 @@
 ---
 title: Hutsy
-image: https://i.imgur.com/ieCsnOx.png
+image: https://i.imgur.com/AkYy35k.png
 description: Everything you need to know about Hutsy
 layout: mascot
 permalink: /mascotdex/hutsy/
