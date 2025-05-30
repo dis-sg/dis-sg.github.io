@@ -1,6 +1,6 @@
 ---
 title: Caring Cora
-image: https://i.imgur.com/j2B46U0.png
+image: https://i.imgur.com/iFizdRi.png
 description: Everything you need to know about Caring Cora
 layout: mascot
 permalink: /mascotdex/caring-cora/
