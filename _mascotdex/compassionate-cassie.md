@@ -1,6 +1,6 @@
 ---
 title: Compassionate Cassie
-image: https://i.imgur.com/pp79fDI.png 
+image: https://i.imgur.com/WSES9IC.png 
 description: Everything you need to know about Compassionate Cassie
 layout: mascot
 permalink: /mascotdex/compassionate-cassie/
