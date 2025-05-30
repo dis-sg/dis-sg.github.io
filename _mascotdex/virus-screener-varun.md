@@ -1,6 +1,6 @@
 ---
 title: Virus Screener Varun
-image: https://i.imgur.com/kQUJYBU.png
+image: https://i.imgur.com/Y7dSCU5.png
 description: Everything you need to know about Virus Screener Varun
 layout: mascot
 permalink: /mascotdex/virus-screener-varun/
