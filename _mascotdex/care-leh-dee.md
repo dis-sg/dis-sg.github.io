@@ -7,7 +7,7 @@ permalink: /mascotdex/care-leh-dee/
 comments: false
 birth-year: 2020
 mascot-type: Superhuman
-mascot-owner: Ministry of Education
+mascot-owner: Ministry of Communications and Information
 mascot-cause: [Health]
 mascot-creator: [Mas Shafreen (Band of Doodlers)]
 mascot-status: Retired
