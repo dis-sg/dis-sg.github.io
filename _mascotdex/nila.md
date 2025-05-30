@@ -1,6 +1,6 @@
 ---
 title: Nila
-image: https://i.imgur.com/zY0apCw.png
+image: https://i.imgur.com/B7IicA3.png
 description: Everything you need to know about Nila
 layout: mascot
 permalink: /mascotdex/nila/
