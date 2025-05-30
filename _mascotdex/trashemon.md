@@ -1,6 +1,6 @@
 ---
 title: Trashemon
-image: https://i.imgur.com/J1aeMVh.png
+image: https://i.imgur.com/dD3O9jt.png
 description: Everything you need to know about Trashemon
 layout: mascot
 permalink: /mascotdex/trashemon/
