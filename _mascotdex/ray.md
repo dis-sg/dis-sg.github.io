@@ -20,8 +20,20 @@ Ray is the lion mascot of Police Pal, the Singapore Police Force’s (SPF) flags
 Ray’s name reflects his mission—to shed light on crime prevention and safety. He wears a police cap and a tie with the SPF chevron pattern. 
 
 <figure>
+<img src="https://i.imgur.com/biJC5ga.jpg" alt="">
+<figcaption><a href="https://www.police.gov.sg/Media-Room/Police-Life/2022/03/Police-Pal-for-the-Youth" target="_blank">(Source)</a></figcaption>
+</figure>
+<br>
+
+<figure>
 <img src="https://i.imgur.com/AjH4Wmv.png" alt="">
 <figcaption><a href="https://www.police.gov.sg/Community/Community-Programmes/Police-Pal " target="_blank">(Source)</a></figcaption>
+</figure>
+<br>
+
+<figure>
+<img src="https://i.imgur.com/3c4D7R1.jpg" alt="">
+<figcaption>Police Pal activity booklets <a href="https://www.police.gov.sg/Media-Room/Police-Life/2022/03/Police-Pal-for-the-Youth" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <i>Have a trivia nugget about Ray? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
