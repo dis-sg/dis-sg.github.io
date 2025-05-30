@@ -1,6 +1,6 @@
 ---
 title: COLin
-image: https://i.imgur.com/V9ARXQa.png
+image: https://i.imgur.com/UmXNTLx.png
 description: Everything you need to know about COLin
 layout: mascot
 permalink: /mascotdex/colin/
