@@ -1,6 +1,6 @@
 ---
 title: Ally
-image: https://i.imgur.com/iJ7yaMm.png
+image: https://i.imgur.com/1SkgA7c.png
 description: Everything you need to know about Ally
 layout: mascot
 permalink: /mascotdex/ally/
