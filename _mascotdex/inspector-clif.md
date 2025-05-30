@@ -1,6 +1,6 @@
 ---
 title: Inspector Clif
-image: https://i.imgur.com/b1P8CDY.png
+image: https://i.imgur.com/FESAML5.png
 description: Everything you need to know about Inspector Clif
 layout: mascot
 permalink: /mascotdex/inspector-clif/
