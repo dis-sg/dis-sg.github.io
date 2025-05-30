@@ -1,6 +1,6 @@
 ---
 title: Zippy Maree
-image: https://i.imgur.com/TWTDl0U.png
+image: https://i.imgur.com/wPMxL3o.png
 description: Everything you need to know about Zippy Maree
 layout: mascot
 permalink: /mascotdex/zippy-maree/
