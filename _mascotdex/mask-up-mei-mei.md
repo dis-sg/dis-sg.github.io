@@ -1,6 +1,6 @@
 ---
 title: Mask Up Mei Mei
-image: https://i.imgur.com/7dpKniY.png
+image: https://i.imgur.com/4LhBCNR.png
 description: Everything you need to know about Mask Up Mei Mei
 layout: mascot
 permalink: /mascotdex/mask-up-mei-mei/
