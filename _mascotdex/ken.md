@@ -1,6 +1,6 @@
 ---
 title: Ken
-image: https://i.imgur.com/1ng4l7E.png
+image: https://i.imgur.com/pm4gJAx.png
 description: Everything you need to know about Ken
 layout: mascot
 permalink: /mascotdex/ken/
