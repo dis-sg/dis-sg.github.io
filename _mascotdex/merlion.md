@@ -1,6 +1,6 @@
 ---
 title: Merlion
-image: https://i.imgur.com/P0LWfj1.png
+image: https://i.imgur.com/wGKrGHv.png
 description: Everything you need to know about the Merlion
 layout: mascot
 permalink: /mascotdex/merlion/
