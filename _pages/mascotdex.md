@@ -267,7 +267,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
         <td>Singapore Blood Transfusion Service</td>
       </tr>
       <tr>
-        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/MVCCrry.png" alt="Charlie Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/charlie/">Charlie</a></div></td>
+        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/zvbQo0P.png" alt="Charlie Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/charlie/">Charlie</a></div></td>
         <td>2023</td>
         <td>Active</td>
         <td>Singapore Co-operative Movement</td>
@@ -585,7 +585,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
         <td>1st Youth Olympic Games 2010</td>
       </tr>
       <tr>
-        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/zvbQo0P.png" alt="Mia Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/mia/">Mia</a></div></td>
+        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/MVCCrry.png" alt="Mia Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/mia/">Mia</a></div></td>
         <td>2023</td>
         <td>Active</td>
         <td>Singapore Co-operative Movement</td>
