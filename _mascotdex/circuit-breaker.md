@@ -1,6 +1,6 @@
 ---
 title: Circuit Breaker
-image: https://i.imgur.com/TW0BFt5.png
+image: https://i.imgur.com/wPZvJxN.png
 description: Everything you need to know about Circuit Breaker
 layout: mascot
 permalink: /mascotdex/circuit-breaker/
