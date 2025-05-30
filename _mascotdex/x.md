@@ -1,6 +1,6 @@
 ---
 title: X
-image: https://i.imgur.com/6UusLbK.png
+image: https://i.imgur.com/ea0JdQK.png
 description: Everything you need to know about X
 layout: mascot
 permalink: /mascotdex/x/
