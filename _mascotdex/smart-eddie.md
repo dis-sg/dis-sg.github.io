@@ -26,7 +26,7 @@ Smart Eddie is an owl mascot who represents Singapore’s “eco-smart endearing
 <blockquote>“Smart Eddie is a brilliant owl who believes that planning and intelligence are the keys to the future. From designing eco-smart endearing towns to smart homes, Eddie will help equip you with the knowledge and insights to discover new ideas on creating better living environments for everyone.”
 </blockquote>
 
-Together with Smiley Ray, Caring Cora, Smart Eddie and Eco Eva, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
+Together with <a href="https://www.designinsingapore.com/mascotdex/smiley-ray/" target="_blank">Smiley Ray</a>, <a href="https://www.designinsingapore.com/mascotdex/caring-cora/" target="_blank">Caring Cora</a>, <a href="https://www.designinsingapore.com/mascotdex/zippy-maree/" target="_blank">Zippy Maree</a> and <a href="https://www.designinsingapore.com/mascotdex/eco-eva/" target="_blank">Eco Eva</a>, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
 
 <figure>
 <img src="https://i.imgur.com/t4OaCMf.png" alt="">
