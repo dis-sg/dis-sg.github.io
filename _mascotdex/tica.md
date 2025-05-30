@@ -18,8 +18,10 @@ In 2023, the Immigration and Checkpoints Authority (ICA) introduced TICA, a lemu
 
 The mascot has been featured on ICA’s social media channels and makes appearances at ICA events.
 
-<div class="video-responsive"> 
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FImmigration.Checkpoints.Authority%2Fvideos%2F930834222194044%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></div>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FImmigration.Checkpoints.Authority%2Fvideos%2F930834222194044%2F&show_text=false&width=267&t=0" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+
 <br>
 <figure>
 <img src="https://i.imgur.com/dXlGUco.jpg" alt="">
