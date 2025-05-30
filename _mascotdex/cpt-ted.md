@@ -1,6 +1,6 @@
 ---
 title: CPT Ted
-image: https://i.imgur.com/O10FAlU.png
+image: https://i.imgur.com/pfmlMbM.png
 description: Everything you need to know about CPT Ted
 layout: mascot
 permalink: /mascotdex/cpt-ted/
