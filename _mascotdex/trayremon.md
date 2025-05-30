@@ -1,6 +1,6 @@
 ---
 title: Trayremon
-image: https://i.imgur.com/IX3pNA3.png
+image: https://i.imgur.com/byIpqEi.png
 description: Everything you need to know about Trayremon
 layout: mascot
 permalink: /mascotdex/trayremon/
