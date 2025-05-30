@@ -1,6 +1,6 @@
 ---
 title: Oscar
-image: https://i.imgur.com/37b1dNv.png
+image: https://i.imgur.com/e8glnFF.png
 description: Everything you need to know about Oscar
 layout: mascot
 permalink: /mascotdex/oscar/
