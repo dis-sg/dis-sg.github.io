@@ -27,7 +27,10 @@ A. Roary - Stands for the lion’s might and the indomitable spirit of athletes.
 B. Leon - Is derived from the greek word “Leon”, meaning “lion” which symbolises power and courage.
 C. Finny - “Finny” reflects the Merlion’s fluidity and grace. Representing seamless adaptation and resilience.
 
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsgparalympics%2Fvideos%2F298174316674927%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe> </div>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsgparalympics%2Fvideos%2F298174316674927%2F&show_text=false&width=267&t=0" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+
 
 Roary has been illustrated playing paralympic sports, including boccia and sitting volleyball. The illustrations are available as virtual stickers. 
 
