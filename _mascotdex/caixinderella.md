@@ -1,6 +1,6 @@
 ---
 title: Caixinderella
-image: https://i.imgur.com/xSPWJHo.png
+image: https://i.imgur.com/wP6io5x.png
 description: Everything you need to know about Caixinderella
 layout: mascot
 permalink: /mascotdex/caixinderella/
