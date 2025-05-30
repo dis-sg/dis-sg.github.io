@@ -1,6 +1,6 @@
 ---
 title: Kaki
-image: https://i.imgur.com/nSpgw8H.png
+image: https://i.imgur.com/XEPPJXI.png
 description: Everything you need to know about Kaki
 layout: mascot
 permalink: /mascotdex/kaki/
