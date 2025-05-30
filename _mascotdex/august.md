@@ -1,6 +1,6 @@
 ---
 title: August
-image: https://i.imgur.com/FSfn2Vc.png
+image: https://i.imgur.com/DqXHNOh.png
 description: Everything you need to know about August
 layout: mascot
 permalink: /mascotdex/august/
