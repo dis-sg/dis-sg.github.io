@@ -1,6 +1,6 @@
 ---
 title: Eggs Benedette C
-image: https://i.imgur.com/sKvSw0P.png
+image: https://i.imgur.com/4KHJzGx.png
 description: Everything you need to know about Eggs Benedette C
 layout: mascot
 permalink: /mascotdex/eggs-benedette-c/
