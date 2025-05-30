@@ -1,6 +1,6 @@
 ---
 title: TICA
-image: https://i.imgur.com/7ncvRu7.png
+image: https://i.imgur.com/LDwimkb.png
 description: Everything you need to know about TICA
 layout: mascot
 permalink: /mascotdex/tica/
