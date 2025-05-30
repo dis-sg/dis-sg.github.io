@@ -1,6 +1,6 @@
 ---
 title: Toilemon
-image: https://i.imgur.com/6IV3yy0.png
+image: https://i.imgur.com/jfdnKt8.png
 description: Everything you need to know about Toilemon
 layout: mascot
 permalink: /mascotdex/toilemon/
