@@ -40,8 +40,10 @@ Rachel REACH has been featured in REACH's collaterals and social media content s
 <figcaption>REACH comics are created in-house <a href="https://www.facebook.com/photo/?fbid=282625257232107&set=pcb.282625297232103" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<div class="video-responsive">
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fvideos%2F629048711466294%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<br>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FREACHSingapore%2Fvideos%2F629048711466294%2F&show_text=false&width=476&t=0" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
+
 
 <i>Have a trivia nugget about Rachel REACH? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
