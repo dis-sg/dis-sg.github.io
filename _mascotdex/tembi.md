@@ -1,6 +1,6 @@
 ---
 title: Tembi
-image: https://i.imgur.com/SvU0mnN.png
+image: https://i.imgur.com/SzfQxLZ.png
 description: Everything you need to know about Tembi
 layout: mascot
 permalink: /mascotdex/tembi/
