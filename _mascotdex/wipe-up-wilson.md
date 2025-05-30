@@ -1,6 +1,6 @@
 ---
 title: Wipe Up Wilson
-image: https://i.imgur.com/3aFeqTu.png
+image: https://i.imgur.com/RXmTYw1.png
 description: Everything you need to know about Wipe Up Wilson
 layout: mascot
 permalink: /mascotdex/wipe-up-wilson/
