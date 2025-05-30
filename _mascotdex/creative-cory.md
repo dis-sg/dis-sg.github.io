@@ -1,6 +1,6 @@
 ---
 title: Creative Cory
-image: https://i.imgur.com/0xZ12tQ.png 
+image: https://i.imgur.com/SFvKv7T.png 
 description: Everything you need to know about Creative Cory
 layout: mascot
 permalink: /mascotdex/creative-cory/
