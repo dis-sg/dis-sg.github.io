@@ -1,6 +1,6 @@
 ---
 title: Patriotic Paige
-image: https://i.imgur.com/A07QRdM.png
+image: https://i.imgur.com/hafMapO.png
 description: Everything you need to know about Patriotic Paige
 layout: mascot
 permalink: /mascotdex/patriotic-paige/
