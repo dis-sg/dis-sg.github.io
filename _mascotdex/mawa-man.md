@@ -1,6 +1,6 @@
 ---
 title: MAWA Man (Must Always Walk Alone Man)
-image: https://i.imgur.com/ckoDiug.png
+image: https://i.imgur.com/bSlVmJ5.png
 description: Everything you need to know about MAWA Man
 layout: mascot
 permalink: /mascotdex/mawa-man/
