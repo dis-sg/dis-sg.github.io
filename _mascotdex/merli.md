@@ -33,11 +33,11 @@ Merli has a wide variety of online content, from messaging app stickers to GIFs 
 
 <div class="video-responsive"><iframe width="1217" height="480" src="https://www.youtube.com/embed/QhEPtYJi-mI?list=PLB_24kfkb9Dq_b0xbw-RxOBsP-9MyHxOS" title="Merli and Friends: A Splashing Good Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-In 2022, STB also collaborated with Pinkfong to produce Sing, Sing, Singapore, a song set to the melody of Baby Shark that highlights popular local attractions including Sentosa and the Night Safari. 
+In 2022, STB also collaborated with Pinkfong to produce <i>Sing, Sing, Singapore</i>, a song set to the melody of Baby Shark that highlights popular local attractions including Sentosa and the Night Safari. 
 
 <div class="video-responsive"><iframe width="1217" height="480" src="https://www.youtube.com/embed/Qtq-jY9pkwQ" title="Sing, Sing, Singapore! | Pinkfong and Baby Shark Visit Singapore🇸🇬 | Pinkfong Baby Shark" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-Merli was also featured in several episodes of <a href="https://tomandjerry.fandom.com/wiki/Merli" target="_blank">Tom and Jerry Singapore</a> and a <a href="https://blog.google/around-the-globe/google-asia/singapore-arcore-stb/" target="_blank">Google Maps augmented reality (AR) collaboration project</a> 
+Merli was also featured in several episodes of <a href="https://tomandjerry.fandom.com/wiki/Merli" target="_blank">Tom and Jerry Singapore</a> and a <a href="https://blog.google/around-the-globe/google-asia/singapore-arcore-stb/" target="_blank">Google Maps augmented reality (AR) collaboration project</a>. 
 
 <figure>
 <img src="https://i.imgur.com/sSH6IrC.png" alt="">
