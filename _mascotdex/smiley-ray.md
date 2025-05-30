@@ -1,6 +1,6 @@
 ---
 title: Smiley Ray
-image: https://i.imgur.com/Y1cxTLN.png
+image: https://i.imgur.com/SIKdq0E.png
 description: Everything you need to know about Smiley Ray
 layout: mascot
 permalink: /mascotdex/smiley-ray/
