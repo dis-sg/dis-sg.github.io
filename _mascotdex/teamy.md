@@ -1,6 +1,6 @@
 ---
 title: Teamy
-image: https://i.imgur.com/xVh9YVk.png
+image: https://i.imgur.com/MiYw6rR.png
 description: Everything you need to know about Teamy
 layout: mascot
 permalink: /mascotdex/teamy/
