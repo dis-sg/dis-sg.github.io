@@ -1,6 +1,6 @@
 ---
 title: Skeptical Susan
-image: https://i.imgur.com/vCn69Mr.png
+image: https://i.imgur.com/DXLosgk.png
 description: Everything you need to know about Skeptical Susan
 layout: mascot
 permalink: /mascotdex/skeptical-susan/
