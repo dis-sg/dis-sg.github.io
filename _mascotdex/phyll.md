@@ -1,6 +1,6 @@
 ---
 title: Phyll
-image: https://i.imgur.com/7TL1Oei.png
+image: https://i.imgur.com/ciY0NjT.png
 description: Everything you need to know about Phyll
 layout: mascot
 permalink: /mascotdex/phyll/
