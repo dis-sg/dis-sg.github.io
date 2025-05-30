@@ -23,7 +23,7 @@ In 2016, as part of the Sustainable Singapore Movement by the Ministry of the En
 
 Smiley Ray is a sun mascot who represents Singapore’s goal as a leading green economy. 
 
-Together with Zippy Maree, Caring Cora, Smart Eddie and Eco Eva, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
+Together with <a href="https://www.designinsingapore.com/mascotdex/zippy-maree/" target="_blank">Zippy Maree</a>, <a href="https://www.designinsingapore.com/mascotdex/caring-cora/" target="_blank">Caring Cora</a>, <a href="https://www.designinsingapore.com/mascotdex/smart-eddie/" target="_blank">Smart Eddie</a> and <a href="https://www.designinsingapore.com/mascotdex/eco-eva/" target="_blank">Eco Eva</a>, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
 
 <figure>
 <img src="https://i.imgur.com/t4OaCMf.png" alt="">
