@@ -1,6 +1,6 @@
 ---
 title: Captain Green
-image: https://i.imgur.com/UJMkaAF.png
+image: https://i.imgur.com/MsD0UNY.png
 description: Everything you need to know about Captain Green
 layout: mascot
 permalink: /mascotdex/captain-green/
