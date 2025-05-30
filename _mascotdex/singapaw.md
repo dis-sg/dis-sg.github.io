@@ -1,6 +1,6 @@
 ---
 title: SingaPaw
-image: https://i.imgur.com/tlPTkbG.png
+image: https://i.imgur.com/7nQUl5R.png
 description: Everything you need to know about SingaPaw
 layout: mascot
 permalink: /mascotdex/singapaw/
