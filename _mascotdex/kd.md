@@ -1,6 +1,6 @@
 ---
 title: K.D.
-image: https://i.imgur.com/NimWyro.png
+image: https://i.imgur.com/NUp7msz.png
 description: Everything you need to know about K.D.
 layout: mascot
 permalink: /mascotdex/kd/
