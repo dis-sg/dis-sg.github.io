@@ -1,6 +1,6 @@
 ---
 title: Dino
-image: https://i.imgur.com/G7bHSn6.png
+image: https://i.imgur.com/KEMRKgH.png
 description: Everything you need to know about Dino
 layout: mascot
 permalink: /mascotdex/dino/
