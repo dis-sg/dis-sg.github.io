@@ -18,11 +18,12 @@ wiTTy is the official mascot of <a href="https://www.sgtranslatetogether.gov.sg/
 
 <div class="video-responsive"><iframe width="1524" height="560" src="https://www.youtube.com/embed/iFH4avmp5GM" title="SG Translate Together!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-
 wiTTy’s name was chosen out of 58 suggestions and top-voted by Citizen Translators of the SG Translate Together web portal. The name is an acronym of “Wise, Informative, Youthful and Translate Together”. 
 
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FSingaporeMDDI%2Fvideos%2F2318407065022282%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></div>
 
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FSingaporeMDDI%2Fvideos%2F2318407065022282%2F&show_text=false&width=476&t=0" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 The mascot is featured on the SG Translate Together web portal, as well as social media content on MDDI’s channels promoting the initiative.
 
