@@ -1,6 +1,6 @@
 ---
 title: Hands Down Hana
-image: https://i.imgur.com/s6AKJw8.png
+image: https://i.imgur.com/df4rEtz.png
 description: Everything you need to know about Hands Down Hana
 layout: mascot
 permalink: /mascotdex/hands-down-hana/
