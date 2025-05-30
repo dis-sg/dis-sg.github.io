@@ -14,7 +14,7 @@ mascot-status: Active
 mascot-family: 
 ---
 
-In 2023, the Singapore Co-operative Movement introduced three round, ball-shaped mascots as part of a social media campaign to spotlight the movement’s history. ⁠⁠Each of the mascots—Charlie, Mia, and Shane—embodies a unique characteristic of the co-operatives.
+In 2023, the Singapore Co-operative Movement introduced three round, ball-shaped mascots as part of a social media campaign to spotlight the movement’s history. ⁠⁠Each of the mascots—<a href="https://www.designinsingapore.com/mascotdex/charlie/" target="_blank">Charlie</a>, <a href="https://www.designinsingapore.com/mascotdex/mia/" target="_blank">Mia</a>, and Shane—embodies a unique characteristic of the co-operatives.
 
 <figure>
 <img src="https://i.imgur.com/1fPBPMJ.jpg" alt="">
