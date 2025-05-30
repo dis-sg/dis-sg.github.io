@@ -1,6 +1,6 @@
 ---
 title: Care-leh Dee
-image: https://i.imgur.com/cC9WUSx.png
+image: https://i.imgur.com/vaglmme.png
 description: Everything you need to know about Care-leh Dee
 layout: mascot
 permalink: /mascotdex/care-leh-dee/
