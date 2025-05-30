@@ -27,7 +27,7 @@ To reach younger audiences, 3D-style cartoons featuring Mr Zebra were also produ
 
 <div class="video-responsive"><iframe width="1524" height="560" src="https://www.youtube.com/embed/s0_LzCyh8gM?list=PLhUPw5w4PCdCDBdgxUwwOs81v4BE56DT_" title="Mr Zebra Road Safety Cartoon: Episode 1- Kerb Drills" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-Singa the Courtesy Lion joined Mr Zebra in the 2011 campaign which focused on road courtesy. Car decals encouraged drivers to practise courtesy on the move such as to give way and signal early.
+<a href="https://www.designinsingapore.com/mascotdex/singa/" target="_blank">Singa the Courtesy Lion</a> joined Mr Zebra in the 2011 campaign which focused on road courtesy. Car decals encouraged drivers to practise courtesy on the move such as to give way and signal early.
 
 <figure>
 <img src="https://i.imgur.com/7l5ShA3.png" alt="">
