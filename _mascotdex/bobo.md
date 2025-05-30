@@ -1,6 +1,6 @@
 ---
 title: Bobo
-image: https://i.imgur.com/u7xLMuQ.png
+image: https://i.imgur.com/G1vAUmf.png
 description: Everything you need to know about Bobo
 layout: mascot
 permalink: /mascotdex/bobo/
