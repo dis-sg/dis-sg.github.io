@@ -1,6 +1,6 @@
 ---
 title: Fake News Buster
-image: https://i.imgur.com/h1XRBP8.png
+image: https://i.imgur.com/K173wfM.png
 description: Everything you need to know about Fake News Buster
 layout: mascot
 permalink: /mascotdex/fake-news-buster/
