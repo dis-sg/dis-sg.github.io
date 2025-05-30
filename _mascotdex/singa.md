@@ -41,7 +41,9 @@ After settling on a lion, revisions were made to avoid the mascot from looking t
 
 Through annual courtesy campaigns consisting of mascot <a href=" https://sghistoricity.wordpress.com/2018/12/20/collection-of-courtesy-lion-souvenirs/   " target="_blank">merchandise</a> giveaways, meet-and-greets and a catchy jingle, Singa cemented his status as a cultural icon. Innovative and provocative stunts only helped to raise his profile further. 
 
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FNationalArchivesSG%2Fvideos%2F3190917974322708%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></div>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FNationalArchivesSG%2Fvideos%2F3190917974322708%2F&show_text=false&width=476&t=0" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 In 2009, three Singapore Management University students staged a mock funeral for Singa, where they 'mourned the death of kindness in Singapore and called on Singaporeans to remember Singa and what he stood for', according to news sources. The unsanctioned funeral prompted a response by SKM that Singa was still alive - in fact, statues of the mascot were erected islandwide as part of the Singapore Kindness Month campaign that year.
 
@@ -60,7 +62,7 @@ In 2013, Singa made headlines when he "resigned" in an open letter, stating that
 
 Despite this, Singa later returned and continues to be a familiar figure in SKM initiatives. In this current version, Singa bears a yellow gerbera — the symbol of appreciation — on his shirt.
 
-One of the key initiatives for children is <a href="https://kindsville.kindness.sg/" target="_blank">Kindsville</a>, a virtual universe where Singa and his friends live. Known collectively as the Kindness Cubbies, Singa, Sher, Tomeo, Tosh and Kalle explore themes of kindness, empathy, and positive social behaviour through newsletters, games and an animated series called <i>The Adventures of Singa and the Kindness Cubbies</i>. 
+One of the key initiatives for children is <a href="https://kindsville.kindness.sg/" target="_blank">Kindsville</a>, a virtual universe where Singa and his friends live. Known collectively as the Kindness Cubbies, Singa, <a href="https://www.designinsingapore.com/mascotdex/sher/" target="_blank">Sher</a>, <a href="https://www.designinsingapore.com/mascotdex/tomeo/" target="_blank">Tomeo</a>, <a href="https://www.designinsingapore.com/mascotdex/tosh/" target="_blank">Tosh</a>, and <a href="https://www.designinsingapore.com/mascotdex/kalle/" target="_blank">Kalle</a> explore themes of kindness, empathy, and positive social behaviour through newsletters, games and an animated series called <i>The Adventures of Singa and the Kindness Cubbies</i>. 
 
 In 2020, during the COVID-19 pandemic, some episodes featured the Soaper 5 mascots from the Ministry of Education, who were created to promote good hygiene practices during the pandemic. 
 
