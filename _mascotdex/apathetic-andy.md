@@ -1,6 +1,6 @@
 ---
 title: Apathetic Andy
-image: https://i.imgur.com/fDYTCNO.png
+image: https://i.imgur.com/FxluUG1.png
 description: Everything you need to know about Apathetic Andy
 layout: mascot
 permalink: /mascotdex/apathetic-andy/
