@@ -1,6 +1,6 @@
 ---
 title: Timeli
-image: https://i.imgur.com/VtNK0Bw.png
+image: https://i.imgur.com/NiMSUDS.png
 description: Everything you need to know about Timeli
 layout: mascot
 permalink: /mascotdex/timeli/
