@@ -1,6 +1,6 @@
 ---
 title: Zecky
-image: https://i.imgur.com/0DTGN0L.png
+image: https://i.imgur.com/BxBnCTH.png
 description: Everything you need to know about Zecky
 layout: mascot
 permalink: /mascotdex/zecky/
