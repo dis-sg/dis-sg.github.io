@@ -1,6 +1,6 @@
 ---
 title: Mr Red Box
-image: https://i.imgur.com/MI304a3.png
+image: https://i.imgur.com/3IZl1QW.png
 description: Everything you need to know about Mr Red Box
 layout: mascot
 permalink: /mascotdex/mr-red-box/
