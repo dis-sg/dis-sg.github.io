@@ -1,6 +1,6 @@
 ---
 title: Fearless Farah
-image: https://i.imgur.com/mX9drMs.png
+image: https://i.imgur.com/mGfKNY6.png
 description: Everything you need to know about Fearless Farah
 layout: mascot
 permalink: /mascotdex/fearless-farah/
