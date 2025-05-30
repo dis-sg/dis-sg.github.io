@@ -1,6 +1,6 @@
 ---
 title: Merli
-image: https://i.imgur.com/Y8FsUuo.png
+image: https://i.imgur.com/o3XihCV.png
 description: Everything you need to know about Merli
 layout: mascot
 permalink: /mascotdex/merli/
