@@ -1,6 +1,6 @@
 ---
 title: Kiasu Kitty
-image: https://i.imgur.com/5kSLkYY.png
+image: https://i.imgur.com/sQu1eYk.png
 description: Everything you need to know about Kiasu Kitty
 layout: mascot
 permalink: /mascotdex/kiasu-kitty/
