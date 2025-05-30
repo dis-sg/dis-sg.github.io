@@ -1,6 +1,6 @@
 ---
 title: Dr. Disinfector
-image: https://i.imgur.com/MqQgUEM.png
+image: https://i.imgur.com/a1Qw8nQ.png
 description: Everything you need to know about Dr. Disinfector
 layout: mascot
 permalink: /mascotdex/dr-disinfector/
