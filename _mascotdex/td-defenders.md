@@ -1,6 +1,6 @@
 ---
 title: TD Defenders
-image: https://i.imgur.com/0tVJmtM.png
+image: https://i.imgur.com/rd9edDf.png
 description: Everything you need to know about TD Defenders
 layout: mascot
 permalink: /mascotdex/td-defenders/
