@@ -45,6 +45,10 @@ Oscar has sported different attire over the years. In his original “thumbs up�
 
 Oscar is featured frequently in SFA’s social media channels and makes occasional appearances alongside the Singapore Farmed Forces, SFA’s other mascots.
 
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSGFoodAgency%2Fposts%2Fpfbid05QmYvxqTrwT8NEeLXZZjCFqzvYF3N62LcK7FteCopMuSJEWF9BhXDKdsqGcd9aWwl&show_text=true&width=500" width="500" height="607" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
+
 <div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSGFoodAgency%2Fposts%2Fpfbid05QmYvxqTrwT8NEeLXZZjCFqzvYF3N62LcK7FteCopMuSJEWF9BhXDKdsqGcd9aWwl&show_text=true&width=500" width="500" height="606" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
 
 
