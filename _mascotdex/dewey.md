@@ -1,6 +1,6 @@
 ---
 title: Dewey
-image: https://i.imgur.com/3uNnVBV.png
+image: https://i.imgur.com/Cuw4Hbv.png
 description: Everything you need to know about Dewey
 layout: mascot
 permalink: /mascotdex/dewey/
