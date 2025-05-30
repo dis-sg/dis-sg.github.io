@@ -1,6 +1,6 @@
 ---
 title: Inquisitive Ivan
-image: https://i.imgur.com/kQLH0dE.png
+image: https://i.imgur.com/RC3RrGi.png
 description: Everything you need to know about Inquisitive Ivan
 layout: mascot
 permalink: /mascotdex/inquisitive-ivan/
