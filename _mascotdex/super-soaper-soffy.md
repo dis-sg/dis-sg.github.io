@@ -1,6 +1,6 @@
 ---
 title: Super Soaper Soffy
-image: https://i.imgur.com/kOCwTV0.png
+image: https://i.imgur.com/h31VJhY.png
 description: Everything you need to know about Super Soaper Soffy
 layout: mascot
 permalink: /mascotdex/super-soaper-soffy/
