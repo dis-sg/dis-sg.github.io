@@ -1,6 +1,6 @@
 ---
 title: Eco Eva
-image: https://i.imgur.com/SJpMz12.png
+image: https://i.imgur.com/xERBCUh.png
 description: Everything you need to know about Eco Eva
 layout: mascot
 permalink: /mascotdex/eco-eva/
