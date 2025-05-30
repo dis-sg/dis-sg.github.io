@@ -1,6 +1,6 @@
 ---
 title: Smart Eddie
-image: https://i.imgur.com/cgRIgb0.png
+image: https://i.imgur.com/BsLY8VI.png
 description: Everything you need to know about Smart Eddie
 layout: mascot
 permalink: /mascotdex/smart-eddie/
