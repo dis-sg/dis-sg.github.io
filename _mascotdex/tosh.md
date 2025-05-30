@@ -21,7 +21,7 @@ Tosh is a male lion cub introduced by the Singapore Kindness Movement as part of
 <figcaption>Singa and the Kindness Cubbies <a href="https://www.facebook.com/11thprod/posts/pfbid03XWv41msNsfKKjNVVzPXcJpMF8V7WAGZD6mf1w4KXeV2dDG22xGWBiWdsWnbsB8Kl  " target="_blank">(Source)</a></figcaption>
 </figure>
 
-Kindsville is also the virtual world where the Kindness Cubbies - Tosh, along with <a href="https://www.designinsingapore.com/mascotdex/singa/" target="_blank">Singa</a>, <a href="https://www.designinsingapore.com/mascotdex/tomeo/" target="_blank">Tomeo</a>, <a href="https://www.designinsingapore.com/mascotdex/sher/" target="_blank">sher</a>, and <a href="https://www.designinsingapore.com/mascotdex/kalle/" target="_blank">Kalle</a>, reside.
+Kindsville is also the virtual world where the Kindness Cubbies - Tosh, along with <a href="https://www.designinsingapore.com/mascotdex/singa/" target="_blank">Singa</a>, <a href="https://www.designinsingapore.com/mascotdex/tomeo/" target="_blank">Tomeo</a>, <a href="https://www.designinsingapore.com/mascotdex/sher/" target="_blank">Sher</a>, and <a href="https://www.designinsingapore.com/mascotdex/kalle/" target="_blank">Kalle</a>, reside.
 
 The Kindsville website provides a write-up about Tosh:
 
