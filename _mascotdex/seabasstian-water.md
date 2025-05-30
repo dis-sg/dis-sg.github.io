@@ -1,6 +1,6 @@
 ---
 title: Seabasstian Water
-image: https://i.imgur.com/63cED9t.png
+image: https://i.imgur.com/8w6X4N4.png
 description: Everything you need to know about Seabasstian Water
 layout: mascot
 permalink: /mascotdex/seabasstian-water/
