@@ -14,7 +14,7 @@ mascot-status: Active
 mascot-family: 
 ---
 
-Ray (not to be confused with <a href="ray" target="_blank">Ray</a> of SPF's Police Pal programme) is the mascot of Club Rainbow, a non-profit organisation that supports children with chronic illnesses. Unveiled at the organisation's Education Awards Presentation Ceremony in 2022, Ray embodies Club Rainbow’s brand personalities, which are Compassionate, Empowering, Resilient and Nurturing. Club Rainbow shared more about Ray in their 30th anniversary book:
+Ray (not to be confused with <a href="https://www.designinsingapore.com/mascotdex/ray/" target="_blank">Ray</a> of SPF's Police Pal programme) is the mascot of Club Rainbow, a non-profit organisation that supports children with chronic illnesses. Unveiled at the organisation's Education Awards Presentation Ceremony in 2022, Ray embodies Club Rainbow’s brand personalities, which are Compassionate, Empowering, Resilient and Nurturing. Club Rainbow shared more about Ray in their 30th anniversary book:
 
 “The cloud head was inspired by Club Rainbow's namesake and is a sign of hope after stormy weather. The name itself was adapted from the phrase "a ray of sunshine", and is a reminder of how the sun peeks out from the clouds to create a rainbow after the storm. From Ray's heart emerges five different colours, each representing one of Club Rainbow's core pillars of support.”
 
