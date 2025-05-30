@@ -25,7 +25,7 @@ Zippy Maree is a butterfly mascot who represents a car-lite Singapore. A social 
 
 <blockquote>“Maree was once a crawling caterpillar but became a beautiful butterfly when she chose to transform her mindset and lifestyle and adopted an alternative, greener means of transport. That is why her friends now call her Zippy Maree because she can move confidently from place to place with ease while enjoying a healthier lifestyle.”</blockquote>
 
-Together with Smiley Ray, Caring Cora, Smart Eddie and Eco Eva, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
+Together with <a href="https://www.designinsingapore.com/mascotdex/smiley-ray/" target="_blank">Smiley Ray</a>, <a href="https://www.designinsingapore.com/mascotdex/caring-cora/" target="_blank">Caring Cora</a>, <a href="https://www.designinsingapore.com/mascotdex/smart-eddie/" target="_blank">Smart Eddie</a> and <a href="https://www.designinsingapore.com/mascotdex/eco-eva/" target="_blank">Eco Eva</a>, they form a silhouette of Singapore, which is used as the logo for the Sustainable Singapore Blueprint and the Sustainable Singapore Gallery (SSB) at Marina Barrage.
 
 <figure>
 <img src="https://i.imgur.com/t4OaCMf.png" alt="">
