@@ -1,6 +1,6 @@
 ---
 title: Camy
-image: https://i.imgur.com/GxjeZk4.png
+image: https://i.imgur.com/7JjbT9M.png
 description: Everything you need to know about Camy
 layout: mascot
 permalink: /mascotdex/camy/
