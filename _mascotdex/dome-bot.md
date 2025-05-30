@@ -1,6 +1,6 @@
 ---
 title: Dome Bot
-image: https://i.imgur.com/6updMIq.png
+image: https://i.imgur.com/WlbAtqQ.png
 description: Everything you need to know about Dome Bot
 layout: mascot
 permalink: /mascotdex/dome-bot/
