@@ -37,7 +37,9 @@ In 2015, POSB launched a mobile app called "Smiley Town" to engage children in s
 
 In 2019, Smiley spearheaded a campaign to reunite various Singaporean mascots, highlighting the enduring legacy and recognition of Smiley in Singapore's collective memory. The meet-up raised over $20,000 for charity.
 
-<div class="video-responsive"><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FPOSB%2Fvideos%2F439441310055218%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></div>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FPOSB%2Fvideos%2F439441310055218%2F&show_text=false&width=476&t=0" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 Smiley is also prominently featured in the annual POSB Run For Kids event.
 
