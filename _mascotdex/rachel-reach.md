@@ -1,6 +1,6 @@
 ---
 title: Rachel REACH
-image: https://i.imgur.com/oCetqkW.png
+image: https://i.imgur.com/F9MuWxo.png
 description: Everything you need to know about Rachel REACH
 layout: mascot
 permalink: /mascotdex/rachel-reach/
