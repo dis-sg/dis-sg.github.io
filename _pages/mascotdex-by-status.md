@@ -656,13 +656,13 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
                     <td>Home Team Science and Technology Agency</td>
                 </tr>
                 <tr>
-                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/MVCCrry.png" alt="Charlie" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/charlie/">Charlie</a></div></td>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/zvbQo0P.png" alt="Charlie" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/charlie/">Charlie</a></div></td>
                     <td>2023</td>
                     <td>Active</td>
                     <td>Singapore Co-operative Movement</td>
                 </tr>
                 <tr>
-                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/zvbQo0P.png" alt="Mia" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/mia/">Mia</a></div></td>
+                    <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/MVCCrry.png" alt="Mia" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/mia/">Mia</a></div></td>
                     <td>2023</td>
                     <td>Active</td>
                     <td>Singapore Co-operative Movement</td>
