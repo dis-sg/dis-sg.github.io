@@ -1,6 +1,6 @@
 ---
 title: Sharity
-image: https://i.imgur.com/OwIKhQQ.png
+image: https://i.imgur.com/OrlQpYm.png
 description: Everything you need to know about Sharity
 layout: mascot
 permalink: /mascotdex/sharity/
