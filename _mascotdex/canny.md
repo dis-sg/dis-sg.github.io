@@ -1,6 +1,6 @@
 ---
 title: Canny
-image: https://i.imgur.com/2nSOLNw.png
+image: https://i.imgur.com/SRNfjFS.png
 description: Everything you need to know about Canny
 layout: mascot
 permalink: /mascotdex/canny/
