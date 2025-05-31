@@ -1,6 +1,6 @@
 ---
 title: Singa the Kindness Lion
-image: https://i.imgur.com/cDBwXuN.png
+image: https://i.imgur.com/kjVAYgz.png
 description: Everything you need to know about Singa the Kindness Lion
 layout: mascot
 permalink: /mascotdex/singa/
