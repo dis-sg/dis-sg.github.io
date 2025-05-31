@@ -1,6 +1,6 @@
 ---
 title: Kucinta
-image: https://i.imgur.com/gMbl4E5.png
+image: https://i.imgur.com/HrhtIwy.png
 description: Everything you need to know about Kucinta
 layout: mascot
 permalink: /mascotdex/kucinta/
