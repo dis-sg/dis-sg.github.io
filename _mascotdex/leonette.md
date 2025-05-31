@@ -1,6 +1,6 @@
 ---
 title: Leonette
-image: https://i.imgur.com/BFlKEyb.png
+image: https://i.imgur.com/oSyPgEY.png
 description: Everything you need to know about Leonette
 layout: mascot
 permalink: /mascotdex/leonette/
