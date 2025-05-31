@@ -1,6 +1,6 @@
 ---
 title: Safey Bear
-image: https://i.imgur.com/1oqL6es.png
+image: https://i.imgur.com/ncF0X9N.png
 description: Everything you need to know about Safey Bear
 layout: mascot
 permalink: /mascotdex/safey-bear/
