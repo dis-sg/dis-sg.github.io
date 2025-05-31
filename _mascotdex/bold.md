@@ -1,6 +1,6 @@
 ---
 title: Bold
-image: https://i.imgur.com/Qf8ycKi.png
+image: https://i.imgur.com/gxHptYv.png
 description: Everything you need to know about Bold
 layout: mascot
 permalink: /mascotdex/bold/
