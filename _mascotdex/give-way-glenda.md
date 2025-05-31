@@ -1,6 +1,6 @@
 ---
 title: Give-Way Glenda
-image: https://i.imgur.com/KGqPyUc.png
+image: https://i.imgur.com/w9Szx58.png
 description: Everything you need to know about Give-Way Glenda
 layout: mascot
 permalink: /mascotdex/give-way-glenda/
