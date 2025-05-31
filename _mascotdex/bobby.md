@@ -1,6 +1,6 @@
 ---
 title: Bobby
-image: https://i.imgur.com/oJVYfi1.png
+image: https://i.imgur.com/iQiTKBK.png
 description: Everything you need to know about Bobby
 layout: mascot
 permalink: /mascotdex/bobby/
