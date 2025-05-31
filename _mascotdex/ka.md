@@ -1,6 +1,6 @@
 ---
 title: Ka
-image: https://i.imgur.com/avGqgQK.png
+image: https://i.imgur.com/2QjA2UI.png
 description: Everything you need to know about Ka
 layout: mascot
 permalink: /mascotdex/ka/
