@@ -1,6 +1,6 @@
 ---
 title: Mia
-image: https://i.imgur.com/7ZhdtpJ.png
+image: https://i.imgur.com/cGzeMeo.png
 description: Everything you need to know about Mia
 layout: mascot
 permalink: /mascotdex/mia/
