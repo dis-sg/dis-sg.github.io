@@ -1,6 +1,6 @@
 ---
 title: WonderBot
-image: https://i.imgur.com/eFEt3Eb.png
+image: https://i.imgur.com/cnJ1Pyy.png
 description: Everything you need to know about WonderBot
 layout: mascot
 permalink: /mascotdex/wonderbot/
