@@ -1,6 +1,6 @@
 ---
 title: Blo.belina
-image: https://i.imgur.com/g5xKhXV.png
+image: https://i.imgur.com/WQYcPFE.png
 description: Everything you need to know about Blo.belina
 layout: mascot
 permalink: /mascotdex/blo-belina/
