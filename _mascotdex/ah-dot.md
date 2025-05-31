@@ -1,6 +1,6 @@
 ---
 title: Ah Dot
-image: https://i.imgur.com/fND8KRZ.png
+image: https://i.imgur.com/lnXhBJx.png
 description: Everything you need to know about Ah Dot
 layout: mascot
 permalink: /mascotdex/ah-dot/
