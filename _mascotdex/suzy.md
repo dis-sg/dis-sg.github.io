@@ -1,6 +1,6 @@
 ---
 title: Suzy
-image: https://i.imgur.com/5zMimUv.png
+image: https://i.imgur.com/vQpbU1f.png
 description: Everything you need to know about Suzy
 layout: mascot
 permalink: /mascotdex/suzy/
