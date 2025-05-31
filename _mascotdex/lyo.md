@@ -1,6 +1,6 @@
 ---
 title: Lyo
-image: https://i.imgur.com/oujkSTl.png
+image: https://i.imgur.com/ZmzFRoH.png
 description: Everything you need to know about Lyo
 layout: mascot
 permalink: /mascotdex/lyo/
