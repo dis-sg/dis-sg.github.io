@@ -1,6 +1,6 @@
 ---
 title: Tosh
-image: https://i.imgur.com/AQqXtc5.png
+image: https://i.imgur.com/6qt4rvE.png
 description: Everything you need to know about Tosh
 layout: mascot
 permalink: /mascotdex/tosh/
