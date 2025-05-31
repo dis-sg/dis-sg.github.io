@@ -1,6 +1,6 @@
 ---
 title: Bloobin
-image: https://i.imgur.com/mIWh3wX.png
+image: https://i.imgur.com/1V7fSX0.png
 description: Everything you need to know about Bloobin
 layout: mascot
 permalink: /mascotdex/bloobin/
