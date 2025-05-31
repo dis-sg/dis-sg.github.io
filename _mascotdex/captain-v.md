@@ -1,6 +1,6 @@
 ---
 title: Captain V
-image: https://i.imgur.com/P3ARtlw.png
+image: https://i.imgur.com/Z5flcmN.png
 description: Everything you need to know about Captain V
 layout: mascot
 permalink: /mascotdex/captain-v/
