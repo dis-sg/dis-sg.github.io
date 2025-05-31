@@ -1,6 +1,6 @@
 ---
 title: Stand-Up Stacey
-image: https://i.imgur.com/IbK9XOF.png
+image: https://i.imgur.com/EiNGVBy.png
 description: Everything you need to know about Stand-Up Stacey
 layout: mascot
 permalink: /mascotdex/stand-up-stacey/
