@@ -1,6 +1,6 @@
 ---
 title: Nano
-image: https://i.imgur.com/WxzQF1c.png
+image: https://i.imgur.com/fzzPsOP.png
 description: Everything you need to know about Nano
 layout: mascot
 permalink: /mascotdex/nano/
