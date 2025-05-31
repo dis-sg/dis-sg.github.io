@@ -1,6 +1,6 @@
 ---
 title: Pico
-image: https://i.imgur.com/xsJpzoG.png
+image: https://i.imgur.com/0k8nsZ0.png
 description: Everything you need to know about Pico
 layout: mascot
 permalink: /mascotdex/pico/
