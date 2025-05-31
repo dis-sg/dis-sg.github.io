@@ -1,6 +1,6 @@
 ---
 title: Tomeo
-image: https://i.imgur.com/dBExJGD.png
+image: https://i.imgur.com/Z5gtotF.png
 description: Everything you need to know about Tomeo
 layout: mascot
 permalink: /mascotdex/tomeo/
