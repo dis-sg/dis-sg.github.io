@@ -1,6 +1,6 @@
 ---
 title: Ray
-image: https://i.imgur.com/wMWnDCy.png
+image: https://i.imgur.com/wbZxwL3.png
 description: Everything you need to know about Ray
 layout: mascot
 permalink: /mascotdex/ray/
