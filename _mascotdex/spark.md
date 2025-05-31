@@ -1,6 +1,6 @@
 ---
 title: Spark
-image: https://i.imgur.com/55tjXAw.png
+image: https://i.imgur.com/JtnoPsx.png
 description: Everything you need to know about Spark
 layout: mascot
 permalink: /mascotdex/spark/
