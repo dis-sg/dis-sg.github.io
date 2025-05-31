@@ -1,6 +1,6 @@
 ---
 title: Move-In Martin
-image: https://i.imgur.com/EMV1CPS.png
+image: https://i.imgur.com/4J6ipCu.png
 description: Everything you need to know about Move-In Martin
 layout: mascot
 permalink: /mascotdex/move-in-martin/
