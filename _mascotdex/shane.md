@@ -1,6 +1,6 @@
 ---
 title: Shane
-image: https://i.imgur.com/LhswgQl.png
+image: https://i.imgur.com/8pEm2J6.png
 description: Everything you need to know about Shane
 layout: mascot
 permalink: /mascotdex/shane/
