@@ -1,6 +1,6 @@
 ---
 title: Ki
-image: https://i.imgur.com/zniIlUO.png
+image: https://i.imgur.com/5v7vWGj.png
 description: Everything you need to know about Ki
 layout: mascot
 permalink: /mascotdex/ki/
