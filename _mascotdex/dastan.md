@@ -1,6 +1,6 @@
 ---
 title: Dastan
-image: https://i.imgur.com/eLXTITB.png
+image: https://i.imgur.com/xuctzgN.png
 description: Everything you need to know about Dastan
 layout: mascot
 permalink: /mascotdex/dastan/
