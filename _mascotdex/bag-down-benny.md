@@ -1,6 +1,6 @@
 ---
 title: Bag-Down Benny
-image: https://i.imgur.com/b8u0XZm.png
+image: https://i.imgur.com/n8qUVA3.png
 description: Everything you need to know about Bag-Down Benny
 layout: mascot
 permalink: /mascotdex/bag-down-benny/
