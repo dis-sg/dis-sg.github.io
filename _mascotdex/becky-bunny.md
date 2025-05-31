@@ -1,6 +1,6 @@
 ---
 title: Becky Bunny
-image: https://i.imgur.com/iIHD047.png
+image: https://i.imgur.com/a8OyrXJ.png
 description: Everything you need to know about Becky Bunny
 layout: mascot
 permalink: /mascotdex/becky-bunny/
