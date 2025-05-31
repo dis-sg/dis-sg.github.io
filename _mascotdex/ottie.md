@@ -1,6 +1,6 @@
 ---
 title: Ottie
-image: https://i.imgur.com/fLiLQrx.png
+image: https://i.imgur.com/0ua1yCE.png
 description: Everything you need to know about Ottie
 layout: mascot
 permalink: /mascotdex/ottie/
