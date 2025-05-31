@@ -1,6 +1,6 @@
 ---
 title: Frasia
-image: https://i.imgur.com/bFH1Zeg.png
+image: https://i.imgur.com/8HrqYwE.png
 description: Everything you need to know about Frasia
 layout: mascot
 permalink: /mascotdex/frasia/
