@@ -1,6 +1,6 @@
 ---
 title: Charlie
-image: https://i.imgur.com/rzwfFox.png
+image: https://i.imgur.com/3t0g0c2.png
 description: Everything you need to know about Charlie
 layout: mascot
 permalink: /mascotdex/charlie/
