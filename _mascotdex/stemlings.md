@@ -1,6 +1,6 @@
 ---
 title: STEMlings
-image: https://i.imgur.com/2HKzuS4.png
+image: https://i.imgur.com/ljKRfOM.png 
 description: Everything you need to know about STEMlings
 layout: mascot
 permalink: /mascotdex/stemlings/
