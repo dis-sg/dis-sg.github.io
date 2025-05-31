@@ -1,6 +1,6 @@
 ---
 title: Blood Buddy
-image: https://i.imgur.com/ai71XVD.png
+image: https://i.imgur.com/4g3wt97.png
 description: Everything you need to know about Blood Buddy
 layout: mascot
 permalink: /mascotdex/blood-buddy/
