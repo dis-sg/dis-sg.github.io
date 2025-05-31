@@ -1,6 +1,6 @@
 ---
 title: Parley
-image: https://i.imgur.com/euHycFj.png
+image: https://i.imgur.com/EMz8Rgk.png
 description: Everything you need to know about Parley
 layout: mascot
 permalink: /mascotdex/parley/
