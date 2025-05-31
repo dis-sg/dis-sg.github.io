@@ -1,6 +1,6 @@
 ---
 title: Dotz
-image: https://i.imgur.com/QRVUGra.png
+image: https://i.imgur.com/gfsoFhE.png
 description: Everything you need to know about Dotz
 layout: mascot
 permalink: /mascotdex/dotz/
