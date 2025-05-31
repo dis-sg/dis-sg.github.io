@@ -1,6 +1,6 @@
 ---
 title: Mr Zebra
-image: https://i.imgur.com/A3mSH3A.png
+image: https://i.imgur.com/DXURuCg.png
 description: Everything you need to know about Mr Zebra
 layout: mascot
 permalink: /mascotdex/mr-zebra/
