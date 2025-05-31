@@ -1,6 +1,6 @@
 ---
 title: Leo
-image: https://i.imgur.com/v9QklNR.png
+image: https://i.imgur.com/Mn38LMr.png
 description: Everything you need to know about Leo
 layout: mascot
 permalink: /mascotdex/leo/
