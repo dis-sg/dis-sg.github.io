@@ -1,6 +1,6 @@
 ---
 title: BRAVE
-image: https://i.imgur.com/5ApUDcx.png
+image: https://i.imgur.com/9MI4z7Z.png
 description: Everything you need to know about BRAVE
 layout: mascot
 permalink: /mascotdex/brave/
