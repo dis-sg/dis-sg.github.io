@@ -1,6 +1,6 @@
 ---
 title: Giffy
-image: https://i.imgur.com/FyJ2IVY.png
+image: https://i.imgur.com/5MIK4IW.png
 description: Everything you need to know about Giffy
 layout: mascot
 permalink: /mascotdex/giffy/
