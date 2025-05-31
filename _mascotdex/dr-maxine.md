@@ -1,6 +1,6 @@
 ---
 title: Dr Maxine
-image: https://i.imgur.com/20kqaum.png
+image: https://i.imgur.com/gfgP1s4.png
 description: Everything you need to know about Dr Maxine
 layout: mascot
 permalink: /mascotdex/dr-maxine/
