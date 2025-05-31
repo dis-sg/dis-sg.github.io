@@ -1,6 +1,6 @@
 ---
 title: Hexa
-image: https://i.imgur.com/hpjcXC5.png
+image: https://i.imgur.com/6tWYbDd.png
 description: Everything you need to know about Hexa
 layout: mascot
 permalink: /mascotdex/hexa/
