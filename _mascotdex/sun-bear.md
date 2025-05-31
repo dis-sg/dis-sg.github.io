@@ -1,6 +1,6 @@
 ---
 title: SUN-Bear
-image: https://i.imgur.com/yLSEdhW.png
+image: https://i.imgur.com/9eYE0tO.png
 description: Everything you need to know about SUN-Bear
 layout: mascot
 permalink: /mascotdex/sun-bear/
