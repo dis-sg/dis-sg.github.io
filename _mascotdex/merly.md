@@ -1,6 +1,6 @@
 ---
 title: Merly
-image: https://i.imgur.com/A9T49eP.png
+image: https://i.imgur.com/kdHlGER.png
 description: Everything you need to know about Merly
 layout: mascot
 permalink: /mascotdex/merly/
