@@ -1,6 +1,6 @@
 ---
 title: Hush-Hush Hannah
-image: https://i.imgur.com/O8hpkLq.png
+image: https://i.imgur.com/61rrZka.png
 description: Everything you need to know about Hush-Hush Hannah
 layout: mascot
 permalink: /mascotdex/hush-hush-hannah/
