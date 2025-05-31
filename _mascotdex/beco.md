@@ -1,6 +1,6 @@
 ---
 title: Beco
-image: https://i.imgur.com/sYSvpp4.png
+image: https://i.imgur.com/8E555b8.png
 description: Everything you need to know about Beco
 layout: mascot
 permalink: /mascotdex/beco/
