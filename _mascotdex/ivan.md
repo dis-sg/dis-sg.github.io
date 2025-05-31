@@ -1,6 +1,6 @@
 ---
 title: Ivan
-image: https://i.imgur.com/CcM009N.png
+image: https://i.imgur.com/HexwMKq.png
 description: Everything you need to know about Ivan
 layout: mascot
 permalink: /mascotdex/ivan/
