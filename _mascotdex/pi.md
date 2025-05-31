@@ -1,6 +1,6 @@
 ---
 title: Pi
-image: https://i.imgur.com/yYTQlta.png
+image: https://i.imgur.com/uUYUt5g.png
 description: Everything you need to know about Pi
 layout: mascot
 permalink: /mascotdex/pi/
