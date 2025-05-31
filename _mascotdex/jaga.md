@@ -1,6 +1,6 @@
 ---
 title: Jaga
-image: https://i.imgur.com/EFcXBWx.png
+image: https://i.imgur.com/jvVj0yR.png
 description: Everything you need to know about Jaga
 layout: mascot
 permalink: /mascotdex/jaga/
