@@ -1,6 +1,6 @@
 ---
 title: Collaborative
-image: https://i.imgur.com/hqha7TF.png
+image: https://i.imgur.com/eZcp8QY.png
 description: Everything you need to know about Collaborative
 layout: mascot
 permalink: /mascotdex/collaborative/
