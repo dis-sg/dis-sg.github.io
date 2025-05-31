@@ -1,6 +1,6 @@
 ---
 title: MICOS
-image: https://i.imgur.com/gGPBaSA.png
+image: https://i.imgur.com/v1T2iCU.png
 description: Everything you need to know about MICOS
 layout: mascot
 permalink: /mascotdex/micos/
