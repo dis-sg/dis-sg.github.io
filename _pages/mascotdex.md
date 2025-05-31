@@ -5,6 +5,7 @@ image: https://i.imgur.com/aWoOYFd.png
 permalink: /mascotdex/
 comments: false
 description: Mascotdex is the definitive repository of Singapore's mascots
+og_image: https://i.imgur.com/aWoOYFd.png
 ---
 <head> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
