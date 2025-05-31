@@ -1,6 +1,6 @@
 ---
 title: Netalia
-image: https://i.imgur.com/SxQ7iXl.png
+image: https://i.imgur.com/VY6SgAT.png
 description: Everything you need to know about Netalia
 layout: mascot
 permalink: /mascotdex/netalia/
