@@ -1,6 +1,6 @@
 ---
 title: Guardian Gabe
-image: https://i.imgur.com/C6j0GIi.png
+image: https://i.imgur.com/SjIzweh.png
 description: Everything you need to know about Guardian Gabe
 layout: mascot
 permalink: /mascotdex/guardian-gabe/
