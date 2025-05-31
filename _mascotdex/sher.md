@@ -1,6 +1,6 @@
 ---
 title: Sher
-image: https://i.imgur.com/9VhbAkF.png
+image: https://i.imgur.com/TKZaVDm.png
 description: Everything you need to know about Sher
 layout: mascot
 permalink: /mascotdex/sher/
