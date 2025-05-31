@@ -1,6 +1,6 @@
 ---
 title: OTTer
-image: https://i.imgur.com/5qnFNEj.png
+image: https://i.imgur.com/exfHJA6.png
 description: Everything you need to know about OTTer
 layout: mascot
 permalink: /mascotdex/otter/
