@@ -1,6 +1,6 @@
 ---
 title: Fi-drant
-image: https://i.imgur.com/9JvmmdL.png
+image: https://i.imgur.com/k5L8ISP.png
 description: Everything you need to know about Fi-drant
 layout: mascot
 permalink: /mascotdex/fi-drant/
