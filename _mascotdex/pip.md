@@ -1,6 +1,6 @@
 ---
 title: PIP
-image: https://i.imgur.com/FaVL1fR.png
+image: https://i.imgur.com/293dEzG.png
 description: Everything you need to know about PIP
 layout: mascot
 permalink: /mascotdex/pip/
