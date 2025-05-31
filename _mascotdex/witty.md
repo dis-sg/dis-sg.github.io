@@ -1,6 +1,6 @@
 ---
 title: wiTTy
-image: https://i.imgur.com/9Mt7DKg.png
+image: https://i.imgur.com/3F9TTWi.png
 description: Everything you need to know about wiTTy
 layout: mascot
 permalink: /mascotdex/witty/
