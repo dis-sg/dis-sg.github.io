@@ -1,6 +1,6 @@
 ---
 title: Agile
-image: https://i.imgur.com/DiBKGMx.png
+image: https://i.imgur.com/0gFbHUr.png
 description: Everything you need to know about Agile
 layout: mascot
 permalink: /mascotdex/agile/
