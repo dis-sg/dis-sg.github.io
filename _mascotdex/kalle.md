@@ -1,6 +1,6 @@
 ---
 title: Kalle
-image: https://i.imgur.com/2g9bfw5.png
+image: https://i.imgur.com/vLwYLCp.png
 description: Everything you need to know about Kalle
 layout: mascot
 permalink: /mascotdex/kalle/
