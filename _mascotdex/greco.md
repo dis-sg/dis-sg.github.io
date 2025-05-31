@@ -1,6 +1,6 @@
 ---
 title: Greco
-image: https://i.imgur.com/zLkRjAE.png
+image: https://i.imgur.com/HKL9opn.png
 description: Everything you need to know about Greco
 layout: mascot
 permalink: /mascotdex/greco/
