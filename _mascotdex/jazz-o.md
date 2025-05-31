@@ -1,6 +1,6 @@
 ---
 title: Jazz-O
-image: https://i.imgur.com/hhDTJLE.png
+image: https://i.imgur.com/VUlnvQy.png
 description: Everything you need to know about Jazz-O
 layout: mascot
 permalink: /mascotdex/jazz-o/
