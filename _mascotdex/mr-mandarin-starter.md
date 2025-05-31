@@ -1,6 +1,6 @@
 ---
 title: Mr Mandarin Starter
-image: https://i.imgur.com/3O4M7xQ.png
+image: https://i.imgur.com/Nqt6iy4.png
 description: Everything you need to know about Mr Mandarin Starter
 layout: mascot
 permalink: /mascotdex/mr-mandarin-starter/
