@@ -1,6 +1,6 @@
 ---
 title: Smiley
-image: https://i.imgur.com/ULz3QDP.png
+image: https://i.imgur.com/8mEuOtN.png
 description: Everything you need to know about Smiley
 layout: mascot
 permalink: /mascotdex/smiley/
