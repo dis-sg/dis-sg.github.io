@@ -1,6 +1,6 @@
 ---
 title: Sean
-image: https://i.imgur.com/dyXhyGY.png
+image: https://i.imgur.com/hToWjwu.png
 description: Everything you need to know about Sean
 layout: mascot
 permalink: /mascotdex/sean/
