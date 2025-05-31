@@ -1,6 +1,6 @@
 ---
 title: Roary
-image: https://i.imgur.com/9b0pope.png
+image: https://i.imgur.com/wsm0oDF.png
 description: Everything you need to know about Roary
 layout: mascot
 permalink: /mascotdex/roary/
