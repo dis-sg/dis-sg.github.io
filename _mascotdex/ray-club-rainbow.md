@@ -1,6 +1,6 @@
 ---
 title: Ray (Club Rainbow)
-image: https://i.imgur.com/yZIbaBz.png
+image: https://i.imgur.com/D5GEr5i.png
 description: Everything you need to know about Ray
 layout: mascot
 permalink: /mascotdex/ray-club-rainbow/
