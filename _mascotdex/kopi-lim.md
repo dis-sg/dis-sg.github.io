@@ -1,6 +1,6 @@
 ---
 title: Kopi Lim
-image: https://i.imgur.com/0uNnWXC.png
+image: https://i.imgur.com/TtFAEja.png
 description: Everything you need to know about Kopi Lim
 layout: mascot
 permalink: /mascotdex/kopi-lim/
