@@ -22,7 +22,7 @@ The Singapore Red Cross has since replaced the Singapore Blood Transfusion Servi
 
 <figure>
 <img src="https://i.imgur.com/LQsGKhd.png" alt="">
-<figcaption>A 1999 blood donation poster featuring Champ <a href="" target="_blank">(Source)</a></figcaption>
+<figcaption>A 1999 blood donation poster featuring Champ <a href="https://www.nas.gov.sg/archivesonline/posters/record-details/a702bfca-2e6b-11e4-859c-0050568939ad" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <i>Have a trivia nugget about Champ? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
