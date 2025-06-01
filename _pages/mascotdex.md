@@ -112,7 +112,7 @@ As we celebrate 60 years of nation-building, take a trip down memory lane with t
 
 For a start, mascots from the Government and non-profit sectors have been catalogued. More mascots, including those from the education and private sectors, will be added over time.
 
-The Mascotdex is still a work in progress. Some entries are missing details, such as their creators or associated merchandise. There’s even <a href="https://www.designinsingapore.com/mascotdex/champ/">one entry</a> with no known image on the Internet.
+The Mascotdex is still a work in progress. Some entries are missing details, such as their creators or associated merchandise. 
 
 If you have more information, notice a missing mascot, or spot any errors, please reach out to me at <a href="mailto:designinsingapore65@gmail.com">designinsingapore65@gmail.com</a>!
 
@@ -262,7 +262,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
         <td>Sustainable Singapore Gallery</td>
       </tr>
       <tr>
-        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/wv3m2SF.png" alt="Champ Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/champ/">Champ</a></div></td>
+        <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/nE74BhY.png" alt="Champ Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/champ/">Champ</a></div></td>
         <td>1998</td>
         <td>Retired</td>
         <td>Singapore Blood Transfusion Service</td>
