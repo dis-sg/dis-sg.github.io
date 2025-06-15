@@ -33,7 +33,7 @@ The school logo looks straight out of Space Invaders, built completely with red 
 Its website loading screen shows the logo in motion, which provides some clues on what this abstract logo is trying to convey. 
 
 <figure>
-<img src="https://i.imgur.com/EGrNw8s.gifv" alt="">
+<img src="https://i.imgur.com/EGrNw8s.gif" alt="">
 <figcaption><a href="https://www.singapore.edu.hk/" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ SIS (Hong Kong)’s logo is so unique that none of the MOE’s local school logo
 
 <figure>
 <img src="https://i.imgur.com/JKB95xY.png" alt="">
-<figcaption>A Singapore flag flies beside the school flag<a href="https://mkpl.sg/singapore-international-school/" target="_blank">(Source)</a></figcaption>
+<figcaption>A Singapore flag flies beside the school flag <a href="https://mkpl.sg/singapore-international-school/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Fair warning: the logos will start to get weird from this point onwards…tread carefully.
@@ -54,7 +54,7 @@ SIS Mumbai and Asia Singapore International School (ASIS) Khon Kaen may be unaff
 
 <figure>
 <img src="https://i.imgur.com/x9QkPfD.png" alt="">
-<figcaption>SIS Mumbai’s logo<a href="https://en.wikipedia.org/wiki/Singapore_International_School,_Mumbai" target="_blank">(Source)</a></figcaption>
+<figcaption>SIS Mumbai’s logo <a href="https://en.wikipedia.org/wiki/Singapore_International_School,_Mumbai" target="_blank">(Source)</a></figcaption>
 </figure>
 
 This logo would fit right in with our local catholic schools’ logos at first glance, but examine it closer and quirks quickly emerge.A tiny Merlion silhouette adorns the top of the shield — an odd choice, since the Merlion is primarily used as a tourist symbol and has never appeared on a local school logo. The number of stars also feels excessive and childish — a jarring contrast to the otherwise serious crest.
@@ -75,7 +75,7 @@ ASIS Khon Kaen’s logo resembles state crests rather than typical school crests
 
 <figure>
 <img src="https://i.imgur.com/QSRLnC7.jpg" alt="">
-<figcaption>ASIS Khon Kaen’s logo<a href="https://asiskk.com/logo-beliefs-and-tenets/" target="_blank">(Source)</a></figcaption>
+<figcaption>ASIS Khon Kaen’s logo <a href="https://asiskk.com/logo-beliefs-and-tenets/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 The school explains the logo on its website:
@@ -86,8 +86,7 @@ The logo design is inspired by the coat of arms of Singapore, which features a l
 The details inside the shield focus on the school’s identity, emphasizing children and their learning in various aspects. It is an internationally recognized school that aims to develop students to excel in learning, leadership, honesty, and integrity.
 
 The colors used in the logo are red and gold. This combination reflects the identity of the “Singapore International School” with red and the elegance of “Thai School” with gold. Together, they represent a harmonious blend of both countries, as illustrated by the red and gold in the logo.
--ASIS Khon Kaen
-</i>
+-ASIS Khon Kaen</i>
 
 <figure>
 <img src="https://i.imgur.com/TADNasD.png" alt="">
@@ -114,7 +113,7 @@ You would think that by investing in such a decorative building, the administrat
 <figcaption> <a href="https://www.facebook.com/photo/?fbid=319167196912977&set=a.220940143402350" target="_blank">(Source)</a></figcaption>
 </figure>
 
-A few questions. Firstly, why is there a British flag? Hopefully someone informed them that Singapore is no longer a colony. Secondly, why does the globe highlight the Indian Ocean instead of any of the three countries whose flags are on the logo? It’s a bizarre collage of mismatched elements.
+A few questions. Firstly, why is there a British flag? Hopefully someone informed them that Singapore is no longer a colony. Secondly, why does the globe highlight the Indian Ocean instead of any of the three countries whose flags are on the logo? It is a bizarre collage of mismatched elements.
 
 <figure>
 <img src="https://i.imgur.com/4A9HUCo.png" alt="">
@@ -129,7 +128,7 @@ On a lighter note, Singapore School Philippines really loves the Merlion. Their 
 
 <figure>
 <img src="https://i.imgur.com/egxpSGt.png" alt="">
-<figcaption>The logo on the website has a shadow because the logo is too boring on its own <a href="https://issuu.com/singaporeschoolmanila/docs/v18_issue_1_digital" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://issuu.com/singaporeschoolmanila/docs/v18_issue_1_digital" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <h2>Thinking Caps: Anglo Singapore International School </h2>
@@ -143,7 +142,7 @@ Anglo Singapore International School, which operates three campuses in Thailand,
 <br>
 <figure>
 <img src="https://i.imgur.com/DkU6UQ3.png" alt="">
-<figcaption>A closer look at the lion<a href="https://anglosingapore.ac.th/korat/" target="_blank">(Source)</a></figcaption>
+<figcaption>A closer look at the lion <a href="https://anglosingapore.ac.th/korat/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 On a jewel-adorned medieval shield, a Lion Head-inspired symbol — with more detailed features like a wavy mane and chin fur — wears a graduation cap and a neutral smile. To top it off, the lion has bright blue eyes, which is the only blue element in the entire logo.
@@ -192,5 +191,7 @@ Naming private schools after Singapore can be misleading — with no official li
 Since these schools operate outside of Singapore’s jurisdiction, the authorities likely feel it’s not worth the trouble to pursue name changes — after all, new ones may pop up like a game of whack-a-mole.
 
 Looking at these logos gives us some insight into how foreigners perceive Singapore visually — whether it’s the Merlion, the Lion Head, or vague ideas of prestige and discipline. If these schools are going to be this literal, we can look forward to a culinary SIS featuring a chicken rice logo.
+
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
 Branding Singapore is a series which highlights notable local brand identities. Explore Singapore's design scene with us on <a href="https://www.facebook.com/DesignInSingapore" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://www.instagram.com/designinsingapore" target="_blank" rel="noopener noreferrer">Instagram</a>, <a href="https://www.tiktok.com/@designinsingapore" target="_blank" rel="noopener noreferrer">TikTok</a>, <a href="https://www.linkedin.com/company/designinsingapore" target="_blank" rel="noopener noreferrer">LinkedIn</a>, and <a href="https://t.me/designinsingapore" target="_blank" rel="noopener noreferrer">Telegram</a>. 
