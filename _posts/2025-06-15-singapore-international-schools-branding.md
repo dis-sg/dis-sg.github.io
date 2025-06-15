@@ -10,7 +10,7 @@ image: https://i.imgur.com/GhAY8lh.png
 og_image: https://i.imgur.com/GhAY8lh.png
 ---
 
-<i>Ever seen Singapore's lion head symbol with a graduation cap? 🎓</i>
+<h2>Ever seen Singapore's lion head symbol with a graduation cap? 🎓</h2>
 
 It is no secret that Singapore’s education system churns out book-smart graduates. For spiritually kiasu parents living outside of Singapore who wish their kids could get a MOE-style education, some entrepreneurial educators have found a solution — Singapore International Schools (SIS).
 
