@@ -83,12 +83,14 @@ ASIS Khon Kaen’s logo resembles state crests rather than typical school crests
 The school explains the logo on its website:
 
 <i>
-The logo design is inspired by the coat of arms of Singapore, which features a lion, a shield, and a tiger as the main elements to reflect the identity of Singapore School, known for its excellence in teaching and learning. Additionally, the “lion” symbolizes leadership and power, while the “tiger” represents courage and strength. The design portrays the tiger and lion standing gracefully, reminiscent of children who are brave, willing to think creatively, and eager to learn and develop various skills continuously.
+The logo design is inspired by the coat of arms of Singapore, which features a lion, a shield, and a tiger as the main elements to reflect the identity of Singapore School, known for its excellence in teaching and learning. Additionally, the “lion” symbolizes leadership and power, while the “tiger” represents courage and strength. The design portrays the tiger and lion standing gracefully, reminiscent of children who are brave, willing to think creatively, and eager to learn and develop various skills continuously.</i>
 
-The details inside the shield focus on the school’s identity, emphasizing children and their learning in various aspects. It is an internationally recognized school that aims to develop students to excel in learning, leadership, honesty, and integrity.
+<i>
+The details inside the shield focus on the school’s identity, emphasizing children and their learning in various aspects. It is an internationally recognized school that aims to develop students to excel in learning, leadership, honesty, and integrity.</i>
 
-The colors used in the logo are red and gold. This combination reflects the identity of the “Singapore International School” with red and the elegance of “Thai School” with gold. Together, they represent a harmonious blend of both countries, as illustrated by the red and gold in the logo.
--ASIS Khon Kaen </i>
+<i>
+The colors used in the logo are red and gold. This combination reflects the identity of the “Singapore International School” with red and the elegance of “Thai School” with gold. Together, they represent a harmonious blend of both countries, as illustrated by the red and gold in the logo.</i>
+<i>-ASIS Khon Kaen </i>
 
 <figure>
 <img src="https://i.imgur.com/TADNasD.png" alt="">
