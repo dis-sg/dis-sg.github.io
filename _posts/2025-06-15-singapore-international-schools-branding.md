@@ -10,6 +10,8 @@ image: https://i.imgur.com/GhAY8lh.png
 og_image: https://i.imgur.com/GhAY8lh.png
 ---
 
+<i>Ever seen Singapore's lion head symbol with a graduation cap? 🎓</i>
+
 It is no secret that Singapore’s education system churns out book-smart graduates. For spiritually kiasu parents living outside of Singapore who wish their kids could get a MOE-style education, some entrepreneurial educators have found a solution — Singapore International Schools (SIS).
 
 Ever since MOE set up Singapore International School (Hong Kong) in 1991, several private schools of the same name have sprung up across Asia. As the other schools have no affiliation to the Singapore Government or MOE, some of their logos are at best, dubious — and at worst, downright offensive. Here are some of them:
@@ -86,7 +88,7 @@ The logo design is inspired by the coat of arms of Singapore, which features a l
 The details inside the shield focus on the school’s identity, emphasizing children and their learning in various aspects. It is an internationally recognized school that aims to develop students to excel in learning, leadership, honesty, and integrity.
 
 The colors used in the logo are red and gold. This combination reflects the identity of the “Singapore International School” with red and the elegance of “Thai School” with gold. Together, they represent a harmonious blend of both countries, as illustrated by the red and gold in the logo.
--ASIS Khon Kaen</i>
+-ASIS Khon Kaen </i>
 
 <figure>
 <img src="https://i.imgur.com/TADNasD.png" alt="">
