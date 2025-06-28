@@ -4,15 +4,15 @@ title: "NHG Health Rebrand: Double Dosage"
 author: d
 categories: [Branding Singapore, Rebrand, Health]
 tags: []
-description: "Say goodbye to the stringy figure ➰"
+description: "The stringy figure beefed up ➰"
 comments: false
 image: https://i.imgur.com/ayCMj8A.png
 og_image: https://i.imgur.com/ayCMj8A.png
 ---
 
-<h2></h2>
+<h2>The stringy figure beefed up ➰</h2>
 
-National Healthcare Group has refreshed its brand identity, which included a name change and logo update, in celebration of its 25th anniversary, As the Regional Health Manager for Central and North Singapore, it serves over 1.5 million residents across its network of healthcare institutions, comprising hospitals, polyclinics, specialist centres and more.
+National Healthcare Group has refreshed its brand identity, which included a name change and logo update, in celebration of its 25th anniversary. As the Regional Health Manager for Central and North Singapore, it serves over 1.5 million residents across its network of healthcare institutions, comprising hospitals, polyclinics, specialist centres and more.
 
 <figure>
 <img src="https://i.imgur.com/S2VTqmq.png" alt="">
@@ -67,7 +67,7 @@ The new logo continues this aesthetic, modernising the human-like figure to be m
 
 The new logo channels the same spirit of its predecessor, from its upward stance to the colour scheme. By using solid shapes to form the figure, the logo has enough visual weight to look good on small digital screens.
 
-Dark blue-teal gradients seem to be the focus of the new brand identity in its brand collateral. It is soothing to the eye and provides a good contrast to SingHealth’s bright orange corporate colour.
+Dark blue-teal gradients seem to be the focus of the new brand identity as seen in its refreshed brand collateral. The colour scheme is soothing to the eye and provides a good contrast to SingHealth’s bright orange corporate colour.
 
 <figure>
 <img src="https://i.imgur.com/WQbcEDF.jpg" alt="">
