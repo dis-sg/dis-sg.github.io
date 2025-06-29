@@ -7,6 +7,7 @@ tags: []
 description: "Are we not voicing our opinions because we actually care?"
 comments: false
 image: https://i.imgur.com/i0BAJkx.png
+og_image: https://i.imgur.com/i0BAJkx.png
 ---
 
 <h2>Are we not voicing our opinions because we actually care? </h2>
