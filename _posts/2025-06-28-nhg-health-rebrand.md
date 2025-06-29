@@ -12,6 +12,8 @@ og_image: https://i.imgur.com/ayCMj8A.png
 
 <h2>The stringy figure beefed up ➰</h2>
 
+<i>Sidenote: I also wrote a <a href="https://www.designinsingapore.com/rebrand-purpose-opinion/" target="_blank">reaction piece</a> to the criticism of the rebrand </i>
+
 National Healthcare Group has refreshed its brand identity, which included a name change and logo update, in celebration of its 25th anniversary. As the Regional Health Manager for Central and North Singapore, it serves over 1.5 million residents across its network of healthcare institutions, comprising hospitals, polyclinics, specialist centres and more.
 
 <figure>
