@@ -93,7 +93,7 @@ One interesting question is how subsidiary brands like SATS Security Services wi
 
 <figure>
 <img src="https://i.imgur.com/IlVlaYn.png" alt="SATS Security Services">
-<figcaption>Former SATS Security Services logo and current SATS website favicon</a></figcaption>
+<figcaption>Former SATS Security Services logo and current SATS website favicon</figcaption>
 </figure>
 
 Given how the word “food” was nowhere to be found on the branding materials during the Exercise SG Ready launch event, it could signal SATS’ intent to focus more on its parent brand rather than its subsidiaries.
