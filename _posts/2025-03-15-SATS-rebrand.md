@@ -7,6 +7,7 @@ tags: []
 description: "Decent identity, unfortunate brand rollout 🤢"
 comments: false
 image: https://i.imgur.com/aqmDxAv.png
+og_image: https://i.imgur.com/aqmDxAv.png
 ---
 
 <h2>Decent identity, unfortunate brand rollout 🤢</h2>
@@ -20,7 +21,8 @@ What was meant to be the grand introduction of the new brand identity at its fir
 <figcaption>In hindsight it probably was not a good idea to plaster the logo everywhere at the media preview <a href="https://www.linkedin.com/posts/sats-ltd_sats-sustainability-readytoeat-activity-7296468300375474176-RQhl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_ai3kB1XizvNrgZxgytR8iFLmc_5lE9oU" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U9ZPsF3R_wI?si=5hbPVhoseG5PQ8tj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-responsive"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9ZPsF3R_wI?si=5hbPVhoseG5PQ8tj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Scandal aside, SATS’ new identity serves as a good case study of a business-to-business company rebranding exercise. 
 
@@ -55,8 +57,11 @@ SATS said the following of the new brand identity:
     - <a href="https://www.sats.com.sg/media/latest-news/article/sats-and-wfs-unite-with-a-new-visual-identity" target="_blank">SATS</a>
 </blockquote>
 
+<br>
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fthesatsgroup%2Fvideos%2F548999927979809%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<div class="fb-post-container">
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fthesatsgroup%2Fvideos%2F548999927979809%2F&show_text=false&width=560&t=0" width="500" height="766" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
 Similar to how SATS’ first logo used the Singapore Airlines’ <a href="https://logos.fandom.com/wiki/SATS?file=SATS_SQ.svg" target="_blank">bird icon</a>, both SATS and WFS now share one graphic in their logos while keeping their names. The double loop can be interpreted as a symbol of the acquisition, signifying synergy between both brands. Cynics, however, might say it looks too much like a tide pod.
 
@@ -98,9 +103,7 @@ Given how the word “food” was nowhere to be found on the branding materials 
 <figcaption>No subsidiary logos for now <a href="https://diabrands.com/case-studies/sats/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Online, SATS continues to use curves, adopting a sleek, tech-ish feel to its brand applications such as festive ecards. 
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7278293522640728064?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+Online, SATS continues to use curves, adopting a sleek, tech-ish feel to its brand applications such as <a href="https://www.linkedin.com/feed/update/urn:li:activity:7280070259598893056/" target="_blank">festive ecards</a>. 
 
 <figure>
 <img src="https://i.imgur.com/Fbegqsg.jpg" alt="SATS social media">
