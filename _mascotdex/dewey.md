@@ -30,4 +30,26 @@ The championship’s website shares more about Dewey in a write-up:
 <figcaption><a href="https://www.worldaquatics.com/news/4242589/world-aquatics-championships-singapore-2025-mascots-revealed" target="_blank">(Source)</a></figcaption>
 </figure>
 
+Both Ollie and Dewey have merchandise ranging from pins to vinyl figurines showcasing local culture and landmarks.
+
+<figure>
+<img src="https://i.imgur.com/KmAbTAP.jpg" alt="">
+<figcaption>CharmPopz and pins</figcaption>
+</figure>
+
+<br>
+
+<figure>
+<img src="https://i.imgur.com/P5pDaOk.jpg" alt="">
+<figcaption>Vinyl figurines</figcaption>
+</figure>
+
+The store describes each figurine:
+
+Patriotic Dewey – Singapore at heart, in spirit, and in action—whether waving the flag on National Day, supporting local hawkers, or looking out for the community.
+
+Nyonya Dewey – The Peranakan matriarch, keeping traditions alive through stunning kebayas, intricate beadwork, and legendary home-cooked feasts.
+
+Samsui Dewey – A symbol of resilience and grit, honoring the pioneering women who built Singapore, brick by brick, with unbreakable strength and spirit.
+
 <i>Have a trivia nugget about Dewey? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
