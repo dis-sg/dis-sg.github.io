@@ -30,4 +30,28 @@ The championship’s website shares more about Ollie in a write-up:
 <figcaption><a href="https://www.worldaquatics.com/news/4242589/world-aquatics-championships-singapore-2025-mascots-revealed " target="_blank">(Source)</a></figcaption>
 </figure>
 
+Both Ollie and Dewey have merchandise ranging from pins to vinyl figures showcasing local culture and landmarks.
+
+<figure>
+<img src="https://i.imgur.com/5v8paZG.jpg" alt="">
+<figcaption>CharmPopz and pins</figcaption>
+</figure>
+
+<br>
+
+<figure>
+<img src="https://i.imgur.com/P5pDaOk.jpg" alt="">
+<figcaption>Vinyl figures</figcaption>
+</figure>
+
+Soldier Ollie – A tribute to every Singaporean son’s rite of passage, from BMT to ORD. Army, police, or civil defense—he wears his uniform with pride!
+
+Uncle Ollie – The true heartland legend, running on kopi-O, nostalgia, and sharp Singlish one-liners. Found at the kopitiam, debating why “last time better, lah!”
+
+Durian Lover Ollie – The ultimate durian connoisseur, mastering the “smell and shake” technique to pick the creamiest, most shiok Mao Shan Wang.
+
+<figure>
+<img src="https://i.imgur.com/Ou5zPm8.jpg" alt="">
+</figure>
+
 <i>Have a trivia nugget about Ollie? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
