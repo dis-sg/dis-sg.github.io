@@ -23,14 +23,14 @@ Ollie (not to be confused with GovTech’s <a href="https://www.designinsingapor
 
 The championship’s website shares more about Ollie in a write-up:
 
-<i>“Cheeky and cheerful, Ollie the urban otter has found a special home in Singapore - not just in the waterways, but also in the hearts of its people! Often seen cruising through the waters of our Garden City or playfully traversing Singapore’s bustling streets, Ollie is a familiar and beloved sight. An excellent swimmer, Ollie’s smooth, fur-covered body sleekly glides through the water before popping up with a friendly wave for fans on land. Ollie is the embodiment of ‘water alongside land’ and ‘nature alongside civilisation'.”<i>
+<i>“Cheeky and cheerful, Ollie the urban otter has found a special home in Singapore - not just in the waterways, but also in the hearts of its people! Often seen cruising through the waters of our Garden City or playfully traversing Singapore’s bustling streets, Ollie is a familiar and beloved sight. An excellent swimmer, Ollie’s smooth, fur-covered body sleekly glides through the water before popping up with a friendly wave for fans on land. Ollie is the embodiment of ‘water alongside land’ and ‘nature alongside civilisation'.”</i>
 
 <figure>
 <img src="https://i.imgur.com/Smdv9qJ.png" alt="">
 <figcaption><a href="https://www.worldaquatics.com/news/4242589/world-aquatics-championships-singapore-2025-mascots-revealed " target="_blank">(Source)</a></figcaption>
 </figure>
 
-Both Ollie and Dewey have merchandise ranging from pins to vinyl figures showcasing local culture and landmarks.
+Both Ollie and Dewey have merchandise ranging from pins to vinyl figurines showcasing local culture and landmarks.
 
 <figure>
 <img src="https://i.imgur.com/5v8paZG.jpg" alt="">
@@ -41,8 +41,10 @@ Both Ollie and Dewey have merchandise ranging from pins to vinyl figures showcas
 
 <figure>
 <img src="https://i.imgur.com/P5pDaOk.jpg" alt="">
-<figcaption>Vinyl figures</figcaption>
+<figcaption>Vinyl figurines</figcaption>
 </figure>
+
+The store describes each figurine:
 
 Soldier Ollie – A tribute to every Singaporean son’s rite of passage, from BMT to ORD. Army, police, or civil defense—he wears his uniform with pride!
 
