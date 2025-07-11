@@ -16,7 +16,7 @@ Singapore has many friends, which bolsters its status as a global hub despite be
 
 As the nation celebrates its 60th birthday this year, it also marks significant milestones in diplomatic ties with several countries. Many of these anniversaries are commemorated through special logos, which brand cultural events, exchanges, and initiatives throughout the year.
 
-These logos often combine visual elements from both nations to convey a sense of shared identity and friendship. In doing so, they also reflect how Singapore wanted to be seen by the world through design.
+These logos often combine visual elements from both nations to convey a sense of shared identity and friendship. In doing so, they also reflect how Singapore wants to be seen by the world through design.
 
 Let’s take a closer look at some of these anniversary logos:
 
@@ -33,7 +33,7 @@ Owing to its “rojak” composition, the “50” is more clearly seen when vie
 
 <figure>
 <img src="https://i.imgur.com/MIx9YUW.png" alt="">
-<figcaption>Logo application <a href=https://www.facebook.com/KoreaEmbassySingapore/posts/1023950249769565"" target="_blank">(Source)</a></figcaption>
+<figcaption>Logo application <a href="https://www.facebook.com/KoreaEmbassySingapore/posts/1023950249769565" target="_blank">(Source)</a></figcaption>
 </figure>
 
 A slew of activities have been planned throughout the year, ranging from arts performances to travel fairs. 
@@ -42,14 +42,14 @@ A slew of activities have been planned throughout the year, ranging from arts pe
 
 <br>
 
-<h2>Netherlands(60 years)</h2>
+<h2>The Netherlands (60 years)</h2>
 
 <figure>
 <img src="https://i.imgur.com/Zvhaadz.png" alt="">
 <figcaption><a href="https://kingscom.com/portfolio/dutch-embassy-singapore/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-In keeping with Dutch design sensibilities, the logo which celebrates 60 years of diplomatic ties between Singapore and the Netherlands (SG-NL60) features clean illustrations of national flowers—the orchid and tulip. A blue circle, which reflects both countries’ shared maritime trade links, completes the symmetrical logo. 
+In keeping with Dutch design sensibilities, the logo which celebrates 60 years of diplomatic ties between Singapore and the Netherlands (SG-NL60) features clean illustrations of an orchid and tulip, which are their respective national flowers. A blue circle, which reflects both countries’ shared maritime trade links, completes the symmetrical logo. 
 
 <div class="video-responsive"> <iframe width="770" height="513" src="https://www.youtube.com/embed/sbKMpzk9TSI" title="Announcing: The SGNL60 Logo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -97,10 +97,14 @@ Although no official logo was created for this milestone, the Petronas Twin Towe
 
 <figure>
 <img src="https://i.imgur.com/812XnMl.jpg" alt="">
-<figcaption><a href=”https://www.instagram.com/p/DEfJzvhzZVP/" target="_blank">(Source)</a></figcaption>
+<figcaption><a href="https://www.instagram.com/p/DEfJzvhzZVP/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 The towers are perhaps the best billboard of bilateralism, as each tower can represent a country with the skybridge standing in as a handshake. 
+
+<br>
+
+Stay tuned for the next part of this series where we explore anniversary logos featuring architecture, cultural patterns and more.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
