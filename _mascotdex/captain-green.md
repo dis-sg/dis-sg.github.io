@@ -16,6 +16,11 @@ mascot-family:
 
 Captain Green is a mascot of the National Environment Agency (NEA). The frog mascot was introduced in 1990 during the inaugural Clean & Green Week to “raise social responsibilities and heighten environmental awareness on issues such as clean air, nature preservation, recycling, green consumerism and maintaining a litter-free environment".
 
+<figure>
+<img src="https://i.imgur.com/UdQbE93.jpg" alt="">
+<figcaption><a href="https://www.cgs.gov.sg/images/Resources/Public%20Cleanliness/7_eco_habits_a4_stickers.jpg" target="_blank">(Source)</a></figcaption>
+</figure>
+
 <h3>Origin Story</h3>
 
 NEA provided a write-up of Captain Green's origin story:
@@ -29,6 +34,8 @@ Seeing how he took the lead to clear the public space of trash, he became affect
 Through the years, Captain Green has become a symbol for the “Clean and Green” movement which aims to inspire Singaporeans to care for and protect our environment by adopting a clean, green and sustainable lifestyle. He remains steadfast in his belief that the smallest gesture today can have a lasting impact on the environment tomorrow. His mission? To inspire others to join him in his quest to save the environment, one croak at a time.
 
 <h3>Design Evolution</h3>
+
+Captain Green's design has changed significantly over the years.
 
 <figure>
 <img src="https://i.imgur.com/FfLhicQ.jpg" alt="">
@@ -61,7 +68,7 @@ He continues to be a ‘greenfluencer’ for NEA and Clean & Green Singapore, in
 <figcaption><a href="https://www.facebook.com/NEASingapore/posts/pfbid072siQZASU9MrWPAn696XiEwodbnd8x94st4Z33iNhgXgcMfnm7Sngoe9wzgucv6Cl" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<h3>Trivia:</h3>
+<h3>Trivia</h3>
 
 Before Captain Green, the Ministry of the Environment (of which NEA is a statutory board of) used an unnamed frog for a dengue fever awareness and prevention campaign.
 
