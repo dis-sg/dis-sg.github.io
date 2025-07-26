@@ -104,7 +104,7 @@ The towers are perhaps the best billboard of bilateralism, as each tower can rep
 
 <br>
 
-Stay tuned for the next part of this series where we explore anniversary logos featuring architecture, cultural patterns and more.
+Check out <a href="https://www.designinsingapore.com/bilateral-milestone-logos-pt-2/" target="_blank">Part 2 of Designing Diplomacy</a> where we explore anniversary logos featuring architecture, cultural patterns and more.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
