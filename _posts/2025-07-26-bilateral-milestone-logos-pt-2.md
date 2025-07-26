@@ -14,7 +14,7 @@ og_image: https://i.imgur.com/PLfyaA3.png
 
 As Singapore celebrates its 60th birthday this year, it also marks significant milestones in diplomatic ties with several countries, with commemorative logos that play a symbolic role in branding cultural events, exchanges, and initiatives throughout the year.
 
-Following <a href="https://www.designinsingapore.com/bilateral-milestone-logos-pt-1/ " target="_blank">Part 1 of Designing Diplomacy</a></figcaption>, which highlighted six creative bilateral logos, Part 2 explores more countries that have joined in marking their diplomatic ties with Singapore through thoughtful visual identity.
+Following <a href="https://www.designinsingapore.com/bilateral-milestone-logos-pt-1/ " target="_blank">Part 1 of Designing Diplomacy</a>, which highlighted six creative bilateral logos, Part 2 explores more countries that have joined in marking their diplomatic ties with Singapore through thoughtful visual identity.
 
 <h2>Australia (60 years)</h2>
 
@@ -32,9 +32,13 @@ To mark 60 years of Australia–Singapore relations, the official logo incorpora
 Australia commissioned award-winning First Nations artist <a href="https://www.instagram.com/jessica_begg_art/" target="_blank">Jessica Begg</a> from Western Australia to create an artwork that embodied the spirit of enduring friendship and collaboration between the two countries. The colour palette of "Bunji", which means "friend" or "mate" in some Aboriginal cultures, was inspired by Singapore’s national flower, the Vanda Miss Joaquim. 
 
 Viewers of the artwork can see:
+
 • inspired constellations from the national flags of both countries
+
 • concentric rings representing campsites or waterholes, symbolising sacred meeting places and the creation of a trusted partnership
+
 • inverted 'U' shaped curves, representing 60 individuals whose stories will be highlighted through the Australian embassy’s #60for60 project, personalising the story of 60 years of friendship
+
 • a snake scaled pattern on the outer edge, signifying strength, creativity, and continuity, while acknowledging the cultural similarities and differences between Australia and Singapore. The pattern is particularly significant as 2025 is the Year of the Snake in the Lunar calendar.
 
 <figure>
@@ -126,8 +130,8 @@ Although the press release notes the logo’s use of national colours, the final
 <h2>Mexico (50 years)</h2>
 
 <figure>
-<img src="" alt="">
-<figcaption><a href=”https://i.imgur.com/P7OtzGe.jpg " target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/P7OtzGe.jpg" alt="">
+<figcaption><a href="https://www.instagram.com/p/DEWSp9czDTV/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 The Mexico–Singapore 50th anniversary logo was the result of a design competition late last year organised by the Mexican Embassy in Singapore.
