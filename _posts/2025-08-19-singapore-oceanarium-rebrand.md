@@ -63,6 +63,7 @@ One of Singapore Oceanarium’s major changes is the revamped entrance, which no
 <figure>
 <img src="https://i.imgur.com/6Gx4bwT.jpg" alt="S.E.A. Aquarium">
 <figcaption>S.E.A. Aquarium entrance</figcaption>
+</figure>
 <br>
 <figure>
 <img src="https://i.imgur.com/p4aOyHx.png" alt="Singapore Oceanarium entrance">
