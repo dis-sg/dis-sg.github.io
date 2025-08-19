@@ -6,9 +6,11 @@ categories: [Branding Singapore, Rebrand, Tourism]
 tags: []
 description: "In its edutainment era 🐟💡"
 comments: false
-image: https://i.imgur.com/ZLERMEE.png 
-og_image: https://i.imgur.com/ZLERMEE.png 
+image: https://i.imgur.com/4ewKX5z.png
+og_image: https://i.imgur.com/4ewKX5z.png
 ---
+
+<h2>In its edutainment era 🐟💡</h2>
 
 If you had the privilege of visiting the now-defunct Underwater World in its heyday, you would likely remember the mindblowing entrance tunnel which offered a 180 degree view of marine life - a novelty in the 1990s. 
 
@@ -60,15 +62,15 @@ One of Singapore Oceanarium’s major changes is the revamped entrance, which no
 
 <figure>
 <img src="https://i.imgur.com/6Gx4bwT.jpg" alt="S.E.A. Aquarium">
-<figcaption>S.E.A. Aquarium entrance</figure>
-
+<figcaption>S.E.A. Aquarium entrance</figcaption>
+<br>
 <figure>
 <img src="https://i.imgur.com/p4aOyHx.png" alt="Singapore Oceanarium entrance">
 <figcaption>Singapore Oceanarium entrance <a href="https://www.singaporeoceanarium.com/en.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 22 zones await visitors, including “Ocean Wonders”, which introduces one of the ocean’s most ancient survivors - sea jellies, and “Singapore’s Coast”, where visitors can explore local mangrove species in air-conditioned comfort. In the last zone, visitors can make an e-pledge to marine conservation. 
-
+<br>
 <figure>
 <img src="https://i.imgur.com/3w5XxIV.jpg" alt="Singapore Oceanarium">
 <figcaption>"Drop of Water" zone <a href="https://www.singaporeoceanarium.com/en.html" target="_blank">(Source)</a></figcaption>
@@ -101,7 +103,7 @@ As one of the top attractions in Singapore, the Singapore Oceanarium continues t
 <br>
 <figure>
 <img src="https://i.imgur.com/E4X32ca.png" alt="S.E.A. Aquarium Genshin Impact">
-<figcaption>Genshin Impact themed snacks<a href="https://www.rwsentosa.com/en/guide-to-fun/genshin-impact-comes-to-life-at-resorts-world-sentosa" target="_blank">(Source)</a></figcaption>
+<figcaption>Genshin Impact themed snacks <a href="https://www.rwsentosa.com/en/guide-to-fun/genshin-impact-comes-to-life-at-resorts-world-sentosa" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Move aside, Labubu - Singapore Oceanarium also jumped on the blind box bandwagon by bundling them with admission tickets during its opening weekend. 
