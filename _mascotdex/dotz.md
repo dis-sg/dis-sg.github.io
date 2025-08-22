@@ -5,7 +5,7 @@ description: Everything you need to know about Dotz
 layout: mascot
 permalink: /mascotdex/dotz/
 comments: false
-birth-year: 2013
+birth-year: 2011
 mascot-type: Bear
 mascot-owner: Building and Construction Authority
 mascot-cause: [Design]
