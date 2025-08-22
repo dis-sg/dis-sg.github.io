@@ -5,17 +5,19 @@ description: Everything you need to know about Hexa
 layout: mascot
 permalink: /mascotdex/hexa/
 comments: false
-birth-year: 2013
+birth-year: 2011
 mascot-type: Robot
 mascot-owner: Building and Construction Authority
 mascot-cause: [Design]
-mascot-creator: [Unknown]
+mascot-creator: [Chips and Toon]
 mascot-status: Retired
 mascot-family: 
 ---
 
 
-<a href="https://www.designinsingapore.com/mascotdex/dotz/" target="_blank">Dotz</a> and Hexa are retired mascots of the Building and Construction Authority (BCA), representing the agency's commitment to universal design (UD), under the campaign Unify to UDify. Hexa is a small robot modelled after a flower. It has the power to modify structures to fit UD guidelines.
+<a href="https://www.designinsingapore.com/mascotdex/dotz/" target="_blank">Dotz</a> and Hexa are retired mascots of the Building and Construction Authority (BCA), representing the agency's commitment to universal design (UD), under the campaign Unify to UDify. Both mascots were created by animation studio <a href="https://www.chipsandtoon.com/" target="_blank">Chips and Toon</a>. 
+
+Hexa is a small robot modelled after a flower. It has the power to modify structures to fit UD guidelines.
 
 <figure>
 <img src=" https://i.imgur.com/5NOV00j.jpg" alt="">
