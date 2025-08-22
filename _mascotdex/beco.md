@@ -9,12 +9,12 @@ birth-year: 2014
 mascot-type: Building
 mascot-owner: Building and Construction Authority
 mascot-cause: [Design]
-mascot-creator: [Unknown]
+mascot-creator: [Senses Marketing Communications and Design]
 mascot-status: Retired
 mascot-family: 
 ---
 
-Greco and Beco are retired mascots of the Building and Construction Authority (BCA), representing the agency’s efforts to promote green and sustainable building practices.
+Greco and Beco are retired mascots of the Building and Construction Authority (BCA), representing the agency’s efforts to promote green and sustainable building practices. They were created by <a href="http://senses.com.sg/" target="_blank">Senses Marketing Communications and Design</a>.
 
 <figure>
 <img src="https://i.imgur.com/OCtsQeb.jpg" alt="">
