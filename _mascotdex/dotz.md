@@ -9,12 +9,14 @@ birth-year: 2013
 mascot-type: Bear
 mascot-owner: Building and Construction Authority
 mascot-cause: [Design]
-mascot-creator: [Unknown]
+mascot-creator: [Chips and Toon]
 mascot-status: Retired
 mascot-family: 
 ---
 
-Dotz and <a href="https://www.designinsingapore.com/mascotdex/hexa" target="_blank">Hexa</a> are retired mascots of the Building and Construction Authority (BCA), representing the agency's commitment to universal design (UD), under the campaign Unify to UDify. Dotz is a blue bear with a white belly. 
+Dotz and <a href="https://www.designinsingapore.com/mascotdex/hexa" target="_blank">Hexa</a> are retired mascots of the Building and Construction Authority (BCA), representing the agency's commitment to universal design (UD), under the campaign Unify to UDify. Both mascots were created by animation studio <a href="https://www.chipsandtoon.com/" target="_blank">Chips and Toon</a>. 
+
+Dotz is a blue bear with a white belly. 
 
 <figure>
 <img src=" https://i.imgur.com/5NOV00j.jpg" alt="">
