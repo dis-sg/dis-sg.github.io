@@ -5,7 +5,7 @@ description: Everything you need to know about Beco
 layout: mascot
 permalink: /mascotdex/beco/
 comments: false
-birth-year: 2014
+birth-year: 2010
 mascot-type: Building
 mascot-owner: Building and Construction Authority
 mascot-cause: [Design]
