@@ -9,12 +9,12 @@ birth-year: 2014
 mascot-type: Otter
 mascot-owner: People’s Association
 mascot-cause: [Environment]
-mascot-creator: [Unknown]
+mascot-creator: [Oxygen Studio Designs]
 mascot-status: Active
 mascot-family: 
 ---
 
-Ottie is a mascot of PAssion Wave, a network of water sports and recreational centers managed by the People's Association. Introduced in 2014 as part of Project Blue WaVe, Ottie was designed to promote environmental conservation and encourage community engagement in keeping Singapore's waterways clean. The smooth-coated otter was chosen due to its natural association with aquatic environments, making it an ideal symbol for water-related activities and environmental stewardship. 
+Ottie is a mascot of PAssion Wave, a network of water sports and recreational centers managed by the People's Association. Designed by <a href="https://www.oxygensd.com/water-venture-comic-illustration/" target="_blank">Oxygen Studio Designs</a> and introduced in 2014 as part of Project Blue WaVe, Ottie promotes environmental conservation and encourage community engagement in keeping Singapore's waterways clean. The smooth-coated otter was chosen due to its natural association with aquatic environments, making it an ideal symbol for water-related activities and environmental stewardship. 
 
 <figure>
 <img src="https://i.imgur.com/yIU5xUO.jpg" alt="">
