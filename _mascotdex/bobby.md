@@ -9,12 +9,12 @@ birth-year: 2014
 mascot-type: Turtle
 mascot-owner: People’s Association
 mascot-cause: [Environment]
-mascot-creator: [Unknown]
+mascot-creator: [Oxygen Studio Designs]
 mascot-status: Active
 mascot-family: 
 ---
 
-Bobby the hawksbill sea turtle is a mascot of PAssion Wave, a network of water sports and recreational centers managed by the People's Association. Introduced in 2014 as part of Project Blue WaVe, Bobby’s role is to spread the message of marine conservation. 
+Bobby the hawksbill sea turtle is a mascot of PAssion Wave, a network of water sports and recreational centers managed by the People's Association. Designed by <a href="https://www.oxygensd.com/water-venture-comic-illustration/" target="_blank">Oxygen Studio Designs</a> and introduced in 2014 as part of Project Blue WaVe, Bobby’s role is to spread the message of marine conservation. 
 
 <figure>
 <img src="https://i.imgur.com/1Kk0U22.jpg" alt="">
