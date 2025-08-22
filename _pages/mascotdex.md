@@ -173,7 +173,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
       </tr>
       <tr>
         <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/pzqILuu.png" alt="Beco Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/beco/">Beco</a></div></td>
-        <td>2014</td>
+        <td>2010</td>
         <td>Retired</td>
         <td>Building and Construction Authority</td>
       </tr>
@@ -335,7 +335,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
       </tr>
       <tr>
         <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/unpXt3k.png" alt="Dotz Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/dotz/">Dotz</a></div></td>
-        <td>2013</td>
+        <td>2011</td>
         <td>Retired</td>
         <td>Building and Construction Authority</td>
       </tr>
@@ -413,7 +413,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
       </tr>
       <tr>
         <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/0l0K1Et.png" alt="Greco Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/greco/">Greco</a></div></td>
-        <td>2014</td>
+        <td>2010</td>
         <td>Retired</td>
         <td>Building and Construction Authority</td>
       </tr>
@@ -431,7 +431,7 @@ If you have more information, notice a missing mascot, or spot any errors, pleas
       </tr>
       <tr>
         <td><div class="thumbnail-name-container"><img src="https://i.imgur.com/gStEVOD.png" alt="Hexa Thumbnail" class="thumbnail-name"><a href="https://www.designinsingapore.com/mascotdex/hexa/">Hexa</a></div></td>
-        <td>2013</td>
+        <td>2011</td>
         <td>Retired</td>
         <td>Building and Construction Authority</td>
       </tr>
