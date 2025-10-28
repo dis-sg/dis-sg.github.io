@@ -9,12 +9,12 @@ birth-year: 2017
 mascot-type: Bear
 mascot-owner: Corrupt Practices Investigation Bureau
 mascot-cause: [Crime]
-mascot-creator: [Unknown]
+mascot-creator: [Darel Seow]
 mascot-status: Active
 mascot-family: 
 ---
 
-Kopi Lim is the mascot of the Corrupt Practices Investigation Bureau (CPIB) in Singapore. Introduced in 2017, Kopi Lim is a bespectacled, stuffed polar bear who represents the bureau's efforts to educate the public about anti-corruption. 
+Kopi Lim is the mascot of the Corrupt Practices Investigation Bureau (CPIB) in Singapore. Introduced in 2017 as a plush and illustrated by Darel Seow in 2018, Kopi Lim is a bespectacled, stuffed polar bear who represents the bureau's efforts to educate the public about anti-corruption. 
 
 <figure>
 <img src="https://i.imgur.com/sXJUIbi.png" alt="">
