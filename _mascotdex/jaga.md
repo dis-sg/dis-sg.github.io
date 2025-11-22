@@ -65,4 +65,12 @@ In 2025, Jaga fronted the Cyber Security Agency of Singapore's sixth national cy
 <figcaption><a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/cybersecurity-campaigns/stop-and-check-campaign/" target="_blank">(Source)</a></figcaption>
 </figure>
 
+<br>
+
+<figure>
+<img src="https://i.imgur.com/SI8LZKn.png" alt="">
+<figcaption><a href="https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/jaga-the-cybersecurity-hedgehog/" target="_blank">(Source)</a></figcaption>
+</figure>
+
+
 <i>Have a trivia nugget about Jaga? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
