@@ -31,12 +31,12 @@ Kallang is an integral part of Singapore’s sporting history, and The Kallang G
 
 <blockquote>
 
-“In Singapore, “Kallang” represents more than a name or location. It is a powerful yet emotional symbol of national pride. Rooted in Singapore’s collective consciousness, “Kallang” has always represented a space where people unite through competitions, celebrations and shared experiences like the National Day Parade.
-
+In Singapore, “Kallang” represents more than a name or location. It is a powerful yet emotional symbol of national pride. Rooted in Singapore’s collective consciousness, “Kallang” has always represented a space where people unite through competitions, celebrations and shared experiences like the National Day Parade.
+<br>
 “Kallang” has been home to both the previous and current National Stadium, hosting countless memorable moments that united the nation. It is where the legendary “Kallang Roar” and “Kallang Wave” emerged as fans rallied behind Team Singapore, transforming individual voices into a powerful chorus of national pride.
-
-This rich sporting legacy forms the foundation upon which The Kallang now builds. The transition from Singapore Sports Hub to The Kallang represents our evolution – where we broaden our identity while honouring our sporting heritage. It embraces our collective memories while strengthening our belief that sport, entertainment, lifestyle and community form the pillars of a dynamic ecosystem.”
-
+<br>
+This rich sporting legacy forms the foundation upon which The Kallang now builds. The transition from Singapore Sports Hub to The Kallang represents our evolution – where we broaden our identity while honouring our sporting heritage. It embraces our collective memories while strengthening our belief that sport, entertainment, lifestyle and community form the pillars of a dynamic ecosystem.
+<br>
 -The Kallang Group Media Release
 
 </blockquote>
