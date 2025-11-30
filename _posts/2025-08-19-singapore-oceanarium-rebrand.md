@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Singapore Oceanarium: Pretty Smart"
+title: "Singapore Oceanarium Rebrand: Pretty Smart"
 author: d
 categories: [Branding Singapore, Rebrand, Tourism]
 tags: []
