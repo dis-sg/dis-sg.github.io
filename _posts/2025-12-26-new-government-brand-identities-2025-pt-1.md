@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025 in Logos: New Government Identities (Part 1)"
+title: "2025 in Logos: New Government Brand Identities (Part 1)"
 author: d
 categories: [Branding Singapore]
 tags: []
