@@ -68,7 +68,7 @@ The forward-angling of these colour elements signifies the SAF's progressive and
 <br>
 -SAF60 Logo Factsheet
 </blockquote>
-
+<br>
 <h1>Rebrands</h1>
 
 <h2>National Library Board</h2> 
@@ -136,9 +136,9 @@ AGD quietly rebranded in July, without even a social post to announce the logo c
 
 <blockquote>
 “The sail-inspired 'A' represents our role as your trusted navigator in public sector finance. Just as a sail harnesses the wind's power to chart a steady course, we provide the stability and guidance you need to build a meaningful career in public sector finance.
-<br>
+<br><br>
 The butterfly-shaped 'D' symbolises the nurturing environment we offer, where ideas and talent flourish. At AGD, you will spread your wings in a workplace that nurtures growth and celebrates innovation. Like a butterfly emerging from its chrysalis, we support your professional metamorphosis through continuous learning and development opportunities.
-<br>
+<br><br>
 -Accountant-General’s Department About Us Page 
 </blockquote>
 
@@ -151,9 +151,9 @@ The butterfly-shaped 'D' symbolises the nurturing environment we offer, where id
 
 For its 20th anniversary, CCS (formerly known as CCCS) underwent an extensive rebranding exercise which included an acronym and logo change, to “signal its commitment to fostering well-functioning markets in an increasingly complex global landscape”.
 
-</blockquote>
+<blockquote>
 Our rebrand to “CCS” reflects our confidence in new beginnings – signalling growth, maturity and renewed clarity of purpose. Our dynamic logo symbolises thriving markets in motion, blending golden-yellow energy with the authoritative blue of a strong and reliable regulator, rooted in our institutional legacy. Together, these elements position CCS as both today's guardian of fairness and innovation and, tomorrow's future-ready regulator.
-<br>
+<br><br>
 -Competition and Consumer Commission of Singapore About Us Page 
 </blockquote>
 
