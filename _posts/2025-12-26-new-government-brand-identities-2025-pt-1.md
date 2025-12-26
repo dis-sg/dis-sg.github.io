@@ -25,11 +25,11 @@ Here are some of them:
 <figcaption><a href="https://www.sg60.gov.sg/sg60logo/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Singapore’s diamond jubilee brought several goodies, from SG60 Vouchers to SG Culture Pass credits and the SG60 Baby Gift. Tying these celebratory initiatives together was a single, familiar mark: the SG60 logo, designed by design agency <a href=”https://blackdesign.world/project/sg60/” target=”_blank”>BLACK</a>.
+Singapore’s diamond jubilee brought several goodies, from SG60 Vouchers to SG Culture Pass credits and the SG60 Baby Gift. Tying these celebratory initiatives together was a single, familiar mark: the SG60 logo, designed by design agency <a href="https://blackdesign.world/project/sg60/" target="_blank">BLACK</a>.
 
 <blockquote>
 “The SG60 logo continues the celebration of the little red dot as when it was celebrated during SG50. It brings back the once-familiar symbol for the celebration of Singapore’s 60th birthday.”
-<br>
+<br><br>
 -SG60 Brand Guide
 </blockquote>
 
@@ -63,9 +63,9 @@ The Singapore Armed Forces also celebrated its 60th anniversary this year. The a
 
 <blockquote>
 “The SAF60 logo represents the essence of the SAF's history and values throughout its sixty years of service and commitment to national defence, as well as its future aspirations. At the heart of the logo, the letters "SAF" are interconnected, symbolising the interoperability that have made the organisation a formidable fighting force. The prominent "60" stands as a bold testament to six decades of dedicated service, with its thick, continuous brush strokes representing the SAF's tenacity and ongoing transformation.
-<br>
+<br><br>
 The forward-angling of these colour elements signifies the SAF's progressive and future-oriented outlook. Incorporating national symbols, the logo features the red colour, crescent moon, and five stars of Singapore's flag. These elements serve as a powerful reminder of the nation's enduring spirit and the SAF's role in preserving it. The backdrop, a stylised silhouette of Singapore, acts as a vivid reminder of the SAF’s duty: to protect Singapore’s sovereignty, security, and way of life.”
-<br>
+<br><br>
 -SAF60 Logo Factsheet
 </blockquote>
 <br>
@@ -87,9 +87,9 @@ By embracing digitalisation early, NLB said it has bucked the trend of declining
 
 <blockquote>
 “Our brandmark inspires multiple interpretations. The three coloured panels represent a dynamic portal of discovery and a gateway to new horizons. The interplay of red and orange frames surrounding the blue portal creates multiple perspectives, shaping the viewer’s perspectives.
-<br>
+<br><br>
 The typography of the logotype uses Fira Sans, a font with rounded edges to align with the brandmark, for a functional yet approachable style. The logotype is in lowercase to invite everyone to engage with NLB as a portal for continuous discovery and opportunities.”
-<br>
+<br><br>
 -NLB Brand page
 </blockquote>
 
@@ -114,9 +114,9 @@ As part of NLB, the National Archives also refreshed its logo to align with the 
 
 <blockquote>
 “The refreshed National Archives of Singapore's (NAS) logo draws inspiration from the design of the NLB brand. It reflects NAS is part of NLB, while maintaining its unique identity as a memory institution for Singapore and a custodian of archival materials of national and historical significance collected and preserved by the NAS.
-<br>
+<br><br>
 The application of green in the logo shows NAS's heritage and provides a link to the past, while referencing sustainability as a guiding principle for NAS in collecting and preserving archival materials. Adopting the elements of the NLB's branding, NAS shares NLB's vision to inspire discovery and encourage curiosity in Singapore's stories, past, present and future.
-<br>
+<br><br>
 -National Archives of Singapore About Us Page
 </blockquote>
 
