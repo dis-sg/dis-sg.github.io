@@ -95,7 +95,7 @@ The typography of the logotype uses Fira Sans, a font with rounded edges to alig
 
 The rebrand caused quite a stir online, with some questioning if NLB was going to deprioritise books. Criticism aside, the logo signals NLB’s ambition to stay relevant in the digital age. 
 
-This year was also NLB’s 30th anniversary, and it partnered with local heritage design label Triologie to launch a capsule collection featuring the new logo. 
+This year was also NLB’s 30th anniversary, and it partnered with local heritage design label <a href="https://www.instagram.com/triologie_emporium/" target="_blank">Triologie</a> to launch a capsule collection featuring the new logo. 
 
 <figure>
 <img src="https://i.imgur.com/L8kOCnM.png" alt="NLB30 merch">
@@ -157,7 +157,7 @@ Our rebrand to “CCS” reflects our confidence in new beginnings – signallin
 -Competition and Consumer Commission of Singapore About Us Page 
 </blockquote>
 
-A <a href="https://isomer-user-content.by.gov.sg/45/1e6c8b18-a587-4d35-bba6-89d4410b8480/CCS%2020th%20Anniversary_Brochure%20(FINAL%20Web%20Version).pdf" target="_blank">commemorative booklet</a> and anniversary video was also published to celebrate the anniversary. 
+A <a href="https://isomer-user-content.by.gov.sg/45/1e6c8b18-a587-4d35-bba6-89d4410b8480/CCS%2020th%20Anniversary_Brochure%20(FINAL%20Web%20Version).pdf" target="_blank">commemorative booklet</a> and anniversary video were also published to celebrate the anniversary. 
 
 <div class="video-responsive"><iframe width="1521" height="526" src="https://www.youtube.com/embed/-9gDPkhmPZo" title="CCS20: Championing Fair Competition and Consumer Protection in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
 
