@@ -39,7 +39,7 @@ Together, these elements underscore MOM's unique role – dedicated to empowerin
 The new brand identity also includes a trendy bold serif, a handwriting typeface and social media templates for easy plug-and-play content creation.
 
 <div class="video-responsive"><iframe width="1905" height="742" src="https://www.youtube.com/embed/ZEdGhcJFt3o" title="Times have changed, our commitment never will" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
-
+<br>
 <figure>
 <img src="https://i.imgur.com/oPg7yfa.jpg" alt="mom logo">
 <figcaption><a href="https://www.facebook.com/photo?fbid=1064486119116742&set=a.332203292345032" target="_blank">(Source)</a></figcaption>
@@ -138,11 +138,8 @@ Additionally, it reflects the partnership between various partners and stakehold
 A brand video was published mark the refreshed movement, which included an animated logo reveal. 
 
 <div class="video-responsive"> <iframe width="1905" height="742" src="https://www.youtube.com/embed/f50UGq1O2Go" title="Building Skills, Growing Careers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-
-<figure>
-<img src="https://i.imgur.com/6SeUKK3.mp4" alt="skillsfuture animated logo">
-<figcaption><a href="https://www.youtube.com/watch?v=f50UGq1O2Go" target="_blank">(Source)</a></figcaption>
-</figure>
+<br>
+<div class="video-responsive"> <iframe src="https://i.imgur.com/6SeUKK3.mp4"></iframe></div>
 
 SkillsFuture now has at least three logos in its logo family:
 
