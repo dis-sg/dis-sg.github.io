@@ -12,7 +12,7 @@ og_image: https://i.imgur.com/srZgQjH.png
 
 <h2>More than just SG60 🔴</h2>
 
-<i>Read part 1 of this series.</i>
+<i>Continued from <a href="https://www.designinsingapore.com/new-government-brand-identities-2025-pt-1/" target="_blank">part 1</a> of this series.</i>
 
 This year was unsurprisingly busy for the world’s best public administration. With SG60 and several agencies hitting milestone anniversaries, a wave of new brand identities were unveiled, ranging from large-scale revamps to subtle design tweaks.
 
@@ -26,7 +26,7 @@ Here are some of them:
 <figcaption><a href="https://www.mom.gov.sg" target="_blank">(Source)</a></figcaption>
 </figure>
 
-The Ministry of Manpower unveiled its refreshed logo during its 70th anniversary celebration in April. Its first rebrand since its name change from the Ministry of Labour in 1999, the new brandmark keeps the spirit of the original logo by simplifying it and using a more contrasting colour palette to stand out in the digital age. 
+The Ministry of Manpower unveiled its refreshed logo during its 70th anniversary celebration in April. Its first rebrand since its name change from the Ministry of Labour in 1999, the new brandmark keeps the spirit of the original logo — simplifying it and using a more contrasting colour palette to stand out in the digital age. 
 
 <blockquote>
 The circle at the top of the logo reflects our focus on people — employers, employees, and MOMers – highlighting that they are at the heart of everything we do. Three distinctive stripes represent the vital tripartite partnership between government, employers, and unions, emphasising our collaborative efforts to create a resilient and dynamic workforce. The colour palette balances stability and relatability: a dark blue, signifying trust and stability; a modern blue representing adaptability and innovation; and an orange accent adding warmth and relatability.
@@ -36,13 +36,13 @@ Together, these elements underscore MOM's unique role – dedicated to empowerin
 -Ministry of Manpower About Us Page
 </blockquote>
 
-The new brand identity also included a trendy bold serif, a handwriting typeface and social media templates for easy plug and play content creation.
+The new brand identity also includes a trendy bold serif, a handwriting typeface and social media templates for easy plug-and-play content creation.
 
 <div class="video-responsive"><iframe width="1905" height="742" src="https://www.youtube.com/embed/ZEdGhcJFt3o" title="Times have changed, our commitment never will" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
 
 <figure>
-<img src="https://www.facebook.com/photo?fbid=1064486119116742&set=a.332203292345032" alt="mom logo">
-<figcaption><a href="https://www.mom.gov.sg/about-us/about-mom" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/oPg7yfa.jpg" alt="mom logo">
+<figcaption><a href="https://www.facebook.com/photo?fbid=1064486119116742&set=a.332203292345032" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <h2>President’s Challenge</h2> 
@@ -103,11 +103,11 @@ Once an organisation without an official logo (it borrowed SkillsFuture’s one)
 
 LLSG’s brandmark combines two speech bubbles to form a door where they intersect (<a href="https://www.nlb.gov.sg/main/about-us/The-NLB-Brand" target="_blank">looks familiar?</a>), representing its slogan of “opening doors to opportunities”. It also uses Terfens as the official brand typeface, which is a friendly-looking sans serif.
 
-The non-intersecting portions of the speech bubbles in the logo also form frames which are used liberally on LLSG’s content.
+The non-intersecting portions of the speech bubbles in the logo also form frames which are used liberally in LLSG’s content.
 
 <figure>
 <img src="https://i.imgur.com/quiskeN.jpg" alt="Lifelong Learning Singapore frame">
-<figcaption><a href=https://www.facebook.com/LifelongLearningSG/posts/pfbid02AdkaV7NzpGGngCwkA5uDeXcUWS6PjphjjzwWnNQhT8H56rbbQ1QmUJnuZGFKE7JWl  " target="_blank">(Source)</a></figcaption>
+<figcaption><a href=https://www.facebook.com/LifelongLearningSG/posts/pfbid02AdkaV7NzpGGngCwkA5uDeXcUWS6PjphjjzwWnNQhT8H56rbbQ1QmUJnuZGFKE7JWl" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <br>
@@ -134,6 +134,21 @@ Additionally, it reflects the partnership between various partners and stakehold
 <br><br>
 -SkillsFuture Movement About Us Page
 </blockquote>
+
+A brand video was published mark the refreshed movement, which included an animated logo reveal. 
+
+<div class="video-responsive"> <iframe width="1905" height="742" src="https://www.youtube.com/embed/f50UGq1O2Go" title="Building Skills, Growing Careers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<figure>
+<img src="https://i.imgur.com/6SeUKK3.mp4" alt="skillsfuture animated logo">
+<figcaption><a href="https://www.youtube.com/watch?v=f50UGq1O2Go" target="_blank">(Source)</a></figcaption>
+</figure>
+
+SkillsFuture now has at least three logos in its logo family:
+
+<figure>
+<img src="https://i.imgur.com/qyT0PSY.png" alt="skillsfuture logo family">
+</figure>
 
 <h2>Communicable Diseases Agency</h2> 
 
