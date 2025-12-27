@@ -138,8 +138,6 @@ Additionally, it reflects the partnership between various partners and stakehold
 A brand video was published mark the refreshed movement, which included an animated logo reveal. 
 
 <div class="video-responsive"> <iframe width="1905" height="742" src="https://www.youtube.com/embed/f50UGq1O2Go" title="Building Skills, Growing Careers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-<br>
-<div class="video-responsive"> <iframe src="https://i.imgur.com/6SeUKK3.mp4"></iframe></div>
 
 SkillsFuture now has at least three logos in its logo family:
 
