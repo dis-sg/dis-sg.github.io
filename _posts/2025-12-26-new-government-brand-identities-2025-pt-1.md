@@ -74,8 +74,8 @@ The forward-angling of these colour elements signifies the SAF's progressive and
 <h2>National Library Board</h2> 
 
 <figure>
-<img src="https://i.imgur.com/pJPvDfU.png" alt="nlb logo">
-<figcaption><a href="https://www.nlb.gov.sg/main/about-us/The-NLB-Brand" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/fFmO4is.png" alt="nlb logo">
+<figcaption><a href="https://www.nlb.gov.sg" target="_blank">(Source)</a></figcaption>
 </figure>
 
 By embracing digitalisation early, NLB said it has bucked the trend of declining visitorship plaguing other libraries globally. This push towards technology is most clearly expressed in its rebrand, where it extracted the “pages and pixels” from its original book logo to become an abstract brandmark reflecting “a portal of discovery”. 
@@ -105,8 +105,8 @@ This year was also NLB’s 30th anniversary, and it partnered with local heritag
 <h2>National Archives of Singapore</h2>
 
 <figure>
-<img src="https://i.imgur.com/aBPlVt6.jpg" alt="National Archives of Singapore logo">
-<figcaption><a href="https://www.nas.gov.sg/archivesonline/about-us" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/xPCT7a4.png" alt="National Archives of Singapore logo">
+<figcaption><a href="https://www.nas.gov.sg" target="_blank">(Source)</a></figcaption>
 </figure>
 
 As part of NLB, the National Archives also refreshed its logo to align with the parent brand,  notably removing its book motif in the process.
@@ -123,8 +123,8 @@ The application of green in the logo shows NAS's heritage and provides a link to
 <h2>Accountant-General’s Department</h2>
 
 <figure>
-<img src="https://i.imgur.com/o3swl44.png" alt="Accountant-General’s Department logo AGD">
-<figcaption><a href="https://www.agd.gov.sg/who-we-are/mission-vision-values/" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/DwOUe0m.png" alt="Accountant-General’s Department logo AGD">
+<figcaption><a href="https://www.agd.gov.sg/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 AGD quietly rebranded in July, without even a social post to announce the logo change. The new logo uses a sans serif font with a bespoke “A” and “D”.
@@ -145,8 +145,8 @@ The butterfly-shaped 'D' symbolises the nurturing environment we offer, where id
 <h2>Competition and Consumer Commission of Singapore</h2>
 
 <figure>
-<img src="https://i.imgur.com/bTM0Xhf.png" alt="logo Competition and Consumer Commission of Singapore">
-<figcaption><a href="https://www.ccs.gov.sg/about-ccs/who-we-are/vision--mission---values/" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/BjvsaGw.png" alt="logo Competition and Consumer Commission of Singapore">
+<figcaption><a href="https://www.ccs.gov.sg/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 For its 20th anniversary, CCS (formerly known as CCCS) underwent an extensive rebranding exercise which included an acronym and logo change, to “signal its commitment to fostering well-functioning markets in an increasingly complex global landscape”.
