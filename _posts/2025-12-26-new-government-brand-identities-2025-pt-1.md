@@ -163,7 +163,7 @@ A <a href="https://isomer-user-content.by.gov.sg/45/1e6c8b18-a587-4d35-bba6-89d4
 
 <br>
 
-Stay tuned for <a href="https://www.designinsingapore.com/new-government-brand-identities-2025-pt-2/" target="_blank">Part 2</a>, where we look at more government identities unveiled this year.
+Continue with <a href="https://www.designinsingapore.com/new-government-brand-identities-2025-pt-2/" target="_blank">Part 2</a> of this series, where we look at more government identities unveiled this year.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
