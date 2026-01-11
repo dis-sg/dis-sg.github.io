@@ -17,7 +17,7 @@ Some of Singapore’s waste collection trucks have gotten a makeover recently.
 With over 45 years of waste management experience, SembWaste, one of the three NEA-appointed public waste collectors, has rebranded to Cora Environment. 
 
 <figure>
-<img src=https://i.imgur.com/NW99jWe.png" alt="Cora Environment logo">
+<img src="https://i.imgur.com/NW99jWe.png" alt="Cora Environment logo">
 <figcaption><a href="https://coraenv.co/" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ The most noticeable change is the livery on Cora Environment’s waste collectio
 <img src="https://i.imgur.com/yjSOrBe.jpg" alt="Cora Environment new livery">
 <figcaption>New livery <a href="https://coraenv.co/year-in-review-2025/" target="_blank">(Source)</a></figcaption>
 </figure>
-
+<br>
 <h2>Rethinking Waste</h2>
 
 During the brand launch, Cora Environment unveiled an ambitious five-year, S$200 million strategic roadmap, focusing on enhancing waste-to-resource capabilities, strengthening material recovery facilities, and accelerating digital transformation. 
@@ -84,7 +84,7 @@ During the brand launch, Cora Environment unveiled an ambitious five-year, S$200
 Public outreach has also intensified since the rebrand, particularly among students, through talent attachments and competitions. As part of its School Recycling League, 100 smart recycling hubs have been rolled out in schools, using gamification to educate younger generations about recycling and waste reduction.
 
 <div class="video-responsive"><iframe width="1335" height="751" src="https://www.youtube.com/embed/oWaQtzFMRrY" title="REhub Launch at Mee Toh School 2025 | Cora Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
-
+<br>
 <h2>Kawaii-fying Waste</h2>
 
 In places like Taiwan and Japan, strong recycling cultures did not emerge overnight. Behind the mascots and musical garbage trucks are decades of consistent public education and campaigns to teach citizens how to love our planet. 
@@ -93,7 +93,7 @@ In places like Taiwan and Japan, strong recycling cultures did not emerge overni
 
 Singapore has also turned trash into treasure. Semakau Landfill is a lush island with a thriving ecosystem. The “Garbage of Eden” is a far cry from the typical landfill which spews toxic gases and pungent odours. 
 
-But we still have some way to go before reaching the same level of collective environmental consciousness as seen in some of our Asian counterparts. Through its renewed commitment to outreach programmes, Cora Environment is playing its part in making that happen. 
+But we still have some way to go before reaching the same level of collective environmental consciousness as seen in our Asian counterparts. Through its renewed commitment to outreach programmes, Cora Environment is playing its part in making that happen. 
 
 <figure>
 <img src="https://i.imgur.com/k7uwF4I.jpg" alt="Cora Environment truck toy">
