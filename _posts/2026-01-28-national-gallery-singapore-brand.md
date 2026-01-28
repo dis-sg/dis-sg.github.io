@@ -46,7 +46,7 @@ When the National Gallery Singapore logo was first revealed in 2014, it received
 <figcaption><a href="https://www.todayonline.com/blogs/forartssake/national-gallery-singapore-whats-name-whats-logo" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Designed by creative agency <a href=https://theasylum.com.sg/" target="_blank">Asylum</a>, founder Chris Lee said the project took three months where they explored over 50 designs before landing on the two red blocks, which he described as most compelling.
+Designed by creative agency <a href="https://theasylum.com.sg/" target="_blank">Asylum</a>, founder Chris Lee said the project took three months where they explored over 50 designs before landing on the two red blocks, which he described as most compelling.
 
 <blockquote>
 “We wanted to give the Gallery an expression that offers limitless interpretations which in turn encourages and inspires creativity. Distilling the silhouette of the two buildings’ architecture, the logo took on the form of two rectangular blocks which can be interpreted in every imaginable way - two building blocks, two dialogue boxes, two platforms; two plinths or simply two spaces for visual arts. The visual identity is bold while remaining respectful of the buildings’ heritage and the Gallery’s vision”.
