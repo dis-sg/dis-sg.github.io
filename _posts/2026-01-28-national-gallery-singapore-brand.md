@@ -24,7 +24,7 @@ You may have noticed some red blocks while shopping in town or jogging at a park
 <figcaption>Benches at Marina Bay <a href="https://www.facebook.com/nationalgallerysingapore/posts/pfbid0FDG2xRdJhM9wd6f4CjH6hWnnNy1Hgtzbei9vu9TyGc2g31s6KakY39XVWYQD3Dtzl" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Known as "Gallery Benches", they were placed across the island as a symbolic gesture to reinforce the idea that art should be accessible beyond museum walls. They are also available for adoption from $6,000, with proceeds going to support the National Gallery’s efforts to keep art inclusive and accessible for all visitors.
+Known as <a href="https://www.nationalgallery.sg/sg/en/donate-and-volunteer/Adopt-a-Gallery-Bench.html" target="_blank">"Gallery Benches"</a>, they were placed across the island as a symbolic gesture to reinforce the idea that art should be accessible beyond museum walls. They are also available for adoption from $6,000, with proceeds going to support the National Gallery’s efforts to keep art inclusive and accessible for all visitors.
 
 <figure>
 <img src="https://i.imgur.com/b684bc8.jpg" alt="National Gallery Singapore Gallery Benches">
@@ -95,7 +95,7 @@ Overseas, museum logos of Centre Pompidou in Paris and Tokyo Metropolitan Art Mu
 <figure>
 <img src="https://i.imgur.com/BDxUBVE.png" alt="architecture-inspired logos">
 </figure>
-
+<br>
 <h2>Building on the Blocks</h2>
 
 An anniversary logo was created to celebrate National Gallery Singapore’s 10th birthday in 2025,cleverly reconfiguring the two blocks to form a “1”.
@@ -108,19 +108,19 @@ An anniversary logo was created to celebrate National Gallery Singapore’s 10th
 More impressively, a <a href="https://www.nationalgallery.sg/sg/en/gallery-turns-10.html" target="_blank">microsite</a> which was launched as part of the Gallery’s celebrations featured colourful complementary shapes and animations, which added to the festive feel. The inclusion of subtle logo elements made the Gallery’s visuals uniquely theirs.
 
 <figure>
-<img src="https://i.imgur.com/irarG76.gifv" alt="National Gallery Singapore 10">
+<img src="https://i.imgur.com/irarG76.gif" alt="National Gallery Singapore 10">
 <figcaption><a href="https://www.nationalgallery.sg/sg/en/gallery-turns-10.html" target="_blank">(Source)</a></figcaption>
 </figure>
 <br>
 <figure>
-<img src="https://i.imgur.com/cXMI1zp.gifv" alt="National Gallery Singapore 10">
+<img src="https://i.imgur.com/cXMI1zp.gif" alt="National Gallery Singapore 10">
 <figcaption><a href="https://www.nationalgallery.sg/sg/en/gallery-turns-10.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 National Gallery’s fifth anniversary also deserves an honourable mention for incorporating the logo elements in its celebratory visuals.
 
 <figure>
-<img src="" alt="National Gallery Singapore 5">
+<img src="https://i.imgur.com/37q8KPp.jpg" alt="National Gallery Singapore 5">
 <figcaption><a href="https://www.facebook.com/photo/?fbid=4067593326589693&set=a.624789773010615" target="_blank">(Source)</a></figcaption>
 </figure>
 
