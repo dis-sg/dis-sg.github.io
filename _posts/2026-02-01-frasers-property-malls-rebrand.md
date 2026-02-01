@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frasers Property Malls Rebrand: Does One Looks Fit All?"
+title: "Frasers Property Malls Rebrand: Does One Look Fit All?"
 author: d
 categories: [Branding Singapore, Rebrand, Retail]
 tags: []
