@@ -2,7 +2,7 @@
 layout: post
 title: "Cora Environment Rebrand: Beauty is in the Eye of the Beholder"
 author: d
-categories: [Branding Singapore, Environment]
+categories: [Branding Singapore, Rebrand, Environment]
 tags: []
 description: "Kicking Into High Gear ♻️"
 comments: false
