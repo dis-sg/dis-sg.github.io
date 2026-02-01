@@ -14,7 +14,7 @@ og_image: https://i.imgur.com/NA71z75.png
 
 Frasers Property Singapore really wants you to know that you are shopping at one of its malls.
 
-The real estate owner has rebranded most of its managed malls under a single, unified visual identity. As part of this initiative called “A Frasers Experience”, the malls will also progressively receive facelifts, including updated façades, redesigned Service Ambassador uniforms, and refreshed concierge counters. 
+The real estate owner has rebranded most of its managed malls under a single, unified visual identity. As part of this initiative called "A Frasers Experience", the malls will also progressively receive facelifts, including updated façades, redesigned Service Ambassador uniforms, and refreshed concierge counters. 
 
 <figure>
 <img src="https://i.imgur.com/V9M1Ugg.png" alt="northpoint new logo building">
@@ -41,12 +41,9 @@ Each mall may share the same logo treatment, but they are differentiated by heri
 
 <figure>
 <img src="https://i.imgur.com/ZcRnaqc.png" alt="frasers property malls logo before">
-<figcaption><a href=https://www.youtube.com/watch?v=4ozhMpmf4sU" target="_blank">(Source)</a></figcaption>
 </figure>
-<br>
 <figure>
 <img src="https://i.imgur.com/AHvWTPJ.png" alt="frasers property malls logo motifs">
-<figcaption><a href=https://www.youtube.com/watch?v=4ozhMpmf4sU" target="_blank">(Source)</a></figcaption>
 </figure>
 
 These motifs will be applied across mall touchpoints such as the wayfinding totems and social media content. 
@@ -81,7 +78,7 @@ Beyond visual identity, there are other ways to signal portfolio-level cohesion 
 <figcaption><a href="https://www.capitaland.com/sg/en/shop/malls/discover/mofusand-holidays.html#" target="_blank">(Source)</a></figcaption>
 </figure>
 <br>
-<h2>Inclusive Design is Good Design<s>s</s></h2>
+<h2>Inclusive Design is Good Design</h2>
 
 Nonetheless, the Frasers Experience’s focus on accessibility and inclusivity should be praised. From Service Ambassadors trained to support individuals with autism, dementia, and sensory sensitivities, to initiatives such as ‘Dementia Go-To Points’ and weekly ‘Calm Hours’ in participating stores, Frasers Property is taking tangible steps toward creating safer and more welcoming mall environments.
 
