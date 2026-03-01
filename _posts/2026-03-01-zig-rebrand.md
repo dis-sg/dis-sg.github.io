@@ -6,8 +6,8 @@ categories: [Branding Singapore, Rebrand, Transport]
 tags: []
 description: "A real zigzag story in just four years ♒︎"
 comments: false
-image: https://i.imgur.com/wp2w4Vq.png
-og_image: https://i.imgur.com/wp2w4Vq.png
+image: https://i.imgur.com/YvVuSWg.png
+og_image: https://i.imgur.com/YvVuSWg.png
 ---
 
 ComfortDelGro is not giving up on its ride-hailing ambitions, having rebranded its latest app earlier this year - its third in less than four years.
@@ -35,7 +35,6 @@ But Zig’s initial logo hit a significant roadblock early on. The stylized, sha
 
 <br>
 
-</figure>
 <figure>
 <img src="https://i.imgur.com/VH53BfY.png" alt="zig ukraine russia z">
 <figcaption><a href="https://www.todayonline.com/singapore/comfortdelgro-apologises-logo-z-symbol-russian-invasion-ukraine-1881411" target="_blank">(Source)</a></figcaption>
@@ -52,6 +51,7 @@ What followed was a "quick fix" logo that served as a placeholder for nearly thr
 
 <div class="video-responsive"><iframe width="1257" height="707" src="https://www.youtube.com/embed/STwqcNmTOTU" title="Your Ride, Your Way with CDG Zig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
 
+<br>
 <h2>Time to Slant</h2>
 
 In February 2026, Zig unveiled its refreshed brand, which “unified CDG’s taxi, private-hire rental, payment, and ride-hailing platform services into a single, tech-enabled identity to drive the next phase of the Group’s point-to-point mobility strategy in Singapore”.
