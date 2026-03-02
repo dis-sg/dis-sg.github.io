@@ -31,7 +31,7 @@ But Zig’s initial logo hit a significant roadblock early on. The stylized, sha
 
 <figure>
 <img src="https://i.imgur.com/ZCepCP7.png" alt="zig ukraine russia z">
-</figure>
+<figcaption>Zig's wordmark had a 3D effect</figcaption></figure>
 
 <br>
 
@@ -44,7 +44,8 @@ But Zig’s initial logo hit a significant roadblock early on. The stylized, sha
 What followed was a "quick fix" logo that served as a placeholder for nearly three years. While it successfully distanced the brand from the controversy, the interim design was bland and uninspired. It was a safe, functional mark that lacked the personality and "meandering movement" of the original brand concept. For a brand named "Zig," the visual identity felt disconnected and ironically static.
 
 <figure>
-<img src="https://i.imgur.com/bh6tX4L.jpg" alt="ComfortDelGro zig logo">
+<img src="https://i.imgur.com/ca6VJqq.png" alt="ComfortDelGro zig logo">
+<figcaption><a href="https://www.cdgtaxi.com.sg/promotions/get-an-exclusive-8-off-new-user/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <br>
@@ -52,16 +53,16 @@ What followed was a "quick fix" logo that served as a placeholder for nearly thr
 <div class="video-responsive"><iframe width="1257" height="707" src="https://www.youtube.com/embed/STwqcNmTOTU" title="Your Ride, Your Way with CDG Zig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </div>
 
 <br>
-<h2>Time to Slant</h2>
+<h2>New Slant</h2>
 
-In February 2026, Zig unveiled its refreshed brand, which “unified CDG’s taxi, private-hire rental, payment, and ride-hailing platform services into a single, tech-enabled identity to drive the next phase of the Group’s point-to-point mobility strategy in Singapore”.
+In February 2026, Zig unveiled its refreshed brand, which "unified CDG’s taxi, private-hire rental, payment, and ride-hailing platform services into a single, tech-enabled identity to drive the next phase of the Group’s point-to-point mobility strategy in Singapore".
 
 <figure>
 <img src="https://i.imgur.com/Oy2gv2m.png" alt="ComfortDelGro zig 2026">
 <figcaption><a href="https://www.facebook.com/ComfortDelGroTaxi" target="_blank">(Source)</a></figcaption>
 </figure>
 
-The new brand identity featured an italicised wordmark conveying a sense of forward momentum. Zig now uses a lighter shade of blue, and added yellow to its brand colours as seen on the new logo’s “i”.
+The new brand identity features an italicised wordmark conveying a sense of forward momentum. Zig now uses a lighter shade of blue, and added yellow to its brand colours as seen on the new logo’s "i".
 
 <figure>
 <img src="https://i.imgur.com/XwPgf7O.jpg" alt="ComfortDelGro zig 2026">
@@ -96,9 +97,9 @@ While the copy was not as sharp as its first campaign where they roasted Singapo
 <figcaption>GrabShare campaign ad <a href="https://www.eco-business.com/news/complaints-about-grab-anti-public-transport-ad-dismissed-by-singapore-advertising-watchdog/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Zig also has a chinese name, 劲 (jìn), which means strength. Sadly, no ads have referenced this name so far, even during the Lunar New Year period. 
+Zig also has a chinese name, 劲 (jìn), which means strength. Sadly, no ads or online content have referenced this name so far, even during the Lunar New Year period. 
 
-Time will tell if this 2026 refresh will dent Grab’s pole position. But with a stronger identity and deep “towkay” pockets from decades of operation, Zig is making it clear that it is still in the race.
+Time will tell if this 2026 refresh will dent Grab’s pole position. But with a stronger identity and deep "towkay" pockets from decades of operation, Zig is making it clear that it is still in the race.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
