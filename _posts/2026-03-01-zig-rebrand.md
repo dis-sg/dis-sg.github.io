@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zig Rebrand: Moving in the Right Direction?"
+title: "Zig Rebrand: Moving in the Right Direction"
 author: d
 categories: [Branding Singapore, Rebrand, Transport]
 tags: []
