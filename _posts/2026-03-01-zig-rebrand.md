@@ -10,7 +10,7 @@ image: https://i.imgur.com/YvVuSWg.png
 og_image: https://i.imgur.com/YvVuSWg.png
 ---
 
-ComfortDelGro is not giving up on its ride-hailing ambitions, having rebranded its latest app earlier this year - its third in less than four years.
+ComfortDelGro is not giving up on its ride-hailing ambitions, having rebranded its app earlier this year - its third in less than four years.
 
 <figure>
 <img src="https://i.imgur.com/rCL2KHD.png" alt="Zig logo evolution">
@@ -18,16 +18,16 @@ ComfortDelGro is not giving up on its ride-hailing ambitions, having rebranded i
 
 For much of the time when ride-hailing apps were dominating the private transport industry in the 2010s, OG taxi operator CDG felt like a laggard. Slow to adopt technology and failing to see the threats posed by the new kids of the block, its profits took a beating.
 
-In 2022, CDG finally decided to play catch up by rebranding its taxi booking app, once described by some as unusable and unstable, to CDG Zig - an ambitious "super app" combining taxi bookings with lifestyle features (Zig was first launched as a lifestyle focused app with journey planning features in 2021, before being folded into CDG’s taxi booking app). Adopting a start-up look with bold colours and a casual name, it positioned itself as a direct competitor to the likes of Grab and Gojek.
+In 2022, CDG finally decided to play catch up by rebranding its taxi booking app, once described by some as unusable and unstable, to CDG Zig - an ambitious "super app" combining taxi bookings with lifestyle features (Zig was first launched as a lifestyle focused app with journey planning features in 2021, before being folded into CDG's taxi booking app). Adopting a start-up look with bold colours and a casual name, it positioned itself as a direct competitor to the likes of Grab and Gojek.
 
 <figure>
 <img src="https://i.imgur.com/FKWRqQ6.jpg" alt="Zig logo">
-<figcaption>Zig’s logo when it was a lifestyle-focused app, built in collaboration with R/GA <a href="https://abduzeedo.com/zig-case-study-rga" target="_blank">(Source)</a></figcaption>
+<figcaption>Zig's logo when it was a lifestyle-focused app, built in collaboration with R/GA <a href="https://abduzeedo.com/zig-case-study-rga" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <h2>Roadblock</h2>
 
-But Zig’s initial logo hit a significant roadblock early on. The stylized, sharp-edged "Z", was also the letter that had become a pro-war symbol associated with the Russian invasion of Ukraine. CDG quickly pulled the logo from its marketing materials and car decals.
+But Zig's initial logo hit a significant roadblock early on. The stylized, sharp-edged "Z", was also the letter that had become a pro-war symbol associated with the Russian invasion of Ukraine. CDG quickly pulled the logo from its marketing materials and car decals.
 
 <figure>
 <img src="https://i.imgur.com/ZCepCP7.png" alt="zig ukraine russia z">
@@ -55,14 +55,14 @@ What followed was a "quick fix" logo that served as a placeholder for nearly thr
 <br>
 <h2>New Slant</h2>
 
-In February 2026, Zig unveiled its refreshed brand, which "unified CDG’s taxi, private-hire rental, payment, and ride-hailing platform services into a single, tech-enabled identity to drive the next phase of the Group’s point-to-point mobility strategy in Singapore".
+In February 2026, Zig unveiled its refreshed brand, which "unified CDG's taxi, private-hire rental, payment, and ride-hailing platform services into a single, tech-enabled identity to drive the next phase of the Group's point-to-point mobility strategy in Singapore".
 
 <figure>
 <img src="https://i.imgur.com/Oy2gv2m.png" alt="ComfortDelGro zig 2026">
 <figcaption><a href="https://www.facebook.com/ComfortDelGroTaxi" target="_blank">(Source)</a></figcaption>
 </figure>
 
-The new brand identity features an italicised wordmark conveying a sense of forward momentum. Zig now uses a lighter shade of blue, and added yellow to its brand colours as seen on the new logo’s "i".
+The new brand identity features an italicised wordmark conveying a sense of forward momentum. Zig now uses a lighter shade of blue, and added yellow to its brand colours as seen on the new logo's "i".
 
 <figure>
 <img src="https://i.imgur.com/XwPgf7O.jpg" alt="ComfortDelGro zig 2026">
@@ -83,11 +83,11 @@ A copy-led advertising campaign "Time to Zig" accompanied the rebrand, which use
 <figcaption><a href="https://www.facebook.com/ComfortDelGroTaxi" target="_blank">(Source)</a></figcaption>
 </figure>
 
-While the copy was not as sharp as its first campaign where they roasted Singaporeans for being boring or the more recent Grab’s GrabShare campaign, it was still refreshing to see a well-funded ride-hailing campaign that was not by Grab.  
+While the copy was not as sharp as its first campaign where they roasted Singaporeans for being boring or the more recent Grab's GrabShare campaign, it was still refreshing to see a well-funded ride-hailing campaign that was not by Grab.  
 
 <figure>
 <img src="https://i.imgur.com/JAH6zXH.png" alt="zig roasts singapore">
-<figcaption>Zig’s first campaign when it was still a lifestyle-focused app <a href="https://www.marketing-interactive.com/comfortdelgros-new-zig-app-roasts-sg-folks-for-being-just-too-boring-takes-jabs-at-competitors" target="_blank">(Source)</a></figcaption>
+<figcaption>Zig's first campaign when it was still a lifestyle-focused app <a href="https://www.marketing-interactive.com/comfortdelgros-new-zig-app-roasts-sg-folks-for-being-just-too-boring-takes-jabs-at-competitors" target="_blank">(Source)</a></figcaption>
 </figure>
 
 <br>
@@ -99,7 +99,7 @@ While the copy was not as sharp as its first campaign where they roasted Singapo
 
 Zig also has a chinese name, 劲 (jìn), which means strength. Sadly, no ads or online content have referenced this name so far, even during the Lunar New Year period. 
 
-Time will tell if this 2026 refresh will dent Grab’s pole position. But with a stronger identity and deep "towkay" pockets from decades of operation, Zig is making it clear that it is still in the race.
+Time will tell if this 2026 refresh will dent Grab's pole position. But with a stronger identity and deep "towkay" pockets from decades of operation, Zig is making it clear that it is still in the race.
 
 <strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
 
