@@ -10,6 +10,8 @@ image: https://i.imgur.com/YvVuSWg.png
 og_image: https://i.imgur.com/YvVuSWg.png
 ---
 
+<h2>A real zigzag story in just four years ♒︎</h2>
+
 ComfortDelGro is not giving up on its ride-hailing ambitions, having rebranded its app earlier this year - its third in less than four years.
 
 <figure>
