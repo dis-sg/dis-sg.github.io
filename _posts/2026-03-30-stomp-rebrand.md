@@ -18,6 +18,7 @@ In October 2025, SPH Media integrated TNP into Stomp, revamping Stomp’s websit
 
 <blockquote>
 “With TNP launched in 1988 and Stomp introduced in 2006, it is timely for us to reshape them to better resonate with our younger audience and reach out to newer readers. The new Stomp embodies two proud legacies in a refreshed format to resonate with a new generation, without losing our loyal audiences. We are building on combined strengths to create something stronger, yet familiar.”
+<br>
 -Joy Fang, Stomp Editor
 </blockquote>
 
@@ -42,7 +43,7 @@ After becoming a digital-only paper, TNP readership fell dramatically from its p
 Stomp, on the other hand, thrived as more people got smartphones with cameras. As the OG kaypoh media outlet, it was often the quickest to publish everything from antisocial behavior incidents to celebrity gossip from tips sent in by “citizen journalists”. Eventually, viewership grew larger than TNP’s readership, and Stomp became ubiquitous warning to follow the law such that the word is used as an adjective (e.g. better throw your rubbish in the bin if not later kena Stomp-ed).
 
 <figure>
-<img src="https://i.imgur.com/A8Pj3qe.png" alt="Stomp rebrand">
+<img src="https://i.imgur.com/G2i5ulJ.png" alt="Stomp rebrand">
 <figcaption><a href="https://www.stomp.sg/" target="_blank">(Source)</a></figcaption>
 </figure>
 
