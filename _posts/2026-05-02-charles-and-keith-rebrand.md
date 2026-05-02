@@ -75,7 +75,7 @@ Two emblems can combine into a monogram when stacked, and multiplied diagonally 
   <source src="https://i.imgur.com/bczvTSX.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+<br>
 <h2>Obiang or Opulent?</h2>
 
 Logos do not operate in silos, especially fashion logos that adorn clothing. The main <a href="https://www.todayonline.com/singapore/charles-keith-rebranding-emblem-2382796" target="_blank">criticism</a> online was that the products in the L’initial Collection looked “auntie” or gaudy. This may be caused by the application instead of the emblem design itself.
