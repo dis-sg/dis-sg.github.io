@@ -35,13 +35,18 @@ Along with the tweaked wordmark, Charles & Keith introduced an emblem called “
 
 <i>
 “The L’initial emblem represents enduring significance. Crafted with meticulous care and thoughtful planning, it represents CHARLES & KEITH’s vision for the future. By utilising the initials of CHARLES & KEITH, a symbol that is both distinctive and timeless is created. 
+</i>
 
+<i>
 At the heart of this emblem lies the ampersand, which is synonymous with unity and connection. Drawing inspiration from this iconic character, we embarked on a journey to conceptualise and execute a design that truly captures the essence of our brand DNA. Every curve, every line, and every angle has been crafted to perfection, ensuring that the emblem resonates with our brand ethos.
+</i>
 
-Our exploration extends beyond the confines of conventional design. While the emblem pays homage to the classic Futura font that has long been associated with our brand, it also ventures into new territory. Through the incorporation of curved lines and innovative elements, we seek to elevate our brand identity and propel it towards a future of boundless creativity and innovation.
-
+<i>Our exploration extends beyond the confines of conventional design. While the emblem pays homage to the classic Futura font that has long been associated with our brand, it also ventures into new territory. Through the incorporation of curved lines and innovative elements, we seek to elevate our brand identity and propel it towards a future of boundless creativity and innovation.
+</i>
+<i>
 In essence, our emblem serves as a visual testament to our commitment to excellence and forward-thinking.”
-
+<i>
+<i>
 -Charles & Keith Press Release
 </i>
 
@@ -59,12 +64,17 @@ You may be wondering how to pronounce L’initial, and how a local brand even de
 
 Charles & Keith also shared how the emblem would be showcased digitally. Likening the emblem to jewellery on display, it implies L'initial gunning for luxury status recognition.
 
-<a href="https://www.charleskeith.com/sg/press/about-linitial.html"><img src="https://i.imgur.com/bOPDkN2.mp4"></a>
+<video autoplay loop muted playsinline style="max-width: 100%; height: auto; display: block;">
+  <source src="https://i.imgur.com/bOPDkN2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Two emblems can combine into a monogram when stacked, and multiplied diagonally to create a checkered pattern. Shadows give the characters in the emblem more weight but may be confusing to read when viewed at a distance - thankfully, it appears that this variation of the monogram only exists digitally, not on actual apparel.
 
-<a href="https://www.charleskeith.com/sg/press/about-linitial.html"><img src="https://i.imgur.com/bczvTSX.mp4"></a>
-
+<video autoplay loop muted playsinline style="max-width: 100%; height: auto; display: block;">
+  <source src="https://i.imgur.com/bczvTSX.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h2>Obiang or Opulent?</h2>
 
