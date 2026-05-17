@@ -106,7 +106,7 @@ tbody td:nth-child(4) {
   </style>
 </head>
 
-Mascots have been a lively part of Singaporean life since the 1980s. By putting a face to a cause or brand, they capture attention more easily — especially among children, who often eagerly pose for photos with them.
+Mascots have been a lively part of Singaporean life since the 1980s. Drawing enthusiastic crowds of all ages for photos, mascots serve as a friendly, memorable introduction to the brand or cause.
 
 As we celebrate 60 years of nation-building, take a trip down memory lane with the Mascotdex — a growing repository dedicated to Singapore’s beloved characters, past and present.
 
