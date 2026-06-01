@@ -47,11 +47,6 @@ Mandai’s logos for each of its five flagship wildlife parks highlight a signat
 <figcaption><a href="https://en.wikipedia.org/wiki/File:Singapore_mandai_zoo.JPG" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<figure>
-<img src="https://i.imgur.com/GkUS304.png" alt="singapore zoo logo">
-<figcaption><a href="https://en.wikipedia.org/wiki/File:Singapore_mandai_zoo.JPG" target="_blank">(Source)</a></figcaption>
-</figure>
-
 <i>Singapore Zoo</i>
 
 <figure>
@@ -88,7 +83,7 @@ Although the logo changed from hunting to a clouded leopard playing hide-and-see
 <i>River Wonders</i>
 
 <figure>
-<img src="https://i.imgur.com/vIyhm5w.png" alt="River Wonders logo">
+<img src="https://i.imgur.com/SzF5N01.png" alt="River Wonders logo">
 </figure>
 
 <blockquote>
