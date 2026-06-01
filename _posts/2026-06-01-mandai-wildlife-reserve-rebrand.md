@@ -14,7 +14,7 @@ og_image: https://i.imgur.com/M6QlweV.png
 
 Close to five years after Mandai Wildlife Reserve’s brand launch, it celebrated its grand opening in May 2026 following the completion of Rainforest Wild Adventure East, the final milestone in a 10-year transformation plan that transformed Mandai into Singapore’s premier wildlife and nature destination.
 
-With headlines appearing every other month about a new exhibit, attraction, or programme, Mandai Wildlife Reserve requires a flexible visual identity capable of unifying an ever-growing ecosystem of experiences across its 126-hectare site.
+With headlines appearing every other month about a new exhibit, attraction, or programme, Mandai Wildlife Reserve required a flexible visual identity capable of unifying an ever-growing ecosystem of experiences across its 126-hectare site.
 
 <h2>A Packed Brand Identity</h2>
 
