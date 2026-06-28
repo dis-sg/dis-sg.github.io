@@ -40,7 +40,7 @@ First, some positive news. Social media has been buzzing about the opening of Ke
 LTA also published this video featuring common circular objects from everyday life, in promotion of a photo competition called Circle Line 6 Quests. 
 
 <div class="video-responsive"><iframe width="337" height="599" src="https://www.youtube.com/embed/b4poi5GplA4" title="Join us on 4th July and explore our newest Circle Line 6 stations! ⭕️🚝" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-
+<br>
 <h2>Old Meets New </h2>
 
 Of the three new stations, CC31 Cantonment has been stealing the spotlight. Built beneath the historic Tanjong Pagar Railway Station, Cantonment station is a modern interpretation, housing a three-storey high curved ceiling, adorned with 24 stained glass murals. <a href="https://www.rdca.sg/" target="_blank">RDC Architects</a> designed the station in collaboration with <a href="https://www.systra.com/singapore/" target="_blank">SYSTRA Singapore</a>.
@@ -52,8 +52,9 @@ Of the three new stations, CC31 Cantonment has been stealing the spotlight. Buil
 
 Continuing the "grand station" theme is a large analogue clock with station codes of the Circle Line interchange stations arranged around it. A yellow coloured glow would have looked more fitting than the ominous red.
 
-<div class="video-responsive"><iframe width="337" height="599" src="https://www.youtube.com/embed/HPlpIdW5_N0" title="🏙️ From heritage influences to modern commuter spaces," frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-responsive"><iframe width="1521" height="526" src="https://www.youtube.com/embed/HPlpIdW5_N0" title="🏙️ From heritage influences to modern commuter spaces," frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
+<br>
 
 <h2>Loopy CCL Wayfinding </h2>
 
@@ -73,12 +74,11 @@ By May 2026, the final design had landed on the more intuitive "clockwise" and "
 <img src="https://i.imgur.com/17Mwp9T.png" alt="LTA feedback circle line wayfinding 2026">
 <figcaption>Screenshot of the CCL wayfinding microsite <a href="https://www.lta.gov.sg/cclwayfinding/" target="_blank">(Source)</a></figcaption>
 </figure> 
-<br>
 <figure>
 <img src="https://i.imgur.com/VcjCUp9.png" alt="LTA feedback circle line wayfinding 2026">
 <figcaption>Explaining the logic behind the new wayfinding look <a href="https://www.lta.gov.sg/cclwayfinding/" target="_blank">(Source)</a></figcaption>
 </figure> 
-
+<br>
 The response online, however, was far less enthusiastic.
 
 Critics pointed to the confusing presentation, tiny font sizes and what many felt was an inefficient use of valuable screen space.
