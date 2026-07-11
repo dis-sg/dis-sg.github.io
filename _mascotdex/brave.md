@@ -40,7 +40,10 @@ In 2024, BTL collaborated with apparel brand The Everyday Club to produce a puff
 
 Brave is frequently featured on BTL’s social media channels, where it shares mental health tips and personal experiences for followers to relate to.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbeyondthelabelsg%2Fposts%2Fpfbid02KPUHTLvJXVNJY6SH4ia5bVKkyXW4ghs1Bo7uP9Mxfv6BBw6GBEBonKJ8bPQKy8wgl&show_text=true&width=500" width="560" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<figure>
+<img src="https://i.imgur.com/P7XEJFC.jpg" alt="">
+<figcaption><a href="https://www.facebook.com/beyondthelabelsg/posts/796104519345293?" target="_blank">(Source)</a></figcaption>
+</figure>
 
 In 2026, Brave went viral for its appearance at a National Day Parade rehearsal, bouncing excitedly alongside other mascots such as <a href="https://www.designinsingapore.com/mascotdex/becky-bunny/" target="_blank">Becky Bunny</a> and <a href="https://www.designinsingapore.com/mascotdex/singa/" target="_blank">Singa the Kindness Lion</a>.
 
