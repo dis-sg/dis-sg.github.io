@@ -46,6 +46,14 @@ Brave is frequently featured on BTL’s social media channels, where it shares m
 
 <div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbeyondthelabelsg%2Fposts%2Fpfbid0Ftk3JvN7cZKySqcwbUdqjXevvzGSC4uoqJZ4Exda6QKURgrN1YdChKAgqorMNdy5l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
 
+In 2026, Brave went viral for its appearance at a National Day Parade rehearsal, bouncing excitedly alongside other mascots such as <a href="https://www.designinsingapore.com/mascotdex/becky-bunny/" target="_blank">Becky Bunny</a> and <a href="https://www.designinsingapore.com/mascotdex/singa/" target="_blank">Singa the Kindness Lion</a>.
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@joeyluckclub/video/7658678936682892552" data-video-id="7658678936682892552" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@joeyluckclub" href="https://www.tiktok.com/@joeyluckclub?refer=embed">@joeyluckclub</a> <a title="ndp2026" target="_blank" href="https://www.tiktok.com/tag/ndp2026?refer=embed">#ndp2026</a> WHO IS THIS AND WHY IS IT BUSTING MOVES???? <a title="sgtiktok" target="_blank" href="https://www.tiktok.com/tag/sgtiktok?refer=embed">#sgtiktok</a> <a title="singapore" target="_blank" href="https://www.tiktok.com/tag/singapore?refer=embed">#singapore</a> <a target="_blank" title="♬ original sound  - joeyluckclub" href="https://www.tiktok.com/music/original-sound-joeyluckclub-7658678973405596436?refer=embed">♬ original sound  - joeyluckclub</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+<figure>
+<img src="https://i.imgur.com/lYeNT81.jpg" alt="NDP 2026 mascots chapter 4">
+<figcaption>Brave stands out from the crowd <a href="https://www.facebook.com/defencepioneersg/photos/these-lovable-mascots-from-national-campaigns-through-the-year-are-making-an-app/1497832999027677/" target="_blank">(Source)</a></figcaption>
+</figure>
 
 <br>
 <div class="video-responsive"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbeyondthelabelsg%2Fposts%2Fpfbid0Hg4BSeLurV1ryk18Vj4KuX6wwuzMwXuHSPzNqB3227CMYMiYEBm3xB4Ybv4TPzKyl&show_text=true&width=500" width="500" height="690" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
