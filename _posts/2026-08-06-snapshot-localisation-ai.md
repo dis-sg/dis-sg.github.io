@@ -10,6 +10,8 @@ image: https://i.imgur.com/sO58OGI.jpg
 og_image: https://i.imgur.com/sO58OGI.jpg
 ---
 
+<h2>How many stars are arising? 🌠</h2>
+
 This snapshot covers how global brands catch local eyeballs by localising their visuals, the rise of local AI influencers, and AI-generated National Day visuals.
 
 <h2>Global Going Local</h2>
