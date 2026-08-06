@@ -84,7 +84,7 @@ National Day visuals usually come and go with little drama, but this year's effo
 
 First came a viral photo of a printed National Day banner with a flag without the stars and crescent moon, making it look suspiciously like Indonesia's flag. Then came more examples of obvious mistakes, including jumbled-up stars and flags with the canton placed on the wrong side. 
 
-This netizen put together a <a href="https://www.facebook.com/groups/1425601781359637/?multi_permalinks=2070959030157239&hoisted_section_header_type=recently_seen" target="_blank">hall of shame library</a>:
+This netizen put together a <a href="https://www.facebook.com/groups/1425601781359637/?multi_permalinks=2070959030157239&hoisted_section_header_type=recently_seen" target="_blank">hall of shame library</a>.
 
 <div class="video-responsive"><iframe width="458" height="815" src="https://www.youtube.com/embed/Xyi_Ug4A97k" title="AI-generated National Day banner in Kampong Chai Chee estate removed after errors spotted" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -105,8 +105,8 @@ Most puzzlingly, when these brands were supposed to use AI in the most uncontrov
 Sidebar: In Malaysia's recent state elections, GenAI was heavily used in campaign visuals, from backdrops to social media posters. Even manifesto collaterals were not spared. Singapore’s GE2025 escaped this because GenAI had not yet gone into overdrive , but it would be interesting to see how GenAI will be featured, if at all, in the next GE, especially given the recent pushback against such content.
 
 <figure>
-<img src="https://i.imgur.com/gJ2Hw2N.jpg" alt="PH convention 2026">
-<figcaption>PM Anwar speaking in front of an AI generated backdrop<a href="https://www.facebook.com/anwaribrahimofficial/" target="_blank">(Source)</a></figcaption>
+<img src="https://i.imgur.com/oI2A82U.jpg" alt="PH convention 2026">
+<figcaption>PM Anwar speaking in front of an AI generated backdrop <a href="https://www.facebook.com/anwaribrahimofficial/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 AI can be a great tool when used appropriately, but we must never forget the "artificial" in AI. Despite all its computing power, it still struggles to accurately render flags and national symbols. Until that changes, we can expect more embarrassing moments like these from brands that fail to do their due diligence before publishing AI-generated visuals. 
