@@ -112,3 +112,7 @@ Sidebar: In Malaysia's recent state elections, GenAI was heavily used in campaig
 </figure>
 
 AI can be a great tool when used appropriately, but we must never forget the "artificial" in AI. Despite all its computing power, it still struggles to accurately render flags and national symbols. Until that changes, we can expect more embarrassing moments like these from brands that fail to do their due diligence before publishing AI-generated visuals. 
+
+<strong><sub>—</sub>><sub></sub>><sup>—</sup></strong>
+
+Snapshot captures Singapore's design pulse through bite-sized summaries of news stories. Explore Singapore's design scene with us on <a href="https://www.facebook.com/DesignInSingapore" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://www.instagram.com/designinsingapore" target="_blank" rel="noopener noreferrer">Instagram</a>, <a href="https://www.tiktok.com/@designinsingapore" target="_blank" rel="noopener noreferrer">TikTok</a>, <a href="https://www.linkedin.com/company/designinsingapore" target="_blank" rel="noopener noreferrer">LinkedIn</a>, and <a href="https://t.me/designinsingapore" target="_blank" rel="noopener noreferrer">Telegram</a>. 
