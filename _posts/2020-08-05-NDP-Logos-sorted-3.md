@@ -56,7 +56,7 @@ In the NDP 2000 logo, the human-like figure formed a “35”, but was difficult
 
 <h3>Logos which do not mention Year, Singapore or NDP</h3>
 <figure>
-<img src="https://i.imgur.com/Gp0FgB6.png" alt="ndp logos no year"></figure>
+<img src="https://i.imgur.com/XbvTZ3u.png" alt="ndp logos no year"></figure>
 <figure>
 <img src="https://i.imgur.com/hSmf4i6.png" alt="ndp logos no sg"></figure>
 <figure>
