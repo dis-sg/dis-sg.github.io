@@ -10,7 +10,7 @@ mascot-type: Dugong
 mascot-owner: 22nd World Aquatics Championships 2025
 mascot-cause: [Sport, Event]
 mascot-creator: [Unknown]
-mascot-status: Active
+mascot-status: Retired
 mascot-family: 
 ---
 
