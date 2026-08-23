@@ -10,11 +10,11 @@ mascot-type: Humanoid
 mascot-owner: Singapore Tourism Board Japan Office, Singapore Pavilion at Shanghai World Expo 2010
 mascot-cause: [Tourism, Culture, Event]
 mascot-creator: [Unknown]
-mascot-status: Active
+mascot-status: Retired
 mascot-family: 
 ---
 
-Doritan (also known as Little Durian Star or 榴莲小星) was a mascot created by the Singapore Tourism Board Japan Office in 2007. With a durian head and dressed in a red bodysuit featuring a Merlion design, the mascot was described as “an open, friendly and upbeat five-year-old Singaporean boy who travels around the world with his musician parents”. H once lived in Japan.
+Doritan (also known as Little Durian Star or 榴莲小星) was a mascot created by the Singapore Tourism Board Japan Office in 2007. With a durian head and dressed in a red bodysuit featuring a Merlion design, the mascot was described as “an open, friendly and upbeat five-year-old Singaporean boy who travels around the world with his musician parents”. He once lived in Japan.
 
 A transliteration of his name is <i>Lil Durian</i>: "Dori" is short for durian in Japanese (dorian ドリアン) while "tan" (たん) is an honorific used for babies. 
 
