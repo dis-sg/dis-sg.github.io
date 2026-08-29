@@ -34,7 +34,7 @@ Even though Bobo was featured widely in PUB collaterals, especially those aimed 
 <img src="https://i.imgur.com/vYiwRJK.jpg" alt="water droplet mascots">
 <figcaption>Clockwise from left: Water Wally and Sally (Singapore), Bangwoori (South Korea), Wanda (Queensland, Australia), Wayne Drop and Loo Poo (Arizona, USA)</figcaption>
 </figure>
-
+<br>
 <h2>The Mascot who was Promoted: Doritan / Little Durian Star (榴莲小星)</h2>
 
 Japan popularised mascot culture, so it was only natural that the Singapore Tourism Board Japan Office created one in 2007 to encourage Japanese tourists to visit our sunny island. 
@@ -66,7 +66,7 @@ In 2018, STB introduced <a href="https://www.designinsingapore.com/mascotdex/mer
 <img src="https://i.imgur.com/5yU4ab9.png" alt="merli mascot">
 <figcaption><a href="https://www.big3.sg/project/merli" target="_blank">(Source)</a></figcaption>
 </figure>
-
+<br>
 <h2>The Mascot Prototype: Smiley</h2>
 
 Before <a href="https://www.designinsingapore.com/mascotdex/singa/" target="_blank">Singa the Kindness Lion</a>, a smiley face used to front the annual National Courtesy Campaign since 1979, which also doubled as the campaign’s logo. Though basic and somewhat generic, Smiley adorned bookmarks, pins, and promotional materials encouraging (or gently demanding) courtesy as a way of life.
@@ -77,9 +77,9 @@ Before <a href="https://www.designinsingapore.com/mascotdex/singa/" target="_bla
 </figure>
 
 <blockquote>
-“Men are not offended by excessive courtesy.
-All doors open to courtesy.
-礼多人不怪
+“Men are not offended by excessive courtesy.<br>
+All doors open to courtesy.<br>
+礼多人不怪<br>
 有礼人不拒
 <br>
 Courtesy brings honour to you and your nation.
@@ -108,9 +108,9 @@ It was a missed opportunity to bring back the smiley face when Singa “resigned
 
 <figure>
 <img src="https://i.imgur.com/pJlkyl3.jpg" alt="smiley mascot singapore">
-<figcaption>Original photo <a href="https://www.facebook.com/treasureathome/posts/singapore-1980s-make-courtesy-our-way-of-life-a-cheerful-reminder-from-the-natio/1210673720853805/" target="_blank">(Original photo source)</a></figcaption>
+<figcaption><a href="https://www.facebook.com/treasureathome/posts/singapore-1980s-make-courtesy-our-way-of-life-a-cheerful-reminder-from-the-natio/1210673720853805/" target="_blank">(Original photo source)</a></figcaption>
 </figure>
-
+<br>
 <h2>Thank You, Next</h2>
 
 Though these pioneer mascots have retired, they paved the way for modern icons like Water Wally, Water Sally, Merli, and Singa. They continue to live on in memories of those who have interacted with them. 
@@ -120,7 +120,6 @@ Though these pioneer mascots have retired, they paved the way for modern icons l
 Discover more about Singapore’s mascots by visiting the <a href="https://www.designinsingapore.com/mascotdex/" target="_blank">Mascotdex</a>.
 
 <figure>
-<img src="https://i.imgur.com/LriPRh4.png" alt="mascotdex singapore">
-<a href="https://www.designinsingapore.com/mascotdex/"</a>
+<a href="https://www.designinsingapore.com/mascotdex/"> <img src="https://i.imgur.com/LriPRh4.png" alt="mascotdex singapore"> </a>
 </figure>
 
