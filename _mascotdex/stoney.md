@@ -62,6 +62,6 @@ Stoney keychain plushies are also sold at NMS’ gift shop. During Stoney’s la
 <figcaption><a href="https://www.nationalmuseum.nhb.gov.sg/nms-online/content/stoney" target="_blank">(Source)</a></figcaption>
 </figure>
 
-<i>Have a trivia nugget about Agile? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
+<i>Have a trivia nugget about Stoney? Share your stories, photos and videos with us at designinsingapore65@gmail.com</i>
 
 
