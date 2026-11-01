@@ -1,6 +1,7 @@
 ---
 title: Stoney
 image: https://i.imgur.com/DoJ8K5r.png
+og_image: https://i.imgur.com/DoJ8K5r.png
 description: Everything you need to know about Stoney
 layout: mascot
 permalink: /mascotdex/stoney/
